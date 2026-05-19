@@ -1,10 +1,10 @@
-# 📈 Dataset Statistics Summary
+# Dataset Statistics Summary
 
 This document presents a statistical overview of the **Parallelium** alignment dataset, including aligned verse counts, version-level coverage, and language distributions.
 
 ---
 
-## 📖 Biblia Corpus
+## Biblia Corpus
 
 **Multilingual** — **3,927,811 pairs** across **42,562 aligned verses**
 
@@ -13,7 +13,7 @@ This document presents a statistical overview of the **Parallelium** alignment d
 
 ---
 
-## 🕋 Qur’anic Corpus
+## Qur’anic Corpus
 
 **Multilingual (Qur’an)** — **114,226 pairs** across **6,236 aligned verses**
 
@@ -26,9 +26,9 @@ This document presents a statistical overview of the **Parallelium** alignment d
 
 ---
 
-## 📊 Dataset Basic Stats
+## Dataset Basic Stats
 
-### 📑 Verse Counts by Version
+### Verse Counts by Version
 
 > 📌 A "version" corresponds to a specific translation or manuscript tradition in a given language.
 
@@ -59,7 +59,7 @@ This document presents a statistical overview of the **Parallelium** alignment d
 
 ---
 
-### 🌐 Distribution by Language
+### Distribution by Language
 
 The following plot summarizes the **total number of verses grouped by language**, aggregating across all available versions:
 
@@ -71,7 +71,7 @@ The following plot summarizes the **total number of verses grouped by language**
 
 ---
 
-## 🕋 Qur’anic Data
+## Qur’anic Data
 
 A multilingual alignment of the Qur’an (6,236 verses) was also used in model training. It includes **7 languages**, such as Arabic, English, French, Latin, and Italian. However, this data is **not included in the public release** due to redistribution restrictions.
 
