@@ -1,11 +1,11 @@
-# 📚 Documentation Overview
+# Documentation Overview
 
 This folder contains supplementary documentation for the **Parallelium** dataset.  
 It explains the alignment strategy, data structure, and key editorial decisions behind the dataset.
 
 ---
 
-## 📄 Contents
+## Contents
 
 | File | Description |
 |------|-------------|
