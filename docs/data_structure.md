@@ -1,4 +1,4 @@
-# 🧱 Data Structure
+# Data Structure
 
 This document describes the data format used throughout the **Parallelium** dataset, including both monolingual and multilingual alignment files.  
 All data is stored in structured **JSON** to ensure maximum portability and ease of integration in computational pipelines.
@@ -11,7 +11,7 @@ The structure is designed to:
 
 ---
 
-### 📘 Monolingual JSON
+### Monolingual JSON
 
 Each monolingual file is a **JSON dictionary**, where each key is a biblical book name (in lowercase Latinized form), and each value is a list of verse objects.  
 Each object contains:
@@ -32,7 +32,7 @@ Example:
 }
 ```
 
-### 🌍 Multilingual JSON
+### Multilingual JSON
 
 Multilingual aligned files are stored as a **list of dictionaries**.  
 Each dictionary represents a single aligned verse and contains the following fields:
@@ -60,7 +60,7 @@ Example:
 ]
 ```
 
-### 📘 Structure Summary
+### Structure Summary
 
 | Format               | Structure                            | Scope               | Use Case                     |
 |----------------------|---------------------------------------|----------------------|------------------------------|
