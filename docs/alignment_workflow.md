@@ -1,4 +1,4 @@
-## ⚙️ Alignment Workflow (Biblical Corpus)
+## Alignment Workflow (Biblical Corpus)
 
 This document outlines the **preprocessing and alignment pipeline** used to construct the *Biblical* section of the **Parallelium** dataset.
 
@@ -6,7 +6,7 @@ The workflow supports heterogeneous source formats and prepares the data for mul
 
 ---
 
-## 🔄 Overview
+## Overview
 
 `Import ➝ Structure ➝ Filter ➝ Align (to Vulgate) ➝ Export`
 
@@ -17,7 +17,7 @@ The workflow supports heterogeneous source formats and prepares the data for mul
 ---
 > The dataset was constructed through a multi-stage pipeline, specifically designed to accommodate diverse source formats and the complexities of historical textual variation.
 
-## 🧩 Pipeline Stages
+## Pipeline Stages
 
 1. **Collection**  
    - Source formats include XML, TXT, PDF, Word, and TSV  
