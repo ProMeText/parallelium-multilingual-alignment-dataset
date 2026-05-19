@@ -1,4 +1,4 @@
-# 🤔 Alignment Principles
+# Alignment Principles
 
 This document describes the alignment philosophy and structural decisions behind the **Biblical section** of the *Parallelium* corpus.  
 These principles guide how multilingual verses are paired, structured, and normalized across diverse traditions.
@@ -7,7 +7,7 @@ The alignment design emphasizes **historical faithfulness**, **computational usa
 
 ---
 
-## 🧭 Anchor Text
+## Anchor Text
 
 The **Latin Vulgate** serves as the primary alignment anchor due to its historical centrality and relatively stable verse structure.
 
@@ -40,7 +40,7 @@ The **Latin Vulgate** serves as the primary alignment anchor due to its historic
 ```
 ---
 
-## 🔗 Minimum Pairing Requirement
+## Minimum Pairing Requirement
 
 A verse is included **only if** it has at least **one aligned counterpart** in another language or tradition.
 
@@ -49,7 +49,7 @@ A verse is included **only if** it has at least **one aligned counterpart** in a
 
 ---
 
-## 🧱 Structural Exclusions
+## Structural Exclusions
 
 Books with **major structural divergence** are excluded when reliable verse mapping would require extensive manual effort.
 
@@ -57,7 +57,7 @@ Books with **major structural divergence** are excluded when reliable verse mapp
 
 ---
 
-## ✋ Manual Alignment Adjustments
+## Manual Alignment Adjustments
 
 To maintain alignment consistency across divergent textual traditions, some verses required **manual intervention**, such as:
 
