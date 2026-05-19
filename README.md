@@ -54,7 +54,7 @@ By providing aligned data across a wide range of languages and periods, the corp
 
 ## Dataset Overview
 
-| Feature            | 📖 Biblia Corpus                                                                                   | 🕋 Qur’anic Corpus                                                                 |
+| Feature            | Biblia Corpus                                                                                   | Qur’anic Corpus                                                                 |
 |--------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | **Text Types**     | Biblical texts (medieval and selected modern editions)                                            | Qur’anic translations in historical European languages and Arabic                 |
 | **Languages**      | Latin, French, English, Castilian, Catalan, Italian, Portuguese, Greek                            | Arabic, Latin, English, French, Italian                                           |
