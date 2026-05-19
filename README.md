@@ -3,7 +3,7 @@
   <img src="img/parallelium_banner_clean.png" alt="Parallelium – Aligned Scriptures Corpus banner" width="100%">
 </p>
 
-# 📖 Parallelium: an aligned scriptures dataset
+# Parallelium: an aligned scriptures dataset
 
 > A multilingual corpus of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for computational and philological alignment tasks.  
 > It serves as a benchmark dataset for multilingual alignment of historical religious texts.
@@ -12,14 +12,14 @@
 > This repository includes *only alignment metadata*. Some source texts (especially medieval Bible translations and parts of the Qur’anic corpus) are **not redistributed** due to licensing restrictions.  
 > Please consult the documentation for access or citation of original sources.
 
-## 📝 Description
+## Description
 
 *A multilingual dataset of aligned Biblical and Qur’anic texts, primarily in medieval languages, gathered from diverse external sources (see the 📂 Data Sources section). Selected modern editions are also included to enhance linguistic diversity and improve the robustness and generalizability of sentence alignment models.*
 
 *The dataset is designed to support training and evaluation for historical, philological, and comparative linguistic applications.*
 
 
-## 🎯 Project Scope
+## Project Scope
 
 This dataset provides training data for multilingual alignment models. It includes over **48,000 aligned verses** and more than **4 million verse-level pairs**, covering **29 versions** in **9 languages**. The corpus spans both **medieval** and **modern** textual traditions.
 
@@ -27,7 +27,7 @@ It is intended as an **open and extensible training resource** for multilingual 
 
 > 📌 Each aligned verse includes two or more versions. Pair counts reflect all _n choose 2_ language pairs per verse.
 
-## 🌟 Goals and Audience
+## Goals and Audience
 
 This dataset is designed to support the development and evaluation of **multilingual alignment models** tailored to historical texts — a domain often underserved by modern NLP resources.
 
@@ -47,12 +47,12 @@ By providing aligned data across a wide range of languages and periods, the corp
   ➡️ See [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md) for detailed alignment criteria and pairing logic.
 
 
-### 🎯 Intended for:
+### Intended for:
 - NLP researchers tackling low-resource or historical alignment  
 - Digital humanists studying multilingual translation or textual variants  
 - Scholars exploring transmission across religious and linguistic boundaries
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 | Feature            | 📖 Biblia Corpus                                                                                   | 🕋 Qur’anic Corpus                                                                 |
 |--------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -66,12 +66,12 @@ By providing aligned data across a wide range of languages and periods, the corp
 
 
 
-# 📂 Data Sources
+# Data Sources
 
 The Biblical and Qur’anic texts were selected for their **structural compatibility** — namely, their verse-based (or surah:ayah in the case of the Qur’an) organization — and their widespread **cross-linguistic transmission**, which enables meaningful alignment across centuries and traditions.
 
 
-### 🕰️ Medieval Bibles
+### Medieval Bibles
 
 | Language | Text                        | Source                                                                                                                                                                           | Format        |
 |----------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
@@ -89,7 +89,7 @@ The Biblical and Qur’anic texts were selected for their **structural compatibi
 
 > \* *These texts are not publicly shareable due to copyright restrictions.*
 
-## 🙏 Credits
+## Credits
 
 We gratefully acknowledge the following scholars and institutions for their contributions of source material or expertise:
 
@@ -102,7 +102,7 @@ We gratefully acknowledge the following scholars and institutions for their cont
 
 ---
 
-### 📅 Modern Editions
+### Modern Editions
 
 Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this repository](https://github.com/thiagobodruk/bible), used to augment language diversity.
 
@@ -110,13 +110,13 @@ Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this reposi
 
 ---
 
-### 🕋 Qur’an
+### Qur’an
 
 Multilingual alignment produced by the **[Coran 12-21](https://coran12-21.org/fr) project** — co-directed by **Mouhamadoul-Khaly Wélé and Tristan Vigliano** — covering 7 languages (Arabic, Latin, English, French, Italian, etc.), with texts kindly provided by Mouhamadoul-Khaly Wélé.
 *Note: This resource is not publicly redistributable.*
 
 ---
-## 📁 Data Format
+## Data Format
 
 The dataset is stored in structured JSON files:
 
@@ -137,7 +137,7 @@ with open("aligned_data.json") as f:
     data = json.load(f)
 
 # Display all aligned French–Portuguese verse pairs from Genesis
-# 💡 Change language IDs below based on your alignment interest
+#  Change language IDs below based on your alignment interest
 for verse in data:
     if verse["book"] == "genesis":
         fr = verse["data"].get("fr_lsegond")
@@ -151,7 +151,7 @@ Use this example to preview the data format and structure.
 ---
 
 
-### 🔮 Future Directions
+### Future Directions
 
 This corpus is an initial foundation intended to grow. Several improvements are planned to enhance its usability, accuracy, and scholarly value:
 
@@ -166,7 +166,7 @@ This corpus is an initial foundation intended to grow. Several improvements are 
 - **Develop a queryable interface or API**  
   To support broader reuse and exploration, develop a queryable interface or lightweight CLI tool is under consideration, allowing users to search and extract aligned verses by book, chapter, language pair, or version — without requiring users to load the full dataset into memory
 
-### 🗂️ Versioning
+### Versioning
 
 - **Current version**: `v0.1`  
 - **Next planned update**: Continued cleaning and integration of additional medieval texts already sourced — targeted for **Q4 2025**
@@ -187,25 +187,25 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 - [Multilingual Aegidius](https://github.com/ProMeText/Multilingual_Aegidius)  
   A parallel corpus of translations of Aegidius Romanus’ *De regimine principum* in Latin, medieval Romance languages, and English, processed using the same segmentation and alignment workflow.
 
-## 📚 Documentation
+## Documentation
 
-- 🧱 Data Structure Schema  
+- Data Structure Schema  
   ➡️ [docs/data_structure.md](docs/data_structure.md)
 
-- ⚙️ Alignment Workflow  
+- Alignment Workflow  
   ➡️ [docs/alignment_workflow.md](docs/alignment_workflow.md)
 
-- 📐 Alignment Guidelines  
+-  Alignment Guidelines  
   ➡️ [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md)
 
-- 🧩 Structural Variation and Exclusions  
+-  Structural Variation and Exclusions  
   ➡️ [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md)
 
-- 📈 Dataset Statistics Summary  
+-  Dataset Statistics Summary  
   ➡️ [docs/dataset_statistics.md](docs/dataset_statistics.md)
 
 
-## 💰 Funding
+## Funding
 
 This work benefited from national funding managed by the **Agence Nationale de la Recherche** under the *Investissements d'avenir* programme with the reference **ANR-21-ESRE-0005 (Biblissima+)**.
 
@@ -215,7 +215,7 @@ This work benefited from national funding managed by the **Agence Nationale de l
   <img src="https://github.com/user-attachments/assets/915c871f-fbaa-45ea-8334-2bf3dde8252d" alt="Biblissima+ Logo" width="600"/>
 </p>
 
-### 📜 License
+### License
 
 The alignment metadata produced for this dataset are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise noted.
 
