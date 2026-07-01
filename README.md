@@ -11,7 +11,9 @@ Unlike many modern corpora, this dataset exposes models to:
 - non-literal translation practices
 - historically variable textual traditions
 
+
 This makes it particularly suitable for studying **robust multilingual representations** in historical and pre-standardized textual settings, in conditions that differ significantly from modern benchmarks.
+
 ---
 
 ## Why This Dataset?
@@ -151,7 +153,7 @@ You can contribute by:
 
 ---
 
-## 🔗 Related Projects
+## Related Projects
 
 This repository is part of a broader ecosystem of tools and corpora developed for the study of medieval multilingual textual traditions:
 
@@ -181,7 +183,7 @@ Please cite the repository when using the dataset, alignment metadata, or derive
 
 The alignment metadata produced for this dataset are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise specified.
 
-> > ⚠️ Some **source texts**—including certain medieval Bible translations, the Qur’anic corpus, and some critical editions—are **not redistributed** in this repository due to third-party copyright restrictions.  
+> ⚠️ Some **source texts**—including certain medieval Bible translations, the Qur’anic corpus, and some critical editions—are **not redistributed** in this repository due to third-party copyright restrictions.  
 > Please refer to the documentation or the original editions for licensing information on specific versions.
 
 ---
