@@ -1,0 +1,693 @@
+{
+  "work": "Livre de Mandeville",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id":  {
+    
+    "001": [
+      {
+        "en_mandeville": "And ye shal understande that this is noght the Temple that Salomon makyde, for that Temple lestid but a 1200 and 2 yer",
+        "an_escorial_mandeville": "Jtem sabet que no es pas aqueill templo que salomon fezo Car aqueill templo non duro que .Mil. C. & dos. aynnos"
+      }
+    ],
+    "002": [
+  {
+  "en_mandeville": "for Titus, and Vaspasianus son, that was emperour of Rome, that byseged Jerusalem to destroye Jewes, for they slow Crist withoute leve of the emperour",
+  "an_escorial_mandeville": "Car thitus el fijo de vaspasian limperador de Roma qui tenia el siege al entorno de Jherusalem por esconfir los judios por causa que eillos auian muerto nuestro seynnor sin congia del Jmperador"
+  }
+   ],
+    
+    "003": [
+      {
+  "en_mandeville": "When he had take that cité, he leyt brenne the Temple and cast hit adoun, and took alle the Jewes",
+  "an_escorial_mandeville": "Et quoando eill ouo presa la Cibdat eill quemo el templo & lo abbatio et priso todos los judios"
+    }
+    ],
+    "004": [
+      {
+  "en_mandeville": "And other he put in prison and solde of hem 30 for oo peny, for they seyde they bought Crist for 30 pens",
+  "an_escorial_mandeville": "Et los otros puso en preson Et los vendio a seruitud .xxx. por vn dinero Car eillos dizian que auian comprado nuestro seynnor por xxx. dineros"
+  }
+    ],
+    "005": [
+     {
+  "en_mandeville": "And sithe Julius Apostata gaf leve to the Jewes to make the Temple for they hatid Cristen men",
+  "an_escorial_mandeville": "Et empues dio lemperador jullian apastata congia alos Judios de Refazer el templo por causa que eill queria mal alos xpistianos"
+    }
+    ],
+    "024": [
+  {
+    "en_mandeville": "And whenne the Jewes had makyd the Temple, as God wolde, hit was cast adoun",
+    "an_escorial_mandeville": "Et quoando los judios aujan ya cerca fecho el templo por la voluntat de dios fue derribado todo lo que auian fecho"
+  }
+],
+    "028": [
+  {
+    "en_mandeville": "And sith Adrian the emperour makyd Jerusalem agen and the Temple in the same maner that Salomon makyd hit",
+    "an_madrid_mandeville": "Dende a cierto tiempo adrianus emperador que era de aquellos de troya refizo la ciudad de jerusalem y el templo en aquella mesma manera que salomon lo fizo"
+  }
+],
+"031": [
+  {
+    "en_mandeville": "And he wolde that no Jewe sholde dwelle ther but Cristen men, for he thoughte, thow they ne were Cristen men, they loved more Cristen men than eny other men, save men of his owen feith",
+    "an_madrid_mandeville": "Y no quiso que en ningun tiempo algun judio ende vuiesse sino christianos avn quel mesmo christiano no fuesse: mas amaua mucho alos cristianos mas que alos judios ni otra alguna gente"
+  }
+ ],
+     "036": [
+  {
+    "en_mandeville": "And this Adrian let close and walle the cherche of the Holy Sepulcre withynne the cité — that byfore was withoute — and wolde have y-chaunged the name of Jerusalem and calle hit Animote holy: that name last noght longe",
+    "an_escorial_mandeville": "Aqueill jmperador fezo cerrar & murar la yglesia de sant sepulcre con la Cibdat que antes estaua luenga de fuera la cibdat & queria mudar el nombre de Jherusalem et la clamaua helia mas aqueill nombre non duro goaires"
+  }
+    ],
+    "041": [
+  {
+    "en_mandeville": "the Sarizyns doth gret worship to that Temple, for they seyn that place is ryght holy",
+    "an_escorial_mandeville": "los moros fazen muy grant Reuerencia a daqueill templo et dizen bien que aqueill logar es muy santo"
+  }
+],
+   "044": [
+  {
+    "en_mandeville": "And when they gon thiderynne, they goon barefoot and knelith adoun many tymes",
+    "an_escorial_mandeville": "Et y entran todos escalços & se y agenoillan amenudo"
+  }
+],
+    "051": [
+  {
+    "en_mandeville": "And this Temple is of wydnesse 64 cubites and also moch of leynthe",
+    "an_escorial_mandeville": "Et ha .lxiiij. cobdos de amplo & otro tanto de luengo"
+  }
+ ],
+    "055": [
+  {
+    "en_mandeville": "And it is covered with lead, and hit is withynne al aboute ful of pilouris of marbel",
+    "an_escorial_mandeville": "Et es cobierto de plomo Et y ha de dentro todo al torno delos pillares de marbre"
+  }
+    ],
+    "056": [
+  {
+    "en_mandeville": "And in the myddel of this Temple is a high stage with pylouris aboute hit",
+    "an_escorial_mandeville": "Et en medio del templo y ha mas alto estage & pillares todo al torno"
+  }
+],
+    "057": [
+      {
+        "en_mandeville": "This place is y-called Sancta Sanctorum",
+        "an_escorial_mandeville": "daqueill logar lo clamauan .Sancta Sanctorum"
+      }
+    ],
+    "058": [
+    {
+  "en_mandeville": "And in that place cometh noon other but the prelate which that maketh her sacrifise",
+  "an_escorial_mandeville": "Ailli no y entraua sino el prelado que fazia el misterio del sacrifficio"
+    }
+    ],
+    "064": [
+  {
+    "en_mandeville": "And ther beth 4 ontrees to the Temple, and the dores ben of cipresse wel y-dight",
+    "an_escorial_mandeville": "En aqueill templo y ha .iiijo. entradas & son las puertas de cipres bien entailladas"
+  }
+],
+"066": [
+  {
+    "en_mandeville": "And withynne the north dore is a poule of water",
+    "an_escorial_mandeville": "Et enla partida de north dentro enlas puertas y ha vna fuent"
+  }
+],
+    "068": [
+  {
+    "en_mandeville": "of which Holy Wryt spekith and seith thus: Vidi aquam egredientem",
+    "an_escorial_mandeville": "dela quoal santa escriptura fabla Vidi aquam egredientem"
+  }
+],
+   "069": [
+  {
+    "en_mandeville": "And on that other syde is the huge roch that somtyme was called Morarche, but afterward hit was y-called Beleth, other Arke of God, with relikes of Jewes",
+    "an_escorial_mandeville": "de cerca la otra part del templo y ha vna Roqua que se solia clamar moriath Mas depues se clamaua bethel en larcha de nuestro seynnor do las Reliquias delos judios heran puestas"
+  }
+],
+"075": [
+  {
+    "en_mandeville": "This Arke let Titus lede with the same relikes to Rome when he hadde destruyed the Jewes",
+    "an_escorial_mandeville": "aqueilla archa conlas Reliquias fezo thitus traher ala grant Roma quoando eill auia desconffido los judios"
+  }
+],
+    "077": [
+  {
+    "en_mandeville": "In that Arke were the 10 Commaundemens and som of Aarons yerd and of Moyses yerd",
+    "an_escorial_mandeville": "En aqueilla archa estauan las tablas delos .x. mandamientos et la verga de aaron el propheta & la verga de moises"
+  }
+],
+    "080": [
+  {
+    "en_mandeville": "with the which he departyd the Rede See when the peple of Israel passide thorghout foot-dry",
+    "an_escorial_mandeville": "dela quoall eill partio la mar Roya quoando el pueblo de israhel passo a seth"
+  }
+],
+"082": [
+  {
+    "en_mandeville": "And with that yerd he smot the roch, and water com out of hym, and with that yerd he dide many wondres",
+    "an_escorial_mandeville": "Et daqueilla verga eill ferio la Roqua & lagoa saillio fuera Et de aqueilla verga eill fezo muchas maraueillas"
+  }
+],
+    "085": [
+  {
+    "en_mandeville": "And ther was a vessel of goold ful of manna, and clothyng, and ornamentes, and the tabernacle of Aaron",
+    "an_escorial_mandeville": "Et si y auia en vn vaxiello doro pleno de manna Et los vestimentes & los ornamentes & el tabernaculo de aaron"
+  }
+],
+    "088": [
+  {
+    "en_mandeville": "And ther was a table, squar, of goold with 12 precious stones of Our Lord withynne, and a tabernacle of goold, and trumpes of sylver, and a table of sylver, and other relikes that were byfore",
+    "an_escorial_mandeville": "& vna tabla quoadrada de oro con .xij. piedras preciosas de nuestro seynnor de dentro con vn tabernaculo doro & trompas de plata & vna tabla de plata Et todas las otras Reliquias que heran ante"
+  }
+],
+    "103": [
+  {
+    "en_mandeville": "And uppon that roch that Moyses smote, ther sleep Jacob when he saw angelis go up and doun by a scale, and seyde thus: Vere locus iste sanctus est et ego nesciebam",
+    "an_escorial_mandeville": "jtem sobre aqueilla Roqua de betel dormio jacob quoando eill vio los angeles puyar & deuaillar por vna escallera et dixo vere locus iste sanctus est & ego nesciebam"
+  }
+],
+   "110": [
+  {
+    "en_mandeville": "And Jacob heilde stylle ther an angel and chaunged his name and called hym Israel",
+    "an_escorial_mandeville": "Et ailli Retenio Jacob vn angel el qual angel mudo el nombre de jacob et lo clamaua jsrael"
+  }
+],
+    "112": [
+  {
+    "en_mandeville": "And in that place saw David the angel that smot the peple with a swerd",
+    "an_escorial_mandeville": "Et en aqueill mesmo logar vio dauid vn angel qui troncaua el pueblo con vna espada"
+  }
+],
+    "115": [
+  {
+    "en_mandeville": "And in the roche He sette Hym when the Jewes wolde have y-stened Hym, and that roch cleff in two",
+    "an_escorial_mandeville": "Et sobre aqueilla Roqua se puso quoando los judios lo querian lapidar & la Roqua se fendio"
+  }
+],
+  "118": [
+  {
+    "en_mandeville": "and in that clyft He hydde Hym",
+    "an_escorial_mandeville": "Et en aqueilla fendedura eill se escondio"
+  }
+],
+    "119": [
+  {
+    "en_mandeville": "And ther forgaf Our Lord the womman that was y-take in adulteri",
+    "an_escorial_mandeville": "Ailli perdono nuestro seynnor el peccado ala muger que fue trobada en luxuria"
+  }
+],
+    "120": [
+  {
+    "en_mandeville": "And ther the angel denounced the nativité of Seynt John the Baptist",
+    "an_escorial_mandeville": "Ailli denuncio langel a zacharias la conception de su fijo sant Johan babtista"
+  }
+],
+    "121": [
+  {
+    "en_mandeville": "And ther preyde David to Our Lord and to the angel that He wolde have mercy on hym and of his peple",
+    "an_escorial_mandeville": "Sobre aqueilla Roqua se echo dauit Rogando nuestro seynnor & a langel que eill auia visto tranchar el pueblo que nuestro seynnor quisiesse auer misericordia deill & del pueblo"
+  }
+],
+    "122": [
+  {
+    "en_mandeville": "And Our Lord herde hym and his prayer",
+    "an_escorial_mandeville": "Et nuestro seynnor oyo su Rogaria"
+  }
+],
+    "123": [
+  {
+    "en_mandeville": "And therfore he wolde have makyd a temple in that place, but Our Lord forbed hym by a angel, for he hadde y-do treson when he dyde sle Urye, a good knyght, forto have his wiff",
+    "an_escorial_mandeville": "Et por esto queria eill fundar en aqueill logar el templo Mas nuestro seynnor li deffendio por vn angel por causa que eill auja fecho traition quoando eill fezo matar vrias el vallient cauallero por cobdicia de auer su muger"
+  }
+],
+    "124": [
+  {
+    "en_mandeville": "And therfore though he hadde ordeyned to make that temple, he lete Salomon his sone to make hit",
+    "an_escorial_mandeville": "Et por esto todas las prouisiones que eill auia fechas & ordenadas por fazer el templo eill las dio a su fijo psalomon por fazer el templo Et assi lo hediffico salomon"
+  }
+],
+"125": [
+  {
+    "en_mandeville": "And he prayed Our Lord that alle thilke that prayed in that place devoutly and with good herte, that He wolde here hyre prayere",
+    "an_escorial_mandeville": "Et Requerio a nuestro seynnor que todos aqueillos qui de buen coraçon lo Requerrian en aqueill logar de bethel que nuestro seynnor quisiesse oyr lures Requestas"
+  }
+],
+"126": [
+  {
+    "en_mandeville": "And Our Lord graunted hym, and therfor hit was y-called Templum of Counsel and helpe of God",
+    "an_escorial_mandeville": "Et nuestro seynnor li ottorgo Et por esto se clama salemon el templo de conseillo & de ayuda de dios"
+  }
+],
+    "127": [
+  {
+    "en_mandeville": "And toward the south is the temple of Salamon, that is a greet place and a fair place",
+    "an_escorial_mandeville": "Et deste templo assaz cerca enta midia es el templo de salamon qui es muy beillo"
+  }
+],
+"128": [
+  {
+    "en_mandeville": "And in this place dwellen knyghtes that ben callid Templers, and that was the foundacion of hem",
+    "an_escorial_mandeville": "En este templo solian fincar los cauailleros que se clamauan los templeros Et hera el fundamento de lur orden"
+  }
+],
+"129": [
+  {
+    "en_mandeville": "Toward the north syde is a fayr cherche of Seynt Anne, Our Lady moder. Ther was Our Lady conceyved",
+    "an_escorial_mandeville": "De fuera la claustra del templo enta visse es vna muy beilla yglesia de santa anna Madre de Santa maria ailli fue Santa maria concebida"
+  }
+],
+"130": [
+  {
+    "en_mandeville": "And ther neygh lay somtyme Seynt Anne, but Seynt Elene leet translate her to Constantynople",
+    "an_escorial_mandeville": "Et ailli de juso solia jazer santa anna Mas santa helena la fezo transportar a constantinoble"
+  }
+],
+   "131": [
+  {
+    "en_mandeville": "In that cherche is a walle in the maner of a cisterne that is y-called probatica piscina, that hadde 5 entrees",
+    "an_escorial_mandeville": "En aqueilla yglesia y ha vna fuent en manera de vna cueua clamada probada piscina que auia .v. entradas"
+  }
+],
+    "132": [
+  {
+    "en_mandeville": "And in that was woned an angel to descende",
+    "an_escorial_mandeville": "Et en aqueilla fuent solian los angeles descender"
+  }
+],
+"133": [
+  {
+    "en_mandeville": "And what man that ferst bathid hym therynne, after that steryng of that water, was y-makyd hool of alle sicknesse that he hadde",
+    "an_escorial_mandeville": "Et empues el primero qui se baynnasse hera goarescido de quoalquiera Maladia que ouiesse"
+  }
+],
+   "134": [
+  {
+    "en_mandeville": "And ther was a man in the palasye y-helyd, which was syke. And Crist seide thus: Tolle grabatum tuum et ambula",
+    "an_escorial_mandeville": "ailli sano nuestro seynnor lombre paralitico qui auia estado malade Et dixo nuestro seynnor Tolle grabatum tuum & ambula"
+  }
+],
+"135": [
+  {
+    "en_mandeville": "And a lytel thenne was the hous of Kyng Herodes that let sle the Innocentes",
+    "an_escorial_mandeville": "Et assaz de cerca estaua la casa del Rey herodes qui fezo matar los jnnocentes"
+  }
+],
+    "136": [
+  {
+    "en_mandeville": "This Herodes was ful wyckyd man and fel, for he leet ferst sle his owen wyff, that he loved wel",
+    "an_escorial_mandeville": "Aqueill Rey herodes fue muy malo & muy cruel Car eill fezo primerament matar su muger que auia preso"
+  }
+],
+"137": [
+  {
+    "en_mandeville": "And for greet love that he hadde to here, when she was deed he byheld here and waxe out of his wytte, and so was he long",
+    "an_escorial_mandeville": "Et por la grant amor que eill auia a eilla quoando vio que hera muerta eill se torno Rabioso & fue fuera de seso gant pieça"
+  }
+],
+  "138": [
+  {
+    "en_mandeville": "And sithen he come ageyn to hymself, and thenne let he sle his cheldren that he gat by that wyff",
+    "an_escorial_mandeville": "Et depues goarescio Et empues fezo matar grandes fijos donzelles que eill auia ouido daqueilla muger"
+  }
+],
+"139": [
+  {
+    "en_mandeville": "And then he let sle that other wyff and a sone that he gat on her",
+    "an_escorial_mandeville": "Et depues fezo matar la otra de sus mugeres & vn grant fijo que eill auia ouido deilla"
+  }
+],
+    "140": [
+  {
+    "en_mandeville": "And when he saw that he sholde deye, he sente for his soster and alle the gret lordes of the contré, and let put all the gret lordes in a tour",
+    "an_escorial_mandeville": "Et quoando eill veno enta su fin que eill fue malade que eill non podia escapar de su maladia eill jmbio por su hermana & por todos los seynnores grandes de su tierra Et quoando fueron venidos fezo todos los grandes seynnores meter en vna tor"
+  }
+],
+"141": [
+  {
+    "en_mandeville": "and seyde to his soster he wyste well that men of that contré wold make no sorwe for hym when he wer deed. And therfore he leet her swer that she sholde let smyte of the hedes of all the lordes when he were deed, and then sholde al the contré make sorwe for his deth and elles noght",
+    "an_escorial_mandeville": "Et dixo a su hermana que eill sabia bien que ninguno non faria duelo la su muert Et por esto li fezo jurar que eilla faria taillar las cabeças a todos aqueillos grandes seynnores luego que eill seria muerto assi que toda la tierra faria duelo en su muert Car otrament non seria puint plorado"
+  }
+],
+"142": [
+  {
+    "en_mandeville": "And thus makyd he his testament. But his sostre wolde noght fulfille hit, for as sone as he was deed, she delyveryd alle the lordes, and bade hem go home to her owen places, and tolde hem what her brother wolde that she hadde y-do with hem",
+    "an_escorial_mandeville": "Et assi fezo su testament Mas su hermana non lo complio pas Car luego que eill fue muerto eilla deliuro los seynnores dela tor et los jmbio a sus casas & les dixo como su hermano auia ordenado deillos"
+  }
+],
+"143": [
+  {
+    "en_mandeville": "And ye shal understonde that ther were thre Herodes of greet name. This of wham Y spak now was y-called Ascolonyte",
+    "an_escorial_mandeville": "Et sabet que estauan en aqueill templo tres herodes de grant Renom Aqueill qui fezo matar los jnnocentes de que ja he fablado fue herodes ascalonitez"
+  }
+],
+"144": [
+  {
+    "en_mandeville": "And he that lete smyte of the hede of Seynt John the Baptist was Herodes Antipa",
+    "an_escorial_mandeville": "Et aqueill qui fezo taillar la cabeça a sant Johan babtista fue herodes anthipa"
+  }
+],
+"145": [
+  {
+    "en_mandeville": "And Herodes Agrippa lete sle Seynt Jame",
+    "an_escorial_mandeville": "Et herodes aggripes fezo Matar a san jayme"
+  }
+],
+    "146": [
+  {
+    "en_mandeville": "Forthermore in the cité is the Cherche of the Saveour and ther is an arme of Seynt John Crisostome. And ther is the most partye of Seynt Steveneis heed",
+    "an_escorial_mandeville": "Jtem mas auant enla Cibdat es la iglesia de sant saluador alli es el braço siniestro de sant johan crisostome Et la mayor partida dela cabeça de sant esteuan"
+  }
+],
+   "147": [
+  {
+    "en_mandeville": "And in the other syde toward the south, a man may go to the Mount of Syon; ther is a fayr cherche of Seynt Jame, wher his hed was smyte of",
+    "an_escorial_mandeville": "De lotra part enla Rua enta media assi como hombre va enta el mont de syon es la yglesia de sant jayme ailli do fue degoillado"
+  }
+],
+"148": [
+  {
+    "en_mandeville": "Now go we to the Mount Syon, and ther is a fayr cherch of God and of Oure Lady, wher she deyde",
+    "an_escorial_mandeville": "es el mont de syon Ailli estaua vna muy beilla yglesia de nuestra dama & ailli morio"
+  }
+],
+"149": [
+  {
+    "en_mandeville": "And fro that place, she was y-bore with the aposteles to the Vale Josaphat",
+    "an_escorial_mandeville": "Et dailla leuaron los apostolos a nuestra dama ata la val de Josaphat"
+  }
+],
+"150": [
+  {
+    "en_mandeville": "And ther is the stone that the angel bare to Our Lady fro the Mount Synay, and hit is of that colour of that roch of Seynt Katerin",
+    "an_escorial_mandeville": "Ailli es la piedra que los angeles traxieron a nuestra dama del mont de synay Et es drechament dela color dela Roqua de santa katerina"
+  }
+],
+   "257": [
+  {
+    "en_mandeville": "Also at the entré of the Mount Syon is a chapel, and at that chapel is that greet ston, and hit is large",
+    "an_escorial_mandeville": "Item a lentrada del mont de syon es vna capiella et en aqueilla capeilla es vna piedra grande & ampla"
+  }
+],
+"263": [
+  {
+    "en_mandeville": "And ther is a litle pece of the pilour to which Our Lord was bounde when He was scorged",
+    "an_escorial_mandeville": "Ailli y a tan bien vna piedra enel muro cerca la puerta dela colupna a que nuestro seynnor fue tormentado"
+  }
+],
+"265": [
+  {
+    "en_mandeville": "And ther was a hous that was that tyme the bysshopes of the Lawe",
+    "an_escorial_mandeville": "Car ailli fue la casa de anna qui fue obispo delos judios en aqueill tiempo"
+  }
+],
+    "267": [
+  {
+    "en_mandeville": "And in that same place Peter forsoke Our Lord 3",
+    "an_escorial_mandeville": "Et ailli mesmo lo Renego sant pedro iij vezes"
+  }
+],
+    "269": [
+  {
+    "en_mandeville": "And ther is a partye of the table on which God makyd His Maundy",
+    "an_escorial_mandeville": "Et ailli mesmo ay vna partida dela tabla sobre que nuestro seynnor ceno con sus discipulos"
+  }
+],
+    "277": [
+  {
+    "en_mandeville": "And ther apeyred Crist ferst to His disciples after His Uprysyng, and seyde: Pax vobis",
+    "an_escorial_mandeville": "ailli apparescio primerament nuestro seynnor alos apostolos empues su Resurreccion & les dixo pax vobis"
+  }
+],
+"278": [
+  {
+    "en_mandeville": "And on that mount apered Crist to Seynt Thomas and bad hym asay His woundes, and thenne leved he ferst, and seyde thus: Dominus meus et deus meus",
+    "an_escorial_mandeville": "Et mas auant enel mont de syon apparescio nuestro seynnor a sant thomas lapostol et li fezo tastar sus plagas al viijo dia de su Resurrection Donde primerament lo creyo sant thomas & dixo Deus meus & domjnus meus"
+  }
+],
+"284": [
+  {
+    "en_mandeville": "In that same place, byhynde the hyghe auter, were alle the apostoles on Wit Soneday, when the Holy Gost descended on hem in licknes of fire",
+    "an_escorial_mandeville": "En aqueilla cappiella mesma cerca del grant altar seyan los apostollos el dia de penthecosta quoando el sant esprit descendio sobre eillos en forma de fuego"
+  }
+],
+    "287": [
+  {
+    "en_mandeville": "And ther makyd God Pasche with His disciples",
+    "an_escorial_mandeville": "ailli cellebro nuestro seynnor la paschoa con sus discipulos"
+  }
+],
+   "288": [
+  {
+    "en_mandeville": "And ther slept John the Evaungelist",
+    "an_escorial_mandeville": "Et ailli dormio sant johan euuangelista"
+  }
+],
+"291": [
+  {
+    "en_mandeville": "This Mount Syon is withynne the cité",
+    "an_escorial_mandeville": "El mont de syon es dentro enla Cibdat"
+  }
+],
+"292": [
+  {
+    "en_mandeville": "And the cité is strengre on that syde than in eny other, for at the foot of Mount Syon is a fair castel and strong",
+    "an_escorial_mandeville": "Et si es la cibdat mas fuert daqueilla part que de ninguna otra Car al pie del mont de syon y ha vn castiello beillo & fuert"
+  }
+],
+    "296": [
+  {
+    "en_mandeville": "On the Mount Syon was Kyng David and Salomon y-beryed and many other also",
+    "an_escorial_mandeville": "Enel mont de syon fueron enterrados el Rey dauit & el Rey Salomon & muchos otros Reyes de Jherusalem"
+  }
+],
+    "318": [
+  {
+    "en_mandeville": "toward the Vale of Josaphat is a well that men callen Natatori Silo",
+    "an_escorial_mandeville": "De jus el mont de syon enta la val de josaphat y ha vna fuent que se clama natatorio syloe"
+  }
+],
+   "321": [
+  {
+    "en_mandeville": "Ther was Our Lord y-wassh when He was y-baptised",
+    "an_escorial_mandeville": "Ailli fue nuestro seynnor lauado empues el babtismo"
+  }
+],
+    "338": [
+  {
+    "en_mandeville": "In that feeld beth many tumbes of Cristen men, for ther beth many pilgrymes biried",
+    "an_escorial_mandeville": "En aqueill campo y ha muchas tumbas de xpistianos Car ailli solian enterrar los pelegrinos muertos"
+  }
+],
+"322": [
+  {
+    "en_mandeville": "And ther nye is the synagoge wher Judas caste the 30 pens byfore the Jewes and Fariseis",
+    "an_escorial_mandeville": "jtem ailli de cerca estaua la synagoga Et ailli echo judas los xxx dineros deuant eillos"
+  }
+],
+"323": [
+  {
+    "en_mandeville": "and seyde thus: Peccavi tradens sanguinem justum",
+    "an_escorial_mandeville": "Et dizia que eill auia peccado a trahir nuestro seynnor"
+  }
+],
+"336": [
+  {
+    "en_mandeville": "And on the other syde of the Mount Syon toward the south, over the valley, is Acheldemak, that is to say the feeld of blood, that was bought with tho 30 pens",
+    "an_escorial_mandeville": "Et del otra part del mont de syon enta midi vltra la vallea el trecho de vna piedra es alchedemach que quiere dizir el campo de sangre qui fue comprado por los xxx dineros"
+  }
+],
+    "343": [
+  {
+    "en_mandeville": "And ther neygh is a cherch wher Our Lady mette with Elizabeth when they were bothe with chylde, and Seynt John stired in his moder wombe and dide worship to his makere",
+    "an_escorial_mandeville": "enta las partidas doccident a vna legoa en vna yglesia do nuestra dama encontro & saludo a helisabet et estauan todas dos encintas et sant johan se mouia enel vientre de su madre & fezo Reuerencia a su creador"
+  }
+],
+   "349": [
+  {
+    "en_mandeville": "And ther neygh is the castel of Emaux",
+    "an_escorial_mandeville": "et daqueilla yglesia ha vna legoa al castiello de maux"
+  }
+],
+"354": [
+  {
+    "en_mandeville": "hit is called Mount Joye, for that may pylgrimes ferst y-se that cometh to Jerusalem",
+    "an_escorial_mandeville": "el mont joye se clama montjoye Car daqueill logar veen los pelegrines desta partida primerament la Santa Cibdat de jherusalem"
+  }
+],
+"361": [
+  {
+    "en_mandeville": "And in the myddel of the Vale of Josaphat is a lytel ryver that is y-called Torrens Cedron",
+    "an_escorial_mandeville": "Et enla meatat de aqueilla vaill es aqueill Rio et es vn chico Rigachuelo que se clama thorrens cedron"
+  }
+],
+"362": [
+  {
+    "en_mandeville": "And overtwert that ryver lay that tree, of which that Cros was maked, that men yede over",
+    "an_escorial_mandeville": "Et por de c'aga de aqueill Rio et desuso al trauers Jazia larbor dela cruz Et passauan por de suso"
+  }
+],
+"363": [
+  {
+    "en_mandeville": "Also in that vale is a cherch of Our Lady, and ther is the tumbe of Our Lady",
+    "an_escorial_mandeville": "jtem enla meatat dela val de josaphat es la yglesia de nuestra dama Et y ha el sepulcro de nuestra dama"
+  }
+],
+"365": [
+  {
+    "en_mandeville": "And ney that is a place wher Judas kyssed Our Lord when He was y-take, that men callen Gessamain",
+    "an_escorial_mandeville": "Et assaz cerca y ha vna cappiella que ha nombre gethsemanj Ailli fue nuestro seynnor besado de Judas et alli fue preso"
+  }
+],
+"366": [
+  {
+    "en_mandeville": "And Crist byleved ther His disciples byfore His Passion, when he yede to praye and seyde thus: Pater si fieri potest transeat a me calix iste",
+    "an_escorial_mandeville": "Ailli leixo nuestro seynnor sus discipulos quoando eill fue a orar ante dela passion Rogando et diziendo Pater si potest transeat a me calix iste"
+  }
+],
+   "367": [
+  {
+    "en_mandeville": "And ther is the tumbe of Kyng Josaphat, of wham the vale had his name",
+    "an_escorial_mandeville": "Et assaz cerca de ailli es la tumba del Rey de josaphat de qui la val ha el nombre"
+  }
+],
+"398": [
+  {
+    "en_mandeville": "And at that oon syde of the vale is Mount Olyvete, and hit is called so for ther greweth many olyve treis",
+    "an_escorial_mandeville": "Jtem de suso desta vaill es el mont de oliuet Et ha nombre assi por causa que y crescen muchos oliuos"
+  }
+],
+"399": [
+  {
+    "en_mandeville": "And hit is heyer than Jerusalem, and fro that hille men may se into the stretis of Jerusalem",
+    "an_escorial_mandeville": "Aqueilla montaynna es mas alta que no es la Cibdat de Jherusalem Et por esto puede hombre de aqueilla montaynna veer por todas las Ruas de Jherusalem"
+  }
+],
+   "402": [
+  {
+    "en_mandeville": "And bytwyne that hille and Jerusalem is noght but the Vale of Josaphat, and hit is noght ful large",
+    "an_escorial_mandeville": "Et entre aqueilla montaynna et la Cibdat non ha que la val de josaphat que no es pas mucho ampla"
+  }
+],
+"403": [
+  {
+    "en_mandeville": "And on that hille stood Crist when He went to Hevene, and yit semeth ther the stappes of His lyft foot in the stoon",
+    "an_escorial_mandeville": "De aqueilla montaynna puyo nuestro seynnor alos ciellos Et encora paresce enla piedra su senjestro pie"
+  }
+],
+"405": [
+  {
+    "en_mandeville": "And a lytel then is a chapel, in which chapel is a stoon on which Our Lord satte when He prechid and sayd thus: Beati pauperes spiritu",
+    "an_escorial_mandeville": "Et cerca de ailli y ha vna cappiella do la piedra es sobre que nuestro seynnor se solia assentar et predicar Beati pauperes spiritu"
+  }
+],
+   "406": [
+  {
+    "en_mandeville": "And ther He taughte His disciples her Pater Noster",
+    "an_escorial_mandeville": "Et ailli eill enseynno a sus discipulos el pater noster"
+  }
+],
+"407": [
+  {
+    "en_mandeville": "And a litel then is Besfage, fro whom Crist sent Petre to fecche an asse on Palme Sonday",
+    "an_escorial_mandeville": "Et mas ailla enta orient es berthfage do nuestro seynnor jmbio sant pedro por traherli lasna el dia de Ramos"
+  }
+],
+"409": [
+  {
+    "en_mandeville": "ther dwelled Symon lepre, that herborwed Our Lord",
+    "an_escorial_mandeville": "Et ailli moraua Simeon el Mesiello Et alli fue loiado nuestro seynnor"
+  }
+],
+"410": [
+  {
+    "en_mandeville": "And he was y-called Julian. And that is he that men callen uppon for herborgh",
+    "an_escorial_mandeville": "Et fue nombrado julian que hombre Require que li de buena posada por causa que eill alojo nuestro seynnor en su casa"
+  }
+],
+    "430": [
+  {
+    "en_mandeville": "In that place God forgaff the synnes of Mari Maudeleyn",
+    "an_escorial_mandeville": "Ailli mesmo perdonno nuestro seynnor el peccado a maria magdalena"
+  }
+],
+"431": [
+  {
+    "en_mandeville": "and ther she wasshid His feet with her teres of her eyen, and wiped hem with her here",
+    "an_escorial_mandeville": "ailli eilla li lauo los pies con sus lagrimas et los exugo con sus cabeillos"
+  }
+],
+"434": [
+  {
+    "en_mandeville": "And ther was Lazar arered, that was dede four daies",
+    "an_escorial_mandeville": "ailli Resucito nuestro seynnor a lazaro qui auia estado iiij dias muerto"
+  }
+],
+"442": [
+  {
+    "en_mandeville": "And ther ney is the stoon uppon which Our Lord sat and prechid many tymes",
+    "an_escorial_mandeville": "Et assaz cerca es la piedra do nuestro seynnor se assentaua amenudo et predicaua"
+  }
+],
+"444": [
+  {
+    "en_mandeville": "and theruppon shal He sitte on the Day of Dome, as Hymself sayde",
+    "an_escorial_mandeville": "Et ailli mesmo se assentara enel dia del jugament assi como eill mesmo dizia"
+  }
+],
+"446": [
+  {
+    "en_mandeville": "And ther ney is the Mount of Galilé wher the aposteles were y-gadered when Mary Maudeleyn tolde hem of Cristis Rysyng",
+    "an_escorial_mandeville": "jtem cerca es el mont de galilea do los apostolos estauan ensemble quoando maria magdalena les veno a anunciar la Resurrection"
+  }
+],
+    "450": [
+  {
+    "en_mandeville": "And bytwyne Mount Olivete and Mount Galilé is a chirche",
+    "an_escorial_mandeville": "Jndo enta el mont doliuet et al mont de galilea y ha vna yglesia"
+  }
+],
+    "454": [
+  {
+    "en_mandeville": "but hit was destruyed and now is ther but a litel toun",
+    "an_escorial_mandeville": "Mas eilla es toda destruida Assi que non ay apresent sinon vna chica villa"
+  }
+],
+"455": [
+  {
+    "en_mandeville": "That toun toke Josue by miracle of God and byddyng of the angel",
+    "an_escorial_mandeville": "Aqueilla Cibdat josue priso por miraglo de dios et por el comandament del angel"
+  }
+],
+ "460": [
+  {
+    "en_mandeville": "And therfore she hadde a good reward of God",
+    "an_escorial_mandeville": "Si ende ouo buen goalardon"
+  }
+],
+   "476": [
+  {
+    "en_mandeville": "and hit is ney a daies journey estward into a greet hille, wher Our Lord fasted 40 dayes",
+    "an_escorial_mandeville": "et y ha cerca de vna Jornada enta orient ata la grant montaynna do nuestro seynnor dejuno xl dias"
+  }
+],
+"480": [
+  {
+    "en_mandeville": "and sayde thus: Dic ut lapides isti panes fiat",
+    "an_escorial_mandeville": "Car eill dixo Dic ut lapides isti panes fiant"
+  }
+],
+    "485": [
+  {
+    "en_mandeville": "And ther is an hermytage in the which dwelleth a maner of freres that men callen Georgens",
+    "an_escorial_mandeville": "si non ay que vn hermitage que vna manera de xpistianos tienen que eillos fazen clamar georgianos"
+  }
+],
+"486": [
+  {
+    "en_mandeville": "And uppon that hille dwelled Abraham a greet while",
+    "an_escorial_mandeville": "Sobre aqueilla montaynna finco abraham grant tiempo"
+  }
+]
+    
+  }
+}

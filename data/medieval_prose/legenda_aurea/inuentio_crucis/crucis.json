@@ -1,0 +1,307 @@
+{
+  "work": "crucis",
+  "saint": "inventio_sanctae_crucis",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+    "000": [
+      {
+        "la_crucis": "Inuentio sancte crucis post annos cc et amplius a resurrectione domini facta est",
+        "es_etymol": "La cruz de Jhesu Christo fue fallada después de CC años que Jhesu Christo resucitó",
+        "pt_crucis": "A cruz de Jhsu Xp̃o foy achada depoys duzentos anos q̃ Jhsu Xp̃o rresurgio",
+        "pro_crucis":"Lo trobamen de la sancta cros fon fachs ·cc· ans apres la resurrexio de Jesu Christ",
+        "ca_vides":"Lo trobament de la santa crou fo feyt 'cc' ayns aprés la resurectió de Jhesuchrist"
+      }
+    ],
+    "007": [
+  {
+    "la_crucis": "Legitur igitur in euangelio Nychodemi quod cum Adam infirmaretur, Seth filius eius portas paradisi terrestris adiit",
+    "pro_crucis": "Et es legit en lo evangeli de Nichodemus que cum Adam fos malautes, son filh Seth anet a las portas de paradis terrenal",
+    "es_etymol": "Ca, segund se lee en el evangelio de Nicodemus, que quando Adam enfermó, Sed, su fijo, fuese a la puerta de paraíso terrenal",
+    "ca_vides": "Es legit en l'Evangeli d'En Nicomedim que, co Adam fos malaute, son fil, En Cet, anee a les portes de paradís terenal"
+  }
+],
+"008": [
+  {
+    "la_crucis": "et oleum misericordie postulauit quo patris corpus perungeret et sanitatem reciperet",
+    "pro_crucis": "e demandet que hom li dones de l’oli del fust de misericordia am que oysses son payre per so que gueris",
+    "es_etymol": "e demandó el olio de la misericordia para untar el cuerpo de su padre para que oviese salut",
+    "ca_vides": "e demanà que hom li donas de l'oli del fust de misericordia ab qué untés son pare per so que garis"
+  }
+],
+  "010": [
+  {
+    "la_crucis": "Cui apparens Michael angelus ait: «Noli laborare nec flere pro oleo ligni misericordie obtinendo quia nullatenus illud assequi poteris nisi quando completi fuerint quinque milia quingenti anni",
+    "pro_crucis": "alqual aparec l’angiel Michael que·l dis: «No volhas plorar ni trebalhar per so que ajas de l’oli de misericordia quar hom no·n pot aver tro que sian passatz sinc melia ans e ·d·",
+    "es_etymol": "E aparesciole el ángel sant Miguel, e díxole: “Non trabajes por ello nin llores por aver el olio del madero de la misericordia ca non lo puedes aver agora en ninguna manera sinon quando fueren conplidos los cinco mill e quinientos años",
+    "ca_vides": "Al qual aparee l'àngel Michael, que li dix: No t vules trebalar ni piorar per so que ayes de l'oli del fust de misericòridia cor sàpies que no n potz aver en neguna manera sino can serán complitz v mília e 'v' sens ayns"
+  }
+],
+"015": [
+  {
+    "la_crucis": "licet ab Adam usque ad passionem Christi anni tantum V milia CIC et XXXIII fluxisse credantur",
+    "pro_crucis": "jacia aysso que de Adam entro a la passio de Jesu Christ fosso passatz tan solamen sinc melia e ·cc· e ·xxvj· ans",
+    "es_etymol": "E maguer que dizen que del tienpo de Adam fasta la pasión de Jhesu Christo fueron cinco mill e trezientos e treita e tres años",
+    "ca_vides": "jasia aysò que de Adam entró a la pasió de Jhesuchrist fossen tant solamcnt passatz v mília e 'ccxxxii' ayns"
+  }
+],
+  "016": [
+  {
+    "la_crucis": "Legitur quoque alibi quod angelus eidem ramusculum quendam obtulit et iussit ut in monte Libani plantaretur",
+    "pro_crucis": "Liech se en autre loc que aquel li aportet ram d’albre e mandet li que·l plantes el puech de Libano",
+    "es_etymol": "enpero léese en otro lugar que el ángel que le dio un ramo e mandó que le plantase en el monte de Líbano",
+    "ca_vides": "Lig-se en autre loc que l'àngel li aportec un ramet de l'aybre e manà-li que l plantés en lo Mont de Libani"
+  }
+],
+  "017": [
+  {
+    "la_crucis": "In quadam uero hystoria Grecorum legitur quod angelus de ligno tradidit in quo peccauit Adam eidem dicens quod quando faceret fructum pater sanaretur",
+    "pro_crucis": "Liech se en una ystoria dels Grexs que l’angiel li donet del fust elqual Adam pequet e dis li que quant levaria fruch, que Adam seria sanatz",
+    "es_etymol": "Otrosí, léese en una Estoria de los Griegos maguer que el ángel de Dios que le dio del madero en que pecó Adam diziendo que, quando fiziese fruto, sanaría su padre",
+    "ca_vides": "E lig-se en una ystòria dels grecs que l'àngel li donà del fust en què peccà Adam e dix-li que quant levaria fruyt que son pare siria sanat"
+  }
+],
+    "018": [
+  {
+    "la_crucis": "Qui rediens et patrem mortuum inueniens ipsum ramum super tumulum patris plantauit",
+    "pro_crucis": "E quant se·n fonc tornatz Seth, el trobet son payre mort",
+    "es_etymol": "E tornándose, falló muerto a su padre e plantó el ramo sobre el sepulcro de su padre",
+    "ca_vides": "E quant En Set se'n fo tornat, él atrobà son pare mort e planta l'aybre en lo vas de son pare"
+  }
+],
+"019": [
+  {
+    "la_crucis": "qui plantatus in arborem magnam creuit et usque ad Salomonis tempora perdurauit",
+    "pro_crucis": "e plantet lo ram e fes se molt gran albre Et estet aqui entro al temps de Salamo",
+    "es_etymol": "E plantando, creció, e fízose grant árvol e duró fasta tienpo de Salamón",
+    "ca_vides": "e fé-sse aquí mot gran aybre aquí vivent entró al tems de Salamó"
+  }
+],
+    "020": [
+  {
+    "la_crucis": "Salomon autem arborem tam pulchram considerans ipsam precepit incidi et in domo saltus locari",
+    "pro_crucis": "E quant Salamo vi tan gran albre el lo fes talhar e comandet que hom lo mezes el temple",
+    "es_etymol": "Mas el rey Salamón, viendo aquel árvol tan fermoso fizo cortar aquel árvol",
+    "ca_vides": "E quant Salamó vesec tam bel aybre él lo fé talar e maná que hom lo mesés en la casa d'En Salt"
+  }
+],
+    "021": [
+  {
+    "la_crucis": "Vtrum autem hec uera sint lectoris iudicio relinquatur cum in nulla chronica ista legantur nec hystoria autentica ista legantur",
+    "es_etymol": "si es verdat o non finque en el juizio del leedor por quanto no parece en Estoria ni en Corónica abténtica"
+  }
+],
+    "022": [
+  {
+    "la_crucis": "Nusquam tamen, ut ait Iohannes Beleth, locari poterat nec alicui loco apta reperiri ualebat, sed modo aut excedebat longitudinem aut deficiebat nimia breuitate",
+    "es_etymol": "mas, segunt dize maestre Juhan de Belehc, nunca los maestros pudieron fallar lugar do le asentasen, ca a las vegadas le fallavan corto, e a las vegadas muy luengo",
+    "ca_vides": "Mas, segons que diu En Johan Belet, no s'i poc bonament alogar aquelí, ni en negun altre loe, que no fos breu o lone"
+  }
+],
+    "023": [
+  {
+    "la_crucis": "et super quendam lacum proiecerunt ut esset pons transeuntibus",
+    "pro_crucis": "delqual fonc facha planca sobres una aygua e que hom sobres luy passes",
+    "es_etymol": "e pusiéronle sobre una agua así commo por puente, por donde pasavan los omnes",
+    "ca_vides": "del qual fo feyta una palanca sobre 'i' lac per so que hom ne passés",
+    "pt_crucis": "et poserõna sobre hũa agua q̃ pasasem os homeẽs por ella"
+  }
+],
+    "024": [
+  {
+    "la_crucis": "Regina autem Saba cum uenisset audire sapientiam Salomonis et predictum lacum transire uellet uidit in spiritu quod saluator mundi in ligno illo suspendendus erat et ideo super illud lignum transire noluit sed ipsum protinus adorauit",
+    "pro_crucis": "E cum la regina de Sabba vengues per ausir la saviesa de Salamo e degues passar per aquel loc ela vi en sperit que·l sanayre de tot lo mon devia esser pausatz en aquel fust per que non hi volc passar desobres lo fust ans lo adoret molt humielmen",
+    "es_etymol": "E la reina de Fabba vino a oír la sabiduría de Salamón e quiso pasar sobre aquel madero mas vio, por Spíritu Santo de Dios que el Salvador del mundo en aquel madero avía de ser puesto E por ende, no quiso pasar ella mas luego lo adoró",
+    "ca_vides": "On con la regina de Sabba vengés per ausir la saviessa de Salamó e volgés pasar per aquel loc ela vesec per esperit que.l Salvador del Món devia ésser penyat en aquel fust per qué no volc pasar per aquel fust ans l'aorá molt humilment",
+    "pt_crucis": "E nycaula a Reynha de sabba quando veeo a oyr a sabedoria de salamõ et quis pasar per aq̃l lugar et vyo q̃ o saluador do mũdo em aq̃l madeiro auija a seer posto et porende nõ qujs passar por el mays logo ho adorou"
+  }
+],
+    "027_027d": [
+  {
+    "la_crucis": "cumque ad domum suam rediisset intimauit Salomoni quod in illo ligno quidam suspendendus fuerat per cuius mortem Iudeorum regnum deleri debebat",
+    "pro_crucis": "Liech si que la regina dis a Salamo que en aquest fust devia esser pendutz hun hom per la mort delqual seria destruit tot lo regne dels juzieus",
+    "ca_vides": "Lig-se que la regina dix a Salamó que en aquel fust devia ésser penyat un home per la mort del qual devia ésser destruyt lo regne dels jueus",
+    "es_etymol": "Quando fue en su casa, enbió dezir a Salamón que en aquel madero avía de ser crucificado uno que por la muerte dél, todos los judíos avían de ser destruídos",
+    "pt_crucis": "E quando foy ẽ sua casa enviou dizer a salamõ q̃ em aq̃l madeyro auija de seer posto et crucificado huũ et por a morte del todos os judeus auijão de seer destroydos"
+  }
+],
+   "027f_027e": [
+  {
+    "la_crucis": "Salomon igitur predictum lignum inde sustulit et in profundissimis terre uisceribus illud demergi fecit",
+    "pro_crucis": "per que Salamo fes levar d’aquel loc lo fust e fes lo metre sotz terra",
+    "es_etymol": "Por eso mandole tomar dende e meter en fondón de la tierra",
+    "ca_vides": "Per qué Salamó féu levar aquel fust d'aquel loe e féu-lo metre sotz terra",
+    "pt_crucis": "E por ende salamõ mãdoo tirar daly et meterlo so terra"
+  }
+],
+"027g_027h": [
+  {
+    "la_crucis": "Postea probatica piscina ibidem facta est ubi Nathinei uel subdiacones hostias abluebant",
+    "pro_crucis": "En apres fonc aqui fach hun ‹pan› en que los maximeus lavesso lors sacrificis",
+    "es_etymol": "E después fue aí fecha una fuente en que todos se vañavan",
+    "ca_vides": "Enaprés fo feyt aquí un pou en qué los manixeus levaven los sacrificis",
+    "pt_crucis": "EE depoys foy hy feita hũa fonte em q̃ quantos se hi banhauã"
+  }
+],
+    "027k": [
+  {
+    "la_crucis": "ex uirtute ipsius ligni traditur ibidem fieri infirmorum curationem",
+    "pro_crucis": "E d’aquela aygua, mols homes malautes que·n bevian guerian",
+    "es_etymol": "e luego guarescían de sus enfermedades por la virtud deste madero",
+     "ca_vides": "en lo qual ixi ayga, de la qual eren motz homes garitz",
+    "pt_crucis": "guareçiam de suas emfirmidades por a virtude do madeyro"
+  }
+  ],
+    "027m_028": [
+  {
+    "la_crucis": "Appropinquante uero passione Christi predictum lignum supernatasse",
+    "pro_crucis": "Dis si que el temps de la passio de Jesu Christ lo dich fust nadet sobres l’aygua",
+    "es_etymol": "E llegándose el tienpo de la Pasión de Jhesu Christo començó el madero a nadar sobre el agua",
+    "ca_vides": "E diu-se que en lo temps de la passió de Jhesuchrist lo dit fust nadà desús"
+  }
+],
+    "028a_028b": [
+  {
+    "la_crucis": "Cum autem illud Iudei uidissent ipsum acceperunt et crucem domino parauerunt",
+    "pro_crucis": "e quant los juzieus lo viro mantenen lo preyro e feyro ne cros ha Jesu Christ",
+    "es_etymol": "los judíos viéndole tomáronle e fizieron dende la cruz",
+    "ca_vides": "E quant los juseus lo viren mantenent lo preseren e feren-ne crou a Jhesuchrist",
+    "pt_crucis": "os judeus tomarõ aq̃l mãdeiro et fezerõ del a cruz"
+  }
+],
+    "029_029b": [
+  {
+    "la_crucis": "In ipsa autem crux Christi quatuor generum lignorum fuisse perhibetur scilicet palme, cypressi, oliue et cedri",
+    "pro_crucis": "E dis que la cros de Jesu Christ fonc de ·iiij· manieyras de fust so es de palmier, et d’olivier, e de cipres, et de cedrus",
+    "ca_vides": "Es dit que la crou de Jhesuchrist és de 'iiii' maneres de fustz so és: de palma, e de ciprés, e d'oliver e de cedrus",
+    "es_etymol": "Esa cruz fue de quatro maderos palma, e cedro, e oliva e ciprés",
+    "pt_crucis": "E em esta cruz forom quatro madeiros palma e çipres et alyua et cedro"
+  }
+],
+    
+    "030": [
+      {
+        "la_crucis": "Istud lignum pretiosum crucis per annos CC et ultra sub terra latuit",
+        "pro_crucis": "Aquel precios fust stet sostz terra ·icjc· ans",
+        "es_etymol": "E ese madero precioso de la cruz yogo so la tierra CC años ascondido",
+        "ca_vides": "Aquel precios fust de la crou estec sotz terra 'cc' ayns e plus",
+        "pt_crucis": "este lenho pricioso da cruz cento anos et mays jouve so a terra "
+      }
+    ],
+    "031": [
+      {
+        "la_crucis": "sed ab Helena matre Constantini imperatoris, hoc modo repertum fuit",
+        "pro_crucis": "e fonc trobatz per sancta Helena, mayre de Costanti, emperador, en aquesta manieyra:",
+        "es_etymol": "mas la reina Elena, madre de Costantino, el enperador, la falló en esta manera",
+        "ca_vides": "Mas fo atrobada per Santa Alena, mare de Contastí, emperador, en aquesta manera",
+        "pt_crucis": "mays Elena madre de costãtino o enperador a achou ẽ esta maneira"
+      }
+    ],
+    "032_033a": [
+  {
+    "la_crucis": "In tempore illo congregata est iuxta Danubium fluuium multitudo barbarorum uolentes fluuium transire et omnes regiones usque ad orientem suo dominio subiugare",
+    "pro_crucis": "En aquel temps s’ajustero gran moltesa de gens, coma son barbaris, costa lo fluvi que es apelatz Nubi que volian passar sobres lo fluvi E volian subjugar a lor totas regios entro occiden",
+    "es_etymol": "En aquel tienpo, ayuntose grant conpaña de los bárbaros cerca del río de Danubio e queríanle pasar para tomar la tierra toda, fasta oriente que fuese suyo",
+    "ca_vides": "en aquel temps s'ajustá gran multitut de barbres costa lo flum qui és apelat Danúbii qui volien passar lo flum e volien subjugar totas les regions a si entró a sol ixent",
+    "pt_crucis": "Em aq̃l tp̃o juntaronse grande cõpanha dos barbaros a par do rrijo de nubio et q̃riãno passar pera tomar toda a terra ataa oriente q̃ fose sua"
+  }
+],
+   "034_035": [
+  {
+    "la_crucis": "Quod ubi Constantinus imperator comperit castra mouit et contra Danubium se cum suo exercitu collocauit",
+    "pro_crucis": "E quant Costanti ho saub ajustet grans companhias e mes se costa lo fluvi",
+    "es_etymol": "E quando lo supo Costantino, el enperador vínose para allí con su real e ordenó sus huestes cerca del río de Danubio",
+    "ca_vides": "E quant Contastí, l'emperador, o saub él ajustà ses compayes, e pausà's costa lo flum Danúbii",
+    "pt_crucis": "E quando soube costantino ho emperador moueo seu arreal et hordenou suas hostes a par de nubyo"
+  }
+],
+    "036_040": [
+  {
+    "la_crucis": "At barbarorum crescente multitudine et iam fluuium transeunte Constantinus nimio terrore concutitur uidens quia essent cum eo die crastina commissuri",
+    "pro_crucis": "mas los barbaris passero lo fluvi E Costanti fonc molt espaorzit e per so que l’endema se devian mesclar ensemps",
+    "es_etymol": "E creciendo muy mucho la conpaña de los bárbaros e pasando ya el río Costantino ovo muy grant miedo viendo que otro día avía de entrar en la fazienda",
+    "ca_vides": "mes, co'ls barbres passesen lo flum Contastí fo mot espaordit per so car vesec que'l sendemà se mesclarien ab él",
+    "pt_crucis": "E creçendo a cõpanha dos barbaros et pasando ia o Rijo costantino ouue muy grande medo veendo q̃ outro dija auija de entrar em peleia"
+  }
+],
+   "045_046": [
+  {
+    "la_crucis": "Sequenti igitur nocte ab angelo excitatur et ut sursum respiciat admonetur",
+    "pro_crucis": "per que en la seguen nueh l’angil li revelet e amonestet lo que gardes ha ensus, vas lo cel",
+    "es_etymol": "Esa noche dormiendo, despertole el ángel e amonestole que catase suso al cielo",
+    "ca_vides": "Per qué en la segent nuyt lo despertà l'angei e amonestà-lo que gardés envés lo cel",
+    "pt_crucis": "E em esa meesma noyte jazendo dormj̃do espertoo ho angeo et diselhe q̃ oolhase pera cima pera o çeeo"
+  }
+],
+    "047_048": [
+  {
+    "la_crucis": "Qui in celum aspiciens uidit signum crucis ex clarissimo lumine factum",
+    "pro_crucis": "Et en ayssi cum regardava ensus, vas lo cel, el vi lo senhal de la cros que fasia molt de clar lum",
+    "ca_vides": "E ayxí co él gardà al cel, él vesec lo seyal de la crou qui fo feyt de mot ciar lum"
+  }
+],
+    "049_050": [
+  {
+    "la_crucis": "litteris aureis hunc titulum habens scriptum In hoc signo uinces",
+    "pro_crucis": "Et avia aquest clar titol escrich sobres se am letras d’aur «Per aquest senhal venseras»",
+    "es_etymol": "que avía en sí escripto este título de letras de oro en aquesta señal: “Vencerás”",
+    "ca_vides": "e avia aquest títol escrit ab letres d'aur sobre si «Per aquest seyal venseràs»",
+    "pt_crucis": "q̃ auija em sy escripto este titulo de letras douro Em aq̃ste synal vençeras"
+  }
+],
+   "051_052": [
+  {
+    "la_crucis": "Qui celesti uisione confortatus similitudinem crucis fecit et ipsam ante suum exercitum ferri iussit",
+    "pro_crucis": "e mantenen el fonc cofortatz per la celestial visio Et el fes lo senhal de la cros e mandet que hom lo li aportes davan",
+    "es_etymol": "E él fue muy conortado además en la visión que viera celestial ca luego fizo la significança de la cruz e mandola levar delante la su hueste",
+    "ca_vides": "E mantenent él fo comfortat per la celestial visió per qué él fé fer lo seyal de la crou e maná que hom lo l i portés davant",
+    "pt_crucis": "E el muy confortado em visom çelestrial q̃ vira fez a semelhança da cruz et mandoua leuar ante sua hoste"
+  }
+],
+"052a_053": [
+  {
+    "la_crucis": "irruensque in hostes ipsos in fugam uertit et multitudinem maximam interfecit",
+    "pro_crucis": "totz los juzieus enemix fugiro e·n aussis gran partida",
+    "es_etymol": "E acometió a los enemigos, e fízolos fuir e mató muchos dellos",
+    "ca_vides": "e ayxí con él vene davant los seus enemies, él los féu tots fugir, e aucís-ne mot gran multitut",
+    "pt_crucis": "et cometeo os emmijgos et fezeos fogir et matou mujtos delles"
+  }
+],
+    "053c": [
+  {
+    "la_crucis": "Tunc Constantinus omnes templorum pontifices conuocauit",
+    "pro_crucis": "Adonc Costanti va apelar l’avesque del temple",
+    "ca_vides": "E adones Contastí apelà totz los bisbes deis temples",
+    "pt_crucis": "E entom costantino chamou todos os bp̃os dos ydollos",
+    "es_etymol": "Entonce Constantino ayuntó muchos obispos de los ídolos"
+  }
+],
+    "054": [
+      {
+        "la_crucis": "et cuiusnam dei hoc signum esset diligentius requisiuit.",
+        "pro_crucis": "e demandet de qual dieu era aquel senhal",
+        "es_etymol": "e demandoles muy afincadamente que de quál dios era aquella señal",
+        "ca_vides": "e demanà-lur aquel seyal de qual déu era",
+        "pt_crucis": "et pregũtoulhes muy aficadamente de qual deus era aq̃ste signal"
+      }
+    ],
+    "055_056": [
+  {
+    "la_crucis": "Quibus se nescire dicentibus quidam christiani aduenerunt et ei sancte crucis misterium et fidem trinitatis enarrauerunt",
+    "pro_crucis": "els responderon que non ho sabian En apres alcus crestias vengro a luy que l’ensenhero lo mestier de la cros e la fe de la Trinitat",
+    "es_etymol": "Ellos respondieron que non sabían e vinieron unos christianos, e contáronle el fecho de la cruz e la fe de la Trinidad",
+    "ca_vides": "E con éls li respossesen que res no'n sabien enaprés alcuns crestians vengren a él qui li enseyaren lo mester de la crou, e la fe de la trinitat",
+    "pt_crucis": "E eles rresponderõ q̃ nom sabiam E ueerõ a el os xpaãos et contarõlhe todo o fcto da cruz et a fe da santa trindade"
+  }
+],
+    "057_058a": [
+  {
+    "la_crucis": "Qui in Christum perfecte tunc credidit et ab Eusebio papa sacrum baptisma suscepit",
+    "pro_crucis": "per que el creset perfiechamen en Jesu Christ E fonc batejatz per Marcel, papa",
+    "es_etymol": "Entonce creyó en Jhesu Christo muy acabadamente e baptizole",
+    "ca_vides": "Per qué él cresec perfeytament en Jhesuchrist e fo bateyat per En Eusebi, papa",
+    "pt_crucis": "E entõ ho enperador creer ẽ Jhsu Xp̃o muy uerdadeiramente et bautizou-se"
+  }
+]
+    
+  }
+}

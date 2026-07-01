@@ -1,0 +1,718 @@
+{
+  "work": "Legenda aurea",
+  "saint": "maria egipciaca",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+   "000": [
+  {
+    "la_mirabile": "Maria Egyptiaca, que peccatrix appellatur",
+    "ca_gesiot": "Maria Egepciaga, que era apelada Peccadora",
+    "ca_vides": "Maria Egipciaga, qui era apelada «peccadora»",
+    "es_ethimol": "Santa María de Egipto, que era dicha pecatris",
+    "es_leyendas": "Santa María de Egipto, que era dicha Pecadriz"
+  }
+],
+    "001": [
+      {
+        "la_mirabile": "quam circa annos domini CCLXX tempore Claudii intrauit",
+        "es_ethimol": "Esto fue en el tienpo del enperador Claudio, en la era de la encarnación de CCLXX años."
+      }
+    ],
+     "002": [
+      {
+        "la_mirabile": "XLVII annis in heremo artissimam uitam duxit",
+        "es_ethimol": "bivió en el desierto vida muy estrecha XLVII años",
+        "es_leyendas": "visco en el desierto vida muy amarga XLVII años",
+        "ca_gesiot": "fe en un hermitatge molt streta vida be .xlvii. anys",
+        "ca_vides": "féu en un ermitatye molt estreta vida 'xl'vii' ayns."
+      }
+    ],
+    "003": [
+  {
+    "la_mirabile": "Quidam autem abbas nomine Zosimas, dum Iordanem transfretasset et heremum magnam percurreret, si forte aliquem sanctum patrem inueniret",
+    "es_ethimol": "E un abat que dezían Zózimas, pasando el río de Jordam andando un grant yermo, catando si por ventura podiese fallar algunt padre sancto",
+    "es_leyendas": "E un abat que dizién Zózimas, pasando por el río de Jordán e andando en un grand yermo, si por aventura fallase algum padre santo",
+    "ca_gesiot": "Era un abat qui avia nom Zosimas, e, co el passás part flum Jordá e se·n anás en un hermitatge molt gran, per veser si y trobaria nagun sant pare",
+    "ca_vides": "Era un abat qui avia nom Zòzimas. On, con él passés part flum Jordà e se n'anás en un ermitatye molt gran, per veser si i trobaria alcun sant pare"
+  }
+],
+"005": [
+  {
+    "la_mirabile": "uidit quendam ambulantem nudo nigroque corpore et ex incendio solis exusto",
+    "es_ethimol": "vio una muger que andava desnuda e quemada de la calentura del sol",
+    "es_leyendas": "vio un que andava desnuyo e todo quemado de la calentura del sol",
+    "ca_gesiot": "el vesech un home anant tot nuu que havia lo cos negre, per lo cremament del sol",
+    "ca_vides": "él vesec un home tot nud anan qui avia tot lo cors negre, per lo cremament del sol"
+  }
+],
+"007": [
+  {
+    "la_mirabile": "fugam arripuit",
+    "es_ethimol": "començó de foír",
+    "es_leyendas": "E començo de foir",
+    "ca_gesiot": "E mantenent aquel fugí",
+    "ca_vides": "E mantenent aquel fugí",
+    "pt_cta_v": "começou a fogir",
+    "pt_cta_w": "começou a fugir"
+  }
+],
+    "008": [
+  {
+    "la_mirabile": "et Zosimas post eam uelocius currere cepit",
+    "es_ethimol": "e Zózimas començó de correr muy fuerte en pos de ella",
+    "ca_gesiot": "per que en Zosimas correch aprés el mot fortment",
+    "ca_vides": "per qué En Zòzimas coree aprés él molt fortment",
+    "pt_cta_v": "e zozimas começou de hir ẽpos ella muj tostemente",
+    "pt_cta_w": "E zozimas começou muyto a pressa hyr empos ella"
+  }
+],
+"009": [
+  {
+    "la_mirabile": "Tunc illa ait: «Abbas Zosima, quid me persequeris?»",
+    "es_ethimol": "Entonce dixo ella: “Abat Zózimas, ¿por qué me sigues?”",
+    "es_leyendas": "Estonce díxol ella al abad Zózimas: «¿Por qué me persigues?»",
+    "ca_gesiot": "E adonchs ela dix: «O abat Zosimas, e perqué m’encauçes?»",
+    "ca_vides": "E adoncs ela dix: —Ho, abat Zózima, ¿per qué m'encauses?",
+    "pt_cta_w": "e disse Padre zozimas porque me sseges"
+  }
+],
+"010": [
+  {
+    "la_mirabile": "Ignosce mihi, non possum ad te faciem meam conuertere, quod mulier sum et nuda",
+    "es_ethimol": "Perdóname que non puedo tornar la cara contra ti, porque so muger e estó desnuda",
+    "es_leyendas": "Perdóname que non puedo tornar la cara contra ti, porque só muger desnuya",
+    "ca_gesiot": "Desconeys-me, que no pusch girar la mia cara a tu, per so car eu son femna e son nusa",
+    "ca_vides": "Desconeyx-me, que no puse girar la mia cara a tu, per so cor eu són femna, e són nusa",
+    "pt_cta_v": "Rogo te que me perdoes ca nom posso tornar cõtra ty a mjnha face porque ssoo molher e ando nua",
+    "pt_cta_w": "Rogo te por deus que me pdoes, que nom posso tornar contra ty mynha face porque som mulher e ando nua"
+  }
+],
+   "013": [
+  {
+    "la_mirabile": "sed pallium tuum mihi porrige ut possim sine uerecundia te uidere",
+    "es_ethimol": "mas dame el tu manto porque te pueda ver sin vergüença",
+    "es_leyendas": "mas dame el tu manto por que te pueda ver sin vergüença",
+    "ca_gesiot": "Mes dona·m lo teu mantell per so que eu veya sens vergonya la teva cara",
+    "ca_vides": "Mas dóna'm lo teu mantel per so que eu te veya senes vergoya la tua cara"
+  }
+],
+"014": [
+  {
+    "la_mirabile": "Qui se nominari audiens stupefactus pallium tribuit",
+    "es_ethimol": "E oyendo que le nonbrava, estava espantado e luego diole el manto",
+    "es_leyendas": "E él, oyendo que nonbrava, estando el abad arrecido, diol el manto",
+    "ca_gesiot": "E cant ell s’ausich nomenar per son nom, fo molt sbalahit e doná-li lo seu mantell",
+    "ca_vides": "E quant él se ausí enomenar fo molt esbalausit e donà-li lo seu mantel",
+    "pt_cta_v": "Quando o santo homẽ ouujo chamar per sseu nome foy muj espantado e lança a o maanto",
+    "pt_cta_w": "Quando o sancto zozimas ouuyo seer chamado per seu nome . ficou spantado e lança a o mãto"
+  }
+],
+    "018": [
+      {
+        "la_mirabile": "et in terram prostratus ut se benediceret rogauit",
+        "es_ethimol": "e echose a sus pies, e rogole que le diese su bendición",
+        "es_leyendas": "e echóse en tierra, e rogóle que le diese su bendición",
+        "ca_gesiot": "e gitá·s en terra, ela pregan que·l benesís",
+        "ca_vides": "e gitá's en terra, pregan ela que'l beneys",
+        "pt_cta_v":"E ficou os giolhos ẽ terra e Rogaua a que o benzesse",
+        "pt_cta_w":"e ficou os geolhos em terra . Rogando a que a beenzesse"
+      }
+    ],
+    "019": [
+  {
+    "la_mirabile": "Cui illa: «Ad te, pater, benedictio magis spectat quem sacerdotii dignitas ornat",
+    "es_ethimol": "Dixo ella: “Padre, tú deves a mí bendezir porque eres sacerdote",
+    "es_leyendas": "E díxole ella: «Padre, tú me deves bendizir porque eres sacerdote",
+    "ca_gesiot": "Per que ela li dix: «A tu s’esgarda, pare sant, benedicció mes que a mi per so car est ornat de dignitat de prevere",
+    "ca_vides": "Per qué ela li dix: A tu s'esgarda, pare sant, benedictió, més que a mi per so cor est ornat de dignitat de preveré",
+    "pt_cta_v": "e disse ella padre zozimas a ty cõpre mais beenzeres porque as ho ofiçio de saçerdote",
+    "pt_cta_w": "ella disse Padre zozimas . a ty conpre bẽẽnzer porque tu as offiço do sacerdocio"
+  }
+],
+"022": [
+  {
+    "la_mirabile": "Ille ut audiuit quod nomen et officium eius sciret",
+    "es_ethimol": "E él oyendo que ella le sabía el nonbre e él oficio",
+    "es_leyendas": "E él, veyendo que sabié su nonbre e el oficio",
+    "ca_gesiot": "E co ell ausís que ella sabia lo seu nom e·l seu offici",
+    "ca_vides": "On, con él ausís que ela saubia o seu nom e l seu ofici"
+  }
+],
+"023": [
+  {
+    "la_mirabile": "amplius mirabatur et se benedici obnixius precabatur",
+    "es_ethimol": "maravillose mucho, e por ende, rogávala afincadamente que le bendixese",
+    "es_leyendas": "más se maravillava, e por ende rogávale más afincadamente que le bendixese",
+    "ca_gesiot": "fo plus meravellat e pregá-la que·l benesís",
+    "ca_vides": "fo pus marevelat, e pregà-la que l benesís"
+  }
+],
+"024": [
+  {
+    "la_mirabile": "Tunc illa: «Benedictus deus redemptor animarum nostrarum»",
+    "es_ethimol": "Entonce dixo ella: “¡Bendito sea Dios, que bendixo las nuestras almas!”",
+    "es_leyendas": "E estonce dixo ella: «Bendicto seas de Dios, que redimió las nuestras almas».",
+    "ca_gesiot": "E adonchs ela li dix: «Benesige·t Deus, resemedor de les nostres animes»",
+    "ca_vides": "E adoncs ela dix: —Benesiga't Déus, qui és Resemedor de les nostres ànimes",
+    "pt_cta_w": "E ella disse Bẽẽnto seia o senhor deus Remydor das nossas almas",
+    "pt_cta_v": "beento seja o ssenhor deus Remijdor das nossas almas"
+  }
+],
+"026": [
+  {
+    "la_mirabile": "Cumque illa extensis manibus oraret, uidit eam quasi unius cubiti mensura eleuari a terra",
+    "es_ethimol": "E alçadas las manos contra el cielo, viola alçada de a tierra quanto un codo",
+    "es_leyendas": "E alçando las manos al cielo, orando, viola alçar de tierra quanto un cobdo",
+    "ca_gesiot": "E co el, ab les mas steses, orás, el veseg ela livar de terra .i. coude",
+    "ca_vides": "On con él' ab les mas esteses, oras, él vesec ela levar sobre en altesa d'u códeu",
+    "pt_cta_v": "e alçou as mãaos ao çeeo e começou horar, a uja elle lenuãtada no aar per espaço de hũũ couodo",
+    "pt_cta_w": "E leuãtou as mããos ao ceeo e começou orar, a vija el estar leuãtada de terra emno ããr acerca de hũũ couodo"
+  }
+],
+"027": [
+  {
+    "la_mirabile": "Tunc senex dubitare cepit ne forte spiritus esset et fingendo orationem faceret",
+    "es_ethimol": "Entonce Zózimas començó a dudar que era el diablo, e que fazía enfinta de oración",
+    "es_leyendas": "Estonce començo él a dudar por aventura si era diablo que fazía enfinta en orando",
+    "ca_gesiot": "E adoncs l’abat comensá a duptar e pensá·s que fos sperit e que·s mostrás que horás",
+    "ca_vides": "E adoncs l'abat m comensà a duptar e pensà-se que tos esperit, e que's mostrés que ores",
+    "pt_cta_v": "ẽtanto que começou ell a duujdar ca nom ssabia sse era spritu de fantisia que fingia que fazia horaçõ",
+    "pt_cta_w": "E emtãto começou o velho muyto duuydar cuydando que era fantasma e spirito mãao . e fingia fazer oraçom"
+  }
+],
+"027b": [
+  {
+    "la_mirabile": "Cui illa: «Satisfaciat tibi deus qui me peccatricem mulierem immundum spiritum existimasti",
+    "es_ethimol": "E ella dixo: “Perdónete Dios, padre, mas soy muger pecatriz que cuidas que soy diablo",
+    "es_leyendas": "e ella dixo: «Perdónete Dios, empero que só muger pecadriz porque cuedas que só el diablo",
+    "ca_gesiot": "Per que ela li dix: «A tu satisfassa Deus que mi, peccadora femna t’as pensat que sia non nedeu sperit",
+    "ca_vides": "Per quê ela li dix: —A tu satisfasa Déus que mi pecadora femna t'ás pensat que sia no-nèdeu esperit",
+    "pt_cta_v": "e disse lhe Nosso ssenhor te perdooe eu ssoom hũa molher pecador E nom ssoom spritu maao"
+  }
+],
+"031": [
+  {
+    "la_mirabile": "Tunc Zosimas illam per dominum coniurauit ut conditionem suam ei narrare deberet",
+    "es_ethimol": "Entonce Zózimas conjurola por Dios que le quisiese contar su fazienda",
+    "es_leyendas": "Estonce Zózimas conjuróla por Dios quel quisiese contar su fazienda",
+    "ca_gesiot": "E adonchs en Zosimas la conjurá per nostre Senyor que ela li degés comtar la seva condició",
+    "ca_vides": "E adoncs En Zòzimas la conjura per Nostre Seyor que ela li degés comtar la sua condició"
+  }
+],
+"033": [
+  {
+    "la_mirabile": "Cui illa: «Ignosce mihi, pater, quia si tibi statum meum narrauero, uelut a serpente territus fugies",
+    "es_ethimol": "Dixo ella: “Padre, perdóname, que si te yo contare el mi estado, fuirás de mí espantado commo de serpiente",
+    "es_leyendas": "E ella díxole: «Perdóname, padre, ca si yo te contare el mío estado, foirás espantado como de serpiente",
+    "ca_gesiot": "E ela li dix: «Perdona·m, pare, car, si eu te comtave lo meu stament, tu fugeries de mi axí con de serpent",
+    "ca_vides": "Ela li dix: —Perdona'm, pare, car si eu te comtava lo meu estament, tu't fugeries de mi com serpent",
+    "pt_cta_w": "Rogo te que me perdoes, Padre, sse começar a cõtar as mynhas obras fugiras de mỹ . assy como de serpente"
+  }
+],
+"037": [
+  {
+    "la_mirabile": "et aures tue a sermonibus contaminabuntur et aer a sordibus polluetur",
+    "es_ethimol": "E las tus orejas se ensuziarán con las mis palabras e el aire se ensuziará con las suziedades",
+    "es_leyendas": "e las tus orejas se enlijarién con las mis pallabras e el aire se enojarié con las mis suziedades",
+    "ca_gesiot": "e les teves aureles menyspresarien les mies peraules e l’ayre se solaria de les mies legeses",
+    "ca_vides": "e les tues aureles menyspresarien les mies páranles e l'ayre sa solaria per les mies leygesses"
+  }
+],
+    "039": [
+  {
+    "la_mirabile": "Cumque ille uehementer instaret dixit: «Ego sum, pater, in Egypto nata",
+    "es_ethimol": "E rogándola él muy afincadamente dixo ella: “Hermano, yo nací en Egipto",
+    "es_leyendas": "E rogándola él muy afincadamente dixo: «Hermano, yo nascí en Egipto",
+    "ca_gesiot": "Mes co el le·n conjurás molt ela dix: «Eu, frare, fuy nada en Egipte",
+    "ca_vides": "Mays con él la'n conjuràs molt ela li dix: —Eu, frare, fuy nada en Egipte"
+  }
+],
+    "043": [
+      {
+        "la_mirabile": "XII etatis mee anno Alexandriam ueni",
+        "es_ethimol": "e aviendo XII años vine a tierra de Alexandría",
+        "es_leyendas": "e aviendo doze años vin en Alexandria",
+        "ca_gesiot": "e, quant yo fuy en etat de .xii. anys, eu venguí en Alexandria",
+        "ca_vides": "e quant eu m:'fuy en etat de xii' ayns, eu venguí en Alexandria",
+        "pt_cta_w":"seendo eu em hydade de .xij. Annos .fuy me a Cijdade de aleyxandria"
+      }
+    ],
+    "044": [
+  {
+    "la_mirabile": "ibique XVII annis publice libidini me subieci et nulli ullatenus me negaui",
+    "es_ethimol": "e biví aí diez e siete años commo mala muger pública e nunca fue omne a quien me negase",
+    "es_leyendas": "Yo visqui XVII años commo mala muger pública e nunca fue omne a quien me negase mi cuerpo",
+    "ca_gesiot": "e aquí eu stey .xvii. anys peccan de mon cors publicament enaxí que en negun hom no·l negé",
+    "ca_vides": "e aquí eu esté xvii' ayns, pecan de mon cors públicament enayxí que a negun home no'l negue"
+  }
+],
+"045": [
+  {
+    "la_mirabile": "Cum autem homines regionis illius pro adoranda sancta cruce Iherosolimam ascenderent",
+    "es_ethimol": "E los omnes de aquella tierra yendo a Jherusalem para adorar la cruz",
+    "es_leyendas": "E los omnes de aquella tierra yendo a Jherusalem para adorar la Cruz",
+    "ca_gesiot": "E co·ls homes d’aquella region anassen en Jherusalem per la Crou adorar",
+    "ca_vides": "On co'ls homes d'aquela regió anassen en Jhcrusalcm per adorar la crou"
+  }
+],
+"046": [
+  {
+    "la_mirabile": "rogaui nautas ut me secum dimitterent proficisci",
+    "es_ethimol": "rogué a los marineros que me dexasen ir consigo",
+    "es_leyendas": "rogué a los marineros que me quisiesen levar consigo",
+    "ca_gesiot": "eu pregey los mariners que me·n portassen",
+    "ca_vides": "eu pregé los nautoners ini que me'n portassen"
+  }
+],
+    "047": [
+  {
+    "la_mirabile": "Cum uero me de naulo requirerent, dixi: Non habeo, fratres, aliud naulum, sed pro naulo habeatis corpus meum",
+    "es_ethimol": "e ellos demandáranme el flete de la nao e dixe: Yo, hermanos, non he ál que vos dar sino este mi cuerpo",
+    "es_leyendas": "e demandáronme el loguer de la nave e yo díxeles: Hermanos, non he ál que vos dar, salvo el mi cuerpo",
+    "ca_gesiot": "E co els me queressen lo nolit, eu los dixí: Sapiats, frares, que eu no ey res del cos enfora, e aquel me resebets per nolit",
+    "ca_vides": "E con éls me'n queregessen nòlit, eu lur dixí: Sapiatz, frares, que eu no é res, del cors enfora; e aquel resebetz per nòlit"
+  }
+],
+    "048": [
+      {
+        "la_mirabile": "Sicque me susceperunt et corpus meum nauli gratia habuerunt",
+        "es_ethimol": "E ansí me rescibieron en la nao, e por el flete ovieron el mi cuerpo",
+        "es_leyendas": "e así me rescibieron en la nave, que por alqueley de la nave ovieron el mi cuerpo",
+        "ca_gesiot": "E enaxí ells me reseberen e·l cos meu els preseren per nolit",
+        "ca_vides": "E enayxí éls me reseberen lo cors per nòlit"
+      }
+    ],
+    "049": [
+  {
+    "la_mirabile": "Cum autem Iherosolimam peruenissem et pro adoranda cruce usque ad fores ecclesie cum aliis deuenissem, subito et inuisibiliter repulsam patior nec intus intrare permittor",
+    "es_ethimol": "E quando llegué a Jerusalén e vine fasta la puerta de la Iglesia con los otros, para adorar la cruz, adesora non lo viendo, enpuxáronme fuera e non me dexaron entrar",
+    "es_leyendas": "E quando fui a la puerta de la iglesia con los otros para adorar la Cruz, a desora non lo veyendo me enpujaron e non me dexaron entrar",
+    "ca_gesiot": "E co eu fos venguda en Jherusalem per adorar la Santa Creu e vengés entró a les portes de la glesa ab los autres, soptament fuy luny gitada no vesiblament axí que de dins no poguí entrar",
+    "ca_vides": "E con eu fos venguda en Jherusalem per asorar la crou, e vengés entrò les portes de la glesa ab los autres, soptament fuy luyn gitada, no vesiblament ayxí que dins no poguí entrar"
+  }
+],
+"053": [
+  {
+    "la_mirabile": "Iterum autem atque iterum perueni usque ad limen ianue et subito iniuriam patiebar repulse",
+    "es_ethimol": "Esto prové por muchas vegadas, viniendo fasta el unbral de la puerta, adesora me enpuxavan fuera e non me dexavan entrar",
+    "es_leyendas": "e esto prové algunas vegadas en veniendo fasta el unbral de la puerta, e a desora me enpuxavan e non me dexavan entrar",
+    "ca_gesiot": "Enaprés autra vegada e altra eu aney entró a la porta, e soptament eu era molt luny gitada",
+    "ca_vides": "Enaprés autra vegada e altra eu ané entrò a la porta, e soptament eu era luyn gitada"
+  }
+],
+"055b": [
+  {
+    "la_mirabile": "Cum tamen omnes liberum haberent aditum nec aliquod inuenirent impedimentum",
+    "es_ethimol": "enpero que todos entravan e non avían ningunt enbargo",
+    "es_leyendas": "E todos los otros entravan e non avien ningún enbargo",
+    "ca_gesiot": "e·ls autres entraven de dins molt francament",
+    "ca_vides": "e is autres intraven dins francament"
+  }
+],
+"056": [
+  {
+    "la_mirabile": "rediens igitur ad me cogitans quod hoc mihi ob scelerum meorum immanitatem accideret",
+    "es_ethimol": "E con esta razón tornándome a mi e pensando en esto que me acaeciera, e que era por los mis pecados",
+    "es_leyendas": "E por ende, tornándome a mí misma e pesándome desto que me acaescié por mis pecados",
+    "ca_gesiot": "Per que eu me pensey que per mos peccats m’endevenia",
+    "ca_vides": "Per què eu me pensé que per mos pecatz m'endevenia"
+  }
+],
+    "058": [
+      {
+        "la_mirabile": "pectus meum cepi manibus tundere, lacrimas amarissimas fundere et a cordis intimo grauiter suspirare",
+        "es_ethimol": "comencé a ferirme en mis pechos, e llorar con grant amargura e sospirar muy fuertemente",
+        "es_leyendas": "enpecé a ferirme en los pechos e a llorar con grand amargura e ha sospirar muy fuertemente",
+        "ca_gesiot": "per que eu me ferí lo meu pits ab les mies mas, e plorey-me molt amargosament e sospiran mot fortment",
+        "ca_vides": "per què m feri lo meu pitz ab les mies mas, e ploré molt amargossament e sospiran molt fortment"
+      }
+    ],
+    "059": [
+      {
+        "la_mirabile": "Respiciensque uidi ibidem ymaginem beate uirginis",
+        "es_ethimol": "parando mientes a toda parte, vi estar una imagen de santa María",
+        "es_leyendas": "e, en catando, vi estar una imagen de santa María",
+        "ca_gesiot": "E axí co eu gardey, eu vi aquí la ymage de santa Maria",
+        "ca_vides": "E enayxí co eu gardé, eu vi aqui la ymaya de Senta Maria"
+      }
+    ],
+     "060": [
+      {
+        "la_mirabile": "Tunc ipsam lacrimabiliter exorare cepi ut peccatorum meorum ueniam impetraret",
+        "es_ethimol": "Entonce, comencela a rogar con muchas lágrimas que me ganase perdón de mis pecados",
+        "es_leyendas": "Estonce conpecela a rogar con muchas lágrimas que me ganase perdón de mis pecados",
+        "ca_gesiot": "per que eu la pregé que empetrás gracia e perdon de mos peccats",
+        "ca_vides": "per què eu la pregé que m'enpetrás perdó deis meus pecatz"
+      }
+    ],
+    "061": [
+      {
+        "la_mirabile": "et ad adorandam crucem sanctam me intrare permitteret",
+        "es_ethimol": "e que me dexase adorar la cruz",
+        "es_leyendas": "e que me dexase entrar adorar la Cruz",
+        "ca_gesiot": "e que pogués entrar dins la glesa per la Crou adorar",
+        "ca_vides": "e que pusqués intrar dins la glesa per la crou adorar"
+      }
+    ],
+    "062": [
+      {
+        "la_mirabile": "promittens me seculo abrenuntiaturam et de cetero caste mansuram",
+        "es_ethimol": "E prometiéndole que desanpararía el siglo e que manternía castidat",
+        "es_leyendas": "prometiéndole que desanpararía el siglo e que bivría doy más en castidat",
+        "ca_gesiot": "e promesí a Deu que eu viuria aprés castament",
+        "ca_vides": "e promesí a Déu que eu aprés viuria castament"
+      }
+    ],
+    "063": [
+  {
+    "la_mirabile": "Cumque hoc orassem et in nomine uirginis fiduciam recepissem, fores iterum ecclesie adii",
+    "es_ethimol": "E yo rogando esto e aviendo fiuzia en el nonbre de la Virgen, fue me otra vegada a la puerta de la iglesia",
+    "es_leyendas": "E yo, rogando esto, e aviendo fiuza en la Virgen, fuime otra vegada a la puerta de la iglesia",
+    "ca_gesiot": "E co eu la orás e en nom de la Verge resebés gran fiansa, autra vegada eu aney a les portes de la glesa",
+    "ca_vides": "On, con eu orés e en nom de la Verge resebés gran fiansa, autra vegada eu ané a les portes de la glesa"
+  }
+],
+    "064": [
+      {
+        "la_mirabile": "et sine aliquo impedimento ecclesiam intraui",
+        "es_ethimol": "e entré dentró sin enbargo ninguno",
+        "es_leyendas": "e entré dentro sin ningún enbargo del mundo",
+        "ca_gesiot": "e, senes tot enpaytament, eu entrey en la glesa",
+        "ca_vides": "e, senes tot enpaytament, eu entré en la glesa"
+      }
+    ],
+    "065a": [
+      {
+        "la_mirabile": "Cum autem sanctam crucem deuotissime adorassem",
+        "es_ethimol": "E adorando la santa cruz con grant devoción",
+        "es_leyendas": "E adorando con grand devoción la santa Cruz",
+        "ca_gesiot": "E co eu devotament adorás la santa Crou",
+        "ca_vides": "On, con eu devotament adorés la crou"
+      }
+    ],
+    "066": [
+      {
+        "la_mirabile": "quidam mihi tres nummos tribuit, de quibus tres panes emi",
+        "es_ethimol": "vino uno e diome tres dineros, de que compré tres panes",
+        "es_leyendas": "diome un omne bueno tres dineros, de que conpré tres panes",
+        "ca_gesiot": "un home me doná .iii. dines, dels quals eu comprey tres pans",
+        "ca_vides": "un home me donà .iii. diners, dels quals eu compré .iii. pans"
+      }
+    ],
+    "067": [
+      {
+        "la_mirabile": "Audiuique uocem dicentem mihi: ‘Si Iordanem transieris salua eris’.",
+        "es_ethimol": "Entonce, oí una boz que me dixo: ‘Si pasares el río de Jordán serás salva’.",
+        "es_leyendas": "e oí una boz que me dixo: \"Si pasares el Jordán serás salva\".",
+        "ca_gesiot": "E ausí una vou a mi disent: ‘Si tu passas flum Jordá, salva serás’.",
+        "ca_vides": "E ausí una vou, a mi dient, Si tu passes flum Yordà, salva serás"
+      }
+    ],
+   "068": [
+  {
+    "la_mirabile": "Iordanem igitur transiui et in hoc desertum ueni",
+    "es_ethimol": "E yo, por ende, pasé el río Jordán e vine en el desierto que agora estó",
+    "es_leyendas": "E por ende pasé el Jordán e vine en este desierto",
+    "ca_gesiot": "Per que eu passey flum Jordá e vengí en aquest desert",
+    "ca_vides": "Per qué eu passé flum Yordà e venguí en aquesl desert"
+  }
+],
+    "069": [
+      {
+        "la_mirabile": "ubi XLVII annis nullum penitus hominem uidens mansi",
+        "es_ethimol": "do moré quarenta e siete años que nunca vi omne del mundo",
+        "es_leyendas": "do moré Ya quarenta VII años á que nunca vi omne del mundo",
+        "ca_gesiot": "en lo qual eu ey stat .xlvii. anys que no ych vi null home",
+        "ca_vides": ", en lo qual é eu estat 'xl'vii' ayns que no ic viu nul home"
+      }
+    ],
+    "070": [
+  {
+    "la_mirabile": "Illi autem tres panes quos mecum detuli instar lapidis per tempora duruerunt",
+    "es_ethimol": "E aquellos tres panes que truxe comigo endurescieron en manera de piedra",
+    "es_leyendas": "e aquellos tres panes que aduxe comigo endurecieron en manera de piedra",
+    "ca_gesiot": "E aquels .iii. pas que eu me·n aporté tornaren axí durs com a pera",
+    "ca_vides": "E aquels .iii. pans que eu me n'aporté tornaren ayxí durs con a péres"
+  }
+],
+"072": [
+      {
+        "la_mirabile": "et XVII annis mihi ex hiis comedens suffecerunt",
+        "es_ethimol": "e cunpliéronme dies e siete años comiendo muy poco dellos",
+        "es_leyendas": "e cunplieron diez e siete años comiendo dello poco a poco",
+        "ca_gesiot": "e duraren-me .xvii. anys"
+      }
+    ],
+     "073": [
+      {
+        "la_mirabile": "uestimenta autem mea iamdudum putrefacta sunt",
+        "es_ethimol": "E las mis vestiduras tienpo ha que son ronpidas",
+        "es_leyendas": "E las mis vestiduras ya pieça á que son ronpidas",
+        "ca_gesiot": "E·ls meus vestiments son poyrits lonch temps ha",
+        "ca_vides": "e is meus vestimens són podritz lonc temps ha"
+      }
+    ],
+     "073a": [
+  {
+    "la_mirabile": "XVII annis in hoc deserto a temptationibus carnalibus molestata fui",
+    "es_ethimol": "Diez e siete años ha que sufro tentaciones de la carne en este disierto",
+    "es_leyendas": "Diez e siete años ha que sufro muchas tenptaciones de la carne en este desierto",
+    "ca_gesiot": "E per .xvii. anys eu sostenguí carnals temptacions",
+    "ca_vides": "E per 'xvii' ayns eu sofrí carnais temtacions"
+  }
+],
+    "074": [
+      {
+        "la_mirabile": "sed nunc per dei gratiam omnes uici",
+        "es_ethimol": "enpero que todas las vencí con la gracia de Dios",
+        "es_leyendas": "pero que todas las vencí con la gracia de Dios",
+        "ca_gesiot": "mes per la gracia de Deu totes les vensé",
+        "ca_vides": "mas per la gràcia de Déu totes les vensé"
+      }
+    ],
+    "075": [
+  {
+    "la_mirabile": "Ecce, omnia opera mea narraui tibi et rogo ut pro me ad deum preces fundas",
+    "es_ethimol": "Évate, agora que te he contado todas mis obras, por ende, pídote por mercet que ruegues a Dios por mí",
+    "es_leyendas": "Evas que he contado todas mis obras e pídote por merced que ruegues a Dios por mí",
+    "ca_gesiot": "Vec-te que totes les mies obres t’e comtades e prech-te que tu prechs Deus per mi",
+    "ca_vides": "Vec-te que totes les mies obres t'é comtades e prec-te que tu precs Déus per mi"
+  }
+],
+
+"076": [
+  {
+    "la_mirabile": "Tunc senex in terram prostratus in famula sua dominum benedixit",
+    "es_ethimol": "Entonce el abat cayó en tierra e rogó a Dios por esta su sierva",
+    "es_leyendas": "Estonce el viejo, cayendo en tierra, bendixo a Dios en esta su sierva",
+    "ca_gesiot": "E adonchs lo sant baró se gitá en terra e benesí Deus",
+    "ca_vides": "E adoncs lo sant home se gità en terra e benesic Déus"
+  }
+],
+    "077": [
+  {
+    "la_mirabile": "Cui illa: Obsecro te ut in die dominice cene ad Iordanem redeas et corpus domini feras",
+    "es_ethimol": "Díxole ella: Ruégote que el jueves de la cena que tornes al río de Jordán e que traigas el cuerpo de Dios",
+    "es_leyendas": "e díxole ella: Ruégote quel jueves de la Cena que te tornes a Jordán e que adugas el cuerpo de Dios",
+    "ca_gesiot": "E enaprés lo pregá que en lo dia de la Cena el tornás al flum Jordá e que portás lo cors de Jhesú Christ",
+    "ca_vides": "lo pregà que el, lo dia de la Cena, él retornés a flum Jordà e portés lo cors de Jhesuchrist"
+  }
+],
+    "078b": [
+      {
+        "la_mirabile": "Ego ibidem tibi occurram et de manu tua corpus sacrum suscipiam",
+        "es_leyendas": "ca yo y verné a ti e tomaré el cuerpo de Dios de la tu mano",
+        "ca_gesiot": "e que ela venria aquí ad ell e resebria lo cors sagrat de les seves mas",
+        "ca_vides": "e que ela venria aquí a él e resebria lo cors sagrat de les sues más"
+      }
+    ],
+    "079": [
+      {
+        "la_mirabile": "Nam a die qua huc ueni communionem domini non accepi",
+        "es_ethimol": "Ca, después que acá vine nunca comulgué",
+        "es_leyendas": "ca después que aquí vin nunca comulgué",
+        "ca_gesiot": "Car d’aquel dia ensá que fuy aysí eu no resebí comunió",
+        "ca_vides": "Cor d'aquel dia ensà que eu fuy aysí, no resebí cominyó"
+      }
+    ],
+    "080": [
+      {
+        "la_mirabile": "Rediens igitur senex ad monasterium",
+        "es_ethimol": "E él tornose al su monesterio",
+        "es_leyendas": "E él tornóse a su monesterio",
+        "ca_gesiot": "Per que l’abat se·n torná al monastir",
+        "ca_vides": "Per qué l'abat se'n tornà al monestir"
+      }
+    ],
+     "081": [
+      {
+        "la_mirabile": "euoluto anno dum dies dominice cene appropinquaret, tulit corpus dominicum",
+        "es_ethimol": "E quando vino el jueves de la cena, tomó el cuerpo de Dios",
+        "es_leyendas": "e a cabo de un año viniendo el día de la Cena, tomó el cuerpo de Dios",
+        "ca_gesiot": "e l’any passat prop del dia de la Cena, el aportá lo cors de Deu",
+        "ca_vides": "En l'ayn pasat, prop del dia de la Cena, él aporta lo cors de Déu"
+      }
+    ],
+    "082": [
+      {
+        "la_mirabile": "et usque ad ripam Iordanis ueniens ex alia ripa mulierem stantem prospexit,",
+        "es_ethimol": "e viniendo al río de Jordam, vio de la otra parte estar la muger",
+        "es_leyendas": "e viniendo a la ribera de Jordán vio de la otra parte la muger estar",
+        "ca_gesiot": "e vench entró a la riba del flum Jordá. E vesech que la femna era en l’autra riba",
+        "ca_vides": "e venc entró a la riba de flum Yordà, e vesec que la femna era en l'autra riba"
+      }
+    ],
+    "083": [
+  {
+    "la_mirabile": "que super aquas facto crucis signaculo iuit et ad senem usque peruenit",
+    "es_ethimol": "e faziendo ella la señal de la cruz, sobre las aguas andudo sobre ellas e vino fasta do estava el abad",
+    "es_leyendas": "e faziendo la señal de la cruz sobre las aguas, andudo sobrellas e vino fasta el viejo",
+    "ca_gesiot": "e feu lo senyal de la crou sobre l’ayga e peu exut ela vench entró al sant home",
+    "ca_vides": "E feu lo seyal de la crou sobre l'ayga e, peu exut, ela vene entró al sant home"
+  }
+],
+   "084": [
+  {
+    "la_mirabile": "Quod uidens senex obstupuit et ad pedes eius humiliter se prostrauit",
+    "es_ethimol": "E él viendo esto, maravillose mucho e echose a sus pies con grande humildat",
+    "es_leyendas": "e él, veyéndolo, maravillóse mucho e echóse a sus pies con grand humildat",
+    "ca_gesiot": "E quant el ho vesech, fo molt sbalesit, per que als seus peus humilment se gitá",
+    "ca_vides": "E quant él o vesec, fo molt esbalausit, per qué als seus peus umilment se gità"
+  }
+],
+   "085": [
+      {
+        "la_mirabile": "Cui illa: Vide ne feceris cum sacramenta dominica penes te habeas et sacerdotii dignitate refulgeas",
+        "es_ethimol": "Dixo ella: Cata non lo fagas porque tienes el sacramento de Dios contigo e eres sacerdote",
+        "es_leyendas": "E dixo ella: Cata non lo fagas, porque eres sacerdote e tienes el sacramento",
+        "ca_gesiot": "E ella dix-li: No fasses que·l cors de Deu portes ab tu e resplandexs per la tua dignitat de prevera",
+        "ca_vides": "E ela dix-li: N'o fases: que l cors de Déu portes ab tu e resplandex per la tua dignitat de preveré"
+      }
+    ],
+   
+    "087": [
+      {
+        "la_mirabile": "sed obsecro ut sequenti anno ad me redire digneris",
+        "es_ethimol": "Mas ruégote que quieras al otro año tornar a mí",
+        "es_leyendas": "Mas ruégote que al otro año que quieras tornar a mí",
+        "ca_gesiot": "E prech-te que lo segent any tornes a mi",
+        "ca_vides": "E prec-te que en lo segén ayn tornes a mi"
+      }
+    ],
+    "088": [
+  {
+    "la_mirabile": "Tunc illa facto signo crucis super Iordanis aquas iuit et heremi solitudinem petiuit",
+    "es_ethimol": "E pasó sobre el agua del río de Jordam e fuese para el yermo",
+    "es_leyendas": "Estonce fizo la señal de la cruz e pasó sobre el agua e fue para el yermo",
+    "ca_gesiot": "E feu lo senyal de la crou e aná sobre l’ayga peu exut e tornas-se·n en l’armitatge",
+    "ca_vides": "E féu lo seyal de la crou, e ana sobre l'ayga, peu exut, e torná-sse'n a l'ermitatye"
+  }
+],
+    "089": [
+      {
+        "la_mirabile": "Senex uero ad suum monasterium rediens",
+        "es_ethimol": "E el abad tornose a su monesterio",
+        "es_leyendas": "e el viejo tornóse a su monesterio",
+        "ca_gesiot": "l’abat se·n torná al seu monastir",
+        "ca_vides": "E l'abat torná-sse'n al seu monestir"
+      }
+    ],
+    "090": [
+  {
+    "la_mirabile": "sequenti anno ad locum in quo primo secum locutus fuerat uenit et eam ibidem expirasse reperit",
+    "es_ethimol": "Después, en el otro año, vínose para aquel lugar mismo e fallola aí muerta",
+    "es_leyendas": "E vino al otro año a aquel mesmo lugar e fallóla ai muerta",
+    "ca_gesiot": "En lo seguent any el torná en aquel loch meteys e trobá ela aquí meteix morta",
+    "ca_vides": "En lo segén ayn él tornà en aquel loc metex e trobà ela, aquí meteyx, morta"
+  }
+],
+    "091": [
+  {
+    "la_mirabile": "Qui lacrimare cepit et ipsam tangere non presumpsit",
+    "es_ethimol": "E començola de llorar e non la osó tomar",
+    "es_leyendas": "e enpeçó a llorar e non la osó tañer",
+    "ca_gesiot": "Per que plorá e no la gausá tocar",
+    "ca_vides": "Per quês plorà e no la gausà tocar"
+  }
+],
+"094": [
+  {
+    "la_mirabile": "Dixitque intra se: Ego quidem corpusculum sancte sepelire uolebam sed timeo ne hoc sibi displiceat",
+    "es_ethimol": "e dixo entre sí: Yo quería enterrar el su cuerpo mas he miedo que le pesara",
+    "es_leyendas": "E dixo entre sí: Querría enterrar este cuerpo mas he miedo que le pesara",
+    "ca_gesiot": "e dix entressí: Eu volria lo cos de la santa sebelir mes tem-me que no li desplasia",
+    "ca_vides": "e dix entre si: Eu volria lo cors de la santa sebelir mays tem-me que no li desplasa"
+  }
+],
+   "095": [
+  {
+    "la_mirabile": "Hoc eo cogitante uidit iuxta caput suum litteras in terra descriptas ita continentes: Sepeli, Zosima, Marie corpusculum",
+    "es_ethimol": "E él pensando en esto, vio a su cabeça unas letras escriptas que dizían ansí: Zózimas, entierra el cuerpo de María",
+    "es_leyendas": "E él pensando esto, vio a su cabeça letras escriptas en tierra que dizién así: Zózimas, entierra el cuerpo",
+    "ca_gesiot": "E enaxí co el so pensava el vesech costa lo seu cap letres scrites en terra que volien dir: O Zosimas, sebeleys lo cos de Maria",
+    "ca_vides": "E'nayxí con él se pensava aysò, el vesec costa lo cap letres en terra escritos que volien dir: O Zózima, sebeleys lo cors de Maria"
+  }
+],
+    "096": [
+  {
+    "la_mirabile": "Redde terre puluerem suum et ora pro me ad dominum ad cuius preceptum secunda die Aprilis reliqui hoc seculum",
+    "es_ethimol": "e da el polvo a la tierra, e ruega a Dios por mí, que me mandó salir deste mundo el segundo día de abril",
+    "es_leyendas": "e da el polvo a la tierra cuyo es, e ruega por mí a Dios, que me mandó sallir deste mundo dos días de abril",
+    "ca_gesiot": "Ret a la terra la seva polvera e prega per ela nostre Senyor, al manament del qual ela desempará en lo segon dia d’abril aquest segle",
+    "ca_vides": "Ret a la terra la sua pólvera e prega per ela Nostre Seyor. Al manament del qual ela desemparà en lo segon dia d'abril aquest segle"
+  }
+],
+    "097": [
+  {
+    "la_mirabile": "Tunc senex pro certo cognouit quia mox ut domini sacramenta accepit et ad desertum rediit uitam finiuit",
+    "es_ethimol": "Entonce el abad conosció por cierto que, luego que el cuerpo de Dios tomó, e se fue al disierto, que luego salió de este mundo",
+    "es_leyendas": "Estonce conosció el viejo por cierto que luego que tomó el cuerpo de Dios e que se tornó al desierto que aquella ora sallió deste mundo",
+    "ca_gesiot": "E adonchs l’abat conech per sert que, aprés que ela ac resebut lo sagrament e al desert se·n torná, que fení la sua vida",
+    "ca_vides": "E adoncs l'abat conec per cert que aprés que ela ac resebut lo sagrament e al desert se'n tornà, que fení la sua vida"
+  }
+],
+   "098": [
+  {
+    "la_mirabile": "illudque desertum quod Zosimas per XXX dierum spatia uix ambulauit illa in una hora percurrit et ad deum migrauit",
+    "es_ethimol": "E del disierto, que malabes anduvo Zózimas en treinta días, andúvolo ella en una ora e fuese para Paraíso",
+    "es_leyendas": "E del desierto que malabés le andudo Zózimas en treita días, e ella andúdolo en una ora e fuese para Paraíso",
+    "ca_gesiot": "E aquel desert per .xxx. dies l’abat apenes lo poch passar, mes ela lo passá en un dia e a Deu se·n aná",
+    "ca_vides": "Aquel desert a penes l'abat lo poc passar en 'xxx' dies, mas la santa femna lo passa en un dia e a Deu se n'aná"
+  }
+],
+"099": [
+  {
+    "la_mirabile": "Cumque senex terram foderet sed nequiret, uidit leonem ad se uenientem mansuete",
+    "es_ethimol": "E queriendo el viejo cavar la tierra e non pudiendo, vino un león muy manso",
+    "es_leyendas": "E queriendo el viejo cavar la tierra e non podiendo, vio un león que vinié a él muy manso",
+    "ca_gesiot": "E co lo sant abat li volgés fer lo vas, el veseg un lahó pans qui vench ad ell",
+    "ca_vides": "E co lo sant abat li volgés fer lo vas, él veé venir 'i' leo pans envés si"
+  }
+],
+ "100": [
+  {
+    "la_mirabile": "Dixitque illi: «Sancta hec mulier precepit sepeliri corpus suum et ego, cum sim senex, fodere non possum nec etiam aptum habeo ferramentum",
+    "es_ethimol": "e díxole Zózimas: “Aquesta santa me mandó que enterrase el su cuerpo, mas yo, commo só viejo, non puedo cavar sin estrumento",
+    "es_leyendas": "e díxol: «Esta muger me dixo e mandó que enterrase su cuerpo, mas yo porque só viejo non puedo, nin tengo instrumento para ello",
+    "ca_gesiot": "E dix-li: «Aquesta santa femna maná sebelir lo seu cos, mes, co eu sia vel, no pusch fer ni no ey ferrament ab que puscha fer",
+    "ca_vides": "e dix-li: —Aquesta femna maná sebelir lo cors seu, mas con eu sia vel, no o puse fer ni no ey ferrament ab que puscha fer"
+  }
+],
+    "101": [
+  {
+    "la_mirabile": "Tu ergo terram fode ut possimus eius corpus sanctissimum sepelire",
+    "es_ethimol": "por ende, tú, con las tus manos, cava la tierra porque la podamos enterrar",
+    "es_leyendas": "E por ende tú cava la tierra por que lo pueda acabar",
+    "ca_gesiot": "Per que tu cava la terra, per so que puscam lo seu cos sebelir",
+    "ca_vides": "Per qué tu cava la terra, per so que puscam lo seu cors sant sebelir"
+  }
+],
+"102": [
+  {
+    "la_mirabile": "Tunc leo cepit fodere et aptam foueam preparauit",
+    "es_ethimol": "Entonce el león començó de cavar la tierra, e fizo muy buena sepultura",
+    "es_leyendas": "E fizo muy buena fuesa",
+    "ca_gesiot": "E adonchs lo lahó comensá a cavar e fe-li molt covinent vas",
+    "ca_vides": "E adons lo laó comensà a cavar, e féu-li molt covinent vas"
+  }
+],
+   "106": [
+  {
+    "la_mirabile": "Quo peracto leo ut agnus mansuetus abiit",
+    "es_ethimol": "El león, luego que lo ovo fecho, bien ansí commo cordero manso, fuese su carrera",
+    "es_leyendas": "e el león, luego que lo ovo fecho, bien como cordero manso fue su carrera",
+    "ca_gesiot": "E quant l’ach feyt, lo lahó, axí co anyel, pansament se·n aná",
+    "ca_vides": "E quant ac feyt, a co anyel se n'aná pansament"
+  }
+],
+"108": [
+  {
+    "la_mirabile": "et senex ad suum monasterium glorificans deum uenit",
+    "es_ethimol": "E el abat, alabando a Dios, fuese a su monesterio",
+    "es_leyendas": "El viejo, loando a Dios, tornóse a su monesterio",
+    "ca_gesiot": "e·l vel se·n aná al monestir lausan Deu",
+    "ca_vides": "e'l vel se'n torna al monestir, Déu lausan bonament"
+  }
+    ]
+  }
+}

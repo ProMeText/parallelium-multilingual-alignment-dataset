@@ -14,7 +14,7 @@ Unlike many modern corpora, this dataset exposes models to:
 
 This makes it particularly suitable for studying **robust multilingual representations** in historical and pre-standardized textual settings, in conditions that differ significantly from modern benchmarks.
 
----
+
 
 ## Why This Dataset?
 
@@ -37,7 +37,7 @@ Existing resources are often:
 
 This project provides a **curated multilingual alignment dataset** combining scriptural materials and medieval prose, designed to support cross-lingual representation learning, LaBSE fine-tuning, and robustness evaluation on historical textual data.
 
----
+
 
 ## From Scriptural Parallel Corpora to Narrative Prose
 
@@ -63,7 +63,7 @@ The prose dataset extends this setting to more structurally variable narrative t
 
 Together, these resources support the study of multilingual textual alignment across both highly standardized parallel corpora and more divergent narrative prose.
 
----
+
 
 ## Language Coverage
 
@@ -86,7 +86,6 @@ Latin · Medieval Latin
 
 Including Greek (Septuagint) and Arabic
 
----
 
 ## Data Documentation
 
@@ -104,7 +103,6 @@ Detailed documentation for each corpus is available in the `docs/` directory, wh
 
 Because the repository combines different types of aligned material, corpus-level documentation should be consulted for details on structure, coverage, sources, and licensing constraints.
 
----
 
 ## Objective and Use Cases
 
@@ -133,13 +131,11 @@ This dataset is intended for computational experiments in multilingual represent
 
 It is not a substitute for philological alignment, critical editing, or scholarly textual collation. During manual alignment, textual segments may be adjusted or non-alignable material may be omitted.
 
----
 
 ## Status
 
 This repository is under development. Corpus coverage, metadata, and alignment files may be updated as new texts become available or as existing alignments are revised.
 
----
 
 ## Contributing
 
@@ -151,7 +147,6 @@ You can contribute by:
 - providing usable source texts or witnesses for additional languages and textual traditions
 - submitting a pull request with corrections, new alignments, new texts, or documentation improvements
 
----
 
 ## Related Projects
 
@@ -163,7 +158,6 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 - [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data)  
   Source texts and segmented versions in multiple medieval Romance languages, as well as Latin and English, used for training and evaluating clause segmentation models.
 
----
 
 ## Citation
 
@@ -177,16 +171,15 @@ Please cite the repository when using the dataset, alignment metadata, or derive
   howpublished = {GitHub repository}
 }
 ```
----
 
 ## License
 
 The alignment metadata produced for this dataset are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise specified.
 
 > ⚠️ Some **source texts**—including certain medieval Bible translations, the Qur’anic corpus, and some critical editions—are **not redistributed** in this repository due to third-party copyright restrictions.  
+
 > Please refer to the documentation or the original editions for licensing information on specific versions.
 
----
 
 ## Funding
 

@@ -1,0 +1,49 @@
+,Medieval multilingual parallel corpus,,,,,,,,
+id,work,text or edition,witness,date,genre,languages,type,source_edition,source_witness
+,Marco Polo - Devisement dou monde,Le Devisement dou monde,"Paris, Bnf, fr. 1116",14th c.,travel narrative,fro_it,edition,https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-224-6/,https://gallica.bnf.fr/ark:/12148/btv1b9059312q
+,Marco Polo - Devisement dou monde,Libre de les prouincies e de les encontrades …,"Florence, Biblioteca Riccardiana, Ricc. 2048",14th c.,travel narrative,ca,edition,iris.unive.it/retrieve/d3017f24-56d2-4589-9227-462151b2a60d/810495-1175685.pdf,
+,Marco Polo - Devisement dou monde,Le liure des prouinses et des encontrees …,"Vatican, Biblioteca Apostolica Vaticana, Ott. Lat. 2207",14th c./ 15th c.,travel narrative,fr ,edition,iris.unive.it/retrieve/d3017f24-56d2-4589-9227-462151b2a60d/810495-1175685.pdf,https://digi.vatlib.it/view/MSS_Ott.lat.2207/0001
+,Marco Polo - Devisement dou monde,El libro de Marco Polo cuidadano de Venecia,"Madrid, Real Biblioteca de l’Escorial, Z. I. 2",14th c.,travel narrative,an,edition,iris.unive.it/retrieve/d3017f24-56d2-4589-9227-462151b2a60d/810495-1175685.pdf,
+,Marco Polo - Devisement dou monde,The most noble and famous trauels of Marcus Paulus …,,1579,travel narrative,en,edition,https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A09829.0001.001 https://archive.org/details/mostnoblefamoust00polo/page/2/mode/1up,
+,Marco Polo - Devisement dou monde,,"Salamanca, Biblioteca General Histórica de la Universidad de Salamanca, 32573(1)",1518,travel narrative,es,edition,https://www.hispanicseminary.org/t&c/geo/index-en.htm,https://gredos.usal.es/handle/10366/120442
+,Marco Polo - Devisement dou monde,Ho livro de Marco Paulo de veneza das condiçoões e custumes das gentes e das terras eprouincias orientaes,"Lisboa, BNP, F 1408",1502,travel narrative,pt,edition,https://archive.org/details/marcopauloolivr00polo/page/n7/mode/2up,https://purl.pt/14703
+,Marco Polo - Devisement dou monde,"Il Milione
+","Roma, Biblioteca Sant’Alessio
+Falconieri, ms Alexianus I,3
+",15th c.,travel narrative,it,edition,https://edizionicafoscari.unive.it/it/edizioni4/riviste/transcript/2023/2/il-milione-del-ms-alexianus-i3-della-biblioteca-sa/,
+,Marco Polo - Devisement dou monde,"Dei Viaggi di Messer Marco Polo, Gentilhuomo Venetiano","Padova, Biblioteca Capitolare, 500.C5.4",1559,travel narrative,it,edition,https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-901-6/#evt-content,
+,Marco Polo - Devisement dou monde,Il Milione,"Berlin, Staatsbibliothek, ms Hamilton 424",1470,travel narrative,vec,edition,https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-322-9/,
+,Marco Polo - Devisement dou monde,Il Milione,"Padova, Biblioteca civica, ms. CM 211",,travel narrative,vec,edition,https://risorse-esterne.edizionicafoscari.it/testi_completi/VA_marcato-main.html,
+,Marco Polo - Devisement dou monde,Il Milione,"Venezia, Civico Museo Correr, ms. Donà dalle Rose 224",15th c.,travel narrative,vec,edition,https://risorse-esterne.edizionicafoscari.it/testi_completi/VB_marcato-main.html,
+,Marco Polo - Devisement dou monde,Liber domini Marchi Pauli de Veneciis de condicionibus et consuetudinibus orientalium regionum,"Firenze, Bibl. Riccardiana 983",,travel narrative,la ,edition,https://risorse-esterne.edizionicafoscari.it/testi_completi/P_marcato-main.html,
+,Marco Polo - Devisement dou monde,Liber qui vulgari hominum dicitur Elmeliole o Liber domini Marchi Paulo de Venetiis,,15th c.,travel narrative,la,edition,https://risorse-esterne.edizionicafoscari.it/testi_completi/L_marcato-main.html,
+,Marco Polo - Devisement dou monde,,"Toledo, Biblioteca capitular, 49.20 Zelada",15th c.,travel narrative,la,edition,https://risorse-esterne.edizionicafoscari.it/testi_completi/Z_marcato-main.html,
+,Legenda aurea,Flos sanctorum catalano,,,hagiography,ca,edition,"Gesiot, Jacopo, 2014, Il Flos sanctorum catalano,  Eliphi",copyrighted
+,Legenda aurea,Vides de sants rosselloneses,,,hagiography,ca,edition,https://www.larramendi.es/es/consulta/registro.do?id=29495,
+,Legenda aurea,El Flos sanctorum con sus ethimologías.,,,hagiography,es,edition,https://digibuo.uniovi.es/dspace/handle/10651/13023,https://www.loc.gov/item/75533436/
+,Legenda aurea,La Leyenda de los santos ,"Santander, Biblioteca de Menéndez Pelayo, ms. 8
+",15th c.,hagiography,es,edition,https://www.cervantesvirtual.com/obra/la-leyenda-de-los-santos--flos-sanctorum-del-ms-8-de-la-biblioteca-de-menendez-pelayo--fernando-banos-vallejo-isabel-uria-maqua/,
+,Legenda aurea,Transcripción de las vidas de santas (exclusivamente) del Flos sanctorum,"Madrid, BNE, ms. 780",,hagiography,es,transcription,https://www.cervantesvirtual.com/obra/transcripcion-de-las-vidas-de-santas-exclusivamente-del-flos-sanctorum-ms-780-de-la-biblioteca-nacional-de-espana/,
+,Legenda aurea,"Transcripción de las vidas de santas (exclusivamente) del Flos sanctorum
+","Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, ms. H-II-18",,hagiography,es,transcription,https://www.cervantesvirtual.com/obra/transcripcion-de-las-vidas-de-santas-exclusivamente-del-flos-sanctorum-ms-h-ii-18-de-la-real-biblioteca-del-monasterio-de-san-lorenzo-de-el-escorial/,
+,Legenda aurea,"La Legenda aurea in volgare. Prove di edizione critica
+della versione fiorentina",,,hagiography,it,edition,https://www.academia.edu/31101722/La_Legenda_aurea_in_volgare_Prove_di_edizione_critica_della_versione_fiorentina,copyrighted
+,Legenda aurea,Legenda aurea,,,hagiography,la,edition,https://mdl.mirabileweb.it/text/8/165/Opere/108,
+,Legenda aurea,Legenda aurea,,,hagiography,pro,edition,https://www.rialto.unina.it/prose_religiose_cat/legenda-aurea/,
+,Legenda aurea,Flos sanctorum ,,,hagiography,pt,edition,http://teitok.clul.ul.pt/teitok/cta/index.php?action=file&id=M1567T1416.xml,
+fr_trois_vertus,Le livre des troys vertuz a l'enseignement des dames,Le livre des troys vertuz a l'enseignement des dames,,,Didactic Literature,fr,edition,https://www.gutenberg.org/cache/epub/26608/pg26608-images.html,
+pt_tres_vertudes,Le livre des troys vertuz a l'enseignement des dames,Livro das tres vertudes a inssinança das damas,"Madrid, BNE, ms. 11515",15th c.,Didactic Literature,pt,edition,http://teitok.clul.ul.pt/teitok/cta/index.php?action=file&id=M1036T1026.xml,
+pt_espelho_cristina,Le livre des troys vertuz a l'enseignement des dames,Espelho de Cristina,Biblioteca do Paço Ducal de Vila Viçosa. BDMII50.,1518,Didactic Literature,pt,edition,http://teitok.clul.ul.pt/teitok/cta/index.php?action=file&id=C10079T10018.xml,
+es_eust,La vie de Saint Eustace,Historia del caballero Placidas,"Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, h.I.13",,Exemplum,es,edition,https://textred.spanport.wisc.edu/chivalric/textsoriginal/hcp-text.txt,
+fr_eust,La vie de Saint Eustace,La vie de Saint Eustace,"Paris, BnF, fr. 2464",13th c.,Exemplum,fr,edition,https://gitlab.huma-num.fr/bfm/bfm-textes-diffusion/-/blob/main/TXT/SEustPr1.txt?ref_type=heads,
+fr_melusine,Mélusine,Mélusine,"Paris, Arsenal, 3353 ",15th c.,chivalric romance,fr,edition,http://txm.ish-lyon.cnrs.fr/bfm/catalog/melusine,
+es_melusine,Mélusine,Historia de la linda Melosina,"New York, Hispanic Society of America",,chivalric romance,es,edition,https://textred.spanport.wisc.edu/chivalric/textsoriginal/mel-text.txt,https://textred.spanport.wisc.edu/chivalric/melosina%20images%20hsa/mel%20hsa.htm
+en_melusine,Mélusine,"Melusine, Corpus of Middle English Prose and Verse",,,chivalric romance,en,edition,https://quod.lib.umich.edu/cgi/t/text/text-idx?c=cme;idno=Melusine,
+es_cge,Estoria de Espanna,Estoria de Espanna,"Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, Y-I-2.",12th c. ,chronicle,es,edition,https://www.hispanicseminary.org/t&c/ac/ee1/txt-ee11.htm,https://rbdigital.realbiblioteca.es/s/realbiblioteca/item/2527
+pt_cge,,Crónica Geral de Espanha,,14th c.,chronicle,pt,edition,,https://data.biblissima.fr/w/Item:Q51637
+fr_tresor,Livre dou Trésor,Li livres dou Tresor,BNF Fr 571,14th c.,encyclopedia,fr,transcription,https://www.comma.inria.fr/doc/https%3A%2F%2Fdata.biblissima.fr%2Fentity%2FQ51637/p/f14-6r,
+arag_tresor,Livre dou Trésor,Libro del Tesoro,"Girona | Archivo de la Catedral de Girona | 20,a,5.",15th c.,encyclopedia,aragonese,transcription,https://github.com/hispanicseminary/OSTA/blob/main/transcriptions/TEXT.LAT.txt,
+lat_Gdr,De Regimine Principum,De Regimine Principum,Edition Rome 1607 ,17th,Didactic Literature,lat,transcription,N/A,
+es_Gdr,De Regimine Principum,Regimientode los príncipes,"Valladolid, Ms. 251",14th c.,Didactic Literature,es,transcription,N/A,
+es_catilina,De Catiline Conjuratione,de catilinȩ coniuratione,BNF Latin 5749,12th c. ,Historiography,lat,transcription,https://comma.inria.fr/doc/https%3A%2F%2Fdata.biblissima.fr%2Fentity%2FQ64706/p/f0-np,
+lat_catilina,De Catiline Conjuratione,Conjuración de Catilina,RBME g-III-11,15th c.,Historiography,es,transcription,https://github.com/hispanicseminary/OSTA/blob/main/transcriptions/TEXT.SLM.txt,

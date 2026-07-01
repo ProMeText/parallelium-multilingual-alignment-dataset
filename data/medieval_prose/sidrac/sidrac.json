@@ -1,0 +1,1224 @@
+
+{
+"work": "Le livre Sydrac de toutes scienches",
+"mode": "edited_for_manual_alignment",
+"alignement_id": {
+"001": [
+  {
+    "fr_sidrac": "Le roy demande: Qui vault mieulx boire le vin ou l'yaue?",
+    "pro_sidrac": "Lo rey demanda: que val mai a beure, lo vis l'aiga?"
+  }
+],
+"002": [
+  {
+    "fr_sidrac": "Syderac respont: Le vin est une precieuse chose et digne et si est salu du cors et de l'ame, car par vin puet l'en sauver le cors et l'ame de moult d'enfermetés",
+    "it_sidrac": "Sidrac risponde: Lo vino è una preciosa cosa e degna, e si è salute del corpo e dell'anima; chè per lo vino puote l'uomo sanare lo suo corpo di molte infermitadi",
+    "pro_sidrac": "Sydrac respon: Lo vis es una pressioza cauza e digna, e es a salut del cors e de l'arma, quar per lo vi pot hom salvar son cors de moltas maladias e s'arma d'issamen"
+  }
+],
+"003": [
+  {
+    "fr_sidrac": "Le vin si est pour les sages qui boivent atempreement et a raison et ne font nul doumage ne a euls ne a la gent; a cele gent vuault moult mieulx a boire le vin que l'yaue",
+    "it_sidrac": "Lo vino, per la gente che il beono temperatamente e a ragione, non fa niuno dannaggio. A cotali gente vale meglio bere il vino che l'acqua",
+    "pro_sidrac": "Lo vis es bos per las savias gens que lo bevo atrempadamen et a razo, e no fan per luy nulh dampnatge a lor ni ad autra gen: per que aitals gens aprofiecha mais beure vis que ayga"
+  }
+],
+"004": [
+  {
+    "fr_sidrac": "Mes les fouls qui boivent le vin folement et boivent leur sens avuecques le vin et en perdent le sens et en tuent la gent et les desrobent ou se laissent tuer et font faire batailles pour le vin",
+    "it_sidrac": "E a' folli che beono il vino follemente, e beono lo senno, e uccidono le genti e rubagli, si lasciano uccidere, e fanno mischie e battaglie di bere il vino",
+    "pro_sidrac": "Mas als fols que bevo lo vi folamen, ilh ne gasto e perdo lo lor e n'aucio la gen e la deraubo e prendo l'autrui cauza, e s'en fan aucire e fan bregas e baralhas"
+  }
+],
+"005": [
+  {
+    "fr_sidrac": "ceulz ne le doivent mie boivre. Ainçois leur vuaudroit mieulx que il beussent yaue de mer. A cele gent trop boivre vin ne leur est ne boen ne loial ne droit ne pour eulz n'est mie fet, ainçois leur est moult deffendu",
+    "it_sidrac": "quelli non deono già bere lo vino, anzi varrebbe loro meglio ch'egli bevessono acqua di mare. E a quella gente lo bere lo vino non è diritto e leale, e per loro egli non è già fatto, anzi loro è molto difeso",
+    "pro_sidrac": "Ad aital gen valria mais beure l'ayga de la mar que lo vis. Aitals gens non deuria beure vi, ni drehs ni razos non es que fasso, quar lo vis no fon pas fahs per els, ans lor es defendutz"
+  }
+],
+"006": [
+  {
+    "fr_sidrac": "Le vin fait aus boens le cors sain, net le cuer, pur et humble. Le vin fait as fols le cors malade et dur cuer et fel. Et pour ce disons nous que aus boens vuault mieulx le vin que l'yaue, et aus mauvais valt mieulx a boire l'yaue que le vin",
+    "it_sidrac": "Lo vino fa a' savi lo corpo sano e netto, e puro cuore e umile; lo vino fa a' malvagi rio cuore, e di rio, vituperoso. E per ciò diciamo noi che a' buoni è migliore lo vino che l'acqua; a' malvagi è meglio bere l'acqua",
+    "pro_sidrac": "Lo vis fai als bos lo cors sa e pur e net coratge, e als malvatz fai malvatz cor e fol, e lo cors n'es destruhs manhtas vetz, per que dizem nos que als bos val mais lo vis et als malvatz l'aygua"
+  }
+],
+"007": [
+  {
+    "pro_sidrac": "Lo rey demanda: cant hom es ardens de batalhar d'aver paraulas ab alcuna persona?",
+    "fr_sidrac": "Le roy demande: Quant l'omme est ardant de bataillier ou de tenser a aucun home?",
+    "it_sidrac": "Lo re domanda: dee l'uomo essere ardente di tenzone e di conbattere colla gente?"
+  }
+],
+"008": [
+  {
+    "pro_sidrac": "Sydrac respon: Cant hom es ardens de batalhar d'aver paraulas ab alcuna persona, ladonx deu hom cossirar en Dieu, e lhi deu sovenir de s'arma, e no fassa cauza que torne a dampnatge del cors ni a perdecio de l'arma ni ad anta de se",
+    "fr_sidrac": "Syderac respont: Quant l'omme est ardant de bataillier ou de tencier a aucune perssonne, si li doit souvenir de Dieu et de l'ame de lui, et que il ne face chose qui tourne a l'ame et au cors mal, ne peril ne honte a soi meemes",
+    "it_sidrac": "Sidrac risponde: Quando l'uomo è ardente di tenzone e di conbattere con alcuna persona, egli dee pensare in Dio e nella sua anima, e ch'egli non faccia cosa che torni dannaggio nè perdimento all'anima"
+  }
+],
+"009": [
+  {
+    "pro_sidrac": "e deu cossirar en altra cauza e combatre se ab son coratge e gitar cela pessa de se",
+    "fr_sidrac": "et si doit pensser ailleurs et combatre a son cuer et traire celle penssee de lui",
+    "it_sidrac": "E si dee pensare altro, e conbattere nel suo cuore, e di torre di lui quelle pensiero"
+  }
+],
+"010": [
+  {
+    "pro_sidrac": "e si de tôt no sy pot refreidar, el sy deu moure fors de la gen e parlar ab si mezeis, e batalhar e menassar ab se mezeis",
+    "fr_sidrac": "Et se du tout ne se puet refroidier, il se doit traire hors de la gent et tencier a lui meemes et bateillier et menacier par lui",
+    "it_sidrac": "E se questo non si puote raffreddare, egli si dee trarre fuori della gente, e tencionare in sè medesimo e conbattere"
+  }
+],
+"011": [
+  {
+    "pro_sidrac": "e sela arsura, la quals efla lo cor, sy desenflara; et en aital manieira sela arsura si refreydara",
+    "fr_sidrac": "Et celle arssure la quelle li emflambe le cuer tout se desemflera. En tele maniere se refroide de celle arssure",
+    "it_sidrac": "sicchè quella arsura, la quale enfia lo cuore, disenfierà, e in tale maniera si conserva di quella arsura"
+  }
+],
+"012": [
+  {
+    "fr_sidrac": "Le roy demande: Fait mal celui qui se vante de son pechié?",
+    "pro_sidrac": "Lo rey demanda: si fa mal qui si vanta de son peccat?",
+    "it_sidrac": "Lo re domanda se l'uomo si dee vantare del suo peccato, quand'egli l'à fatto"
+  }
+],
+"013": [
+  {
+    "fr_sidrac": "Syderac respont: Ceulz qui de leur pechiez se vantent, sont apelez menistres au deable, car tout le pechié vient par l'atraitement du deable",
+    "pro_sidrac": "Sydrac respon: Cilh que de son peccat si vanto son ministre del diable, quar tuh lhi mal veno del diable",
+    "it_sidrac": "Sidrac risponde: Quegli che del loro peccato si vantano sono chiamati ministri del diavolo; chè tutto il male aviene per lo tentamento del diavolo"
+  }
+],
+"014": [
+  {
+    "fr_sidrac": "Celui qui se vante de ce que le deable est atrait en lui, bien est droit que il soit appelez menistres au deable, car il annonce les oevres au deable a la gent",
+    "pro_sidrac": "E silh que sy vanto de so que lo diables l'aura aministrat ben es dreh que sia apelatz ministres dels diables, quar ilh anuncio las obras del diable a la gen",
+    "it_sidrac": "e quelli che si vanta di quello che il diavolo à fatto, questi è diritto ch'elli sia chiamato ministro del diavolo, ch'egli avezza la gente all'opere del diavolo"
+  }
+],
+"015": [
+  {
+    "fr_sidrac": "Ceulz font grant mal et grant pechié et font pechier autres par leur avantement, car pour leur aventement autre l'orra que il le fera. Et l'avanteors sera encoulpez avuecques lui pour celui meemes pechié que il li aura enseignié par son aventement",
+    "pro_sidrac": "e sel fai gran mal e gran peccat e fay peccar los autres per so vantamen, quar tal peccat aura fah, per aventura, per so vantamen, sel que l'auzira lo fara que ja nol feira, e lo vantaires sera colpables del peccat",
+    "it_sidrac": "Quelli fae grande peccato e male molto forte, che tale peccato avrà per aventura fatto; chè altri, quando l'udirà, lo farà. E nello anunziare farà peccato quelli che l'avrà ricordato, perch'egli l'avrà insegniato per lo suo vantamento"
+  }
+],
+"016": [
+  {
+    "pro_sidrac": "Lo rey demanda: per que femna sy dona leu joja e leu dol?",
+    "fr_sidrac": "Le roy demande: Pour quoi ont les femmes la joie et le dueill du siecle?",
+    "it_sidrac": "Lo re domanda: perchè ànno le femine la gioia e lo cruccio del secolo?"
+  }
+],
+"017": [
+  {
+    "pro_sidrac": "Sydrac respon: Femna en aquest segle si dona leu joja e dol per bona razo, plus que hom no fa; quar femna a lo sanc e la servela plus leugieiramen que hom",
+    "fr_sidrac": "Syderac respont: Les femmes ont la joie et le duel de cest siecle pour ce que elles la doivent avoir par raison plus que les hommes, et pour ce que elles ont le sanc et la cervelle plus legiere que les hommes",
+    "it_sidrac": "Sidrac risponde: Le femine ànno la gioia e lo duolo di questo secolo, perciò ch'elle lo debono avere, per ragione, più che gli uomini, ch'elle ànno lo sangue e la curata più legiere che gli uomini"
+  }
+],
+"018": [
+  {
+    "pro_sidrac": "e es aissi coma la syma en l'arbre que s'enclina pel ven ad aquela partida on sy vol",
+    "fr_sidrac": "Et font autressi comme la cisme de l'arbre qui encline vers le vent quelque part que il vet",
+    "it_sidrac": "e sono altressì come le cime d'uno àlbore ch'è inchinato dal vento, da qualunque parte egli viene"
+  }
+],
+"019": [
+  {
+    "pro_sidrac": "e femna es tals que de petita cauza que veja o auja, ela trembla tota",
+    "fr_sidrac": "les femmes sont telles, car de si petite chose comme elles verront ou orront, elles se troublent toutes",
+    "it_sidrac": "Le femina si piccola cosa non puote udire, ch'elle non triemino tutte"
+  }
+],
+"020": [
+  {
+    "pro_sidrac": "e si fos savia coma hom feira ne hom bailieus e senesquals e jutges e senhors",
+    "fr_sidrac": "car se elles feussent autressi sages comme les hommes, l'en les feist baillis et jugeeurs et seignors a commander et a jugier comme les hommes font",
+    "it_sidrac": "Che s'elle fossero così savie come gli uomini, elle sarebono balie e giudicatrici e signori; e comanderebero a giudicare, come gli uomini fanno"
+  }
+],
+"021": [
+  {
+    "pro_sidrac": "e per aquesta razo quar non an gaire de sen ni fermetat en lor, ans so volatgas de coratge, sy demora afar; e per so sy dona tost joja e leu dol",
+    "fr_sidrac": "Et pour ce que elles n'ont guaires de sens, sont elles si volages de cuer. Et pour ce ont elles la joie et le duel de cest siecle",
+    "it_sidrac": "E perciò ch'elle non sono guari savie, e sono volatiche, ànno elle tosto la gioia e lo dolore; e perciò si sentono elleno gioia e dolore del mondo"
+  }
+],
+"022": [
+  {
+"pro_sidrac": "et enans serion desseubudas femnas que us hom",
+  "fr_sidrac": "Et plus tost pourroient estre deceues femmes que un homme",
+  "it_sidrac": "E piutosto potrebono essere ingannate femine che uno uomo"
+ }
+],
+"022b": [{
+  "fr_sidrac": "et ce est pour le povre sens que elles ont",
+  "it_sidrac": "e questo è per lo povero senno ch'elle ànno"
+}],
+"023": [
+  {
+    "fr_sidrac": "Le roy demande: Doit l'en souvent aler veoir son ami?",
+    "it_sidrac": "Lo re domanda: dee l'uomo andare ispesse volte a casa del suo amico?",
+    "pro_sidrac": "Lo rey demanda: deu hom anar vezer soen son amic?"
+  }
+],
+"024": [
+  {
+    "fr_sidrac": "Syderac respont: Tu ne doiz mie aler sovent a l'ostel de ton ami, car tu i pourroies tant aler que tu li ennuieroies et le courrouceroies. Mes tu le doiz aler veoir a heure et a terme, non mie si souvent, car tuit trop sont mal",
+    "it_sidrac": "Sidrac risponde: Tu non dei andare nimica ispesse volte a casa del tuo amico, ma tu lo dei andare a vedere a ora e punto, e non troppo ispesso, chè tutti i troppi sono male",
+    "pro_sidrac": "Sydrac respon: Certas no; quar tu poirias anar ta soen que tu lo corossarias e lo enojarias; mas tu lo deves anar vezer a horas e a sazos, non pas soen, quar tot trop so mal"
+  }
+],
+"025": [
+  {
+    "fr_sidrac": "Car par aventure il aura a faire en son hostel a sa mesniee, et se tu li viens au dessus, tu li feras grant ennui",
+    "it_sidrac": "Chè per aventura egli avrà a fare nel suo albergo e nella sua masnada, e se tu gli vieni sopra, tu gli farai grande noia",
+    "pro_sidrac": "e per aventura el aura a far al res que de te vezer, e si tu venes adonx, tu lhi venras al desus e faras lhi enuoc"
+  }
+],
+"026": [
+  {
+    "fr_sidrac": "Et ce regarde de toi meemes: se tu estoies en ton hostel et tu avoies afaire a ta mesniee, tu ne voudroies mie que nulle ame a toi venist, car moult te feroit grant ennui qui te vendroit au dessus, ja soit ce que ce feust ton filz ou ton frere",
+    "it_sidrac": "E poni mente a te medesimo: se tu fossi nella tua casa, e avessi a fare colla tua famiglia, tu non vorresti che niuna anima venisse sopra te; e molto ti farebe grande noia chi sopra te venisse, eziandio se fosse tuo figliuolo o tuo fratello",
+    "pro_sidrac": "E aisso podem saber per te mezeis: sy tu eras en ton ostal o en autre luoc e fazias tos negossis secretz, tu no volrias pas que nulhs hom vengues sobre te, e que fos ancaras tos filhs o tos fraires"
+  }
+],
+"027": [
+  {
+    "fr_sidrac": "Autretel tu feras a ton ami se tu t'embas souvent dessus lui. Et se tu as talent d'aler a l'ostel de ton ami, mande li faire savoir avant, adoncques tu feras que courtois et si en seras mieulx enseigniez",
+    "it_sidrac": "altrettale noia sarebe a lui, se tu andassi sopra lui. Ma se tu ài voglia d'andare all'albergo del tuo amico, fagli inanzi asapere la tua venuta; sì gli farai cortesia, e allora sarai molto bene insegnato",
+    "pro_sidrac": "atretal faras tu a ton amic sy trop soen lo vas vezer; mas cant hom vol anar al ostal de son amic hom lh'o deu far a saber, e sel que aissy o fai es cortes e ben essenhatz"
+  }
+],
+"028": [
+  {
+    "fr_sidrac": "Le roy demande: Li doit l'en moustrer loide chiere, se il vient a son hostel?",
+    "it_sidrac": "Lo re domanda: dee l'uomo mostrare laida cera al suo amico?",
+    "pro_sidrac": "Lo rey demanda: deu hom far layda cara a son amic quan ve e son ostal?"
+  }
+],
+"029": [
+  {
+    "fr_sidrac": "Syderac respont: Se tu es en ton hostel avueques ta mesniee et ton ami vient seur toi et te fait ennui, tu ne li dois ja pour ce moustrer laide chiere ne courrous, ja soit ce que tu te corrouces, mes tu li doiz faire biau semblant et faire lui honneur a ton povoir et a plaisir",
+    "it_sidrac": "Sidrac risponde: Se tu se' nella tua casa colla tua famiglia, e il tuo amico viene sopra te, tu non dei però mostrare laida cera, nè crucciare, conciosia cosa che tu ti crucci in fra te. Ma tu gli dei mostrare bella cera e bello senbiante, e fagli onore e piacere al tuo podere"
+  }
+],
+"030": [
+  {
+    "fr_sidrac": "Car mieulx te vuault que tu en ton courrous aies gré de ton ami et avoir s'amour que lui faire vergoingne",
+    "pro_sidrac": "quar trop es mielhs que tu sias corossatz en ton coratge e sapchas retener per ton amic que si li fazias ni li dizias antas ni verguonha"
+  }
+],
+"031": [
+  {
+    "fr_sidrac": "Et se tu li moustres mauvais semblant, tu le courrouceras et auras male volenté de lui",
+    "it_sidrac": "Che se tu gli mostri rio sembiante, tu lo cruccierai, e avrai mala volontà in lui",
+    "pro_sidrac": "Car si tu lhi mostras malvatz semblan, tu le corrossaras, et aura ti mala voluntat"
+  }
+],
+"032a": [{
+  "fr_sidrac": "Et se il ne t'agree que ton ami s'embate seur toy, clol bien ta porte",
+  "pro_sidrac": "mas sy tu vols tot so esquivar fai fermar ta porta"
+}],
+"032b": [{
+  "fr_sidrac": "Adoncques nuls ne se pourra embatre seur toy",
+  "pro_sidrac": "e negus no si poyra sobre te metre"
+}],
+"033": [
+  {
+    "fr_sidrac": "Le roy demande: Comment aucune foiz un homme conquerroit d'armes et de valor .iij. hommes ou quatre et aucune fois seroit vaincus d'un seul?",
+    "it_sidrac": "Lo re domanda: come alcuna volta l'uomo conquisterebbe in battaglia due uomini o tre, e alcuna volta è vinto da uno solo?",
+    "pro_sidrac": "Lo rey demanda: cossis pot far que a las vetz .j. hom vencera .iij. homes o .iiij. e alcuna vetz sera vencutz per un sol?"
+  }
+],
+"034": [
+  {
+    "fr_sidrac": "Syderac respont: La bataille si est aussi comme Deus, car ceulz qui Dieu croient et aourent de tout leur cuer, le doivent aourer et croire et son servisce faire et non avoir en nule autre chose nulle penssee",
+    "it_sidrac": "Sidrac risponde: La battaglia si è simigliante a Dio; che quelli che loro pensiero ànno in Dio, non intendono ad altra cosa se non a Dio servire, e quivi ànno gli loro pensieri",
+    "pro_sidrac": "Sydrac respon: Batalha es coma Dyeus, quar silh que Dyeu crezo et adoro de tot lor cor e so servizi fan, non an en autra cauza lor entendemen ni lor pessa, ni aver no la devo"
+  }
+],
+"035": [
+  {
+    "fr_sidrac": "Autretel doit fere celui qui bataille fait: le cuer et le courage y doit mettre du tout en tout en sa bataille et oublier du tout en tout sa femme et ses enfanz et sa richesce",
+    "it_sidrac": "Altressì dee fare quelli che battaglia fa: lo cuore e la volontà e lo suo podere dee mostrare di tutto in tutto alla sua battaglia fare; e dimenticare di tutto in tutto gli suoi figliuoli e la moglie e la sua ricchezza",
+    "pro_sidrac": "Tot atretal deu far cel que batalha fai, quar el deu lo cor el coratge e sa pessa metre entieiramen en la batalha, e deu oblidar de tot en tot sos autres negossis, e molher e efans e sa riqueza"
+  }
+],
+"036a": [{
+  "fr_sidrac": "et si doit pensser que se il est vaillans et viguereus, il vaincra la bataille",
+  "it_sidrac": "E dee pensare che s'egli è valente e vigoroso, egli vincerà la sua battaglia"
+}],
+"036b": [{
+  "fr_sidrac": "et se il est chaitis et paoureus, il est vaincus",
+  "it_sidrac": "e s'egli è cattivo e ricredente, egli sarà vinto",
+  "pro_sidrac": "E si el es caitieus ni paorux, el sera vencutz"
+}],
+"036c": [{
+  "fr_sidrac": "En telle maniere conquerra il la bataille",
+  "it_sidrac": "e in cotale modo conquisterà egli la battaglia"
+}],
+"037": [
+  {
+    "fr_sidrac": "Le roy demande: Est il santé de mengier toutes choses?",
+    "it_sidrac": "Lo re domanda: è sanità di mangiare tutte cose?",
+    "pro_sidrac": "Lo rey demanda: es santatz de manjar totas viandas?"
+  }
+],
+"038": [
+  {
+    "fr_sidrac": "Syderac respont: Toutes choses que Dieux fist pour mengier, elles sont sainnes",
+    "it_sidrac": "Sidrac risponde: Tutte le cose che Idio fece per mangiare sono buone e sane",
+    "pro_sidrac": "Sydrac respon: Totas cauzas que Dieus fetz per manjar so sanas"
+  }
+],
+"039": [
+  {
+    "fr_sidrac": "et la chose qui est emferme, elle n'est emferme fors de l'emfermeté du cors et du temporal. Quant le cors est sain, quanque il mengue li est sain et boen pour lui. Et comme il est ou foibles ou malades, poy de choses que il mengue li font mal",
+    "it_sidrac": "che le cose che sono inferme, non sono se non della infermità del corpo. Quando il corpo è sano, ciò ch'egli mangia si è sano per lui; e quando egli è frale e malato, poco di cosa ch'egli mangi, si gli fa male",
+    "pro_sidrac": "quar la vianda que es eferma, non es mas de l'efermetat del cors on intra e del temps: quan lo cors es sas, so que el manja lhi es sa e bo. E cant el es febles o malaudes, pauc de vianda lhy fai mal"
+  }
+],
+"040": [
+  {
+    "fr_sidrac": "Car l'emferme viande et la sainne n'est que du cors, car au sain cors ne chault quele viande il mengue, car tout li est sain et boen; et a l'emferme cors poi de chose li fait mal",
+    "it_sidrac": "Che la 'nferma vivanda e la sana viene dal corpo; chi à sano corpo, no gli fa quello ch'egli mangia, che tutto gli è sano e buono; e al corpo infermo poca cosa gli fa male",
+    "pro_sidrac": "per aisso bona vianda e sana no mou mas del cors sa e pur e net; que can lo cors es sas, tota vianda lh'es bona e sana; e al cors malaude pauc de vianda lhi notz"
+  }
+],
+"041": [
+  {
+    "fr_sidrac": "Le roy demande: Qui sont ceulz qui plus s'oventent que gens du monde?",
+    "it_sidrac": "Lo re domanda: quali sono quelli che si vantano più che gente del mondo?",
+    "pro_sidrac": "Lo rey demanda: quals so las gens que plus si vanto del mon?"
+  }
+],
+"042": [
+  {
+    "fr_sidrac": "Syderac respont: Ceuls qui plus s'aventent que gens du monde sont .iij. manieres de gens",
+    "it_sidrac": "Sidrac risponde: Quegli che più si vantano che gente del mondo sono tre maniere di gente",
+    "pro_sidrac": "Sydrac respon: Aquilh so que mai si vanto que gens del mon, so son tres manieiras de gens"
+  }
+],
+"043": [
+  {
+    "fr_sidrac": "Premierement fol viel qui s'avante de sa joemesce et racontera ses bourdes comme il estoit joemes, ou veritez ou mençonges, et jolivement l'acontera ses folies et sa joliveté et comptera que les gens l'en croiront, ne ne pensera mie que cil le chuflent ne le moquent",
+    "it_sidrac": "la prima sono vecchi folli, che si vantano di loro gioventudine, e pensano che le genti lo credano, e non credono mica che quelli a cui elli lo contano li gabbano e beffano",
+    "pro_sidrac": "prumiers fols vielhs queis vanta de sa joventut e recomta de son cors, cant el era joves, vertatz o messongas, e recomta sas baudors e sas fulhias, e si vanta de sa gajeza e de sa pessa, que las gens l'en crezo; e non cuja pas que aquilh a cuy o comta l'en chuflo ni l'escarnisco"
+  }
+],
+"044": [
+  {
+    "fr_sidrac": "La seconde maniere si est de fol estranger qui racontera folies et bourdes, que il a esté en son pais et que il estoit riches et manans; et se il l'a esté ou non, pour un qui le croit, .xl. le moqueront",
+    "it_sidrac": "La seconda maniera si è lo folle istrano, che racconta le grandi follie ch'egli ànno fatte nel loro paese; e dicono, io era ricco e gentile; e si ne va ad uno che li crede, e beffallo",
+    "pro_sidrac": "La segonda manieira es de fol estranh que recomta bordas e fulhia, que el a estat e son pais rix e manens, que sia vertatz o no: per un que l'en cre, dos non o crezo"
+  }
+],
+"045": [
+  {
+    "fr_sidrac": "La tierce maniere si est du fol riche qui racontera ses folies et ses bourdes, et ceulz qui l'oent le chuflent et li otroient tout quanque il dist pour sa richesce",
+    "it_sidrac": "La terza maniera si è lo folle ricco, che conterà le sue follie e le sue bugie; e quelli che l'odono lo gonfiano, e si gli confessano ciò ch'egli dice, per la sua ricchezza",
+    "pro_sidrac": "La tersa manieira es de ric fol que retraira sas fulhias e sas bordas, e aquilh que l'auzo l'en janglo e lhi bufon en la barba e lh'autrejo can que ditz per sa riqueza"
+  }
+],
+"046": [
+  {
+    "fr_sidrac": "car par aventure il ont mestier de lui",
+    "it_sidrac": "chè per aventura egli ànno mestiere del suo servigio"
+  }
+],
+"047": [
+  {
+    "fr_sidrac": "Le roy demande: Pour quelle raison sont les nues en esté comme en yver?",
+    "it_sidrac": "Lo re domanda: perchè sono gli nuvoli così di state come di verno?",
+    "pro_sidrac": "Lo rey demanda: cossi las nivols son en estieu coma en ivern"
+  }
+],
+"048": [
+  {
+    "fr_sidrac": "Sydrac respont: Les nues sont autressi espesses en esté comme en yver et autressi oscures et autressi pluieuses, et de toute la saison de l'an ne defaillent",
+    "it_sidrac": "Sidrac risponde: Li nuvoli sono altresì di state come di verno; e altressì pioventi di tutte le stagioni dell'anno"
+  }
+],
+"049": [
+  {
+    "fr_sidrac": "Car se elles ne sont en nostre partie, si sont elles en la partie d'autre gent, car jamés ne faudront elles el monde, ne en yver ne en esté",
+    "it_sidrac": "e s'elle non sono nelle nostre parti, si son elle negli altri paesi; e di tutte le stagioni dell'anno non fallano giamai al mondo, nè di verno nè di state",
+    "pro_sidrac": "qu'elas no so e nostras partidas d'autra gen, que de totas las sazos de l'an non falho jamais ni en ivern ni en estieu"
+  }
+],
+"050a": [
+  {
+    "fr_sidrac": "Car comme le firmament fait son mouvement et le soleill fait son autre tour, fait esté a nous et yver a l'autre partie du monde seur autre gent",
+    "pro_sidrac": "Quar can lo firmamens fai son torn e so movemen el solelhs pren son altre torn, fa estieu a nos e yvern als autres jens del mon"
+  }
+],
+"050b": [
+  {
+    "fr_sidrac": "Comme il revient la dont il muet, fait esté a ceulz et yver a nous",
+    "pro_sidrac": "E cant el fa son autre torn, fa estieu ad aquels e yvern à nos"
+  }
+],
+"051": [
+  {
+    "fr_sidrac": "Et en telle maniere ne fault esté ne yver de toute la saison de l'an du monde",
+    "it_sidrac": "e in questo modo non falla giammai istate e verno al mondo, di tutte istagioni dell'anno",
+    "pro_sidrac": "en tal manieira no falhira jamais yverns ni estieus al mon de tota sazo del an"
+  }
+],
+"052": [
+  {
+    "it_sidrac": "E quello torno che il sole fa, non è mica la montanza d'uno palmo, ma per l'altezza del fermamento ci pare molto mutato",
+    "pro_sidrac": "E aquel torns quel solelhs fai, non es ges de la montansa d’una pena, la alteza del firmamen nos apareys e regardamen"
+  }
+],
+"053": [
+  {
+    "fr_sidrac": "Le roy demande: La nue qui pert petite comment devient si grant que elle cuevre grant quantité de terre?",
+    "it_sidrac": "Lo re domanda: lo nuvolo ch'è piccolo, come pare, come puote cuoprire tanta quantità di terra?",
+    "pro_sidrac": "Lo rey demanda: cossi una nivols apar petita, cossi esdeve tan grans que cuebri gran cantitat de la terra?"
+  }
+],
+"054": [
+  {
+    "fr_sidrac": "Syderac respont: La nue qui pert petite a la visee, elle est a son cors moult grant, car sa grandesce ne puet l'en mie veoir pour sa hautesce",
+    "it_sidrac": "Sidrac risponde: Lo nuvolo ci pare piccolo alla vista, ma lo suo corpo è molto grande; nè la sua grandeza l'uomo nollo puote vedere, per la sua altezza",
+    "pro_sidrac": "Sydrac respon: La nivols que apar petita a la vista a son cors es molt grans, mas sa grandeza hom non pot saber per la alteza que a"
+  }
+],
+"055": [
+  {
+  "fr_sidrac": "Car elle est a la semblance d'une vessie qui pert petite et petit et petit devient grant",
+  "it_sidrac": "Lo nuvolo è simigliante alla vesica, che è piccola e a poco a poco crescie e diventa grande"
+  }
+],
+"057a": [
+  {
+    "fr_sidrac": "Autressi est de la petite nue: sa grandesce si est contre le ciel em hault",
+    "pro_sidrac": "et efla aissi la petita nivols sa grandeza encontra lo cel en aut"
+  }
+],
+"057b": [
+  {
+    "fr_sidrac": "et l'en ne puet veoir ne mais ce qui est encontre val vers nous",
+    "it_sidrac": "e l'uomo nol può vedere, se non quello ch'è di contro la terra, di verso noi",
+    "pro_sidrac": "e hom no la pot vezer; mas per so que es en contraria davas nos"
+  }
+],
+"058a": [
+  {
+    "fr_sidrac": "et sa espesseté l'en ne puet veoir ne du lonc ne de travers",
+    "it_sidrac": "Nè la sua spessezza l'uomo nolla può vedere, nè la sua lunghezza, nè per lo traverso",
+    "pro_sidrac": "e s'espieissa, hom no la pot pas vezer ni de lonc ni de travers"
+  }
+],
+"058b": [
+  {
+    "fr_sidrac": "pour sa hautesce et pour son obscurté",
+    "it_sidrac": "per la sua altezza e per la sua iscurità"
+  }
+],
+"059": [
+  {
+    "fr_sidrac": "Et comme le vent la fiert, si la croist et enfle et la fait espandre et depecer si plouvoir et venir en terre et abevrer les biens qui sont",
+    "it_sidrac": "E a questo lo vento lo fiede, e enfialo, e fallo criesciere, e spandere, e spezare, e muovere, e ventare in terra; e abeverano i beni che ci sono",
+    "pro_sidrac": "lo vens la fer e enfla e la fai creisser e espandre e cazer e ploure en la terra et abeurar les bes"
+  }
+],
+"060": [
+  {
+    "fr_sidrac": "Et n'entendez mie que celle yaue naist de l'air, mes elle monte de la mer et a la foiz des soupirs que la terre giete, et devient nue et pluie si comme vous la veez",
+    "it_sidrac": "Non intendere che quella aqua nascie in aria, ma ella viene del mare, e monta dello spiro che la terra getta, e diventa nuvolo, e piove così come noi lo vegiamo",
+    "pro_sidrac": "E non entendatz que sela ayga venha ni yesca de l'aire, ans y monta de la inar, e à la vetz del fum que la terra geta, e esdeve neula e plueja aissy cum vos podetz vezer"
+  }
+],
+"061": [
+  {
+    "fr_sidrac": "Le roy demande: Comment fu fait le monde et comment se tient il?",
+    "it_sidrac": "Lo re domanda: come fu fatto il mondo, e come si tiene egli?",
+    "en_sidrac": "The Kynge asked, howe was the worlde made, and howe holdeth it?"
+  }
+],
+"062": [
+  {
+    "fr_sidrac": "Sydrac respont: Dieu fist ciel et yaue, et quant il voult faire l'omme aprés l'abatement du mauvés angele du ciel en abisme",
+    "en_sidrac": "Sydracke answereth: God made Heaven and water, and when he wolde make man, after that the euyll Aungelles fell downe from heuen in abysme"
+  }
+],
+"063": [
+  {
+    "fr_sidrac": "il dit: Le monde soit fait. Enz en l'eure son commandement fu fait",
+    "it_sidrac": "Egli disse: sia fatto lo mondo; in quella ora fue lo suo comandamento adempiuto",
+    "en_sidrac": "He sayd that the world be made, and anone forthwith was his commaundement done"
+  }
+],
+"064": [
+  {
+    "fr_sidrac": "et le monde fu fourmé sus yaue si comme li plot",
+    "it_sidrac": "E lo mondo fu fermato sopra acqua, siccome a lui piacque",
+    "en_sidrac": "And the worlde was formed vpon the water as his pleasure was"
+  }
+],
+"065": [
+  {
+    "fr_sidrac": "Et toute l'iaue qui est en cest air demeure seur terre",
+    "it_sidrac": "E tutta l'acqua che in questa aria è sopra terra",
+    "en_sidrac": "And all the water that is in the ayre it abydeth vpon the erthe"
+  }
+],
+"065a": [
+  {
+    "fr_sidrac": "car tant parfonde ne puet estre que seur terre ne demeure",
+    "en_sidrac": "for it can not be so depe nor so parfounde but it must nedes abyde on the erthe"
+  }
+],
+"066": [
+  {
+    "fr_sidrac": "celle qui est descouverte, a autre yaue qui la soustient",
+    "it_sidrac": "questa che è scoperta, à altre acque che la sostengono",
+    "en_sidrac": "this that is discouered hath other water vnder hym also, that sustayneth it"
+  }
+],
+"067a": [
+  {
+    "fr_sidrac": "Car le fondement de la terre si est l'yaue, et le fondement de l'iaue si est le firmament",
+    "it_sidrac": "chè lo fondamento della terra si è l'acqua, e lo fondamento dell'acqua si è lo fermamento",
+    "en_sidrac": "For the foundement of the erthe is the water, and the foundement of the water is the fyrmament"
+  }
+],
+"067b": [
+  {
+    "fr_sidrac": "L'un et l'autre pent enmi le firmament par le puissant de Dieu",
+    "en_sidrac": "and the one and the other hangeth and holdeth togyther by the fyrmament, and by the myghte and wyll of God"
+  }
+],
+"068": [
+  {
+    "it_sidrac": "Idio per la sua potenza fece il mondo a guisa d'uno uovo",
+    "en_sidrac": "God of his great myght made the worlde to the semblaunce of an egge"
+  }
+],
+"069": [ 
+    { "it_sidrac": "lo bianco dell'uovo, si è l'acqua, ch'è tra lo fermamento che intornea la terra", 
+    "en_sidrac": "and the whyte of the egge is the water that is betwene the fyrmament that enuyrons and goeth aboute the erth" 
+    } 
+],
+"070": [
+  {
+    "it_sidrac": "Lo giallo dell'uovo si è la terra, che è intorniata e siede sopra l'acqua; altressì come lo giallo dell'uovo che è intorniato di bianco",
+    "en_sidrac": "The yelke of the egge is the erth that enuyroneth all aboute with water, and set vpon the water. In lykewyse as the yelke of the egge that is set and enuyroned all aboute with the whyte of the egge"
+  }
+],
+"071": [
+  {
+    "it_sidrac": "Lo giermo si è la gente in terra, cioè la forma del mondo",
+    "en_sidrac": "The seede, that be the folkes that be on earth, and thus is the forme of the world"
+  }
+],
+"072": [
+  {
+    "it_sidrac": "Ma egli è altressì ritondo come una mela, che non à capo nè coda",
+    "en_sidrac": "But then it is as rounde as a Bowle, that hath neyther heade nor tayle"
+  }
+],
+"073": [
+  {
+    "fr_sidrac": "Le soleil, ce demande le roy, monte et descendel il tout autressint de nuit comme il fait de jours?",
+    "en_sidrac": "The Kynge asked, the sonne doth he mounte and descende as wel by nyght as by day?"
+  }
+],
+"074": [
+  {
+    "fr_sidrac": "Quant le soleill pert a nous que il se couche et nous faut, il monte a autre gent",
+    "it_sidrac": "quando il sole falla a noi, egli allumina altra gente al mondo",
+    "en_sidrac": "When the Sonne appereth to vs, heare, that he goeth downe and fayleth vs, he sheweth to other folke in another countree"
+  }
+],
+"074a": [
+  {
+    "fr_sidrac": "a ceuls qui leur aprouche le jor, autressint comme il fait a nous par le jour enluminer",
+    "en_sidrac": "and he sheweth hym in his turnynge to them, that the day aprocheth to as he doth vs, when the daye commeth and lyghteth vs"
+  }
+],
+"075": [
+  {
+    "fr_sidrac": "Et de nostre dernie nuit jusques au jour il s'abaisse a ceuls et envers nous se hauce, quar a ceulz aprouche la nuit et a nous le jour, comme il fait quant il faut a nous et a euls pert",
+    "en_sidrac": "And at after mydnyght, tyll it be day he goeth lower to them, toward vs waxeth hygher, for to them he aprocheth in the nyght, and to vs in the day, and when he fayleth vs he appereth vnto them"
+  }
+],
+"079": [
+  {
+    "fr_sidrac": "Le roy demande: Pour quoi la lune croist et amenuise?",
+    "en_sidrac": "The Kynge asked, why groweth the Moone, and at somtyme waxeth lesse and lesse?"
+  }
+],
+"080": [
+  {
+    "fr_sidrac": "Syderac respont: La lune pert a nous que elle croist et amenuise",
+    "en_sidrac": "Sydracke answereth: The Moone appeareth and semeth to vs that she groweth, and other whyle waxeth lesse"
+  }
+],
+"081": [
+  {
+    "fr_sidrac": "Mes tout ce apert a nous pour le soleill et pour le tour du firmament",
+    "en_sidrac": "and all this appereth to vs, for the sonne and the tornyng of the fyrmament"
+  }
+],
+"082": [
+  {
+    "fr_sidrac": "Car tant comme elle est encontre le soleill, elle se cueuvre et apert a nous que elle amenuise",
+    "en_sidrac": "for al the whyle that she is agaynst the sonne, she is couered, and appereth vnto vs that she waxeth lesse"
+  }
+],
+"083": [
+  {
+    "fr_sidrac": "et comme elle nous pert que elle est toute faillie, elle est aprouchiee encontre le soleill, si que elle pert toute sa clarté par la couverture du soleill",
+    "en_sidrac": "And whan it appereth to vs that she is al fayled and sheweth nothyng, than she is approached nyghe to the Sonne, and leseth all her lyght, for the coueryng of the sonne"
+  }
+],
+"084": [
+  {
+    "fr_sidrac": "Et en cel point que elle fault toute a nous, en cel point le soleill passe par le mouvement du firmament, et elle se descueuvre de l'autre part et est nouvelle a nous",
+    "en_sidrac": "And at the same poyncte that she fautes all her lyght to vs, at the same poyncte the sonne passeth her, for the mouement of the fyrmament, and then she dysscouereth on the other parte of the sonne, and then she is newe semynge to vs here"
+  }
+],
+"085": [
+  {
+    "fr_sidrac": "mes pour la foible viste que nous avons ne la povons veoir en cel point",
+    "en_sidrac": "and for the feble syght that we haue, we maye not se her at that poyncte"
+  }
+],
+"086": [
+  {
+    "fr_sidrac": "Et tout en telle maniere fait chascune quinzainne, car une quinzaine croist et autre amenuise",
+    "en_sidrac": "And euerye .xv. dayes she groweth, and other .xv. dayes she waneth and waxeth lesse"
+  }
+],
+"087": [
+  { 
+    "fr_sidrac": "Le roy demande: Pour quelle raison voient au monde en aucun lieu l'esclipse de la lune et du soleill et en autre lieu ne le voient?",
+    "en_sidrac": "The Kynge asked, what is the reason that in some place in the worlde, the Clyps of the Sonne and of the Moone maye be sene, and in some place it maye not be sene?"
+  }
+],
+"088": [
+  {
+    "fr_sidrac": "Syderac respont: Le soleill si fait tout autressint bien son esclips de nuit comme de jour",
+    "en_sidrac": "Sydracke answereth: The Sonne maketh his Clyps, aswell by day as by nyght, and by nyght as by daye"
+  }
+],
+"088a": [
+  {
+    "fr_sidrac": "Et comme nous avons jour, autres gens qui sont au monde ont nuit. Et comme ceuls ont jour, nous avons nuit",
+    "en_sidrac": "for when we haue day here, other folkes haue in other places nyght, and when it is nyght here with vs, it is day with them"
+  }
+],
+"089": [
+  {
+    "fr_sidrac": "car le firmament ne fine de tourner et de mener le soleill et la lune et les estoiles tout environ le monde",
+    "en_sidrac": "for the fyrmament neuer ceaseth turnynge, and therin abydeth the sonne, the Moone, and the starres, that enuyron and go aboute all the worlde"
+  }
+],
+"090": [
+  {
+    "fr_sidrac": "Et nulle fois au monde ne fault sa clarté, quar comme le soleill faut a nous, il enlumine les autres, et comme il leur fault, si nous enlumine",
+    "en_sidrac": "and at no tyme they fayle not theyr lyght, for when theyr lyght fayleth to vs here, they shewe it to other folkes in other places, and when it fayleth other folkes there, it sheweth to vs here"
+  }
+],
+"091": [
+  {
+    "fr_sidrac": "Et tout ce est por la rondesce du monde, quar tout le monde est roont comme une pomme",
+    "en_sidrac": "And al this is for the roundnes of the world, for the world is all rounde as an balle"
+  }
+],
+"092": [
+  {
+    "fr_sidrac": "quar comme il s'abaisse, si rent sa clarté de celle part ou il s'abaisse et fait obscur derriere lui",
+    "en_sidrac": "for when the Sonne draweth lowe, he gyueth his lyghte to that parte that he draweth lowe to, and then it is derke behynde hym"
+  }
+],
+"095": [
+  {
+    "fr_sidrac": "tout ensement fait le soleill autour du firmament por la roondesce du monde",
+    "en_sidrac": "And so in lykewyse doth the sonne aboute the fyrmament, by cause of the roundnes of the worlde"
+  }
+],
+"096": [
+  {
+    "fr_sidrac": "et ce est le jour et la nuit",
+    "en_sidrac": "This is the daye and the nyght"
+  }
+],
+"097": [
+  {
+    "fr_sidrac": "Et ce fist Dieu pour le repos de l'omme et pour les autres creatures",
+    "en_sidrac": "for God made the nyghte for the reste of man, and for other creatures"
+  }
+],
+"098": [
+  {
+    "fr_sidrac": "Et pour ce comme le soleill est esclips a nous, nous avons jour et si le veons, et les autres ont nuit pour l'ombre de la terre qui leur toult la clarté du soleill, si ne les pueent veoir",
+    "en_sidrac": "And therfore when the Sonne is in the clyps here with vs, we haue it by day and therfore we may se it, and then it is nyght with other folkes, and therefore they maye not se it, for the shadowe of the erth"
+  }
+],
+"099": [
+  {
+    "fr_sidrac": "Tout ensement comme le soleill est esclips a euls, il ont jour, et nous avons nuit",
+    "en_sidrac": "Also when the sonne is in the clyps with other folkes they haue daye, and we haue nyght"
+  }
+],
+"099a": [
+  {
+    "fr_sidrac": "Ensement il le voient qui les enlumine, et nous ne le povons veoir pour l'ombre de la terre",
+    "en_sidrac": "therefore they may se it, and we may not se it, for the shadowe of the earth"
+  }
+],
+"100": [
+  {
+    "fr_sidrac": "Et tout ensement est de l'esclips de la lune, quar autressint comme le soleill fait la lune son esclips de nuit comme de jour quant temps et saison est",
+    "en_sidrac": "And lykewyse is the Moone as the Sonne in the clyps, when tyme and season is, aswell by daye as by nyght"
+  }
+],
+"101": [
+  {
+    "fr_sidrac": "Quar pour ce que il fet jour a nous et nuit a euls",
+    "en_sidrac": "And therfore it is day with vs when it is nyght with other folkes"
+  }
+],
+"101a": [
+  {
+    "fr_sidrac": "ja pour ce le firmament n'en laisse a faire son tour",
+    "en_sidrac": "Howe be it that the fyrmament maketh alway his turne"
+  }
+],
+"102": [
+  {
+    "fr_sidrac": "Car nostre jour et nostre nuit tout leur est un; car la ou onques tournent, il ont toutjours la clarté et la resplendeur que Dieux par sa grace leur a donnee",
+    "en_sidrac": "for our day and our nyght is all one, for where soeuer they turne they haue alway lyght and resplendour and brightnes that God of his grace hath gyuen them"
+  }
+],
+"103": [
+  {
+    "fr_sidrac": "Le roy demande: A il aucun point au jor qui soit boen?",
+    "en_sidrac": "The Kynge asked, is there any poyncte in the daye that is good?"
+  }
+],
+"104": [
+  {
+    "fr_sidrac": "Sydrac respont: Du point que la lune fait son tour a .xxxvi. poins auras un point boen",
+    "en_sidrac": "Sydracke answereth: At that poynct that the Moone maketh her turne at, the .xxxvi. poynctes after, thou shalte haue a good poyncte"
+  }
+],
+"105": [
+  {
+    "fr_sidrac": "et de celui a .clvij. auras un autre",
+    "en_sidrac": "and from the poyncte at .C. lvij. poynctes, another"
+  }
+],
+"106": [
+  {
+    "fr_sidrac": "et de celui a .v.m. et .ij. poins auras un autre",
+    "en_sidrac": "And from that poyncte at .v. M. ij. poynctes thou shalt haue another"
+  }
+],
+"107": [
+  {
+    "fr_sidrac": "et de celui a .vij.c. et .xi. poins auras un autre",
+    "en_sidrac": "And from the poyncte at .vij. C. xi. poynctes thou shalt haue another"
+  }
+],
+"108": [
+  {
+    "fr_sidrac": "c'est assavoir chascun jour en chascune lune en .xxiiij. heures du jour et de la nuit",
+    "en_sidrac": "That is to say, poynctes in euery Moone where the .xxiiij. houres of the day and of the nyght ben"
+  }
+],
+"109": [
+  {
+    "fr_sidrac": "Le roy demande: A il autres gens sous nous qui la clarté du jour voient?",
+    "it_sidrac": "Lo re domanda: à gente di sotto a noi, che vegano lo chiarore del sole, altressì come noi qui?",
+    "en_sidrac": "The Kynge asked, is there any other folkes vnderneth vs that se the lyght of the Fyrmamente as we do?"
+  }
+],
+"110": [
+  {
+    "fr_sidrac": "Sydrac respont: Pour la reondesce du monde il i a autres gens dessous nous et voient la clarté du monde autressint comme nous faisons",
+    "it_sidrac": "Sidrac risponde: Per la ritondezza del mondo si àe altre genti di sotto da noi, che vegono lo chiarore del sole, altressì come noi qui",
+    "en_sidrac": "For bycause of the roundnes of the worlde there are folkes vnderneth vs that seeth the lyght of the fyrmament as we do"
+  }
+],
+"111": [
+  {
+    "fr_sidrac": "et leurs piez vont encontre noz piés",
+    "it_sidrac": "e gli loro piedi sono contra i nostri",
+    "en_sidrac": "and also theyr fete go agaynst our fete"
+  }
+],
+"112": [
+  {
+    "fr_sidrac": "Et c'est pour la hautesce des parties du monde et pour sa reondesce",
+    "it_sidrac": "E ciò è per l'altezza delle parti del mondo, e per la ritondezza",
+    "en_sidrac": "and that is for the hyghenes of the parties of the world and for his roundnes"
+  }
+],
+"113": [
+  {
+    "fr_sidrac": "car le Levant si est plus haut que le Ponant",
+    "it_sidrac": "che il levante è più alto che il ponente",
+    "en_sidrac": "for the Eest parte is moch hyer where the Sonne ryseth, then the west parte where the Sonne goeth downe"
+  }
+],
+"114": [
+  {
+    "fr_sidrac": "quant le soleill se lieve au Levant, encore est l'aube au Ponant",
+    "en_sidrac": "When the sonne ryseth in the Eest, then it is dawnynge of the day in the west"
+  }
+],
+"115": [
+  {
+    "fr_sidrac": "et comme il se besse au Ponant, il est nuit au Levant pour la grandesce et la reondesce du monde",
+    "en_sidrac": "And also when the sonne goeth lowe in the west, then it is euyn nyght in the Eest, for the greatnes and roundnes of the world"
+  }
+],
+"116": [
+  {
+    "it_sidrac": "Una contrada è dove abitano genti, che il sole non vi sta se non una ora, e incontanente è notte",
+    "en_sidrac": "There is a lande and folkes dwellyng therin, that the Sonne abydeth not there but one houre of the day, and anone it is nyghte"
+  }
+],
+"117": [
+  {
+    "it_sidrac": "Un'altra v'è, che tuttavia è oscuro come notte",
+    "en_sidrac": "There is another lande where it is darke alway as it were nyght"
+  }
+],
+"118": [
+  {
+    "it_sidrac": "E quando in uno luogo del mondo è istate, in un altro è verno",
+    "en_sidrac": "And whan it is in one place of world wynter, in another place it is sommer"
+  }
+],
+"119": [
+  {
+    "it_sidrac": "Tutto questo aviene per la ragione del sole, che piglia altro cammino, per la volontà di Dio, ciascuno anno",
+    "en_sidrac": "And all this is by the reason of the Sonne that taketh another way, by the volent and wyll of God euery yeare"
+  }
+],
+"120": [
+  {
+    "fr_sidrac": "Le roy demande. Combien est le monde large, lonc et espés?",
+    "it_sidrac": "Lo re domanda: quanto è il mondo lungo e largo e ispesso?",
+    "en_sidrac": "The Kynge asked, how longe, how large, and howe thycke is the world?"
+  }
+],
+"121": [
+  {
+    "fr_sidrac": "Sydrac respont: Autant a sa longuesce comme sa groissesce et comme sa largesce, car il est tout aussint roont",
+    "it_sidrac": "Sidrac risponde: Altrettanto è la sua larghezza come la sua lungheza e come la sua anpieza, che è tutto ritondo",
+    "en_sidrac": "Forsoth the worlde is as moch of length, as of largenesse, and of thyckenes the same, for it is all as rounde"
+  }
+],
+"123": [
+  {
+    "fr_sidrac": "Et qui voudroit aler de l'un chief a l'autre droit parmi le monde et chascun jour alast bien et communaument au matin jusques au vespre",
+    "it_sidrac": "Chi volesse andare dall'uno capo del mondo all'altro, diritto per lo mezo, e ciascuno giorno andasse bene comunalmente dalla mattina infino alla sera",
+    "en_sidrac": "And who wolde go, from one heed to the other ryght through the worlde, and went euerye day well and commonly, from the morow tyll euen"
+  }
+],
+"124": [
+  {
+    "fr_sidrac": "et le pourpris de la mer qui est entre le Ponant et le Levant fust toute terre ferme",
+    "it_sidrac": "e l'acqua del mare, ch'è tra levante e 'l ponente, fosse tutta terra ferma",
+    "en_sidrac": "and the brede of the see that is betwene Eest and west, were all ferme lande and erth"
+  }
+],
+"125": [
+  {
+    "fr_sidrac": "et tout le monde fust plain",
+    "it_sidrac": "e tutto il mondo fosse piano",
+    "en_sidrac": "and all the world were as playne"
+  }
+],
+"126": [
+  {
+    "fr_sidrac": "ne pourroit il aler de l'un chief a l'autre en meins de mil jours",
+    "it_sidrac": "non potrebbe andare dall'uno capo all'altro, in meno di mille giorni",
+    "en_sidrac": "no man might go from the one heed to thother, in lesse then a .M. dayes"
+  }
+],
+"127": [
+  {
+    "fr_sidrac": "Et sa largesce autretant, et s'espessesce ensement",
+    "it_sidrac": "E dalla largheza e grossezza altrettanto",
+    "en_sidrac": "and the largenesse, and thyckenes is as moche"
+  }
+],
+"128": [
+  {
+    "fr_sidrac": "Le roy demande: Quantes terres sont au monde?",
+    "it_sidrac": "Lo re domanda: quante terre sono al mondo?",
+    "en_sidrac": "The Kynge asked, how many landes is there?"
+  }
+],
+"129": [
+  {
+    "fr_sidrac": "Sydrac respont: Il n'est que une terre, mes pour la raison de la mer qui entre parmi et la part en trois parties",
+    "it_sidrac": "Sidrac risponde: Tutta è una terra; ma per la ragione del mare, che è in terra per lo mezo, egli le diparte in tre parti",
+    "en_sidrac": "There is but one lande, but for the reason of the See that entreth throwout it, and partes it in .iii. partyes"
+  }
+],
+"130": [
+  {
+    "fr_sidrac": "pour ce se viennent trois contrees sanz les illes, mes toutes sont une terre ferme",
+    "it_sidrac": "che si chiamano tre contrade, sanza l'isole. Ma tutta è una terra ferma",
+    "en_sidrac": "therof there are named .iii. Countres, withouten Iles in the see, but all is one lande ferme"
+  }
+],
+"134": [
+  {
+    "fr_sidrac": "et toutes sont dessus le fondement et toutes fourma Deus",
+    "it_sidrac": "e tutte sono sopra uno fondamento e tutte le formò Idio",
+    "en_sidrac": "and all be vpon one foundement and all God formed and made"
+  }
+],
+"135": [
+  {
+    "fr_sidrac": "Et qui fust aval dessous le monde, ja soit ce que il n'i peust aler, mes par la volenté de Dieu i feust et alast tout entour",
+    "it_sidrac": "Ma chi andasse sotto il mondo, conciosia cosa che niuno vi possa andare, ma per la volontà di Dio uno andasse tutto intorno",
+    "en_sidrac": "And a man were all beneth vnder the worlde, whiche were vnpossyble for any man to be there, but by the wyll of God he myght wel be, and went all aboute"
+  }
+],
+"137": [
+  {
+    "fr_sidrac": "il verroit et trouveroit que toute la terre est une, la ou la mer est et la ou elle n'est",
+    "it_sidrac": "egli troverebe che tutta la terra è una, là ove è il mare e là ove non è",
+    "en_sidrac": "he shulde fynde that all the erth and lande were one as well there as the see is not, as there as she is"
+  }
+],
+"138": [
+  {
+    "fr_sidrac": "car ja tant parfont ne puet estre la mer que il n'ait terre dessouz elle",
+    "it_sidrac": "che tanto profondo non può essere, che la terra non vi sia sotto"
+  }
+],
+"139": [
+  {
+    "fr_sidrac": "Et cele terre meesmes a autre yaue qui la soustient",
+    "it_sidrac": "E quella medesima terra àe acqua di sotto, ella, che la sostiene",
+    "en_sidrac": "but that same earthe, hath yet other water vnder her, that sustayneth her"
+  }
+],
+"140": [ 
+{
+"fr_sidrac": "Le roy demande: Puet nus tant aler seur mer en nef et tout jours la boutast dedens boen vent tant que il peust venir pres du firmament?", 
+"it_sidrac": "Lo re domanda: potrebbe l'uomo andare tanto in su una nave, che tuttavia la spingesse il vento inanzi, ch'egli potesse venire presso al fermamento?", 
+"en_sidrac": "The Kynge asked, myghte a man sayle so longe in a shyp, and he had wynde and wether at his wyll, or the see, that he myght come nyghe to the fyrmament?"
+ } 
+],
+"141": [
+  {
+    "fr_sidrac": "Sydrac respont: Qui seroit en une nef et la mer le portast et le vent la boutast",
+    "it_sidrac": "Sidrac risponde: Chi fosse in una nave in mare, e il vento la portasse e sospignesse tuttavia inanzi",
+    "en_sidrac": "And a man were in a shyp, and the see bare hym, and the wynde put hym forth alway forwarde"
+  }
+],
+"142": [
+  {
+    "fr_sidrac": "et tant enterroit en mer somme .x. ans dureroient et plus et se partist du Levant, aprés cel grant temps il se trouveroit a la rive du Ponant",
+    "it_sidrac": "e movesse dal levante, da indi a dieci anni o più si troverrebbe dalla riva del ponente",
+    "en_sidrac": "and sayled .x. yere on the see or more, and that Shyp parted from the East, she shuld be a great whyle after that, or she came into the west"
+  }
+],
+"143": [
+  {
+    "fr_sidrac": "et autretel se partist du Ponant il se trouveroit a la rive du Levant",
+    "it_sidrac": "E simigliante, s'ella si partisse dal ponente, si troverrebbe dalla riva del levante",
+    "en_sidrac": "and also and she departed from the west she shuld be as longe or she aryued in the East"
+  }
+],
+"144": [
+  {
+    "fr_sidrac": "Et du travers du monde autretel",
+    "en_sidrac": "And also in lykewyse in the trauerse and ouerthwart the world"
+  }
+],
+"145": [ 
+{ 
+"fr_sidrac": "Se il avenoit chose et feust par la volenté de Dieu que un homme grant comme tot le monde feust pres du firmament", 
+"it_sidrac": "E s'egli avenisse cosa che fosse per la volontà di Dio, che uno uomo fosse sì grande, come tutto il mondo, e fosse presso del fermamento", 
+"en_sidrac": "and yf it so were that it ware the wyl of God that a man were as great as all the worlde, and he were nyghe vnto the fyrmament" 
+ } 
+],
+"147a": [
+  {
+    "fr_sidrac": "celui grant homme, qui seroit grant comme tout le monde se morroit en l'eure de la paour que il auroit",
+    "it_sidrac": "quello uomo che fosse magiore del mondo, morrebe incontanente della paura",
+    "en_sidrac": "that great man shuld be deed anone for the feere that he shuld haue"
+  }
+],
+"147b": [
+  {
+    "fr_sidrac": "du tour du firmament et de la tempeste que il fait de son movement, que une seule heure vivre ne pourroit",
+    "it_sidrac": "e delle tenpeste che fa il fermamento, quando egli si volge",
+    "en_sidrac": "when the fyrmament maketh his turne, and of the tempest where he turneth about, and shuld not lyue one houre"
+  }
+],
+"148": [
+  {
+    "fr_sidrac": "car le firmament ne fine de torner et de faire son tour",
+    "it_sidrac": "chè lo fermamento non fina di volgere nè di torneare",
+    "en_sidrac": "and yet the firmament seaseth not alway to turne"
+  }
+],
+"149": [
+  {
+    "fr_sidrac": "Le roy demande: En quel lieu est paradis terrestre?",
+    "en_sidrac": "The kynge asked in what place is paradyse Terrestre"
+  }
+],
+"150": [
+  {
+    "fr_sidrac": "Syderac respont: Paradis terrestre si est en la premiere region d'Aise vers Orient, que nul n'i puet aler se Dieu ou les angeles ne l'i mainne",
+    "en_sidrac": "Sydracke answereth: Paradyse terrestre is in the fyrst region of Asye le grande towar Orient, and there is none erthly man that may come there but god or his Aungels lede hym and guyde hym thyther"
+  }
+],
+"152": [
+  {
+    "fr_sidrac": "Car depuis que Adam fu fors geiez de li, celui paradis fu avironnez de feu de terre jusques aus nues, si que nus n'i puet entrer",
+    "en_sidrac": "For this Paradyse sythen that Adam was cast out therof, it was enuironed with fyre from the erth vnto the skie, that no man may enter"
+  }
+],
+"154": [
+  {
+    "fr_sidrac": "Et si a tout entour grant desert ou il a moult de bestes perilleuses",
+    "en_sidrac": "And also there is all aboute Paradyse great wyldernesses where there is great multytude of many dyuers and peryllous beastes"
+  }
+],
+"155": [
+  {
+    "fr_sidrac": "Le roy demande: En quel lieu est emfer?",
+    "en_sidrac": "The kynge asked, in what place is hell"
+  }
+],
+"156": [
+  {
+    "fr_sidrac": "Syderac respont: Enfer est u milieu d'Aufrique desous terre, car il est assis el milieu de la terre",
+    "en_sidrac": "Sydracke answereth: Hell is in the myddes of Auffryke vnder the erth, and is set in the myddes of earth"
+  }
+],
+"158": [
+  {
+    "fr_sidrac": "car tant a de la terre dessous lui comme il a de la terre desseur lui",
+    "en_sidrac": "for as moche erth is there aboue as beneth"
+  }
+],
+"159": [
+  {
+    "fr_sidrac": "la ou il a les grans peinnes qui jamais ne faudront",
+    "en_sidrac": "And there is great payne and turment without ende"
+  }
+],
+"160": [
+  {
+    "fr_sidrac": "Le roy demande: Pueent issir aucunes choses par entresigne de paradis ne d'emfer que l'em puisse veoir corporelment?",
+    "en_sidrac": "The kynge asked, may there come any tokens or Sygnes, that a man may se boldely out of heauen or hell"
+  }
+],
+"161": [
+  {
+    "fr_sidrac": "Syderac respont: L'em puet veoir tout apertement les yaues qui issent de paradis terrestre",
+    "en_sidrac": "Sydracke answereth: A man may se openly the waters that commeth from Paradyse Terrestre"
+  }
+],
+
+"162": [
+  {
+    "fr_sidrac": "Il y a une fonteinne que .iiij. fluns issent d'elle",
+    "en_sidrac": "for there is a well spring of the which .iiij. Ryuers commeth out of it"
+  }
+],
+"163": [
+  {
+    "fr_sidrac": "l'un si vait vers orient et chiet en la mer d'Occident",
+    "en_sidrac": "And one of those Ryuers goeth toward Orient, and falleth into the see of Occydent"
+  }
+],
+"165": [
+  {
+    "fr_sidrac": "les autres sourdent en Europe d'unne montaigne et passent par moult de contrees, tant que il encontrent la mer en tele maniere comme leur nature le requiert",
+    "en_sidrac": "And the other Ryuers, ariseth agayne in Ewrope of an hyll there, and there passe by many countres, tyll they mete, and then they fall into the see, as nature requyreth"
+  }
+],
+"166": [
+  {
+    "fr_sidrac": "Et ensement puet l'en veoir en Aufrique apertement .ij. montaingnes qui i sont souspiral d'enfer, qui ne finnent et de jour et de nuit de ardoir du fier feu",
+    "en_sidrac": "And also a man may se in Auffryke openly .ij. hylles, that be soupyrall of hell, and they cease not nether day nor night and be euer brennynge with fierse fyre"
+  }
+],
+"168": [
+  {
+    "fr_sidrac": "Le roy demande: Qui sont plus, l'arene de la terre ou les goutes de la mer?",
+    "it_sidrac": "Lo re domanda: quale è più o la rena della terra o le gocciole del mare?",
+    "en_sidrac": "The kynge asked, whether is more the grauel of the erth, or the droppes of water of the see"
+  }
+],
+"169": [
+  {
+    "fr_sidrac": "Sydrac respont: L'arene est plus assés que les goutes de mer",
+    "it_sidrac": "Sidrac risponde: La rena è più assai che le  gocciole del mare",
+    "en_sidrac": "The Grauell of the erth is moch more than be the droppes of the water of the see"
+  }
+],
+"170": [
+  {
+    "fr_sidrac": "car pour une poigniee d'areine seroit une grant quantité d'yaue",
+    "it_sidrac": "Una pugnata di rena sarebe grande quantità di  gocciole d'acqua",
+    "en_sidrac": "For one handefull of Grauell, mounteth a great quantyte of droppes of water"
+  }
+],
+"171": [
+  {
+    "fr_sidrac": "Car moult est plus menue l'arene que les goutes",
+    "it_sidrac": "che molto sono più minute le rene che le  gocciole dell'acqua",
+    "en_sidrac": "For the verye small Sande and Grauell is moche smaller then the droppes of water"
+  }
+],
+"172": [
+  {
+    "fr_sidrac": "et l'yaue ne puet estre en nulle part qu'elle ne soit dessus terre et sus l'arene",
+    "it_sidrac": "Ella non puote essere nulla parte che l'acqua non sia sopra terra e sopra rena",
+    "en_sidrac": "And the water may not be in no parte, but she be vpon the erth and vpon the Grauell"
+  }
+],
+"174": [
+  {
+    "fr_sidrac": "et en moult de lieus a moult d'arene que il n'i a goutes d'yaue",
+    "en_sidrac": "And in many places in the world, there is Grauell, that a man shall fynde no drop of water"
+  }
+],
+"175": [
+  {
+    "fr_sidrac": "Et en la parfondesce de la mer ja ne peust estre tant parfonde que la terre et l'arene ne soit sous elle",
+    "it_sidrac": "Lo mare non puote essere tanto profondo, che la rena e la terra non vi sia",
+    "en_sidrac": "and in the depest of the see, it can not be so depe but that there is Grauel and erth vnder the most depest"
+  }
+],
+"176": [
+  {
+    "fr_sidrac": "Et toute l'yaue du monde est assise seur terre et seur harene",
+    "it_sidrac": "chè tutta l'acqua del mondo si è posta sopra terra e sopra rena",
+    "en_sidrac": "For all the water in the world resteth vpon erth and vpon Grauell"
+  }
+],
+"177": [
+  {
+    "fr_sidrac": "et aucune foiz l'en perce la terre et treuve l'en yaue assise seur roche",
+    "it_sidrac": "E alcuna volta l'uomo cava la terra, e truova l'acqua sopra rocca",
+    "en_sidrac": "and often tymes when a man taketh away the erth he fyndeth water ſtandeth vpon Rocke"
+  }    
+  ],                                                  
+"178": [
+  {
+    "fr_sidrac": "Et pour ceste raison et pour la menuerie de l'arene et pour moult de pars ou il a moult d'arene et n'i a nulle goute d'yaue",
+    "it_sidrac": "e questa è ragione per la minutezza della rena, e perchè in molte parti à rena, ove non ci è acqua",
+    "en_sidrac": "And for this reason, and for the smalnes of the Grauell, and for the most parte where there is moche Grauell, there is no drop of water"
+  }
+],
+"179": [
+  {
+    "fr_sidrac": "l'arene est plus grant nombre assez que les goutes de la mer",
+    "en_sidrac": "Therfore the Grauell is moche more then the droppes of water in the see"
+  }
+],
+"180": [
+  {
+    "fr_sidrac": "nequedent nous ne disons mie de l'yaue qui soustient la terre",
+    "en_sidrac": "But ye shall vnderstand that we speke not of the water, that sustayneth and bereth all the erth in the worlde"
+  }
+],
+"181": [
+  {
+    "fr_sidrac": "Le roy demande: Pourroit l'en nombrer les harenes de la terre et les goutes de la mer?",
+    "it_sidrac": "Lo re domanda: potrebbe l'uomo contare le gocciole del mare o la rena della terra?",
+    "en_sidrac": "The kyng asked myght a man nombre the droppes of the water of the see or the Grauell of the earth"
+  }
+],
+"182": [
+  {
+    "fr_sidrac": "Sydrac respont: Se cilz mondes feust plus grant que il n'est .m. milles fois et feust tout terre ferme qui durast .m. milliers d'ans et seroit habité moult durement",
+    "it_sidrac": "Sidrac risponde: Se il mondo fosse magiore mille volte, e fosse terra tutta ferma, e che durasse mille volte mille anni e fosse molto atticciato",
+    "en_sidrac": "Sydracke answereth: And the worlde were greater then it is a .M. tymes, and were all ferme erth, and that it dured a .M. tymes a .M. yere goyng and were all enhabyted with folkes"
+  }
+],
+"184": [
+  {
+    "fr_sidrac": "le jour et la nuit durast .xxiiij. heures et chascune heure feust .m. et .lxxx. poins",
+    "it_sidrac": "lo giorno e la notte sono XXIIII ore, e ciascuna ora sono mille ottanta punti",
+    "en_sidrac": "the day and the nyght be .xxiiij. houres, and euerye houre is a .M. lxxx. poynctes"
+  }
+],
+"185": [
+  {
+    "fr_sidrac": "et en chascun point en tant de fois nasquissent .m. mile fois d'ommes et autretant de femmes",
+    "it_sidrac": "e di ciascuno punto nascieranno mille volte mille uomini e altrettante femine",
+    "en_sidrac": "and in euery poyncte were borne a .M. M. tymes men, and as many women"
+  }
+],
+"186": [
+  {
+    "fr_sidrac": "et feussent tous peluz, et pour chascun poil eust .m. mille goutes de mer",
+    "it_sidrac": "e fossono tutti pilosi, e per ciascuno pelo avesse mille volte mille gocciole di mare",
+    "en_sidrac": "and they were all full of heer, and for euery heer shulde haue a .M. M. tymes droppes of water of the see"
+  }
+],
+"188": [
+  {
+    "fr_sidrac": "les goutes de mer seroient plus que tout cest nombre et l'arene de terre est plus que goutes de mer",
+    "it_sidrac": "le gocciole dell'acqua sono più che questo numero e la rena della terra è più che le gocciole del mare"
+  }
+],
+"190": [
+  {
+    "fr_sidrac": "Et la misericorde Dieu est plus que l'une ne l'autre et que toutes les autres choses qui el monde furent et sont et seront a ceuls qui la querront d'avoir et la desservent",
+    "it_sidrac": "e la misericordia di Dio è magiore che l'una e che l'altra, e più che tutte le cose che al mondo sono, e che sono state o che saranno, a quelli che la disiderano d'avere",
+    "en_sidrac": "And yet the miserycorde and the mercye of God is more then the one and the other, or all other thynges that be in that world or were or shalbe vnto them that seke to haue it and deserue it"
+  }
+],
+"191": [
+  {
+    "fr_sidrac": "Le roy demande: Qui est mieulx seant a la femme, le beau cors ou la bele chiere?",
+    "it_sidrac": "Lo re domanda: quale è più bello alla femina o lo bello corpo o lo bello volto?"
+  }
+],
+"192": [
+  {
+    "fr_sidrac": "Syderac respont: L'omme et femure qui sont complis de leur membres et sont entiers, la belle chiere leur est plus bele que le beau cors",
+    "it_sidrac": "Sidrac risponde: Uomo o femina che sieno conpiuti di loro menbri e sono interi, la bella cera istà loro meglio che il bello corpo"
+  }
+],
+"193": [
+  {
+    "fr_sidrac": "car se le cors est blanc ou noir, si est il couvert de sa vesteure, et la chiere est toutjours descouverte",
+    "it_sidrac": "che se lo corpo è bianco o bruno, egli è coperto di vestimenti, e lo volto è scoperto tuttavia"
+  }
+],
+"194": [
+  {
+    "fr_sidrac": "Et le delit n'est que de la chiere, et l'en ne doit resgarder que a la chiere, et qui a autre se mette a regarder, il peche durement",
+    "it_sidrac": "e lo diletto non è se non nel volto. L'uomo non dee riguardare se non nel volto; e chi inanzi si mette a riguardare, egli pecca fortemente"
+  }
+],
+"195": [
+  {
+    "fr_sidrac": "Et pour ce disons nous que la belle chiere est mieulx seant a la perssonne entiere et conplie",
+    "it_sidrac": "E perciò diciamo noi che lo bello volto è più piacevole al corpo sano e conpiuto"
+  }
+]
+
+
+  }
+}

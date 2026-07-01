@@ -1,0 +1,717 @@
+{
+  "work": "Le Devisement dou monde",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+  
+  "000": [
+    {
+      "es_salamanca": "A Todos los principes varones & caualleros o a qualquier otra persona que este mi libro viere o oyere sea salud pura & prosperidad con gozo",
+      "en_print_1579": "To all Princes, Lordes, Knightes, and all other persons that this my Booke shall sée, heare, or reade, health, prosperitie, and pleasure"
+    }
+  ],
+  "001": [
+  {
+    "fro_it_F": "Seingnors, enperaor et rois, dux et marquois, cuens, chevalers et borgiois, et toutes gens qe volés savoir les deverses jenerasions des homes et les deversités des deverses region dou monde si prennés cestui livre et le feites lire",
+    "la_Z": "Domini imperatores, reges, duces, marchiones, comites, milites et burgenses et omnes gentes qui vultis agnoscere diversa hominum genera et diversarum regionum mundanas diversitates accipite hunc librum",
+    "it_R": "Signori, principi, duchi, marchesi, conti, cavallieri, gentilhuomini, et chadauna persona che ha piacere et desidera di cognoscer varie generation di huomini et diverse regioni et paesi del mondo leggete questo libro",
+    "vec_V": "signori inperadori, duchi, marchexi, chonti e chavalieri, et tuta zente qualle volete intender e chonosser le diversse gienerazione deli omeni e dele diversitade de diverse gienerazione del mondo lezete questo libro",
+    "vec_VA": "Signori re, duchi, marchexi, chonti, chavalieri, prinzipi et baroni, et tuta zente a chui dileta de saver le diversse zenerazion de zente tolè questo libro e fate-llo lezer"
+  }
+],
+    "002": [
+  {
+    "es_salamanca": "Eneste libro entiendo dar a conocer cosas grandes & marauillosas del mundo de armenia & Persia & india & Tartaria. E de muchas otras prouincias las quales se contaran enesta obra",
+    "en_print_1579": "In thys Booke I do mind to giue knowledge of strange and maruellous things of the world of Armenia, Persia, India, Tartaria, and of many other prouinces whiche shall be declared in this worke"
+  }
+],
+    "003": [
+  {
+    "fro_it_F": "et chi trovererés toutes les grandismes mervoilles et les grant diversités de la Grande Harminie et de Persie et des Tartars et Indie et des maintes autres provinces si con notre livre voç contera por ordre apertemant, raconte",
+    "vec_VA": "Et qui troverete tute le grandisime meraveie et diversitate della grande Armenia, de Persia, Tartaria e de India et de molte altre provinzie Et questo libro ve chonterà per ordine",
+    "la_Z": "Nam in ipsum invenietis omnia magna mirabilia et diversitates Armenie Maioris, Persarum, Tartarie et Indie et aliarum multarum provinciarum ut patebit per ordinem enarat",
+    "it_R": "perché in esso troverete tutte le grandi et maravigliose cose nelle Armenie Maggior, Persia, Tartaria et India, et in molte altre provincie le qual tutte per ordine in questo libro si narrano",
+    "vec_V": "in lo qual troverete de grandinissimi miracholi e diversitade del’Ermenia Mazore, de Persia e de Tartaria e de molte altre provinzie segondo chomo nara el predeto libro, et avertamente ve chonterà"
+  }          
+],
+"004": [
+  {
+    "fro_it_F": "si come meisser March Pol, sajes et noble citaiens de Venece por ce que a seç iaus meissme il le vit",
+    "vec_VA": "sì chome misier Marcho Polo, nobelle et savio zitadin de Veniexia à rezitado segondo che lui medemo vide chon i suo’ hochi",
+    "la_Z": "sicut dominus Marcus Paullo Veneciarum civis quoniam oculis propriis ipse vidit",
+    "it_R": "secondo che ’l nobil messer Marco Polo, gentilhuomo venetiano le ha dettate, havendole con gli occhi proprii vedute",
+    "vec_V": "chomo misier Marcho Polo, zitadin de Veniexia queste tal chosse chon li suo’ ochi vete"
+  }
+],
+    "012": [
+      {
+        "es_salamanca": "como las vi yo Marco polo noble cibdadino veneciano",
+        "en_print_1579": "as they were séene by me Marcus Paulus, of the noble Citie of Venice"
+      }
+    ],
+    
+    "014": [
+      {
+        "fro_it_F": "mes auques hi ni a qu’il ne vit pas mes il l’entendi da homes citables et de verité",
+        "vec_VA": "Ben chonta in questo libro molte cosse ch’el non vide, ma ello le intexe da savii homeni e degni de fede",
+        "la_Z": "Et sunt etiam aliqua que non vidit, sed audivit ab hominibus fide dignis",
+        "it_R": "Et perché ve ne sono alcune le quali non ha vedute, ma udite da persone degne di fede",
+        "vec_V": "queste tal chosse chon li suo’ ochi et orechie vete et aldì da homeni degni de fede",
+        "es_salamanca": "E aquello que no vide vue por relacion de hombres sabios. E dignos de fe",
+        "en_print_1579": "and that which I saw not, I declare by report of those that were wise and of good credite"
+      }
+    ],
+    "015": [
+      {
+        "fro_it_F": "Et por ce metreron les chouses veue por veue et l’entendue por entendueentandue",
+        "it_R": "però nel suo scrivere le cose per lui vedute mette come vedute, et le udite come udite",
+        "es_salamanca": "Pero lo que vide cuento como de vista. E lo que supe por otros como de oyda",
+        "en_print_1579": "but that which I saw, I declare as I saw it, and that which I knew by others, I declare as I heard it",
+        "vec_VB": " nui diremo le chose veçude per veçude e lle aldide per le aldide",
+        "vec_V": "sì che in questo quele chosse che ’l dito vete meteremo chomo chosse vedude, et quele che lui aldì chomo chosse aldide",
+        "vec_VA": "e però meterà le chosse vezude per vezuda, e le aldide per aldida"
+      }
+    ],
+    "016": [
+      {
+        "fro_it_F": "por ce que notre livre soit droit et vertables sanç nulle mensonge",
+        "it_R": "il che fu fatto acciò che questo nostro libro sia vero et giusto senza alcuna bugia",
+        "vec_VB": "Et açò che questo libro sia veritevolle, Et açò ch’el non se prendi erore e che le chose se dirano non sia reputate fabulle",
+        "vec_VA": "azò che ’l nostro libro sia drito e veraze e senza reprension niuna; nì nonn è nostra intenzion de rezitar né de scriver chossa che non sia veraxia",
+        "es_salamanca": "porque toda la narracion sea fiel & verdadera. ca mi intencion es no escreuir cosa que no sea muy certa",
+        "en_print_1579": "And for that this whole worke shall be faithfull and true, my intente is not to write any thing, but that which is very certaine"
+      }
+    ],
+    "0017": [
+      {
+        "fro_it_F": "et chascuns que cest livre liroie, ou hoiront, le doient croire, por ce que toutes sunt chouses vertables",
+        "la_Z": "et quicumque hunc librum leget vel audiet plenariam fidem debeat adhibere, quia omnia sunt vera",
+        "it_R": "et chadaun che ’l leggerà overo udirà gli dia piena fede, perché il tutto è verissimo",
+        "vec_V": "adziò che ’l nostro libro sia chonsonante ad zaschun che oldirà hover lezerà; sì che ognuno li darà fede"
+      }
+    ],
+    "0018": [
+  {
+    "fro_it_F": "car je voç fais savoir que, puis que notre Sire Dieu plasmé de seç mainç Adam notre primer pere jusque a cestui point ne fu cristienç ne paiens ne tartar ne yndiens, ne nulç homes de nulle generasion",
+    "vec_V": "Et sapié che dal tempo che Dio chreò Adam ed Eva, qual fo el primo homo al mondo, fina al prexente non fo mai algun christian, Saraxin, Tartaro, Indian over homo de alguna gienerazione",
+    "vec_VA": "E sapiate veramente che nostra chreenza si è, dapo’ che ’l nostro Segnior Dio chreò Adam, nostro primo padre ch’el non fo nesuno homo, nì cristian nì pagan, nì altra zente del mondo"
+  }
+],
+"0019": [
+  {
+    "es_salamanca": "fago saber a todos que despues del nacimiento de nuestro señor Jesu christo no fue hombre pagano ni christiano",
+    "en_print_1579": "I do giue you all to vnderstande, that sithence the birth of our Sauioure and Lorde Iesus Christ there hathe bin no man, Christian, nor Heathen"
+  }
+],
+    "0020": [
+  {
+    "fro_it_F": "que tant seust ne cherchast de les deverses partie dou monde et de les grant mervoilles come cestui messire March en chercé et soi",
+    "vec_V": "el qual vedesse tante chosse et zerchasse le diverse parte del mondo chomo fexe missier Marcho Polo predito",
+    "vec_VA": "che tanto vedesse e zerchasse delle diverse parte del mondo e meraveie chome à fato questo misier Marcho Pollo"
+  }
+    ],
+    "0021": [
+  {
+    "es_salamanca": "que tantas y tan diuersas & marauillosas cosas alcançase a saber",
+    "en_print_1579": "that hathe come to the knowledge and sight of so manye diuers and maruellous things"
+  }
+],
+    "0022": [
+      {
+        "la_Z":"Antedictus dominus Marcus Paulus ab infancia sua usque ad tricessimum annum conversatus fuit per partes illas",
+        "it_R": "perciò che dal principio della sua gioventú sino all’età di trenta anni ha conversato in dette parti"
+      }
+    ],
+    "0023": [
+  {
+    "fro_it_F": "se il feist metre en ecriture toutes les granç mervoilles qu’il vit et qu’il hoï que tropo seroit grant maus por ce que les autres jens que ne le virent ne sevent le sachent por cest livre",
+    "vec_V": "onde el dito diterminò di meter tuto quelo ch’el avea visto e aldido in schritura adziò che la zente che non à vezudo né sapudo per questo libro possa saver",
+    "en_print_1579": "whiche I will take in hande the laboure to write, as I did sée and heare it. For me thinke I shoulde do a great iniurie And for better information to them that shall reade or heare this worke",
+    "es_salamanca": "E quise tomar este trabajo de escreuir las cosas que auia visto & oydo. Porque me paresciera villania E por mejor informacion de quien esto leyere o oyere ha de saber"
+  }
+    ],
+    "0026": [
+      {
+        "fro_it_F": "et si voç di qu’il demora a ce savoir en celles deverses parties et provences bien .XXVI. anç",
+        "vec_VA": "A saver queste chosse el stete in quele parte del mondo ben ani XXVI",
+        "vec_VB": "ne’ qual diti luogi el stete anni .XXVI",
+        "vec_V": "Et dicho che ’l dito missier Marcho Polo stete in queste diversse parte et provinzie vintisie ani",
+        "en_print_1579": "that I trauelled in the foresayd Prouinces and Countreys, ye space of sixe and twentie yeares",
+        "es_salamanca": "que yo estuue & anduue enlas prouincias de yuso escriptas veynte & seys años"
+      }
+    ],
+   "0027_0028b": [
+  {
+    "fro_it_F": "Le quel puis, demorant en la le charchre de Jene fist retraire toutes cestes chouses a messire Rustaciaus de Pise",
+    "vec_VA": "E siando in charzere a Zenova alora se fè’ scriver questo libro a misier Ristazo da Pixa",
+    "vec_V": "lo qual, siando destegnudo in charzere de Zenovessi tute ’ste chosse feze schriver per misier Reustregielo de Pixa",
+    "en_print_1579": "I then being prisoner in Ianua caused thē to be written to Mayster Vstacheo of Pisa",
+    "es_salamanca": "estando yo preso en genoua & las fize escreuir a micer Eustachio de Pisa"
+  }
+],
+    "0028":[
+        {
+                "la_Z": "Et ideo, ipso existente in carcere in civitate Ianue",
+                "it_R": "Et hora, ritrovandosi prigione nella città di Genova",
+                "vec_VB": "el deto miser Marcho nele prixon de Genova"
+        }
+    ],
+
+        "0028c": [
+      {
+        "fro_it_F": "au tens qu’il avoit .MCCXCVIII. anç que Jeçucrit nesqui",
+        "vec_VA": "e questo fo ano domini MCCXCVIII",
+        "vec_V": "nel’ano del nostro signor Iexu Christo milleduxento e nonanta oto",
+        "vec_VB": "nei anni del nostro Segnore miser Ihesu Cristo .MCCXCVIII.",
+        "en_print_1579": "the yeare of our Lorde God .1298.",
+        "es_salamanca":"el año del señor de mill & dozientos & nouenta & ocho años"
+      }
+    ],
+    "0029": [
+      {
+        "it_R": "non volendo star otioso, gli è parso, a consolation dei lettori",
+        "la_Z": "nolens vacare otio, visum fuit sibi, ad consolationem legentium"
+      }
+    ],
+    "0030": [
+      {
+        "it_R": "di voler metter insieme le cose contenute in questo libro",
+        "la_Z": "ut predictum librum compilare deberet."
+      }
+    ],
+    "0031": [
+      {
+        "it_R": "non scrisse sopra i suoi memoriali se non alcune poche cose",
+        "la_Z": "Et ipse non notavit nisi pauca aliqua, que adhuc in mente retinebat"
+      }
+    ],
+    "0032": [
+      {
+        "fro_it_F": "Il fu voir que au tens qe Baudoin estoit enperaor de Gostantinople, ce fu a les .MCCL. anç",
+        "it_R": "Dovete adunque sapere che nel tempo di Balduino, imperatore di Constantinopoli, correndo gli anni del N.S. MCCL",
+        "it_AL": "Nello tempo che messer Baldovino era Imperadore di Costantinopoli, cioè fue nel mccl",
+        "vec_V": "Nel tempo de Baldoin, inperador de Chonstantinopoli, nel’ano mileduxento e zinquanta",
+        "vec_VA": "In quelo tenpo che misier Balduino era inperador de Chostantinopoli, che fo ani MCCL",
+        "vec_VB": "Nel tenpo che Balduino era inperadore de Chostantinopolli nel .MIIcL.",
+        "la_P": "Tempore quo Balduinus princeps sceptrum Constantinopolitani imperii gubernabat, anno scilicet ab incarnacione Domini .MCCL.",
+        "la_L": "Anno Christi .M°.CC°.L°., tempore quo Baldoinus Constantinopolim imperabat",
+        "en_print_1579": "raigning in Constantinople the Emperoure Baldouino, and in his time in the yeare of oure Lord .1250.",
+        "es_salamanca": "reynando en costantinopla el emperador Baldouino. Ca en tiempo deste enel año del señor de mill & dozientos & cincuenta",
+        "pt_print_1502":"No  tempo  que  Baldouino  Rey  guuernaua  ho  emperio  de  Constantinopoli.  E  esto  foy  no  anno  da  eacarnaçam  de  nosso  senhor  Jhesu  Christo  de mill  e  duzentos  e  çinquoenta  annos"
+      } 
+    ],
+    "0033": [
+      {
+        "fro_it_F": "mesire Nicolao Pol, que pere messire March estoit, et messiere Mafeu Pol, que frere mesere Nicolau estoit",
+        "it_R": "messer Nicolò Polo, padre di messer Marco, et messer Maffio Polo, fratello del detto messer Nicolò",
+        "it_AL": "messer Niccholò Polo, che ffue padre di messer Marcho, et messer Maffeo Polo, fratello dello decto messer Nicholò",
+        "vec_VA": "misier Nichuola Pollo, che fo pare de Marcho, e misier Mafio Pollo, fradelo de misier Nicollò",
+        "la_L": "Nycholaus Paulo, pater domini Marchi Paulo, et Mapheus Paulo fratres"
+      }
+    ],
+    "0033b": [
+      {
+        "en_print_1579": "Nicholas my father, and Mapheo my vncle his brother",
+        "es_salamanca": "Nicolao mi padre & mapheo tio mio su hermano"
+      } 
+    ],
+    "0034": [
+      {
+        "la_P": "duo nobiles ac honorabiles prudentesque germani, inclite civitatis Veneciarum incole",
+        "pt_print_1502":"dous nobres honrrados e prudentes jrmaãos. çidadaãos e moradores da muy nobre cidade de Veneza"
+      } 
+    ],
+      "0035": [
+      {
+        "fro_it_F": "estoient en la cité de Gostantinople qui i estoient alés de Venese con leur merchandie",
+        "vec_V":"chon le lor marchadantie iera vegnudi da Veniexia a Chostantinopoli",
+        "vec_VA":"se partìno de Veniexia e andò chon suo’ merchadantie in la zità de Chostantinopoli"
+      }
+    ],
+
+    "0035a": [
+      {
+        "vec_VB": "chapitòno nel dito luogo de Chostantinopolli con le loro marchadantie",
+        "la_L" :"cum eorum mercimoniis Constantinopolim pervenerunt",
+        "en_print_1579":"went to Constantinople with their Merchandises",
+        "es_salamanca":"yendo a costantinopla con sus mercaderias",
+        "it_R":"trovandosi in Constantinopoli con loro mercantie"
+    } 
+    ],
+    "0035b": [
+      {
+        "la_P":"navem propriam diversis opibus et mercimoniis oneratam, communi concordia in portu Venetorum conscendentes",
+        "pt_print_1502":"por seu acordo no porto da dita cidade de Veneza de entrarem em hũa sua própria naao carreguada de desuayradas riquezas e mercadorias"
+      }
+    ],
+    "0035c": [
+      {
+        "la_P":"prospero vento flante, duce Deo, Constantinopolim perexerunt",
+        "pt_print_1502":"ventando boõ vento e guyandoos Deos se forom  pera a çidade de Constantinopoli"
+      }
+    ],
+    "0036": [
+      {
+        "la_P":"Horum maior natu Nicolaus dicebatur, alter vero Matheus, quorum progenies domus Pauli vocabatur",
+        "pt_print_1502":"Ao maior destes per naçença chamauam Nycolao, e ho outro Matteo. A qual geeraçam delles era chamada a casa de Paulo"
+      }
+    ],
+      "0037": [
+      {
+       "fro_it_F":"il ont consoil entr’aus et distrent qu’il vuelent aler en la Mer Greingnor por gaangner et por fer leur profit",
+       "it_R":"insieme molti ragionamenti, et finalmente deliberorno andare in mar Maggiore, per vedere se potevano accrescere il loro capitale",
+       "vec_V":"Et stando lì alguni zorni li vene in chuor di voler andar nel Mar Mazore per dispensar le lor marchadantie et chonprar molti zoieli",
+       "vec_VB":"Deliberòno de andare con le lor marchadantie in Mar Maçore per vadagnare"
+      }
+    ],
+        "0037b": [
+      {
+        "en_print_1579":"And béeyng there a certayne tyme, wyth councell of theyr friendes, passed wyth such wares and iewels as they had boughte in the Countrey of the Souldan",
+        "es_salamanca":"& auiendo estado ende algun tiempo con consejo de sus amigos passaron con las joyas que auian comprado a tierra del soldan"
+      }
+    ],
+ "0038": [
+      {
+    "la_P":"Cumque in Constantinopolitana urbe brevi in tempore fuissent, breviter et feliciter expediti navigantes inde profecti",
+    "pt_print_1502": "E seendo elles em a cidade de Constantynopoli forom em breue tempo bem desembarguados e despachados. E dalli nauegando se forom"
+      }
+    ],
+     "0038a": [
+      {
+    "la_P":"pervenerunt ad portum civitatis Armenie que dicitur Soldadia",
+    "pt_print_1502": "atee que chegarom ao porto de hũa çidade de Arménia que he chamada Soldadia"
+      }
+      ],
+      "0038b": [
+      {
+    "la_P":"ubi, preciosa iocalia preparantes secundum sibi data consilia",
+    "pt_print_1502": "na qual fazendo prestes preciosas joyas segundo os conselhos que forom dados,"
+      }
+    ],
+    "0038c": [
+    {
+    "la_P":"unius magni regis Tartarorum curiam adierunt qui dicitur Barcha",
+    "pt_print_1502": "cheguarom aa corte de hũu grande Rey dos Tartaros a que diziam Barca",
+    "it_R":"presero il cammino alla corte di un gran signor de’ Tartari detto Barcha"
+    }
+    ],
+    "0038d": [
+    {
+    "vec_VA":"che i zonse ala zità là dove era Barcha Chan, che era segnior d’una parte de’ Tartari",
+    "vec_V":"li vene a chapitar a Bracharchan, una zitade la qual signorizava una parte de Tartari",
+    "fro_it_F":"qu’il ne furent venu a Barca Caan, que sire estoit d’une partie de Tartar",
+    "vec_VB":" nel qual luogo era Abarchachan segnore d’una parte dela Tartaria",
+    "it_AL":"giunsero a una città, dove era uno re che avìa nome Barcha, lo quale era signiore d’una provincia de Tartari",
+    "es_salamanca":"llegaron a vna cibdad del señor Tartaro: el qual se llamaua barcacan",
+    "en_print_1579":"came to a Citie of the Lorde of the Tartarians, which is called Barcacan"
+    } 
+    ],
+    "0039": [
+    {
+    "fro_it_F": "Et achaterent plusorç joiaus et se partirent de Gostantinople in une nes et s’en alent en Soldadie",
+    "vec_VA":"E chonprarono molte zoie e intrò in nave in Chostantinopoli e andò in Soldania"
+    }
+    ],
+    "0040": [
+    {
+    "fro_it_F":"Cestui Barcha fist grant honore a messer Nicolau et a messer Mafeu et mout ot grant leesse de leur venue",
+    "it_AL":"Questo re Barcha fecie grande honore a messer Niccholò et a messer Maffeo et mollto si mostrò allegro della loro venuta",
+    "vec_VA": "Et era questo segnior Barcha Chan signior onorà. A misier Nicolò e misier Mafio i mostrò grande alegreza de soa venuta"
+    }
+    ],
+    "0040a": [
+    {
+    "es_salamanca":"y este señor Barcacan tomo mucho plazer en ver a mi padre Nicolas & a mi tio Mapheo. E les fizo mucha honrra",
+    "en_print_1579":"And this Lord Barcacan, tooke greate pleasure to sée my father Nicholas and my Vncle Mapheo and shewed them greate friendship"
+    }
+    ],
+    "0040b": [
+    {
+    "vec_V":" li fezie grandissimo onor",
+    "la_Z" : "qui gratanter et honorate recepit eos",
+    "la_L":"quos cum honorifice recepisset ei",
+    "it_R":" feceli grande honore",
+    "vec_VB":"i fexe grande onor "
+    }
+    ],
+    "0041": [
+    {
+    "pt_print_1502":"e offereçendolhe doões de cousas que consiguo leuauam. forom delle bem e benignamente recebidos",
+    "la_P": "cui cuncta que secum detulerant munera offerentes benigne ab ipso suscepti sunt"
+    }
+    ],
+    "0041a": [
+    {
+    "pt_print_1502":" do qual per essa mesma maneira reçeberom muj grandes e mais larguos doões",
+    "la_P": "a quo versa vice maxima et ampliora donaria perceperunt."
+    }
+    ],
+    "0042a": [
+    {
+"fro_it_F":"Lop est une grant cité che est au chef dont l’en entre en le grant deçert qui est apellé le deçert de Lop",
+"vec_VB":"si è una gran citade la qual è nel principio del gran deserto chiamato Lopo",
+"la_L":"Lop est civitas magna ad introitum deserti magni",
+"pt_print_1502":"Lop he cidade muj grande aa entrada do gram deserto",
+"la_P":"Lop est civitas magna ad introitum deserti magni",
+"vec_VA":"sì trova uno gran dexerto, al’intrar del qual è una gran zità che à nome Lop"
+    }
+],
+"0042b": [
+    {
+"la_Z":" Lop est quedam civitas a qua dum homo discedit, magnum intrat desertum.",
+"it_R":"Lop è una città dalla qual partendosi s’entra in un gran deserto, il qual similmente si chiama Lop"
+    }
+    ],
+"0042c": [
+{
+"es_salamanca":"E Partiendo se de ciarchan se camina .v. jornadas por arenales y eneste camino se fallan aguas dulces & salobres",
+"en_print_1579":"Departing from Ciarchan, you shal trauayle fiue dayes iourney in sande, and in the waye, fresh and swéete waters, and some saltish",
+"fro_it_F":"Et quant l’en s’en part de Ciarcian, il ala bien cinq jornee por sablon, la ou il a de mauveisse aigue et d’ameres; et en tel leu hi a des bones et douces",
+"it_R":"Et poi, partendosi da Ciarcian, si va per cinque giornate per l’arena, dove sono cattive acque et amare, et in alcuni luoghi sono buone et dolci",
+"vec_V":"E partendosse da Ziarzian el se va zinque zornade pur per rena, et le aque sono molte amare fina ad alguni luogi; possa sono bone e dolze",
+"vec_VA":"E quando l’omo se parte de Ciarcian, el va ben zinque zornate per sabion, là dove è aqua amara e pesima, ma in alchuno luogo se ne trova de bona",
+"la_P":"Post recessum de provincia Ciarciam itur dietis V per sabulum ubi est aqua pessima et amara; alicubi tamen infra illum terminum de bona aliquid invenitur",
+"la_L":"Recedendo a Ciarcian, itur bene .V. dietis per arenam ubi sunt male aque et amare, et alicubi sunt bone",
+"pt_print_1502":"Despois partindo de Ciarchiam vam .v. jornadas per sabro onde ha muy maa agua e amargosa, empero dentro em aquelle termo acham algúa boa agua"
+}
+],
+"0042d": [
+{
+"vec_VA":"Quando l’omo se parte ed è andado quelle zinque zornate, sì trova uno gran dexerto, al’intrar del qual è una gran zità che à nome Lop",
+"es_salamanca":"pasadas estas v. jornadas se halla vn gran desierto y enel principio del vna gran cibdad que dizen job",
+"en_print_1579":"Being paste these fiue dayes iorney, you shal finde a great desert, and at the beginning of it a gret Citie called Iob"
+}
+],
+    "0043": [
+    {
+"fro_it_F":"et est entre levant et grech.",
+"it_AL":" che è tra levante e grecho",
+"es_salamanca":"que dizen entrel viento greco & leuante",
+"vec_VB":"el quale è fra grego e levante",
+"it_R":"posto fra greco et levante",
+"la_L":"quod est inter plagam orientalem et aquilonarem",
+"la_P":"quod est inter plagam orientalem et aquilonarem",
+"pt_print_1502":"que esta antre a parte do oriente e a do aguyam",
+"en_print_1579":"betwéene the Northeast and the Easte"
+    }
+ ],
+ "0042_0044": [
+  {
+    "fr_kF": "Premièrement, quand on chevauche trente journées dans le grand désert qui s’appelle le désert du Lop, dure de travers XXX journees et un an de lonc",
+    "an_KA": "Primerament, quando hombre cavalga XXX jornadas del grant desierto qui se clama el desierto del Lobo, dura de traviesso XXX jornadas, et de luengo un anyo",
+    "ca_KC": "Primerament, cant hom cavalcha XXX yornades del gran desert qui s’apela lo desert del Lop, qui dura de trevés XXX yornades e un any de lonch"
+  }
+],
+    "0045": [
+    {
+    "fr_kF":"Et convient que l’en porte aussi tout ce qu’il y fault mestier pour vivre, car l’en n’y treuve riens de quoy n’en puisse vivre",
+    "an_KA":"Et conviene que hombre lieve con si todo quanto le faze menester, car no se troba res de que pueda bevir",
+    "ca_KC":"E cové que hom port ab si tot so que mester li fa, car no s’i troba res de què hom pusca viure"
+    }
+    ],
+ "0046": [
+    {
+    "fro_it_F":"Ceste cité est au Grant Chan",
+    "it_R":"et la città è del Gran Can",
+    "vec_V":"et questa zitade sono del Gran Chan",
+    "la_Z":"Civitas vero est Magni Canis"
+    }
+],
+ "0046a": [
+    {
+    "vec_VA":"Questa zità è soto la segnioria del Gran Chaan",
+    "vec_VB":"et ancho di questa el Gran Chan v’è segnore"
+    }
+],
+ "0046b": [
+    {
+    "es_salamanca":"y esta obedece al gran Can",
+    "en_print_1579":"They be vnder the obedience of the great Cane",
+    "it_AL":"questa città è sotto il Gran Chane"
+    }
+],
+ "0047": [
+    {
+    "fro_it_F":"Les jens aorent Maomet",
+    "vec_V":"e la zente de questa adora Machometo",
+    "vec_VB":"et adorano Macometo",
+    "la_L": "Et gentes adorant Machomet"
+    }
+],
+ "0047a": [
+    {
+    "it_R":" le cui genti osservano la legge di Macometto",
+    "it_AL":"e oservano la leggie di Macometto",
+    "la_Z":"cuius gentes Macometi legem observant",
+    "vec_VA":"Le zente della zità à la lezie de Machometo",
+    "la_P":"Homines civitatis legem Machometi habent"
+     }
+    ],
+ "0047b": [
+    { 
+    "pt_print_1502":"Os moradores desta cidade tem a seita de Mafomede",
+    "es_salamanca":"E todos siguen la secta de mahomad"
+    }
+    ],
+ "0048": [
+    { 
+    "fro_it_F":"cel que vuelent pasere le desert se repousent en ceste ville une semaine por resfrecher elz et lor bestes",
+    "vec_VA":"Quelli che voleno pasare quel gran dexerto sì se ripossa una setemana in quella zità e refreschano le suo’ bestie",
+    "es_salamanca":"E quien quiere passar este desierto cumple le estar vna semana enesta cibdad por proueer delo necessario para si & para sus bestias"
+    }
+    ],
+ "0048a": [
+    { 
+    "vec_V":"Et queli che vol pasar per ’sto dexerto per el mancho chonviense possar in questa zitade sie zornade",
+    "vec_VB":"Quelli deno passar el diserto se ripossa per una setemana",
+    "en_print_1579":"And they that wil passe this desert, had néede to be in thys Citie a wéeke",
+    "it_AL":"Le genti che vogliono passare per quello diserto, ellino si riposano una septimana",
+    "la_L":"Oportet autem eos qui volunt hoc desertum transire aliquibus diebus in hac refici civitate"
+    }
+    ],
+     "0048b": [
+    { 
+    "la_P":"In hac civitate pro mercatoribus volentibus transire desertum cuncta necessaria preparantur",
+    "pt_print_1502":"Em esta cidade os mercadores que querem passar o deserto aparelham todas as cousas que lhes som necessárias pêra seu caminho",
+    "it_R":"Et quelli che vogliono passar il deserto riposano in questa città per molti giorni, per preparar le cose necessarie per il cammino"
+    }
+    ],
+     "0048bb": [
+    { 
+    "la_P":"ubi mercatores, priusquam iter arripiant, diebus pluribus requiescunt",
+    "pt_print_1502":"em a qual os mercadores ante da sua partida folguam alguus dias"
+    }
+    ],
+     "0049": [
+    {   
+        "fro_it_F":" il prennent viandes por un mois por elz et por lor bestes",
+        "vec_VA":"e possa toleno vituaria per uno mexe per si e per suo’ bestie",
+        "en_print_1579":"for to prouide them victuals for them and theyr horses for a moneth",
+        "it_AL":"et tollono victuaglia per un mese per loro et per lle loro bestie",
+        "es_salamanca":"por proueer se para vn mes delo necessario para si & para sus bestias",
+        "la_L":"deinde sumere victualia pro se et animalibus suis pro uno mense"
+     }
+    ],
+    "0049a": [
+    { 
+        "vec_V":"e puo’ se chonvien fornir per uno mexe de vituaria",
+        "vec_VB":"e fornise de tute vituallie i è bisogno per giornate .XXX."
+    }
+    ],
+    "0049b": [
+    { 
+    "la_P":"ibique asinos fortes et camelos mercatoribus et victualibus onerant et sic iter arripiunt per desertum",
+    "it_R":"et cargati molti asini forti et camelli di vettovaglie et mercantie, per che possino passar lo deserto",
+    "pt_print_1502":"e alli carreguam asnos fortes e camelos de mercadorias e de mantijmentos. e assi vam seu caminho pelo deserto"
+    }
+    ],
+    "0050": [
+    { 
+    "fr_kF":"Et il y a telle merveille que se l’en demeure un pou derrieres ses compaingnons",
+    "ca_KC":"E troba s’i una gran merevela que si alcun s’atura un poch derrera d’aquels",
+    "an_KA":"Et tróbasse una tal maravilla que si alguno se atura un poco de entre los otros"
+    }
+    ],
+    "0051": [
+    { 
+    "fro_it_F":"que l’en hi trouve une tel mervoie qe aucun reumangne et s’eçvoie de seç conpains por dormir ou por autre chouse",
+    "la_Z":"huiusmodi mirum habetur ex eis aliquem ab eius sotiis remanere causa dormiendi vel aliquid aliud faciendi"
+     }
+    ],
+     "0051a": [
+    { 
+    "vec_VA":"ch’el rimagnisse drieto dagli altri suo’ chonpagni o per altra cossa cha per dormir",
+    "it_AL":"che per ventura rimanesse dietro a’ conpagni o per dormire o per altre cagioni"
+    }
+    ],
+     "0051b": [
+    { 
+    "la_L":"In transitu autem huius deserti tale mirandum apparet: quod si aliquis forte a sociis deviaverit",
+    "vec_V":"Et in questo dexerto sono una chossa: se avegna che algun romagna over se smarisa dali chonpagni"
+    } 
+    ],
+    
+    "0051c": [
+    { 
+    "es_salamanca":"& les fazen apartar de sus compañias y perder se",
+    "en_print_1579":"and to depart from their company, and loose themselues"
+     }
+    ],
+    "0052": [
+    { 
+    "fr_kF":"il orra une voix qui l’appellera par son nom",
+    "ca_KC":"él oyra veus que l’apellaran per son nom",
+    "an_KA":"oyrá bozes que lo clamarán por su nombre",
+    "it_AL":"ch’elli ode voci che llo chiamano per nome"
+    } 
+    ],
+    "0052a": [
+    { 
+    "it_R":"si sentono chiamar per nome a similitudine della voce d’i compagni",
+    "vec_VB":"e quel tal se aldirà chiamare per nome credendo sia i conpagni"
+    }
+],
+"0052b": [
+  {
+    "fro_it_F": "adonc oient parlere espiriti en mainiere qe senblent que soient sez conpagnons, car il les appellent por lor nom",
+    "vec_V": "’li olde molti spiriti parlar; e per el simel se li suo’ chonpagni li chiama, queli oldeno queli spiriti chiamar el suo propio nome",
+    "la_Z": "postmodum audit spiritus loquentes ad similitudinem sotiorum; qui spiritus, proprio nomine ipsum vocantes",
+    "la_L": "audit spiritus ad modum sociorum suo proprio nomine clamant"
+  }
+],
+    "0053": [
+    { 
+    "it_AL":"Quando alchuno vae per quello diserto di nocte",
+    "es_salamanca":"E caminando de noche por este desierto",
+    "la_L":"In transitu huius deserti dum de nocte perambulat",
+    "vec_VB":"Però che chaminandose la note",
+    "en_print_1579":"and trauelling that waye by nighte"
+    }
+    ],
+    "0053a": [
+    { 
+    "vec_V":"Et chavalchando de note per questo dexerto",
+    "fro_it_F":"quant l’en chavauche de noit por cest deçert",
+    "vec_VA":"E quando l’omo chavalcha de note per quel dexerto"
+    }
+    ],
+    "0054": [
+    { 
+    "la_P":"Illusiones demonum multe de die et de nocte videntur et audiuntur ibi",
+    "pt_print_1502":"Muitas Ilusões e escarnhos de demónios se vem e ouuem de noyte e de dia alli"
+    }
+    ],
+    "0055": [
+    { 
+      "la_P":"oportet igitur ut diligenter caveant, inde transitum facientes",
+      "pt_print_1502":"por isso he necessário que se guardem com auisamento os que per ally vam"
+    }
+    ],
+    "0056": [
+    { 
+    "la_P":"ne divertant a sociis, et ne quis in via sine sociis dormiat vel post precedentes remaneat",
+    "pt_print_1502":"que se nom afastem dos companheiros, e que nom durma alguũ em ho caminho fora da companhia, e que nom fiquem de trás"
+    }
+    ],
+    "0057": [
+    { 
+    "la_P":"quoniam, si socii pretereunt adeo ut propter montes aut colles videri nequeant",
+    "pt_print_1502":"porque se os companheiros trespassam diante em tanto que per montes ou outeiros nom possam ser vistos"
+    }
+    ],
+    "0058b": [
+    { 
+    "it_AL":"quando vuole ragiungere i conpagni",
+    "fro_it_F":"et il vuelt puis aler por jungnire seç conpagnons",
+    "la_L":"et voluerit ad socios pervenire"
+    }
+    ],
+    "0059": [
+  {
+    "es_salamanca": "se oyen enel ayre tamboriles & sonidos que asombran alos viandantes",
+    "en_print_1579": "heare in the ayre, the sound of Tabers and other instruments to putte the trauellers in feare"
+  }
+],
+    "0059b": [
+    { 
+    "fro_it_F": "et semble maintes foies que voç oiés soner mainti instrumenti et propemant tanbur",    
+    "la_P":"Aliquando etiam in aere audiunt sonitus musicorum instrumentorum, sed frequentissime sonitus tympanorum",
+    "pt_print_1502":"E ajnda algúas vezes som alli ouuidos no aar soõs de estromentos de musica, e muyto a meude de atabaques",
+    "it_R":"che alle fiate per aere fanno sentire suoni di varii et diversi instrumenti di musica et similmente tamburi",
+    "la_L":"et aliquando audiuntur multa sonare instrumenta et maxime campanelle"
+     }
+    ],
+    "0061": [
+    { 
+    "fro_it_F":"Et quant l’en a chevauchés cest troint jornee dou deçert treuve l’en une cité que est apellés Sacion",
+    "la_Z":"Cum vero equitatum est istis .XXX. dietis deserti invenitur quedam civitas nomine Suçio",
+    "it_R":"Quando s’è cavalcato queste trenta giornate pel deserto si trova una città detta Sachion",
+    "es_salamanca":"Passadas aquellas .xxx. jornadas por aquel desierto, se llega avna cibdad que llaman sangechian",
+    "en_print_1579":"After you be passe the sayde thirtie dayes iourney by the deserte, you shall come to a Citie called Sangechian",
+    "vec_VA":"Quando l’omo à pasato quelle XXX zornate de dexerto el trova una zità che à nome Sachion",
+    "la_L":"Transactis hiis .30. dietis per desertum pervenitur ad civitatem quandam dictam Saccion"
+    }
+    ],
+    "0061a": [
+    { 
+    "fr_kF":"Et a l’yssue de ce desert a une cité qui s’appelle Sancion",
+    "an_KA":"Et a la sallida de aquel desierto y á una ciudat que se clama Sasion",
+    "ca_KC":"E a le axida d’aquest desert ha una ciutat qui s’apela Sasion",
+    "it_AL":"Alla fine di questo diserto truova l’uomo la città di Jaccon",
+    "vec_VB":"alla fin del deserto se trova una citade chiamata Sasicicion",
+    "pt_print_1502":"Acabado ho caminho do deserto cheguam aa çidade de Sachion",
+    "la_P":"Completa via deserti prefati pervenitur ad civitate Sachion"
+    }
+    ],
+    "0061b": [
+    { 
+    "vec_V":"Et abiando chavalchado per questo dexerto trenta zornade, el se trova una provinzia chiamata Tangut, et sono del Gran Chan",
+    "vec_VB":"Chavalchato se à a traversso el diserto per giornate .XXX. se trova la provincia apellata Tangut ch’è sotto al Gran Chan",
+    "la_Z":"Cum vero equitatum est istis .XXX. dietis deserti, invenitur quedam provincia que appelatur Tangut que Magni Canis est"
+    }
+    ],
+    "0063": [
+    { 
+    "fr_kF":"Et sont ydolatraires et crestiens nesturins",
+    "an_KA":"Et son ydólatres et cristianos nesturinos."
+    }
+    ],
+    "0063a": [
+    { 
+    "ca_KC":"E són ydolatres e crestians nosturins e sarraïns atressí",
+    "vec_VB":"E sono idolatri: ène ecian molti cristiani et saracini"
+    }
+    ],
+    "0063b": [
+    { 
+    "la_P":"ubi sunt pauci christiani nestorini; alii autem quidem habitatores urbis legem servant miserabilis Machometi; reliqui vero omnes ydolatre sunt",
+    "pt_print_1502":"onde ha poucos christaãos nestorinos. e alguús moradores da çidade guardam a ley do abominauel Mafomede. e os outros todos som ydolatras"
+    }
+    ],
+    "0063c": [
+    { 
+    "en_print_1579":"in the whiche al be Idolaters, sauing some be Christians, Nestorians, and some Mahomets",
+    "es_salamanca":"enla qual todos son ydolatras saluo algunos xpistianos nestorianos y algunos que siguen la secta de mahomad"
+    }
+    ],
+    "0063d": [
+    { 
+    "vec_VA":"Egli sono tuti idolatri, trato arquanti cristiani nestorini e alquanti che àno la leze de Machometo",
+    "fro_it_F":"Il sunt tuit ydres; bien est il voir qu’il hi a auques cristienç nestorin, et encore hi a saracinç"
+    }
+    ],
+    "0063e": [
+  { 
+    "it_R": "Et adorano gl’idoli, et vi sono Turchi et alcuni pochi christiani nestorini et ancho Saraceni",
+    "la_L": "Et sunt gentes ydolatre; sunt tamen aliqui Turchi, christiani nestorini et eciam aliqui Sarraceni",
+    "la_Z": "Omnes itaque illius provincie adorant ydolla, sed aliqui Turchi christiani, qui nestoriam legem tenent. Sunt et aliqui Saraceni"
+  }
+    ],
+  "0064": [
+  {
+    "it_R": "quelli che adorano gli idoli hanno linguaggio da per sé",
+    "la_Z": "Illi vero qui adorant ydola per se habent loquelam",
+    "an_KA": "Et los ydólatres han lenguage por si",
+    "fr_kF": "Et les ydolatraires ont leur langaige par eulx",
+    "ca_KC": "E los ydolatres an lenguatges per si",
+    "fro_it_F": "Les ydres ont langajes por elz",
+    "vec_VA": "Queli idolatri àno lenguazio per si",
+    "pt_print_1502": "E os ydolatras tem própria lingoagem",
+    "la_L": "Ydolatre vero habent proprium ydeoma",
+    "la_P": "Ydolatre linguam propriam habent"
+  }
+],
+     "0064a": [
+    { 
+    "es_salamanca":"aquellos ydolatras tienen lengua persiana",
+    "en_print_1579":"The Idolaters speake the Persian tong"
+    }
+    ],
+    "0064d": [
+    { 
+    "vec_VB":"abitanti àno lengua da per si",
+    "vec_V":"E la zente àno loquela per sí"
+    }
+    ]
+
+}
+}

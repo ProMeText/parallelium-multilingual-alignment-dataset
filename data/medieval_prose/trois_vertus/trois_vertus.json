@@ -1,0 +1,873 @@
+{
+  "work": "Trois vertus",
+  "author": "Christine de Pizan",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+  
+    "002": [
+      {
+        "fr_trois_vertus": "De par nous troys seurs filles de dieu nommees raison droicture & justice",
+        "pt_tres_vertudes": "Da parte de Nos tres Jrmãas filhas de deos nomeadas Razom dereitura Justiça",
+        "pt_espelho_cristina": "Da parte de nos tres Jrmãos fylhas de deos nomeadas Razam . Direjtura . Justiça"
+      }
+    ],         
+    "003": [
+      {
+        "fr_trois_vertus": "a toutes princesses empereys roynes duchesses & haultes dames en domination regnans sur la terre crestienne & generalement a toutes femmes",
+        "pt_tres_vertudes": "A todas prinçesas . emperatrizes Reynhas . duquesas e altas Senhoras que Regnam em senhorio sobre a terra dos christããos desy em Jeeral a todoo Jenero femenino",
+        "pt_espelho_cristina": "A todalas prĩçesas . scilicet . emperatrizes rainhas duquesas e altas senhoras que regnam ẽ senhorio sobre a terra dos christiaos desy ẽ geral a todo o genero femenino"
+      }
+    ],      
+    "007": [
+      {
+        "fr_trois_vertus": "Sçavoir faisons que comme amour charitable nous contraigne",
+        "pt_tres_vertudes": "saber uos fazemos que como a caridade nos costranje",
+        "pt_espelho_cristina": "Saber uos fazemos que como a caridade nos costrange"
+      }
+    ],
+    "008": [
+      {
+        "fr_trois_vertus": "a desirer le bien & accroissement l'honneur & prosperité de l'université des femmes & a vouloir le decheement & destruction de toutes les choses qui y pourroyent empescher",
+        "pt_tres_vertudes": "a desejar o bem e acreçentamento de vos todas e a querer a destruçom e minguamento das cousas que a esto podem enbargar",
+        "pt_espelho_cristina": "desejar o bem e acrecẽtamento da hõrra e bem auenturança de vos todas e a querer a destroyçam e minguamento das cousas que esto podẽ embargar"
+      }
+    ],
+    "011": [
+      {
+        "fr_trois_vertus": "sommes meuz a vous declairer & dire parolles de doctrine",
+        "pt_tres_vertudes": " somos mouidas a uos declarar e dizer pallauras de doutrina",
+        "pt_espelho_cristina": "somos mouidas a vos declarar e dyzer pallauras de doutrina"
+      }
+    ],
+    "012": [
+      {
+        "fr_trois_vertus": "Venes doncques toutes a l'escolle de sapience dames esleues es haultz estatz",
+        "pt_tres_vertudes": "Vynde pois todas aa escolla . de ssapiençia Snoras de grande estado",
+        "pt_espelho_cristina": "Uinde poes todas aa escolla da sapiençia Senhoras de grande estados"
+      }
+    ],
+    "015": [
+      {
+        "fr_trois_vertus": "& n'ayez honte pour vous grandeurs de vous humilier & descendre aseoir bas pour ouÿr noz leçons",
+        "pt_tres_vertudes": "E nom ajaaes uergonha por uossas grandezas de uos fazerdes omildosas e deçer a sseer em baixo pera ouujr nossas enssinãças",
+        "pt_espelho_cristina": "e nom ajaaes verguonha por vossas grandezas de vos fazerdes humildosas e deçer e seer em bajxo pera ouuir nossas ensinanças"
+      }
+    ],
+    "017": [
+      {
+      "fr_trois_vertus": "Car selon la parolle de dieu Qui se humiliera sera exaulcé",
+      "pt_tres_vertudes": "que segundo a pallaura de deos quem se omilda sera eixalçado",
+      "pt_espelho_cristina": "Ca ssegundo a pallaura de deos quem se humilda sera enxalçado"
+      }
+    ],
+    "019": [
+          {
+            "fr_trois_vertus": "quel chose est il en ce monde plus plaisant ne plus delectable a ceulx qui desirent richesses mondaines que or & pierres precieuses",
+            "pt_tres_vertudes": "E qual oonra he em este mundo mais praziuel nem tam deleitosa aaquelles que desejam as mundanaaes riquezas como ouro e pedras preciosas",
+            "pt_espelho_cristina": "E qual causa he em este mundo mays praziuel nem tam deleytosa aaquelles que a desejam que as mundanas riquezas ouro e pedras priciosas"
+          }
+        ],
+    "025": [
+      {
+        "fr_trois_vertus": "mais ne leur pourroient mye pourtant si embellir que font vertus aux corps qui desirent bien vivre",
+        "pt_tres_vertudes": "posto que muyto dellas percalçem . nom lhe poderiam tãto aproueitar como fazem as uertudes aos coraçõões que desejam bem viuer",
+        "pt_espelho_cristina": "e posto que muyto dellas percalçem nom lhe poderiã tanto aproueytar como fazem as virtudes aos corações que desejã bem viuer"
+      }
+    ],
+    "027a": [
+      {
+        "fr_trois_vertus": "car de tant que vertus sont plus nobles pource que elles durent sans fin & sont les tresors de l'ame qui est perpetuel & les autres passent comme fumee",
+        "pt_tres_vertudes": "porque som as vertudes milhores porque duram sem fim e som tesouro da alma que he perpetua. E as outras passom como fumo",
+        "pt_espelho_cristina": "E porque som as virtudes milhores porque duram sem fym e sam thesouro da alma que he perpetua. E as outras passam como fumo"
+      
+      }
+    ],
+    "032": [
+      {
+  "fr_trois_vertus": "de tant ceulx qui le goust en sentent & assaveurent les desirent ardamment plus que autre chose mondaine ne pourroit estre desiree",
+  "pt_tres_vertudes": "E tanto como o espiritoal gosto sente sua doçura as deseja mais que outra cousa mundanal pode seer desejada",
+  "pt_espelho_cristina": "E tãto como ho spiritual gosta sente sua doçura as deseja mays que outra cousa mũdanal pode seer desejada"
+}
+    ],
+    "034": [
+      {
+  "fr_trois_vertus": "Et doncques n'appartient il a ceulx & a celles qui sont assis par grace & bonne fortune es plus haultz estatz que ilz soyent servis de tresmeilleurs choses",
+  "pt_tres_vertudes": "E pois nom perteeçe aaquelles e aaquellas que per graça de deos som assentadas em booa furtuna nos mais altos estados que sejam seruidos de milhores cousas",
+  "pt_espelho_cristina": "E pois nom pertençe aaquelles e aaquellas que per graça de deos som assentados em boa fortuna nos majs altos estados que sejam seruidos de melhores cousas"
+}
+    ],
+    "039": [
+      {
+        "fr_trois_vertus": "Et pource que vertus sont les maitz de nostre table nous plaist il en distribuer premierement a celles a qui nous parlons. C'est assavoir ausdictes princesses",
+        "pt_tres_vertudes": "E porque vertudes som as viandas da nossa mesa nos praz destribuir primeiramente. a estes a que fallamos scilicet aas dictas prinçesas",
+        "pt_espelho_cristina": "E porque virtudes som as viandas de nossa mesa nos praz destrybuir primejramente a estes a que fallamos . scilicet . aas ditas prinçesas"
+      }
+    ],
+    
+    "041": [
+      {
+        "fr_trois_vertus": "se fera le fondement de nostre doctrine tout premierement sur l'amour de crainte de nostreseigneur",
+        "pt_tres_vertudes": "E sera o ffundamento de nossa doutrina primeiramente sobre o amor e temor de deos nosso Senhor",
+        "pt_espelho_cristina": "E ssera ho fundamento de nossa doutrina primeyramente sobre o amor e temor de deos"
+      }
+    ],
+    "043": [
+     {
+  "fr_trois_vertus": "Car celuy point est le principe de sapience dont toutes les autres vertus yssent & dependent",
+  "pt_tres_vertudes": "porque este he o começo da sabedoria e de que todas as outras uertudes naçem e deçendem",
+  "pt_espelho_cristina": "porque este he o começo da sabedoria e de que todas as outras virtudes nascem e descendem"
+    }
+    ],
+    "045": [
+      {
+        "fr_trois_vertus": "Entendés doncques princesses & dames honnorees sur la terre comment tout premierement sur toutes choses vous advint amer & craindre nostreseigneur",
+        "pt_tres_vertudes": "Entendem pois prinçesas e Senhoras onrradas sobre a terra como prinçipalmente sobre todas as cousas nos conuem amar e temer deos",
+        "pt_espelho_cristina": "Entendee poys prinçesas e senhoras honrradas sobre a terra como principalmente sobre todas cousas vos conuem amar e temer deos"
+      }
+    ],
+    "048": [
+      {
+        "fr_trois_vertus": "Amer pourquoy pour son infinie bonté & les tresgrans benefices que vous en recevés",
+        "pt_tres_vertudes": "Amallo por sua Jnffynda bondade e pollos muytos e grandes bneffiçios que delle teendes rreçebidos",
+        "pt_espelho_cristina": "Ama lo por sua infynda bõdade e pollos grandes e mujtos benefiçios que delle tendes reçebidos"
+      }
+    ],
+    "050": [
+      {
+        "fr_trois_vertus": "Et craindre pour sa divine & saincte justice qui riens ne laisse impugny",
+        "pt_tres_vertudes": "E temello por sua deujna e santa Justiça que nenhũũa cousa leixa Inpunjda",
+        "pt_espelho_cristina": "E teme llo por sua diuina e santa justiça que nenhũa cousa leyxa impunida"
+      }
+    ],
+    "054": [
+      {
+        "fr_trois_vertus": "Et si ceste amour & crainte avés bien devant les yeulx sans faulte vous estes au chemin qui conduyra au lieu dont nous vous preschons c'est assavoir aux vertus",
+        "pt_tres_vertudes": "E sse este amor e temor tendes bem ante uossos olhos sem duujda vos sooes no caminho que sem torçer uos leuara a lugar onde uos chamamos conuem a saber aas vertudes",
+        "pt_espelho_cristina": "E sse este amor e temor tẽdes bem ante vossos olhos sem duuida vos sooes no caminho que dereytamente vos leuara ao lugar onde vos chamamos scilicet . aas virtudes"
+      }
+    ],
+    "056": [
+      {
+        "fr_trois_vertus": "Or est il ainsi & n'est nulle doubte que il convient que tout cueur qui bien ayme le demonstre par oeuvre",
+        "pt_tres_vertudes": "Ora sem duujda he assi que toda perssoa que bem ama deos o deue motrar per obras",
+        "pt_espelho_cristina": "Hora sẽ duuida he assy que toda pesoa que bem ama deos . o deue mostrar per obras"
+      }
+    ],
+    "059": [
+      {
+  "fr_trois_vertus": "Sicomme il mesme dit en l'evangille Les ouailles de mon pere me ayment & je les garde",
+  "pt_tres_vertudes": "segundo elle meesmo diz no euanjelho as ouelhas que som da minha parte me amam E eu as guardo",
+  "pt_espelho_cristina": "segundo elle mesmo diz no euãgelho as ouelhas que som de mynha parte me amam e eu as guardo"
+}
+    ],
+    "062": [
+      {
+  "fr_trois_vertus": "Cest a dire que les creatures qui l'ayment suyvent les traces que sont de vertu & il les garde de tous perilz",
+  "pt_tres_vertudes": "Quer dizer que as Criaturas que o amam seguem suas peegadas que som as vertudes e elle as guarda de todo perijgo",
+  "pt_espelho_cristina": "quer dizer que as creaturas que ho amã seguem suas peegadas que som as virtudes e elle as garda de todo perigo"
+      }
+    ],
+    "066": [
+     {
+  "fr_trois_vertus": "si que pour quelconques charges ou occupations que elle ayt a cause de la magnificence de son estat ne se departira devant les yeulx la lumiere de droit chemin",
+  "pt_tres_vertudes": "que por carrego nem ocupaçom que lhe uenha por cousa de manifiçençia de sseu estado nom se partira d’ante seus olhos . a lumieira do direito caminho",
+  "pt_espelho_cristina": "per tal guysa que por carreguo nem ocupaçom que lhe venha por cousa de magnificẽçia de seu estado nõ se partira d’ãte seus olhos a llumieyra do dereyto caminho"
+     }
+    ],
+    "071": [
+      {
+        "fr_trois_vertus": "Laquelle lumiere se combatra contre les temptations & tenebres de pechés & les vaincra",
+        "pt_tres_vertudes": "a qual se conbatera contra as tentaçõões e treeuas do pecado e as uençera",
+        "pt_espelho_cristina": "a qual se conbatera contra as tẽtações e treuas do peccado e veençera :"
+      }
+    ],
+    "072": [
+      {
+        "fr_trois_vertus": " & chassera selon la maniere que cy aprés est contenue",
+        "pt_tres_vertudes": "e encorrera segundo a maneiraeira aquy conthiuda ",
+        "pt_espelho_cristina": "e encorrera segũdo a maneyra aquy contheuda "
+      }
+    ],
+    "073": [
+      {
+        "fr_trois_vertus": "Cy devise la maniere des temptations qui pevent venir a haulte princesse",
+        "pt_tres_vertudes": "Aquy deuisa a maneira das tentaçõões que podem vij̃r a alta prinçesa",
+        "pt_espelho_cristina": "Como deuisa a maneyra das tentaçoões que podem vijr as grandes senhoras"
+      }
+    ],
+
+    "075": [
+      {
+        "fr_trois_vertus": "Quant la princesse ou haulte dame sera en son lict au matin reveillee de son somme",
+        "pt_tres_vertudes": "Quando a prinçesa ou grande Senhora jouuer esperta em sua cama ",
+        "pt_espelho_cristina": "QUando a prĩçesa ou grande senhora jouuer sperta em sua cama"
+      }
+    ],
+    "076": [
+      {
+        "fr_trois_vertus": "& elle se verra couchee en son lit mol entre souefz draps",
+        "pt_espelho_cristina": "e ella sentir a moleza da roupa e a brãdeza dos lencoões muy delgados"
+      }
+    ],
+    "079": [
+      {
+        "fr_trois_vertus": "environnee de riches paremens & de toutes choses pour ayse du corps",
+        "pt_espelho_cristina": "e se vijr çercada de ricos paramentos e de todas outras cousas abastada que som necessarias ao prazer do corpo"
+      }
+    ],
+    
+    "081": [
+      {
+        "fr_trois_vertus": "dames & damoiselles entour elle qui l'ueil n'ont a autre chose",
+        "pt_espelho_cristina": "E donas e donzellas arredor de ssy que nom tem olho em outra cousa"
+      }
+    ],
+    "083": [
+      {
+        "fr_trois_vertus": "fors a adviser que riens ne lui faille de tous delices",
+        "pt_espelho_cristina": "senam auisar que cousa algũa lhe nom faleça de todo deleyto"
+      }
+    ],
+    "087": [
+      {
+        "fr_trois_vertus": "les genoulx flexis pour luy administrer tout service & obeir a tous ses commandemens",
+        "pt_tres_vertudes": "Os giolhos ficados pera lhe amenistrar todo er uiço e obedeçeer a sseus mandados",
+        "pt_espelho_cristina": "os geolhos ficados pera lhe menistrar todo seruiço e obedeçer a sseus mandados"
+      }
+    ],
+    "088": [
+      {
+        "fr_trois_vertus": "Adonc souventesfois adviendra que temptation l'assauldra qui luy chantera la leçon",
+        "pt_tres_vertudes": "Ameudo aconteçe entom que a tentaçom a combatera e lhe cantara tal liçom con que ella diga",
+        "pt_espelho_cristina": "Ameude acõteçe entom que tentaçam a cõbatera e lhe cantara tal lyçam com que ella diga a ssi mesma "
+      }
+    ],
+    "091": [
+      {
+        "fr_trois_vertus": "Beau sire dieu est il en ce monde plus grant maistresse de toy ne plus auctorisee de qui dois tu tenir compte",
+        "pt_tres_vertudes": "Senhor deos ha no mundo mais grande Senhora que tu es nem mais autorizada de que deues fazer conta",
+        "pt_espelho_cristina": "Senhor deos ha no mũdo mais grande senhora que tu hes nem mays outorizada de que deue fazer conta"
+      }
+    ],
+    "095": [
+      {
+        "fr_trois_vertus": "ne iroyes tu devant les autres ceste cy celle la quoy que elle soit mariee a hault prince",
+        "pt_tres_vertudes": "Nom Jras primeiro que as outras posto que elas sejam casadas com grandes Senhores",
+        "pt_espelho_cristina": "nom yras tu primeyro que aas outras posto que ellas sejam casadas com grandes senhores"
+      }
+    ],
+    "096": [
+      {
+        "fr_trois_vertus": "n'est point acomparee a toy tu es plus riche ou plus haultement en lignage ou plus prisee pour tes enfans plus crainte et plus renommee & auctorisee pour la puissance de ton seigneur",
+        "pt_tres_vertudes": "nom se deuem conparar a ty Tu es mais rrica e de mayor linhajem ou mais preçada por teus ffilhos e mais nomeada polla possança do teu Senhor",
+        "pt_espelho_cristina": "nem se deuem cõparar a ty. Tu hes mays ryca e de mayor linhagem : ou mais preçada por teus fylhos. e mays nomeada polla possãça de teu marido"
+      }
+    ],
+    "099": [
+      {
+        "fr_trois_vertus": "Qui seroit ce doncques qui te oseroit faire quelconque desplaisir",
+        "pt_espelho_cristina": "Quem seria o que te ousasse fazer desprazer"
+      }
+    ],
+    "101": [
+      {
+        "fr_trois_vertus": "Il n'est si grant doncques tu ne venisse bien a chief",
+        "pt_tres_vertudes": "Çerto hi nom ha tam grande perssoa que tu bem nom podesses trazer a fim",
+        "pt_espelho_cristina": "certo hy no ha tam grãde pessoa que tu bem nom podesses trazer a ffym"
+      }
+    ],
+    "103": [
+      {
+        "fr_trois_vertus": "Toutesfois tieulx & tieulx ou telles & telles ont eu arrogance contre toy",
+        "pt_tres_vertudes": "E sse algũũs per ssua prosuntuosa soberua te quisessem ofender",
+        "pt_espelho_cristina": "E sse algũa pessoa presuntuosa soberba te quisesse offender"
+      }
+    ],
+    "108": [
+      {
+        "fr_trois_vertus": "Si te convient mettre peine a amasser tresor affin que en ton besoing tu t'en puisses ayder",
+        "pt_tres_vertudes": "que te trabalhes d’ajuntar thesouro a fim que te possas delle ajudar no tempo da neçessidade",
+        "pt_espelho_cristina": "cõuem que te trabalhes de juntar tesouro affin que te possas delle ajudar no tempo da necessydade"
+      }
+    ],
+    "110": [
+      {
+        "fr_trois_vertus": "c'est le meilleur amy & plus seur moyen que tu puisses avoir",
+        "pt_tres_vertudes": "E este he o milhor amigo e o mais seguro meo que podes auer",
+        "pt_espelho_cristina": "E este he o melhor amygo e o mays seguro meo que podes auer"
+      }
+    ],
+    
+    "112": [
+      {
+        "fr_trois_vertus": "qui sera celluy qui te desobeyra",
+        "pt_tres_vertudes": "quem sera aquelle que te desobedeeça",
+        "pt_espelho_cristina": "quem sera aquelle que te desobedeça"
+      }
+    ],
+    "114": [
+      {
+        "fr_trois_vertus": "mais que tu ayes largement que donner. pose que n'en donnasses se petit non",
+        "pt_tres_vertudes": "se ouueres assaz que dar. Ponhamos que nom das senom pouco",
+        "pt_espelho_cristina": "se ouueras asaz que dar. Ponhamos que nom das senam pouco"
+      }
+    ],
+    "115": [
+      {
+        "fr_trois_vertus": "Si seroys tu voulentiers servie en esperance puis que renom seroit de ta richesse",
+        "pt_tres_vertudes": " Nom leixaras por Jsso de sseer seruida em esperança de nome da tua rriqueza",
+        "pt_espelho_cristina": "nem leixaras por esso de seer seruida em sperança . de nome de tua riqueza"
+      }
+    ],
+    "116": [
+      {
+        "fr_trois_vertus": "Quel soussy doibs tu avoir. Il ne te fault sinon adviser a toutes choses qui plaire te pourront",
+        "pt_tres_vertudes": "que cuidado as tu d’auer pois al te nom falleçe senom penssar nas cousas que te podem prazer",
+        "pt_espelho_cristina": "que cuidado has tu d’auer poys al te nom faleçe senõ pensar nas cousas que te podẽ prazer"
+      }
+    ],
+    "119": [
+      {
+        "fr_trois_vertus": "Tu n'as que ta vie en ce monde vis a repos",
+        "pt_tres_vertudes": "Tua vida he em este mundo . Viue em rrepouso",
+        "pt_espelho_cristina": "tua vida he em este mundo . viue em repouso "
+      }
+    ],
+    "120": [
+  {
+    "fr_trois_vertus": "de quoy te doibs tu embesongner",
+    "pt_espelho_cristina": "e nom cures de fadigas"
+  }
+],
+"120a": [
+  {
+    "fr_trois_vertus": "vins & viandes ne te pevent faillir de ce peuz tu avoir a ta plaisance",
+    "pt_espelho_cristina": "vinhos e viãdas te nom podem falleçer quanto te prouuer"
+  }
+],
+    "122": [
+      {
+        "fr_trois_vertus": "& tous autres delices il ne te fault penser fors d'avoir toute la joye et tous les esbatemens que tu pourras en ce monde",
+        "pt_espelho_cristina": "E de todos outros viços al te nom he necessario pensar senom d’auer todo prazer e desenfadamento que poderes Em este mundo"
+      }
+    ],
+    "123": [
+      {
+        "fr_trois_vertus": "Nul n'a bon temps s'il ne le se donne aulcune gratieuse pensee",
+        "pt_tres_vertudes": "Nenhũũ ha bõõ tempo senom o que sse da a bõõs e praziuees cuidados",
+        "pt_espelho_cristina": "nenhuũ nom ha boõ tẽpo senom o que se da a boõs e praziues desenfadamentos"
+      }
+    ],
+    "124": [
+      {
+        "fr_trois_vertus": "te fault avoir qui te resjouyra pour qui seras jolye tieulx joyaulx tieulx abillemens",
+        "pt_tres_vertudes": "E pera tu seeres mais . leda . penssa d’auer booas roupas e Ricas Joyas",
+        "pt_espelho_cristina": "E pera tu seeres mays leda pensa d’auer boas roupas e ricas joyas"
+      }
+    ],
+    "127": [
+      {
+        "fr_trois_vertus": "Cy devise comment la bonne princesse qui aymera & craindra nostre seigneur pourra resister aux temptations par divine insparation",
+        "pt_tres_vertudes": "Aquy deuisa como a booa primçesa que amara e temera nosso senhor podera resestir aas tentaçõões pera deuina espiraçom"
+      }
+    ],
+    "133": [
+      {
+        "fr_trois_vertus": "Toutes les choses dessusdictes ou les semblables sont les metz que temptation administre a toute creature vivant en ayse & delices",
+        "pt_tres_vertudes": "Todas as cousas sobredictas e suas semelhantes som Jguarias que a tentaçom menystra a toda criatura que viue em deleitos e viços deste mundo",
+        "pt_espelho_cristina": "Todas as cousas sobredytas e seus semelhãtes sõ yguaryas que a tẽtaçam menistra a toda creatura que viue em deleytes e viços deste mũdo"
+      }
+    ],
+    "134": [
+      {
+        "fr_trois_vertus": "mais que fera la bonne princesse quant ainsi temptee se sentira",
+        "pt_tres_vertudes": "Mas que faz a booa prinçesa quando sse sentir assi tentada",
+        "pt_espelho_cristina": "Mas que fara a boa prinçesa quando se sentir assy tentada"
+      }
+    ],
+    "136": [
+      {
+        "fr_trois_vertus": "Adoncques sauldra en place l'amour et crainte de nostre seigneur dieu",
+        "pt_tres_vertudes": "saltara na fortelleza do amor e temor de deos",
+        "pt_espelho_cristina": "saltara na fortaleza do amor e temor de deos"
+      }
+    ],
+    "137": [
+      {
+        "fr_trois_vertus": "qui luy chantera une autre leçon en disant en ceste maniere",
+        "pt_tres_vertudes": "que lhe cantara outra liçom dizendo",
+        "pt_espelho_cristina": "que lhe cãtara outra liçam dizendo"
+      }
+    ],
+    "137a": [
+      {
+        "fr_trois_vertus": "Ha fole musarde mal advisee que as tu pensé en petit de heure avoyes oublié la congnoissance de toymesmes",
+        "pt_tres_vertudes": "Oo neiçia sandia mal auisada que pẽssaste tu em pouca d’ora esqueeçeste o conheçimento de ty meesma",
+        "pt_espelho_cristina": "O neiçia sandia mal auisada que pensaste tu em pouca de hora esqueçyste o conhocimento de ty meesma "
+      }
+    ],
+    "139": [
+      {
+        "fr_trois_vertus": "ne scés tu pas bien que tu es une miserable et povre creature subjecte a toutes enfermetez a toutes passions que corps mortel peut souffrir",
+        "pt_tres_vertudes": "Nom sabes tu que es hũũa miserauel perssoa Criatura sojeita a todas enfermidades e passiõões que corpo mortal pode sofrer",
+        "pt_espelho_cristina": "Nom sabẽs tu que es hũa miserauel pessoa creatura sugeyta a todas infirmydades e passiões que corpo mortal pode sofrer"
+      }
+    ],
+     "142": [
+      {
+        "fr_trois_vertus": "quel avantage as tu ne que ung autre neant plus que auroit ung tas de terre couvert d'ung parement de celluy",
+        "pt_tres_vertudes": "que auantajem as tu Certo nom outro senom como hũũ pedaço de terra cuberto de milhor pano que os outros",
+        "pt_espelho_cristina": "que auantagem has tu certo nom outra senom como huũ pedaço de terra cuberta de mylhor pano que os outros"
+      }
+    ],
+    "143": [
+      {
+        "fr_trois_vertus": "Ha dolente creature encline a pecher & a tout vice",
+        "pt_tres_vertudes": "Oo triste criatura a todo viçio e pecado soJeita",
+        "pt_espelho_cristina": "O triste creatura a todo viçio e pecado sogeyta"
+      }
+    ],
+    "145": [
+      {
+        "fr_trois_vertus": "te veulx tu doncques mescongnoistre & oublier comment ce chetif vessel vuit de toute vertu qui tant veult d'honneurs & d'aises",
+        "pt_tres_vertudes": "E queres tu perder o conheçimento E esqueçer como este coytado uaso uazio de toda uertude que tanto desejou a onrra e viçio",
+        "pt_espelho_cristina": "queres tu perder o conheçimento e esqueçer como este coytado vaso vazio de toda virtude que tanto deseiou hõrra e viço"
+      }
+    ],
+    "147": [
+      {
+        "fr_trois_vertus": "& mourra en peu de terme sera viande aux vers",
+        "pt_tres_vertudes": "Em pequeno termo morrera E sera vianda dos uermẽẽs"
+     }
+    ],
+    "149": [
+      {
+        "fr_trois_vertus": "& aussi bien pourrira en terre que celluy de la plus povre femme qui soit",
+        "pt_tres_vertudes": "E assi apodreçera . sob a terra como a mais pobre molher que naçeo",
+        "pt_espelho_cristina": "E assi apodreçera . sob a terra como a majs pobre molher que nasceo"
+      }
+    ],
+    "150": [
+      {
+        "fr_trois_vertus": "& que la lasse ame n'en portera riens ne mais le bien ou le mal que le chetif corps aura commis sur terre",
+        "pt_tres_vertudes": "E que a mezquinha da alma nenhũũa cousa leuara senom o bem ou mal que o catiuo corpo cometteo sobre a terra",
+        "pt_espelho_cristina": "E que a mesquinha da alma nenhũa cousa leuara senõ o bem ou mal que o catiuo corpo cometeo sobre a terra"
+      }
+    ],
+    "152": [
+      {
+        "fr_trois_vertus": "que te vauldront lors honneurs avoirs ne ton grant parenté desquelles choses en ce monde tu te aloses",
+        "pt_espelho_cristina": "E que te valerom entam honrras riquezas nem gram parentesco de quẽ em este mũdo te soyas de louuar"
+      }
+    ],
+    "153": [
+      {
+        "fr_trois_vertus": " te yront ilz secourir en la peine ou tu seras si tu as mal vescu en ce monde ",
+        "pt_tres_vertudes": " Jram a ssocorrer te nas pressas em que tu seras se mal viueste em este mundo",
+        "pt_espelho_cristina": "yram a ssecorer te nas presas em que seras se mal viueste em este mundo"
+      }
+    ],
+    "155": [
+      {
+        "fr_trois_vertus": "certes non Ainçoys tout ce dequoy tu auras mal use te tournera a ruyne",
+        "pt_tres_vertudes": "Certo nom Ante estas cousas de que tu mal husaste se te tornara em tormento",
+        "pt_espelho_cristina": "certo nõ ante estas cousas de que tu mal husaste : se te tornarom em tormẽto"
+      }
+    ],
+    "156": [
+      {
+        "fr_trois_vertus": "Helasse dolente mieulx fust pour toy avoir usé ta vie en l'estat d'une trespovre femme que estre eslevee en tant d'estas",
+        "pt_tres_vertudes": "Oo mezquinha triste per ventura milhor fora pera ty husares tua vida em estado d’hũũa pobre molher que seeres leuantada em tantas onrras",
+        "pt_espelho_cristina": "Oo mesquynha triste per vẽtura milhor fora pera ty vsares tua vida em estado de hũa pobre molher que seres leuantada ẽ tantas honrras"
+      }
+    ],
+    "160": [
+      {
+        "fr_trois_vertus": "qui seront se tu ne t'en prens garde la cause de ta dampnation",
+        "pt_tres_vertudes": "as quaaes se te nom guardas per ventura serom causa de tua condapnaçom",
+        "pt_espelho_cristina": "as quaes se te nõ guardas per vẽtura seram causa de tua condenaçam"
+      }
+    ],
+    "161": [
+      {
+        "fr_trois_vertus": "Car forte chose seroit d'estre entre les flammes sans brusler",
+        "pt_tres_vertudes": "Porque forte cousa he seer conthenuadamente antre as chamas e nom se queymar",
+        "pt_espelho_cristina": "Porque forte cousa he seer contynuadamente antre as chamas e nom se queymar"
+      }
+    ],
+    "164": [
+      {
+        "fr_trois_vertus": "Ne scés tu que dieu dist en l'evangile. que les povres seront bieneurez et que le royaulme des cieulx est pour eulx",
+        "pt_tres_vertudes": "Nom sabes que diz no euanJelho . beentos som os pobres que sseu he o rregno de deos",
+        "pt_espelho_cristina": "nom sabes que deos diz no euangelho beentos som os pobres que seu he o regno de deos"
+      }
+    ],
+    "167": [
+      {
+        "fr_trois_vertus": "Et ailleurs il dist que neant plus que ung chamel chargié entreroit au pertuys de l'eguille n'iroit ung riche en paradis",
+        "pt_tres_vertudes": "E em outra parte diz que tam mal como hũũ camello carregado pode entrar pollo buraco d’hũũa agulha pode hũũ rrico Jr ao paraiso"
+      }
+    ],
+    "168": [
+      {
+        "fr_trois_vertus": "O dolente tu es si aveugle que tu n'avises ton grant peril",
+        "pt_tres_vertudes": "Oo triste E es tu assi çega que nom vees teu perijgoo",
+        "pt_espelho_cristina": "O triste e hes tu assi çegua que nom vees teu peryguo"
+      }
+    ],
+    "171": [
+      {
+        "fr_trois_vertus": "mais ce fait le grant orgueil qui pour cause de ses vains honneurs ou tu te vois envelopé estaint en toy si toute raison",
+        "pt_tres_vertudes": "E esto faz a gramde soberua que per causa de tuas vããs onrras em que te vees enborilhada Apaga em ty toda Razom",
+        "pt_espelho_cristina": "E esto faz a grande soberba . que per causa de tuas vaãs honrras em que te veẽs emuorylhada apaga em ty tua rezom"
+      }
+    ],
+    "175": [
+      {
+        "fr_trois_vertus": "que te semble il que tu ne cuydes mye seullement estre princesse ne grant dame mais comme une droicte deesse en ce monde",
+        "pt_tres_vertudes": "tanto que ja pareçes que nom penssas soomente em seres prinçesa ou grande Senhora Mas assi como diessa em este mundo",
+        "pt_espelho_cristina": "tanto que pareçe que ja nom pensas soomente em seer prinçesa ou grande senhora. mas assy como diessa em este mundo"
+      }
+    ],
+    "177": [
+      {
+        "fr_trois_vertus": "Ha ce faulx orgueil comment le seuffres tu en toy",
+        "pt_tres_vertudes": "Porque sofres em ty tam fallssa soberua",
+        "pt_espelho_cristina": "porque sofres em ty falsa soberba"
+      }
+    ],
+    "178": [
+      {
+        "fr_trois_vertus": "et si scés par le raport de l'escripture dieu le hayt tant qu'il ne le peut souffrir",
+        "pt_tres_vertudes": "E sabes per autoridades da santa escriptura que deos a desama tanto que a nom pode sofrer",
+        "pt_espelho_cristina": "E sabes per antorydades da santa scriptura que deos a desama tanto que a nom pode sofrer "
+      }
+    ],
+    "180": [
+      {
+        "fr_trois_vertus": "Car pour celle cause tresbucha il lucifer le prince des ennemys du ciel en enfer. Et certes aussi fera il se tu ne te gardes",
+        "pt_tres_vertudes": "Ca por ella cayo luçiffer prinçipe . dos Jnmijgos da alteza do çeeo no Jnfferno. E assi fara se te nom guardas",
+        "pt_espelho_cristina": "Ca por ella cayo luçifer principe dos jmmiguos da alteza do çeeo em o jnferno. E assy fara se te nom guardas"
+      }
+    ],
+    "182": [
+      {
+        "fr_trois_vertus": "O orgueil racine de tous maulx certainement je congnois que de toy viennent tous les aultres vices",
+        "pt_tres_vertudes": "Soberua rraiz e de todollos malles Çertamente eu conheço que de ty veem todos outros pecados",
+        "pt_espelho_cristina": "soberba raiz de todos malles çertamente . eu conheço que de ty veẽ todos outros pecados"
+      }
+    ],
+    "183": [
+      {
+        "fr_trois_vertus": "et ce puis je congnoistre en moymesmes car pour cause de toy & non pour autre achoison je suis souvent embatue en ire desirant vengance",
+        "pt_espelho_cristina": "E confesso que por causa de ty soomente eu soo muytas vezes metyda em yra desejando vyngança"
+      }
+    ],
+    "186": [
+      {
+        "fr_trois_vertus": "& me fais sembler que je doye estre redoubtee & prisee sur toutes les autres & que je doye chascun supediter",
+        "pt_espelho_cristina": "E me fazes pensar que eu deuo seer temyda . e prezada sobre todas. e meter todos sob meus pees"
+      }
+    ],
+    "187": [
+      {
+        "fr_trois_vertus": "& que pource je ne doy riens souffrir qui me desplaise",
+        "pt_espelho_cristina": "nem deuo sofrer cousa que me deespraza"
+      }
+    ],
+    "188": [
+      {
+        "fr_trois_vertus": "mais tantost me venger tant soit le meffait petit.",
+        "pt_tres_vertudes": "Mas por pequena que seja. logo tomar vingança"
+      }
+    ],
+    "189": [
+      {
+        "fr_trois_vertus": "O vent perilleux en fleure de couraige boce plaine de venin & de pourriture",
+        "pt_tres_vertudes": "OO uento perigoso e Jnchaço de coraçom vaso cheeo de peçonha e de podridam",
+        "pt_espelho_cristina": "O vento peryguoso e jnchado de coraçom . vaso cheo de peçonha e de podridam"
+      }
+    ],
+    "190": [
+      {
+        "fr_trois_vertus": " la chair ou tu es fichee est en plus grant adventure",
+        "pt_tres_vertudes": "ha carne onde tu es arreigada he em mayor uentura",
+        "pt_espelho_cristina": "A carne onde tu es arreygada. he em mayor ventura"
+      }
+    ],
+    "193": [
+      {
+        "fr_trois_vertus": "Perverse creature tu desire vengeance",
+        "pt_tres_vertudes": "peruerssa criatura. tu desejas vingança",
+        "pt_espelho_cristina": "peruersa creatura tu desejas vyngança"
+      }
+    ],
+    "194": [
+  {
+    "fr_trois_vertus": "pource que il te semble que es si grant que nul quoy que tu faces ne doit oser contredire ne groucier a tes vouloirs",
+    "pt_tres_vertudes": "porque te pareçe que tu es tam grande que nenhũũ deue ousar contradizer a cousa que tu faças nem rresestir a teu querer",
+    "pt_espelho_cristina": "porque te pareçe que hes tã grãde que nenhuũ deue ousar contradyzer cousa alguũa que tu faças nem regestyr ha teu querer"
+  }
+    ],
+    "197": [
+  {
+    "fr_trois_vertus": "mais ton aveuglee ygnorance conduycte d'orguelleuse arrogance te fait mecongnoistre comment toute personne soit grant ou petite qui mauvaisement use ses jours dessert que toute chose luy doye estre contraire",
+    "pt_tres_vertudes": "Mas tua çega Jnorançia guiada per soberuosa presunçom te faz perder o conheçimento como toda perssoa seJa gramde ou pequena que mal husa seus dias Mereçe que toda cousa lhe seja comtraira",
+    "pt_espelho_cristina": "mas tua çegua ygnorançya gujada per soberboso per presumçom te faz perder ho conheçimento como toda pessoa seya grande ou pequena que mal vsa seus dyas mereçe que toda cousa lhe seya contrayra"
+  }
+    ],
+    "203": [
+      {
+        "fr_trois_vertus": "si n'avises point en toy comment tu as desservy & dessers par la maniere que tu tiens que tu ne soyes point en la grace de maint",
+        "pt_tres_vertudes": "Nem paras mentes em ty . como as mereçido e mereçes polla maa maneira que tees que seJas fora da graça dalgũũas booas perssoas",
+        "pt_espelho_cristina": "nem paras mentes em ty como as mereçydo he mereçees polla maa maneyra que teeus que seyas fora da graça de muytas boas persoas"
+      }
+    ],
+    "205": [
+      {
+        "fr_trois_vertus": "Parquoy n'est sans cause se plusieurs sont rebelles et contredisans a tes voulentés & opinions",
+        "pt_tres_vertudes": "Ca nom he sem causa . que muytos contradizem . a ty e a tuas openyõões som contrairos",
+        "pt_espelho_cristina": "Ca nom hee sem causa se muytas cõtradyzem a ty e ha tuas openyoões som contrayros"
+      }
+    ],
+    "206": [
+      {
+        "fr_trois_vertus": "& ainsi ton tort tu n'avises point",
+        "pt_tres_vertudes": "E assy tu nom es auisada de teu torto",
+        "pt_espelho_cristina": "E assy tu nom hes auisada do teu torto"
+      }
+    ],
+    "207": [
+  {
+    "fr_trois_vertus": "Mais a tous propos quoy que tu faces te semble supediter toutes autres voulentes & oppinions",
+    "pt_tres_vertudes": "mas a todo proposito que quer que tu faças te pareçe abaixar todas outras openiõões e uontades",
+    "pt_espelho_cristina": "mas ha todo preposyto que quer que tu faças te pareçe abayxar todas outras openyoões e vontades"
+  }
+    ],
+    "209": [
+      {
+        "fr_trois_vertus": "Et si aucuns y contredient tu les hés & pourpenses mal contre eulx",
+        "pt_tres_vertudes": "E desamas todos os que te contradizem e penssas mal contra elles",
+        "pt_espelho_cristina": "E desamas todos que te contradyzem e pensas mal contra elles"
+      }
+    ],
+    "211": [
+      {
+        "fr_trois_vertus": "sans adviser le mal & le tresgrant peril qui s'en pourroit ensuyvre a toy mesmes en ame & corps & a infinis autres",
+        "pt_tres_vertudes": "Nom penssando o perigoo que sse te dhi pode seguir no corpo e na alma e a outros muytos",
+        "pt_espelho_cristina": "nom pensando ho peryguo que se de ty pode seguyr no corpo e na alma e ha outros muytos"
+      }
+    ],
+    "213": [
+      {
+        "fr_trois_vertus": "ou si tu ne leur pourchasse pource que tu ne peuz au moins leur portes tu mortel haine",
+        "pt_tres_vertudes": "E sse lhe tu nom podes mal fazer ao menos os desamas mortalmente",
+        "pt_espelho_cristina": "E sse lhe tu nom podes mal fazer : ao menos os desamas mortalmente"
+      }
+    ],
+    "215": [
+      {
+        "fr_trois_vertus": "En ce desloyal orgueil qui te fiche en la mer de perdicion",
+        "pt_tres_vertudes": "E esta desleal soberua . que te poem no mar da perdiçom",
+        "pt_espelho_cristina": "E esta desleal soberba que te poem no mar da perdyçam"
+      }
+    ],
+    "218": [
+      {
+        "fr_trois_vertus": "comme tu amasseras tresors sans regard de conscience",
+        "pt_tres_vertudes": "E como tu juntas tesouro sem esguardo de conçiençia",
+        "pt_espelho_cristina": "E como tu juntas thesouro sem esguardo de conçiençia"
+      }
+    ],
+    "219": [
+  {
+    "fr_trois_vertus": "Ha doloreux tresor c'est chose comme impossible que tu puisses estre amassé sans le prejudice de plusieurs",
+    "pt_tres_vertudes": "Oo dooroso dinheyro esto he cousa casi empossivel que tu possas ser aujdo sem perJuizo de muytos",
+    "pt_espelho_cristina": "Ho dooroso dinheiro esto he cousa quasy ympossyuel que tu possas seer auydo sem perjuyzo de muytos"
+  }
+],
+    "221": [
+      {
+        "fr_trois_vertus": "Saiches certainement & ne doubte du contraire que l'avoir acquis & amasse indeuement tu ne useras ja joyeusement",
+        "pt_tres_vertudes": "Mas sabe çertamente e nom doujdes que se o Jndinamente buscares e Jumtares Nunca delle husaras a teu prazer",
+        "pt_espelho_cristina": "mas sabe çertamẽte e nom duuides que se o yndygnamente buscares he juntares nũca . delle vsaras ha teu prazer "
+      }
+    ],
+    "225": [
+      {
+        "fr_trois_vertus": "Car la ou tu l'auras assemblé en entente de l'employer en aucunes choses a ton plaisir",
+        "pt_tres_vertudes": "porque onde pemssares de o enpregar . em cousas de tua folgança",
+        "pt_espelho_cristina": "porque onde pensares de ho empreguar em cousas de tua folguança "
+      }
+    ],
+    "227": [
+  {
+    "fr_trois_vertus": "dieu t'envoyera d'aultre costé tant d'adversité ou de maladies ou d'autre charges que il conviendra que ce mauldit tresor soit desploye & mis en usage doloreux tout au contraire de ce que tu pensoyes",
+    "pt_tres_vertudes": "deos te enuiara doutra parte tantas aduerssidades de doenças ou doutros carregos que te convijnra que este maldito tesouro seJa empregado em vsos tristees ao cõtrario do que tu penssauas",
+    "pt_espelho_cristina": "Deos te emuyara doutra parte tãtas hauersydades doenças ou doutros carreguos que te conuyra que este maldyto thesouro seya empregado em vsos trystes ao cõtrairo do que tu pensauas"
+  }
+   ],
+   "231": [
+  {
+    "fr_trois_vertus": "que feras tu doncques de ce maudit tresor l'emporteras tu quant tu mourras",
+    "pt_tres_vertudes": "Que faras tu entom deste tesouro leua llo as contigo",
+    "pt_espelho_cristina": "Que faras tu entom deste thesouro leva lo as contyguo"
+  }
+],
+    "233": [
+      {
+        "fr_trois_vertus": "Certes non ne mais autant que tu emporteras la charge de ce que malacquis & usé l'auras",
+        "pt_tres_vertudes": "certo nom Nem outra cousa delle senom o carrego de o mal buscar e pior despender",
+        "pt_espelho_cristina": "çerto nom . nem outra cousa delle . senom o carguo de o mal buscar e peor despender"
+      }
+    ],
+    "235": [
+      {
+        "fr_trois_vertus": "Mais regarde de rechief ou t'a bouté & empaint ce maudit orgueil pource qu'il te fait acroire que tu passez les autres en grandeur & auctorité",
+        "pt_tres_vertudes": "E osguarda bem de nouo onde te leua esta maldita soberua a qual te faz creer que tu passas os outros em grandeza e autoridade",
+        "pt_espelho_cristina": "Esguarda bem de nouo onde te leua esta maldita soberba ha qual te faz creer que tu passas os outros em grandeza he autorydade"
+      }
+    ],
+    "239": [
+      {
+        "fr_trois_vertus": "il fait ton cueur & de frire de paour que autre te puisse actaindre & avenir en si hault estat que tu es",
+        "pt_tres_vertudes": "E ffaz o teu coraçom . tremer de medo que outro nom possa montar em alto estado como tu es",
+        "pt_espelho_cristina": "E faz ho teu coraçõ tremer de medo que outro nõ possa montar em tam alto estado como tu hes"
+      }
+    ],
+    "242": [
+      {
+        "fr_trois_vertus": "Pource que il te fait tousjours desirer a estre la plus grant",
+        "pt_tres_vertudes": "porque elle te mete em deseJo de sseer mayor que todos",
+        "pt_espelho_cristina": "Porque elle te mete ẽ deseyo de seer mayor que todos :"
+      }
+    ],
+    "244": [
+  {
+    "fr_trois_vertus": "& s'il advient que tu voyes ou saches personne plus ou tant auctorisee nulle peine ne pourroit estre plus grande que le dueil que ton cueur emporte & ce te faict devenir mesdisant ireuse",
+    "pt_tres_vertudes": "E sse aconteçe que tu sabes perssoa tanto ou mais autorizada que ty Nẽhũũa pena poderia seer mayor que a que o teu coraçom leua a qual te faz maldizente e Jrosa",
+    "pt_espelho_cristina": "E sse aconteçe que tu sabees persoa tanto ou mays autoryzada que ty nenhuũa pena poderya seer mayor que aquella que ha teu coraçom leua a qual te faz maldyzente e yrosa"
+  }
+    ],
+    "249": [
+      {
+        "fr_trois_vertus": "une autre infernalle flamete te met orgueil en couraige",
+        "pt_tres_vertudes": "Outra chama Jnffernal te mete soberua no coraçom",
+        "pt_espelho_cristina": "Outra chama jnfernal te mete soberba no coraçom"
+      }
+    ],
+    "250": [
+  {
+    "fr_trois_vertus": "C'est que tu dis a toymesmes tu n'as mestier de labourer ne de riens faire il ne te fault ne mais querir tes ayses",
+    "pt_tres_vertudes": "e he esta tu dizes em ty meesma Eu nom ey mester de trabalhar nem de buscar outra cousa senom meu prazer",
+    "pt_espelho_cristina": "e he esta Tu dizes em ty meesma eu nom ey mester de trabalhar nẽ de buscar outra cousa senõ meu prazer"
+  }
+],
+   "253": [
+  {
+    "fr_trois_vertus": "gesir grant matinee puis aprés disner & reposer visiter tes coffres a tes joyaulx & a tes paremens ce doit estre ton ouvrage",
+    "pt_tres_vertudes": "E Jazer gramde manhãã E desy Jantar e rrepousar e vesitar os coffres de minhas Joyas e paramentos este deue de seer meu trabalho",
+    "pt_espelho_cristina": "E jazer grãde menhaam e desy yantar e repousar he visitar os cofres de minhas joyas he paramentos este deue seer meu trabalho"
+  }
+],
+"255": [
+  {
+    "fr_trois_vertus": "Et ainsi maleureuse forcenee creature que tu es te semble il que dieu qui a donné le temps a toute personne pour employer a bon usaige t'aye donné auctorité de le passer en oyseuse plus que ung autre",
+    "pt_tres_vertudes": "E assi maldita e sandia criatura que tu es pareçe te que deos deu o tempo a toda outra perssoa pera o bem empregar e que o deu a ty per autoridade de o passar em cousas ouçiosas mais que outrem",
+    "pt_espelho_cristina": "E assy maldyta e sandya creatura que tu hes pareçe te que deos deu ho tempo a toda outra persoa pera o bem empreguar e que ho deu a ty per autoridade de o passar em cousas ouciosas mays que outrem"
+  }
+],
+"261": [
+  {
+    "fr_trois_vertus": "Ha meschante creature & tu as ouÿ prescher aultre fois que saint bernard dit que oysiveté est la mere de toutes truffes & la marastre des vertus",
+    "pt_tres_vertudes": "Criatura mezquinha tu ouuiste preegar muytas vezes que sam bernardo diz que ouçiosidade he madre de todas bulrras e madrasta de vertudes",
+    "pt_espelho_cristina": "Creatura mesquinho tu ouuyste preegar muytas vezes que sam bernardo dyz Que ouciosydade he madre de todallas bulras e madrasta de vertudes"
+  }
+],
+"265": [
+  {
+    "fr_trois_vertus": "C'est celle qui mesmement l'omme fort & constant fait tresbucher en peché qui estaint toutes les vertus nourrist orgueil & fait le chemin d'enfer",
+    "pt_tres_vertudes": "Esta he aquella que aos boos homẽẽs faz cair em pecado e apaga todas obras uertuosas e crija soberua e abre o caminho do Jnferno",
+    "pt_espelho_cristina": "esta he aquella que aos boõs homeẽs faz cayr em pecado e apaga todas obras vertuosas e crya soberua he abre ho caminho do ynferno"
+  }
+],
+"269": [
+  {
+    "fr_trois_vertus": "mais encore que advient il Cestuy orgueil qui ainsi te fait querir tes aises",
+    "pt_tres_vertudes": "mas aJnda te aconteçe Esta soberua te faz buscar prazeres e viços",
+    "pt_espelho_cristina": "Mas aynda te acontece que esta soberua te faz buscar prazeeres e vyços"
+  }
+],
+    "272": [
+      {
+        "fr_trois_vertus": "et iceulx aises qui tant nourrissent cel orgueil te font desirer en boires & en mengiers non mye des choses communes ne de viandes acoustumees car de ce es tu toute ennuyee",
+        "pt_tres_vertudes": "E estes viços criam soberua a qual te faz buscar vinhos e viandas nom costumadas. nem comũũas ca destas es tu enffadado",
+        "pt_espelho_cristina": "estes vyços te criam soberba . a qual te faz buscar vynhos e vyandas nõ custumadas . nem cõuynhauees . Ca destas es tu emfadada"
+      }
+    ],
+   
+      "275": [
+  {
+    "fr_trois_vertus": "mais il fault que les queux pour te complaire & pour bien desservir leurs gages pourpensent saveurs saulces & mistions nouvelles pour plus plaire la viande a ton goust & ainsi des vins",
+    "pt_tres_vertudes": "Mas os teus por te comprazer e melhor mereçer sua soldada conuẽ que penssem sabores e salssas e mesturas nouas pera milhor prazer a uianda a teu gosto e assi dos vinhos"
+  }
+],
+"280": [
+      {
+        "fr_trois_vertus": "Ha doloreuse fault il ainsi emplir ce sac qui est viande a vers & vassel de toute iniquité",
+        "pt_tres_vertudes": "Aa maldita assi as d’encher este saco que he vianda de vermẽẽs e uaso de toda maliçia",
+        "pt_espelho_cristina": "Aa maldyta assy has d’encher este saco que he viannda de vermeẽs he vaso de toda malicia"
+      }
+    ],
+    "282": [
+  {
+    "fr_trois_vertus": "Mais que en advient il quant il est ainsi emply tout ainsi que la bouche qui est le nourrissement du feu lescherie & friandise & superfluités de vins & de viandes est le nourrissement de charnalité",
+    "pt_tres_vertudes": "mas que acontece quando elle he bem cheeo Certo assi como a lenha seca he booa pera o fogo assi a sobeja fartura de viandas e de vynhos cria toda luxuria"
+  }
+],
+    "287": [
+      {
+        "fr_trois_vertus": "c'est ce qui enflame l'orgueil & qui fait encliner le courage tout ce qui au corps peut deliter",
+        "pt_tres_vertudes": "Esto he o que em flama asoberua e enclina o coraçom a todo o que ao corpo pode dar deleitaçom",
+        "pt_espelho_cristina": "Esto he ho que enflama a ssoberba e enclyna ho coraçom a todo ho que ao corpo pode dar dyleytaçam"
+      }
+    ],
+    "289": [
+      {
+        "fr_trois_vertus": "& certes la chair ainsi nourrie ressemble le cheval lequel est si dru et si mignot",
+        "pt_tres_vertudes": "E a carne assi criada he tal como o cauallo que esta folgado e viçoso",
+        "pt_espelho_cristina": "E ha carne assy criada he tal como ho cauallo que estaa folgado he vyçoso"
+      }
+    ],
+    "291": [
+      {
+        "fr_trois_vertus": "que quant son maistre il se cuide aider il ne le peut tenir",
+        "pt_tres_vertudes": "E quando seu dono se pemssa aJudar delle nom o pode teer",
+        "pt_espelho_cristina": "E quando seu doono se pensa ajudar delle nom ho pode teer"
+      }
+    ],
+    "293": [
+  {
+    "fr_trois_vertus": "& le maine maulgré qu'il en ait les voyes qui luy sont prejudiciables & a la fin luy rompt le col",
+    "pt_tres_vertudes": "e leua o maao seu grado per caminhos perijgosos E muytas vezes lhe quebra o pescoço",
+    "pt_espelho_cristina": "he leua ho maao seu grado per camynhos peryguosos he muytas vezes lhe quebra ho pescoso"
+  }
+],
+ "296": [
+      {
+        "fr_trois_vertus": "Tout ainsi tue l'ame le corps trop souef nourry",
+        "pt_tres_vertudes": "E assi o corpo viçoso muytas vezes mata a alma",
+        "pt_espelho_cristina": "E assy ho corpo vyço muytas vezes mata sua alma"
+      }
+    ],
+    "298": [
+  {
+    "fr_trois_vertus": "mais l'orgueil qui se fiche en ce gras nourrissement te faict tant desirer superflux habitz joyaulx et paremens que a pou tu ne penses a autres choses ne quoy qu'il doye couster ne dont il doyve venir",
+    "pt_tres_vertudes": "E a ssoberua que sse rregna em tal criaçom te faz deseJar sobeJas rroupas e paramentos e Joyas tanto que apenas pẽssas em outra cousa E que quer que aJa de custar e donde aJa de vij̃r",
+    "pt_espelho_cristina": "E a soberba que reygua em tal ccryaçom te faz deseyar sobeyas roupas he paramentos e joyas tanta que ha penas pensas em outra cousa he que quer que aja de custar donde aja de vyr"
+  }
+]
+
+        
+  }
+}

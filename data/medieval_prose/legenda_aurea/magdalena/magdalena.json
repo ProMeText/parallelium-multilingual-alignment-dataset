@@ -1,0 +1,1207 @@
+{
+  "work": "Legenda_aurea",
+  "saint": "maria_magdalena",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+    "000": [
+      {
+        "la_magda_mirabile": "Maria Magdalena a Magdalo castro cognominata",
+        "es_magda_transcript": "E santa María fue llamada Magdalena de un castillo",
+        "pro_magda_rialto": "Sancta Maria Magdalena fonc ayssi apelada per lo castel Magdalo",
+        "es_magda_leyendas": "Santa María Madalena fue de un castillo que dezién Madalo",
+        "es_magda_etymol": "Santa María Magdalena fue así llamada por un castillo que avía nonbre Magdalo",
+        "it_magda_ovi": "Maria Maddalena, dinominata dal castello Magdalo",
+        "ca_magda_gesiot": "Maria Magdalena es axí apelada per lo castel Magdalo"
+      }
+    ],
+    "000a": [
+      {
+        "la_magda_mirabile": "clarissimis est exorta natalibus",
+        "pro_magda_rialto": "e fonc de nobles parens filha",
+        "es_magda_leyendas": "e era muy fija de algo",
+        "es_magda_etymol": "Fue muy fijadalgo",
+        "it_magda_ovi": "nacque di gentile legnaggio",
+        "ca_magda_gesiot": "E fo fila de nobles parens"
+      }
+    ],
+    "001": [
+      {
+        "la_magda_mirabile": "utpote ex regia stirpe descendentibus",
+        "es_magda_transcript": "que fue de linaje real",
+        "pro_magda_rialto": " so es de linatge real",
+        "es_magda_leyendas": "e venía del linage de los reys",
+        "es_magda_etymol": "ca venía de linaje de los reys",
+        "it_magda_ovi": "siccome di discendenti di schiatta di re",
+        "ca_magda_gesiot": "so es de linatge rial"
+      }
+    ],
+    "002": [
+      {
+        "la_magda_mirabile": "cuius pater Syrus",
+        "es_magda_transcript": "e su padre ovo nonbre Siro",
+        "pro_magda_rialto": "e sson payre avia nom Ciri",
+        "es_magda_leyendas": "E a su padre dixeron Siró",
+        "es_magda_etymol": "Al padre dixeron Siro",
+        "it_magda_ovi": "il cui padre ebbe nome Siro",
+        "ca_magda_gesiot": "lo seu pare avia nom Ciri"
+      }
+    ],
+    "003": [
+      {
+        "la_magda_mirabile": "mater uero Eucharia nuncupata est",
+        "es_magda_transcript": "e su madre Eucaria",
+        "pro_magda_rialto": "e la mayre, Eucaria ",
+        "es_magda_leyendas": "e a su madre Encaria",
+        "es_magda_etymol": "e a su madre Encana",
+        "it_magda_ovi": "e la madre Eucaria",
+        "ca_magda_gesiot": "e la seva mare Eucaria era apelada"
+      }
+    ],
+    "003a": [
+      {
+        "pro_magda_rialto": "Et era sancta Maria Magdalena heretieyra del castel Magdalo",
+        "ca_magda_gesiot": "Era santa Magdalena heretera del castell Magdalo"
+      }
+    ],
+    "004": [
+      {
+        "la_magda_mirabile": "Hec cum fratre suo Lazaro et sorore sua Martha",
+        "es_magda_transcript": " santa María Magdalena e su hermana santa Martha e sant Lázaro",
+        "pro_magda_rialto": " sancta Maria Magdalena am lo sieu frayre lo Laser et am la sua sor la Marta",
+        "es_magda_leyendas": "Ésta e su hermano Lázaro e su hermana Marta",
+        "es_magda_etymol": "Ésta, e su hermano Lázaro e su hermana Marta,",
+        "it_magda_ovi": "Costei col fratello suo Lazzaro e colla serocchia sua Marta",
+        "ca_magda_gesiot": "santa Magdalena ab son frare sent Laser e ab la seva sor santa Martra"
+      }
+    ],
+    "005": [
+      {
+        "es_magda_transcript": "heredaron de sus padres un castillo que avía nonbre Magdalo",
+        "es_magda_leyendas": "avién por heredat el castillo de Magdalo",
+        "es_magda_etymol": "avían por heredat el castillo de Magdalo",
+        "it_magda_ovi": " avea im possesione il castello ch’era chiamato Magdalo"
+      }
+    ],
+    "006": [
+      {
+        "la_magda_mirabile": "quod est secundo miliario a Genezareth, et Bethaniam que est iuxta Iherusalem",
+        "pro_magda_rialto": "et es lo castel prop de Genazareth, a doas milhas de Betania, que es decosta Jerusalem",
+        "es_magda_leyendas": "que es a una legua de Genesaret, e otrosí avien a Betania acerca de la cibdat de Jheritóalem",
+        "es_magda_etymol": "que es a una legua de Genafasi, e Vetania, que es acerca de Jherusalem",
+        "it_magda_ovi": "ch’è presso a Genesarett a due miglia, e anche Bettania, ch’è presso a Gerusalem",
+        "ca_magda_gesiot": "e·s lo castell prop de Genetseret dos miles; e de Betania, que es costa de Jherusalem"
+      }
+    ],
+    "007": [
+      {
+        "la_magda_mirabile": "et magnam Iherosolimorum partem possidebat",
+        "es_magda_transcript": "e grand parte de Jherusalem",
+        "es_magda_leyendas": " e grand parte en la cibdat de Jheritóalem",
+        "es_magda_etymol": "e muy grant parte de Jherusalem",
+        "it_magda_ovi": "e gran parte di Gerusalem",
+        "ca_magda_gesiot": "e gran partida de Jherusalem posseya"
+      }
+    ],
+    "008": [
+      {
+        "la_magda_mirabile": "Que tamen omnia inter se taliter diuiserunt quod Maria Magdalum",
+        "pro_magda_rialto": "en tal manieyra que Maria Magdalena ac Magdalo per sa part",
+        "es_magda_leyendas": "E partiéronlo entre sí en esta manera: María ovo a Magdalo",
+        "es_magda_etymol": "Enpero partiéronlo entre sí en esta manera: que santa María oviese a Madalo",
+        "it_magda_ovi": "Le quali possesioni divisero tutte così tra·lloro che Maria ebbe il castello Magdalo",
+        "ca_magda_gesiot": "Les cals possecions entresí devesiren en aytal manera que santa Maria hac Magdalo"
+      }
+    ],
+    "008q": [
+      {
+        "la_magda_mirabile": "a quo et Magdalena nuncupata est",
+        "pro_magda_rialto": "per que fonc apelada Magdalena",
+        "es_magda_leyendas": "onde fue después nonbrada Magdalena",
+        "es_magda_etymol": "donde fue después nonbrada",
+        "it_magda_ovi": " ond’ella è dinominata",
+        "ca_magda_gesiot": "per que fo apelada Magdalena"
+      }
+    ],
+    "009": [
+      {
+        "la_magda_mirabile": "et Lazarus partem urbis Iherusalem",
+        "es_magda_transcript": "e sant Lázaro la heredat de la cibdat de Jherusalem",
+        "pro_magda_rialto": "E lo Lazer ac la part de Jerusalem",
+        "es_magda_leyendas": "e Lázaro ovo la parte de Jherusalem",
+        "es_magda_etymol": "e Lázaro ovo la parte de Jherusalem",
+        "it_magda_ovi": "e Lazzaro ebbe la parte della città di Gerusalem",
+        "ca_magda_gesiot": "e Laser hac la part de la ciutat de Jherusalem"
+      }
+    ],
+    "010": [
+      {
+        "la_magda_mirabile": "et Martha Bethaniam possederunt.",
+        "es_magda_transcript": "e santa Martha Lethanía",
+        "pro_magda_rialto": "et sancta Marta, Betania",
+        "es_magda_leyendas": "e Marta ovo a Betania",
+        "es_magda_etymol": "e Marta ovo a Betania",
+        "it_magda_ovi": "e Marta ebbe Bettania",
+        "ca_magda_gesiot": "e Martra hac Betania"
+      }
+    ],
+    "011": [
+      {
+        "la_magda_mirabile": "Cum autem Magdalena deliciis corporis se totam exponeret",
+        "es_magda_transcript": "E santa María Magdalena diose a los deleytes de la carne",
+        "pro_magda_rialto": "E cum sancta Maria Magdalena fos delicada",
+        "es_magda_leyendas": "E la Madalena, siguiendo todo deleite de su cuerpo",
+        "es_magda_etymol": "E la Madalena faziendo todo talento de su cuerpo",
+        "it_magda_ovi": "E con ciò fosse cosa che Maria si desse tutta alle dilitie del corpo",
+        "ca_magda_gesiot": "E co santa Maria Magdalena fos molt delicada de son cos"
+      }
+    ],
+    "012": [
+      {
+        "la_magda_mirabile": "et Lazarus militie plus uacaret",
+        "es_magda_transcript": "e Lázaro a la cavallería",
+        "pro_magda_rialto": "e Lazer cavalier",
+        "es_magda_leyendas": "e Lázaro usando en fecho de cavalleria",
+        "es_magda_etymol": "e Lázaro usando de fecho cavallerías",
+        "it_magda_ovi": "e Lazaro intendesse il più a cavalleria",
+        "ca_magda_gesiot": "e Latzer cavelereyás"
+      }
+    ],
+    "014": [
+      {
+        "la_magda_mirabile": "Martha prudens partes sororis et fratris et suam strenue gubernabat ",
+        "es_magda_transcript": "e Martha rigía asý commo muger sabia su heredat e las del hermano e de la hermana",
+        "pro_magda_rialto": "et Marta governava las partidas d’amdos e la sua",
+        "es_magda_leyendas": "mas Marta que era más entendida, endereçava muy bien las heredades de la ermana e del hermano",
+        "es_magda_etymol": " e Marta, que era más entendida, endereçava bien su heredat, e de la hermana e del hermano",
+        "it_magda_ovi": "Marta savia governava valentremente la parte della serocchia e quella de· fratello e la sua",
+        "ca_magda_gesiot": "santa Martra governava les partides de sa sor e de son frare"
+      }
+    ],
+    "015": [
+      {
+        "la_magda_mirabile": "et militibus et famulis suis ac pauperibus necessaria ministrabat",
+        "pro_magda_rialto": "e donava so que mestiers era als cavaliers e a la companha",
+        "es_magda_leyendas": "e dava a los cavalleros del hermano, e a los vasallos, e a los pobres, todo quanto avien menester",
+        "es_magda_etymol": "e dava a los cavalleros de su hermano, e a los vasallos, e a los pobres, lo que avían menester",
+        "it_magda_ovi": "e serviane a’ cavalieri e a’ fanti suoi e a’ poveri ne’ loro bisogni",
+        "ca_magda_gesiot": "e donava so que menester fasia als cavales e a la companya"
+      }
+    ],
+    "016": [
+      {
+        "la_magda_mirabile": "Omnia tamen hec post ascensionem domini uendiderunt",
+        "es_magda_transcript": "E después de la Ascensión del Señor vendieron todas aquestas heredades ",
+        "pro_magda_rialto": "Et apres la ascentio de Nostre Senher, els vendero tot quant avian",
+        "es_magda_leyendas": "Empero, después que Jhe.su Christo subió a los cielos, todo lo vendieron ellos",
+        "es_magda_etymol": "Enpero que después que Jhesu Christo subió a los cielos, todo lo vendieron",
+        "it_magda_ovi": "Ma tutte queste cose vendettoro dopo l’ascensione di Cristo ",
+        "ca_magda_gesiot": "Aprés lo puyament de nostre Senyor els veneren totes les lurs coses "
+      }
+    ],
+    "016a": [
+      {
+        "la_magda_mirabile": "et ad pedes apostolorum pretium posuerunt",
+        "es_magda_transcript": "e traxeron el prescio dellas e pusiéronlo delante los pies de los apóstoles",
+        "pro_magda_rialto": "e pausero ho als pes dels apostols",
+        "es_magda_leyendas": "e tomaron el precio e pusiéronlo a los pies de los apóstelos",
+        "es_magda_etymol": "e lo posieron a los pies de los apóstoles",
+        "it_magda_ovi": "e gittarono lo prezzo a’ piedi degli apostoli",
+        "ca_magda_gesiot": "e pausaren lo preu als peus dels apostols."
+      }
+    ],
+    "017": [
+      {
+        "la_magda_mirabile": "Cum igitur Magdalena diuitiis abundaret",
+        "es_magda_transcript": "E commo María Magdalena fuese muger abastada de muchas riquezas",
+        "it_magda_ovi": "E abondando la Madalena in richeza",
+        "ca_magda_gesiot": "E co santa Magdalena abundás en riqueses"
+      }
+    ],
+    "021": [
+      {
+        "la_magda_mirabile": "Sed cum Christus illic et alibi predicaret",
+        "es_magda_transcript": "E commo Nuesto Señor Jhesu Christo predicase en tierra de Judea",
+        "pro_magda_rialto": "E quant Jesu Christ sermonava en aquela terra et en las autras",
+        "es_magda_leyendas": "Mas Jhesu Christo predicando en aquella tierra e en otros lugares",
+        "es_magda_etymol": "Mas Jhesu Christo, predicando allí en otros lugares",
+        "it_magda_ovi": "Ma predicando Cristo quivi e altrove",
+        "ca_magda_gesiot": "E co Jhesú Christ presicás en aquell loch e en altres"
+      }
+    ],
+    "023": [
+      {
+        "la_magda_mirabile": "illa nutu inspirata diuino ad domum Symonis leprosi",
+        "es_magda_transcript": "por Spíritu divinal fuese a casa de Simón leproso",
+        "pro_magda_rialto": "per la adordenansa de Dieu ela venc a la mayo de Symon que era lebros",
+        "es_magda_leyendas": "e ella por gracia de Spíritu Santo vino un día a casa de Simón",
+        "es_magda_etymol": "él, por la gracia de Spíritu Santo, vino a casa de Ximón, el malato",
+        "it_magda_ovi": "ella, per volontà di Dio ispirata, andò ad casa di Simone lebroso,",
+        "ca_magda_gesiot": "per la volentat de Deu ela se·n aná a la casa de Symon lebrós,"
+      }
+    ],
+    "024": [
+      {
+        "la_magda_mirabile": "ubi audiuit eum discumbere,",
+        "es_magda_transcript": "ado fuera el Salvador conbidado a yantar",
+        "pro_magda_rialto": " ont manjava Jesu Christ",
+        "es_magda_leyendas": " ca sopo que allí posava Él",
+        "es_magda_etymol": "Ca sonó que allí posava",
+        "it_magda_ovi": "là ov’ella udì che Cristo mangiava"
+      }
+    ],
+    "027": [
+      {
+        "la_magda_mirabile": "properauit et non audens ut peccatrix inter iustos apparere ",
+        "es_magda_transcript": "e non se atreviendo así commo muger pecadora aparescer delante los justos",
+        "pro_magda_rialto": "quar non ausava venir davan per los defalhimens que avia fachs",
+        "es_magda_leyendas": "E ella, porque era pecatriz, non osava parescer ante los justos",
+        "es_magda_etymol": "e non osando parecer entre los justos, estido aí a las espaldas dellos",
+        "it_magda_ovi": "e non essendo ardita come peccatrice di stare fra le sante persone",
+        "ca_magda_gesiot": "Mes no·s gausá pausar entre los justs"
+      }
+    ],
+    "028": [
+      {
+        "la_magda_mirabile": "retro secus pedes domini mansit,",
+        "es_magda_transcript": "llegóse por detrás a los pies del Salvador",
+        "pro_magda_rialto": "Et ela venc se·n reyres Nostre Senhor",
+        "es_magda_leyendas": " acerca cabo de los pies de Jhesu Christo",
+        "es_magda_etymol": "e echose a los sus pies de Jhesu Christo",
+        "it_magda_ovi": "stettesi di dietro a’ piedi del Signore",
+        "ca_magda_gesiot": "per que·s pausá derrera los peus de Jhesú Christ"
+      }
+    ],
+    "029": [
+      {
+        "la_magda_mirabile": "ubi pedes eius lacrimis lauit",
+        "es_magda_transcript": "e començólos a regar e a lavar con lágrimas ",
+        "pro_magda_rialto": "Et am las lagremas que gitava pels huelhs, lavet los pes a Nostre Senher",
+        "es_magda_leyendas": "lloró atan fuertemente, que tantas fueron las sus lágrimas que mojó los pies de Jhesu Christo",
+        "es_magda_etymol": "E lavole los sus pies con las sus lágrimas",
+        "it_magda_ovi": "e ivi gli lavò con le lagrime ",
+        "ca_magda_gesiot": "en lo qual loch ela levá los peus ab les seves lagremes a Jhesú Christ"
+      }
+    ],
+    "033": [
+      {
+        "la_magda_mirabile": "capillis tersit",
+        "es_magda_transcript": "e a linpiar con sus cabellos",
+        "es_magda_leyendas": "tomó con los sus cabellos e terguiógelos fasta que fueron enxutos",
+        "pro_magda_rialto": "Et am los sieus cabelhs los li essuguet",
+        "es_magda_etymol": "e alinpiolos con los sus cabellos",
+        "it_magda_ovi": "e forbili co’ capelli",
+        "ca_magda_gesiot": "e ab los seus cabels los li torcá"
+      }
+    ],
+    "033a": [
+      {
+        "la_magda_mirabile": "et unguento pretioso perunxit",
+        "es_magda_transcript": " e a los lavar después con una agua muy preciosa que era llamada ungüento",
+        "pro_magda_rialto": " E pueys ela los li ongia am molt noble enguen",
+        "es_magda_etymol": "e untolos con ungüento muy precioso",
+        "es_magda_leyendas": "e desí untógelos con un ungüento muy precioso",
+        "it_magda_ovi": "e unse con unguento prezioso",
+        "ca_magda_gesiot": "e puys ela li untá los peus ab molt noble engent"
+      }
+    ],
+    "038": [
+      {
+        "la_magda_mirabile": "Nam incole regionis illius unguentis et balneis utebantur",
+        "es_magda_transcript": "ca los moradores de aquella tierra acostunbravan los baños e las tales aguas",
+        "pro_magda_rialto": "per raso que las gens d’aquela regio uso d’enguens",
+        "es_magda_leyendas": "ca los omnes de aquella tierra usan mucho de baños e de ungüentos",
+        "es_magda_etymol": "ca los omnes de aquella tierra usavan de vaños e de ungüentos",
+        "it_magda_ovi": " Però che gli abitanti di quella contrada usavano unguenti e bagnora",
+        "ca_magda_gesiot": "per so car les gents d’aquela regió usen d’engens e·s bayen soven"
+      }
+    ],
+    "039": [
+      {
+        "la_magda_mirabile": "propter vehementissimum solis ardorem",
+        "es_magda_transcript": "por la grandeza del calor",
+        "pro_magda_rialto": "contra las grans calors del solelh",
+        "es_magda_leyendas": "por razón de la calentara",
+        "es_magda_etymol": "por razón de las calenturas",
+        "it_magda_ovi": "per la grande arsura del sole ",
+        "ca_magda_gesiot": "per la gran calor del sol"
+      }
+    ],
+    "047": [
+      {
+        "la_magda_mirabile": "Cumque Symon intra se cogitaret",
+        "es_magda_transcript": "E Simón començó a pensar",
+        "pro_magda_rialto": "E quant Symon si pessava",
+        "es_magda_leyendas": "E Simón, seía pensando en su voluntad",
+        "es_magda_etymol": "E pensando Ximón entre sí",
+        "it_magda_ovi": "che Simone fariseo pensasse così fra sé medesimo",
+        "ca_magda_gesiot": "E co En Symon se pensás que"
+      }
+    ],
+    "050": [
+      {
+        "la_magda_mirabile": "quoniam si hic esset propheta ",
+        "es_magda_transcript": "‘Si aqueste omne fuese propheta ",
+        "pro_magda_rialto": "que ja Jesu Christ fos propheta",
+        "es_magda_leyendas": " que si Jhesu Christo fuese propheta",
+        "es_magda_etymol": "que si este fuese propheta",
+        "it_magda_ovi": "Se costui fosse profeta",
+        "ca_magda_gesiot": "si Jhesú Christ fos profeta"
+      }
+    ],
+    "050a": [
+      {
+        "la_magda_mirabile": "a peccatrice se nequaquam tangi permitteret",
+        "es_magda_transcript": "sabría por cierto qué muger es aquesta e non se dexaría tañer della",
+        "pro_magda_rialto": "ben sabia Jesus que pecayris era et ja non si layssera tocar a luy",
+        "es_magda_leyendas": "que non consientrié que lo taniese aqnella muger, que era pecadora",
+        "es_magda_etymol": "non consentería que le tanxiese esta pecatris",
+        "it_magda_ovi": "neente si lascerebbe toccare alla peccatrice",
+        "ca_magda_gesiot": "que no·s gequira tocar a la peccadora"
+      }
+    ],
+    "051": [
+      {
+        "la_magda_mirabile": "dominus illum de superba iustitia redarguit",
+        "es_magda_transcript": "E veyendo el Señor el pensamiento del su coraçón reprehendiólo de la su sobervia",
+        "pro_magda_rialto": "e Jesu Christ repres l’en",
+        "es_magda_leyendas": " E nuestro Señor reprendió a él de justicia, sobervioso que seyé pensando",
+        "es_magda_etymol": "el nuestro Señor reprehendiole de justicia soverbioso",
+        "it_magda_ovi": "il Segnore il riprese della sua superbia giustizia",
+        "ca_magda_gesiot": "e mantenent Jhesú Christ lo·n représ"
+      }
+    ],
+    "052": [
+      {
+        "la_magda_mirabile": "et mulieri omnia peccata dimisit",
+        "es_magda_transcript": "e perdonó los pecados a la Magdalena",
+        "pro_magda_rialto": "et a luy perdonet sos pecatz",
+        "es_magda_leyendas": "e perdonó a ella todos sus pecados",
+        "es_magda_etymol": "e perdonó a ella sus pecados",
+        "it_magda_ovi": "e alla femina perdonòe tutt’i peccati",
+        "ca_magda_gesiot": "e perdoná los peccats a santa Magdalena"
+      }
+    ],
+    "053": [
+      {
+        "la_magda_mirabile": "Hec est igitur illa Maria Magdalena ",
+        "es_magda_transcript": "E aquesta María Magdalena es aquella ",
+        "pro_magda_rialto": "Aquesta es Magdalena ",
+        "es_magda_leyendas": "E aquésta es María Madalena",
+        "es_magda_etymol": "Aquesta es aquella María Magdalena ",
+        "it_magda_ovi": "Questa è dunque quella Maria Magdalena ",
+        "ca_magda_gesiot": "Aquesta es, donchs, aquella santa Maria Magdalena "
+      }
+    ],
+    "053a": [
+      {
+        "la_magda_mirabile": "cui dominus tam maxima beneficia contulit",
+        "es_magda_transcript": "a quien el Señor fizo muchos beneficios",
+        "pro_magda_rialto": "a laqual Dieus dona tans beneficis e tans grans previlegis",
+        "es_magda_leyendas": "a quien Jhesu Christo fizo tanta gracia",
+        "es_magda_etymol": "a quien Jhesu Christo fizo tanta gracia",
+        "it_magda_ovi": "alla quale il Segnore fece così grandi benificii",
+        "ca_magda_gesiot": "a la qual Deus doná tans grans beniffeyts"
+      }
+    ],
+    "054": [
+      {
+        "la_magda_mirabile": "et tanta signa dilectionis ostendit",
+        "es_magda_transcript": "e le demostró grandes señales de amor",
+        "pro_magda_rialto": "e·l mostra tan grans senhals d’amor",
+        "es_magda_leyendas": "e le mostró tanto amor",
+        "es_magda_etymol": "e mostrole tanto amor",
+        "it_magda_ovi": "e mostrò sì grandi segni d’amore",
+        "ca_magda_gesiot": "e li mostrá mots senyals d’amor"
+      }
+    ],
+    "055": [
+      {
+        "la_magda_mirabile": "Nam ab ea septem demonia expulit,",
+        "es_magda_transcript": "ca echó della siete diablos",
+        "pro_magda_rialto": "quar d’ela gitet set demonis",
+        "es_magda_leyendas": "ca sacó della siete diablos",
+        "es_magda_etymol": "Que sacó della VII diablos",
+        "it_magda_ovi": "Però che cacciò da·llei sette dimonia",
+        "ca_magda_gesiot": "car d’ela gitá .vii. dimonis"
+      }
+    ],
+    "056": [
+      {
+        "la_magda_mirabile": "in suo amore eam totaliter accendit",
+        "es_magda_transcript": "e encendióla del todo en el su amor",
+        "pro_magda_rialto": "e l’aluquet de la sua amor arden",
+        "es_magda_leyendas": "E óvol muy grand amor",
+        "es_magda_etymol": "e ovo muy grant amor",
+        "it_magda_ovi": "accesela tutta nel suo amore",
+        "ca_magda_gesiot": "e la ensés en la seva amor"
+      }
+    ],
+    "057": [
+      {
+        "la_magda_mirabile": "familiarissimam eam sibi constituit, hospitam suam fecit ",
+        "es_magda_transcript": "e fízola su huéspeda e mucho su familiar ",
+        "pro_magda_rialto": "E la fes molt sa familiar ",
+        "es_magda_leyendas": "e fuel muy familiar, e fizóla su huéspeda",
+        "es_magda_etymol": "e fue muy famliar, e fue su huéspeda",
+        "it_magda_ovi": "fecelasi familiarissima e sua albergatrice",
+        "ca_magda_gesiot": "e la fe molt sa femiliar e sa osta"
+      }
+    ],
+    "057a": [
+      {
+        "la_magda_mirabile": "et procuratricem suam in itinere eam habere uoluit",
+        "es_magda_transcript": "e quiso que fuese su procuradora en la carrera",
+        "pro_magda_rialto": "e volc que fos sa procurayris",
+        "es_magda_leyendas": "E quiso que fuese su procuradora en el camino",
+        "es_magda_etymol": "e quiso que fuese su procuradora en el camino",
+        "it_magda_ovi": "e volsela avere per sua procuratrice in viaggio",
+        "ca_magda_gesiot": "e volch que fos sa procuradora en lo camí"
+      }
+    ],
+    "057b": [
+      {
+        "la_magda_mirabile": "eam semper dulciter excusauit",
+        "es_magda_transcript": "e la escusó dulcemente",
+        "it_magda_ovi": "e sempre la scusòe dolcemente",
+        "ca_magda_gesiot": " E la scusá humilment"
+      }
+    ],
+    "058": [
+      {
+        "la_magda_mirabile": "nam excusauit eam apud phariseum",
+        "es_magda_transcript": "Ca la escusó del Phariseo",
+        "pro_magda_rialto": "el la excusava humielmen davan lo pharisieu Symon",
+        "es_magda_leyendas": "E escusóla del phariseo",
+        "es_magda_etymol": "e escusola del fariseo,",
+        "it_magda_ovi": "Imprima la scusòe al fariseo",
+        "ca_magda_gesiot": "car ela scusá davant lo fariseu"
+      }
+    ],
+    "059": [
+      {
+        "la_magda_mirabile": "qui dicebat ipsam immundam,",
+        "es_magda_transcript": "que dizía della que era suzia e pecadora",
+        "pro_magda_rialto": "que desia que ela non era neta",
+        "es_magda_leyendas": "que la llamava suzia",
+        "es_magda_etymol": "que la llamava suzia",
+        "it_magda_ovi": "che dicea ch’ell’era inmonda",
+        "ca_magda_gesiot": "que disia que ela no era nedesa"
+      }
+    ],
+    "060": [
+      {
+        "la_magda_mirabile": "et apud sororem suam que dicebat eam otiosam",
+        "es_magda_transcript": "e la escusó de su hermana que se quexava della que estava occiosa",
+        "pro_magda_rialto": "e la excusava a la sua sor que desia que trop era ociosa",
+        "es_magda_leyendas": "e de su hermana Marta, que la llamava vagarosa",
+        "es_magda_etymol": "e de su hermana, que la llamava gastadora",
+        "it_magda_ovi": "e scusolla alla serocchia che dicea ch’ell’era oziosa",
+        "ca_magda_gesiot": "e ela excusá a la seva sor, que disia que era molt ociosa"
+      }
+    ],
+    "061": [
+      {
+        "la_magda_mirabile": "et apud Iudam qui dicebat eam prodigam ",
+        "es_magda_transcript": "e la escusó de Judas que la dezía ser gastadera",
+        "pro_magda_rialto": "e la excusava am Judas lo traydor que desia que trop gitava a porre",
+        "es_magda_leyendas": "e de Judas Escariot, que la llamava gastadera",
+        "it_magda_ovi": "e a Giuda che dicea ch’ell’era una scialaquata",
+        "ca_magda_gesiot": "e la escusá a·N Judes, qui disia que era degastadora"
+      }
+    ],
+    "061a": [
+      {
+        "la_magda_mirabile": "lacrimantem uidens lacrimas continere non potuit",
+        "es_magda_transcript": "E lloró con ella quando la vido llorar",
+        "pro_magda_rialto": "E quant la vi ploran, et el si ploret",
+        "es_magda_leyendas": "E veyéndola llorar, lloró con ella",
+        "es_magda_etymol": "E viéndola llorar, lloró con ella",
+        "it_magda_ovi": "Vedendola Cristo piagnere, non poté tenere le lagrime",
+        "ca_magda_gesiot": "E quant la vesech ploran, el se plorá"
+      }
+    ],
+    "062": [
+      {
+        "la_magda_mirabile": "Cuius dilectione quadriduanum fratrem resuscitauit",
+        "es_magda_transcript": "e por el su amor rresucitó a su hermano sant Lázaro",
+        "pro_magda_rialto": "per amor d’ela quar el ressucitet lo sieu frayre lo Laser, que avia jagut ·iiij· jorns el vas",
+        "es_magda_leyendas": "E por su amor resucitó a su hermano Lázaro, que avía quatro días que era muerto",
+        "es_magda_etymol": "Por su amor resucitó a Lázaro, su hermano, que avía quatro días que era muerto",
+        "it_magda_ovi": "Per lo cui amore risuscitò il suo fratello, che era stato quatro dì morto",
+        "ca_magda_gesiot": "Per amor de la cal el ressucitá son frare, qui avia jagut mort en lo vas per .iiii. dies"
+      }
+    ],
+    "062a": [
+      {
+        "la_magda_mirabile": "cuius amore Martham sororem suam a fluxu sanguinis quem septem annis perpessa fuerat liberauit",
+        "es_magda_transcript": "e sanó a su hermana santa Martha del fluxo de la sangre que tenía siete años avía",
+        "pro_magda_rialto": " E per amor de luy, sanet sa sor la Marta del gitamen del sanc que l’avia tengut ·vij· ans",
+        "es_magda_leyendas": "E por su amor guaresció a Marta su hermana, que avié corronpimiento de sangre siete años avía",
+        "es_magda_etymol": "e por su amor guareció a Marta, su hermana, que avía siete años que corría della sangre",
+        "it_magda_ovi": "per lo cui amore liberòe Marta sua serocchia dal fluxo di sangue ch’ell’avea patito sette anni",
+        "ca_magda_gesiot": "e per amor d’ela saná la seva sor santa Martra de la corrensa de la sanch que avia perduda per .vii. anys"
+      }
+    ],
+    "063a": [
+      {  
+        "la_magda_mirabile": "cuius meritis Marcillam sororis sue famulam dignam fecit",
+        "pro_magda_rialto": "e pels meritz de laqual, Na Marcela, sor de sa sirventa",
+        "es_magda_transcript": " E por los sus merescimientos fizo digna a santa Marcela, syrvienta de su hermana",
+        "es_magda_leyendas": "E por sus merescimientos quiso que Marcella, manceba de su hermana",
+        "es_magda_etymol": "e por los sus merecimientos quiso que Martela, manceba de su hermana",
+        "it_magda_ovi": "per li cui meriti fece degna Martilla, cameriera della sua serocchia",
+        "ca_magda_gesiot": "Per merits de la qual Na Mercella, serventa de la seva sor"
+      }
+    ],
+    "064": [
+      {
+        "la_magda_mirabile": "ut illud tam beatum et tam dulce uerbum exclamans diceret",
+        "it_magda_ovi": "di dire così beata e dolce parola come fu quella ch’ella gridando disse"
+      }
+    ],
+    "064a": [
+      {
+        "la_magda_mirabile": "Beatus uenter qui te portauit",
+        "pro_magda_rialto": "bonauratz era lo ventre que l’avia portat ",
+        "es_magda_leyendas": "Bienandante es el vientre que te engendró",
+        "es_magda_etymol": "Bien andante es el vientre que te engendró",
+        "it_magda_ovi": "Beato il ventre che ti portò",
+        "ca_magda_gesiot": " benesurat era aquel ventre que l’avia portada"
+      }
+    ],
+    "064b": [
+      {
+        "es_magda_transcript": "bienaventurado son las tetas que mamaste",
+        "pro_magda_rialto": "bonauratz era las tetinas que l’avian alachat"
+      }
+    ],
+    "065": [
+      {
+        "la_magda_mirabile": "Nam secundum Ambrosium illa fuit Martha et hec eius famula",
+        "es_magda_transcript": "Ca segunt Anbrosio santa Martha fue e santa Marcela su sirvienta fue",
+        "ca_magda_gesiot": "Segons que diu sant Ambrosi, aquela fo Martra e aquesta fo serventa d’eyla"
+      }
+    ],
+    "065a": [
+      {
+        "la_magda_mirabile": "Hec est, inquam, illa que domini pedes lacrimis lauit",
+        "es_magda_transcript": "Santa María Magdalena syn dubda aquella muger lavó los pies del Señor con sus lagrimas",
+        "it_magda_ovi": "Questa è dunque colei che lavò i piedi al Segnore colle lagrime",
+        "ca_magda_gesiot": "E aquesta fo aquela qui lavá los peus del Senyor ab les lagremes"
+      }
+    ],
+    "072": [
+      {
+        "la_magda_mirabile": "Post ascensionem igitur domini, scilicet anno XIV a passione",
+        "es_magda_transcript": "E a quatorze años después de la Passion del Señor",
+        "pro_magda_rialto": "El temps de la Ascentio de Jesu Christ, ·xiiije· ans apres la passio",
+        "es_magda_leyendas": "E a cabo de catorze años de la Passión de Jhesu Christo",
+        "es_magda_etymol": "E a cabo de XIII años de la Pasión de Jhesu Christo",
+        "it_magda_ovi": "Adunque dopo l’asensione del Segnore, ciò il quatordecimo della passione di Cristo",
+        "ca_magda_gesiot": "E en lo temps de la assenció de Jhesú Christ, .xiiii. anys aprés de la Passió"
+      }
+    ],
+    "073": [
+      {
+        "la_magda_mirabile": "cum Iudei iamdiu Stephanum occidissent",
+        "es_magda_transcript": "aviendo ya los judíos apedreado a sant Estevan",
+        "pro_magda_rialto": "cum los juzieus aguesso mort sanh Stephe",
+        "es_magda_leyendas": "despees que los judíos mataron a sant Estevan ",
+        "es_magda_etymol": "después que los judíos mataron a sant Estevan",
+        "it_magda_ovi": "avendo già i giuderi morto santo Stefano ",
+        "ca_magda_gesiot": "com los juseus hagessen ya mort sent Steve"
+      }
+    ],
+    "073a": [
+      {
+        "la_magda_mirabile": "et ceteros discipulos a Iudee finibus eiecissent",
+        "es_magda_transcript": "e echado a los discípulos de tierra de Judea",
+        "pro_magda_rialto": "e los autres discipols aguesson foras gitatz de la terra de Judea",
+        "it_magda_ovi": " e cacciati via i discepoli da tutt’i confini della provincia di Giudea",
+        "ca_magda_gesiot": "e·ls altres discipols agessen gitats de la terra de Judea"
+      }
+    ],
+    "074": [
+      {
+        "la_magda_mirabile": "diuersas gentium discipuli subeunt regiones uerbum ibidem domini seminantes",
+        "pro_magda_rialto": "e los discipols se·n anesson per diversas regios, et aqui predicavo la paraula de Dieu",
+        "es_magda_leyendas": "e los apostólos fueron a muchas partes del mundo a predicar la palabra de Dios",
+        "es_magda_etymol": "los apóstolos fueron por muchas partes del mundo a predicar la palabra de Dios",
+        "it_magda_ovi": "i discepoli andarono per diverse contrade de’ pagani seminandovi la parola di Dio",
+        "ca_magda_gesiot": "los dicipols se·n anaren en diverses parts o regions e aquí els presicaren la paraula de Deu"
+      }
+    ],
+    "075": [
+      {
+        "la_magda_mirabile": "Erat autem tunc temporis cum apostolis beatus Maximinus",
+        "pro_magda_rialto": "Et en aquel temps era am los dissipols sanh Maximi",
+        "es_magda_leyendas": "e en aqnel tienpo era con los apostólos sant Maximiano",
+        "es_magda_etymol": "En aquel tienpo era con los apóstoles sant Maximiano",
+        "it_magda_ovi": "Ora era da quello tempo con li apostoli san Maximino",
+        "ca_magda_gesiot": "Era en aquell temps ab los apostols sent Maxemí"
+      }
+    ],
+    "076": [
+      {
+        "la_magda_mirabile": "unus de LXXII domini discipulis",
+        "es_magda_transcript": "que fuera uno de los sesenta e dos discípulos del Salvador",
+        "pro_magda_rialto": "que era hun dels ·lxxij· discipols",
+        "es_magda_leyendas": "que era él uno de los setenta e dos discípulos de Jhesu Christo",
+        "es_magda_etymol": "que fuera uno de los XII dicípulos de Jhesu Christo",
+        "it_magda_ovi": "uno de’ settantadue discepoli di Cristo",
+        "ca_magda_gesiot": "qui era un dels .lxxii. dicipols del Senyor"
+      }
+    ],
+    "077": [
+      {
+        "la_magda_mirabile": "cui a beato Petro Maria Magdalena fuerat commendata",
+        "pro_magda_rialto": "alqual comandet sanh Peyre sancta Maria Magdalena",
+        "es_magda_leyendas": "E sant Pedro el apóstol comendáralo a santfa María Madalena",
+        "es_magda_etymol": "Sant Pedro apóstol encomendara a santa María Magdalena",
+        "it_magda_ovi": "al quale la Magdalena era stata racomandata da sam Piero",
+        "ca_magda_gesiot": "al qual comaná sent Pere santa Maria Magdalena"
+      }
+    ],
+    "077a": [
+      {
+        "la_magda_mirabile": "In hac igitur dispersione",
+        "pro_magda_rialto": "En aquel escampamen dels discipols",
+        "es_magda_leyendas": "E desparziéndose todos los apostólos",
+        "it_magda_ovi": "Sicché in questo spargimento ",
+        "ca_magda_gesiot": "E en aquell scampament "
+      }
+    ],
+    "077b": [
+      {
+        "la_magda_mirabile": "beatus Maximinus, Maria Magdalena, Lazarus frater eius, Martha soror ipsius et Marcilla pedissequa Marthe",
+        "es_magda_transcript": "al bienaventurado sant Maximiano e a santa María Magdalena e a sant Lázaro su hermano e a santa Martha su hermana e a santa Marcela, syrvienta de santa Martha",
+        "pro_magda_rialto": " sanh Maximi, e sancta Maria Magdalena, e sancta Marta, e Na Marcela lor sirventa",
+        "es_magda_leyendas": "sant Maximiano e la Madalena e Lázaro e Marta e Marcela, su manceba",
+        "es_magda_etymol": " santa María Magdalena, e a Lázaro, e Marta, e a Marcela, su manceba",
+        "it_magda_ovi": "san Maximino e Maria Magdalena e Lazaro suo fratello e Marta sua serocchia e Martilla cameriera di Marta",
+        "ca_magda_gesiot": "sent Maxemí e santa Magdalena e sent Laser e senta Martra e Na Marcella, lur serventa"
+      }
+    ],
+    "078": [
+      {
+        "la_magda_mirabile": "et beatus Cedonius qui cecus a natiuitate extiterat sed a domino fuerat liberatus",
+        "es_magda_transcript": "e a sant Cedonio que fuera ciego desde la su nascencia e fuera alunbrado del Salvador",
+        "pro_magda_rialto": "e sanch Sadorni que nasquet orb mas Jesu Christ lo alumenet",
+        "es_magda_leyendas": "e Cebedonio que nasciera ciego e alunbráralo Jhesu Christo",
+        "it_magda_ovi": "e santo Cepedonio il quale era stato cieco dal nascimento ma poi era stato alluminato da Cristo",
+        "ca_magda_gesiot": "e sent Cedoni que era nat sech mes per Jhesú Christ fo illuminat"
+      }
+    ],
+    "078b": [
+      {
+        "la_magda_mirabile": "omnes hii insimul et plures alii christiani",
+        "es_magda_transcript": "e a muchos otros christianos ",
+        "pro_magda_rialto": "totz essemps am ganre d’autres",
+        "es_magda_leyendas": "e otros muchos christianos ",
+        "es_magda_etymol": "e otros muchos crisptianos",
+        "it_magda_ovi": "tutti questi insieme e molti altri cristiani",
+        "ca_magda_gesiot": "tots ensemps ab molts d’autres"
+      }
+    ],
+    "078c": [
+      {
+        "la_magda_mirabile": "naui ab infidelibus impositi et pelago sine aliquo gubernatore expositi",
+        "es_magda_leyendas": "que pusieran los judíos en una nave e la echaran en la mar",
+        "it_magda_ovi": "furono messi in una nave dall’infedeli e abandonati al pelago sanza veruno argomento o governamento di nave"
+      }
+    ],
+    "078d": [
+      {
+        "la_magda_mirabile": "ut omnes scilicet submergerentur",
+        "es_magda_transcript": "por que se afogasen en el mar",
+        "es_magda_leyendas": "por tal que muriesen y",
+        "es_magda_etymol": "por tal que moriesen en la mar",
+        "it_magda_ovi": "acciò che tutti v’afogassero entro"
+      }
+    ],
+    "079": [
+      {
+        "la_magda_mirabile": "diuino tandem nutu Marsiliam aduenerunt",
+        "es_magda_transcript": "mas fueron librados por el poderío divinal e llegaron al puerto de Marsella",
+        "es_magda_leyendas": "e qinsolos Dios guardar e vinieron a Marsella",
+        "es_magda_etymol": "E guiándolos Dios, venieron a Marsilla",
+        "it_magda_ovi": "ma per volontà di Dio alla perfine capitarono a Marsilia"
+      }
+    ],
+    "079a": [
+      {
+        "ca_magda_gesiot": " per paor se·n vengren a Marcella",
+        "pro_magda_rialto": "e per paor vengro se·n a Marcelha"
+      }
+    ],
+    "080": [
+      {
+        "la_magda_mirabile": "Vbi cum nullos qui eos uellent recipere hospitio inuenissent sub quadam porticu que fano gentis illius terre preerat morabantur",
+        "es_magda_transcript": "E commo saliessen a tierra e non fallesen quien les quisiese dar posada fuéronse a un portal de un tenplo",
+        "pro_magda_rialto": "en loqual loc cum non trobesso home que los albergues, els si pausero sotz hun porgue cominal",
+        "es_magda_leyendas": "E non fallaron ninguno que los quisiese rescebir en su casa, e moravan en un portal de un templo de la gente de aqnella tierra",
+        "es_magda_etymol": "E non fallando ninguno que los quisiese recebir en su casa, moravan en un portal, que era un tenplo de la gente de aquella tierra",
+        "it_magda_ovi": "Nel quale luogo, non trovandovi persona che·lli volesse ricevere, stavansi sotto uno portico ch’era tempio dell’idolo di quella gente della terra",
+        "ca_magda_gesiot": "co no y trobassen hom que·ls albergás, ells se pausaren sots un porxe cominal a totes gents"
+      }
+    ],
+    "080a": [
+      {
+        "la_magda_mirabile": "Cum autem beata Maria Magdalena uideret populum ad fanum confluere ut ydolis immolaret",
+        "es_magda_transcript": "E veyendo santa María Magdalena que venía el pueblo al tenplo a ofrescer sacrificio a los ýdolos",
+        "pro_magda_rialto": "E quant la Magdalena vi venir lo poble al porgue per so que sacrifiquesso a las ydolas que aqui ero",
+        "es_magda_leyendas": "E veyendo santa María Madalena que la gente iva aquel templo a sacrificar los ídolos",
+        "es_magda_etymol": "E viendo santa María Magdalena que la gente iva aquel tenplo para sacrificar a los ídolos",
+        "it_magda_ovi": "Veggendo santa Maria Magdalena correre il popolo ad quello tempio per fare sagrificio all’idoli",
+        "ca_magda_gesiot": "E co santa Magdalena vesés tot lo pobol venir al portxe per so que sacrificassen a la ydola que aquí era"
+      }
+    ],
+    "082": [
+      {
+        "la_magda_mirabile": "assurgens uultu placido, facie serena, lingua diserta eos ab ydolorum cultura reuocabat",
+        "es_magda_transcript": "levantóse con cara alegre e mansa e començólos a amonestar con lengua enseñada que se apartasen de la adoración",
+        "pro_magda_rialto": "ela venc tantost vas els, et am sas belas paraulas ela los fasia partir de lor error e de las ydolas",
+        "es_magda_leyendas": "levantóse muy alegre e la su faz risueña con buenas palabras e la lengua dulce e fazíalos quitar del sacrifício de los ídolos",
+        "es_magda_etymol": "levantose muy alegre, e la faz risueña e con buenas palabras e lengua dulce, fazíalos quitar de sacrificar a los ídolos",
+        "it_magda_ovi": "levossi in piede col volto piacevole, colla faccia chiara, colla lingua pulita e ritraevali dall’adorare gl’idoli",
+        "ca_magda_gesiot": "ela aná envers ells e ab ses beles paraules, ela·ls fasia partir e cessar de les errors de les ydoles"
+      }
+    ],
+    "084": [
+      {
+        "la_magda_mirabile": "et Christum constantissime predicabat",
+        "es_magda_transcript": "e adorasen a Nuestro Señor Jhesu Christo",
+        "pro_magda_rialto": "e predicava lor fortmen Jesu Christ",
+        "es_magda_leyendas": "e predicávales muy afincadamiente la fe de Jhesu Christo",
+        "es_magda_etymol": "E predicávalos muy fuertemente de Jhesu Christo",
+        "it_magda_ovi": "e predicava Cristo costantissimamente",
+        "ca_magda_gesiot": "E presicava-los fortment Jhesú Christ"
+      }
+    ],
+    "085": [
+      {
+        "la_magda_mirabile": "Et admirati sunt uniuersi pre specie, pre facundia, pre dulcedine eloquentie illius",
+        "es_magda_transcript": "E ellos maravillándose de la fermosura de la su cara e de la apostura e abastança de la su palabra",
+        "pro_magda_rialto": "Et agron grans meravilhas de la sua beutat, e del sieu saber, e de las suas paraulas",
+        "es_magda_leyendas": "de la su fermosura e del su razonar e de la su palabra tan dulce",
+        "es_magda_etymol": "e maravillávanse todos de su fermosura, e su razonar, de su hablar tan dulce",
+        "it_magda_ovi": "E maravilliarsi tutti per lo bello parlare di lei e per la dolcezza delle sue parole",
+        "ca_magda_gesiot": "per que foren tots maravellats de la seva belesa e del seu saber e de les seves paraules"
+      }
+    ],
+    "086": [
+      {
+        "la_magda_mirabile": "nec mirum si os quod tam pia et tam pulchra pedibus saluatoris infixerat oscula ceteris amplius uerbi dei spiraret odorem",
+        "es_magda_transcript": "E non era maravilla sy la boca que besara los pies del Salvador diese de sý palabras apuestas e de muy suave olor",
+        "pro_magda_rialto": "e non era pas meravilhas se la boca que avia bayat tan glorioses pes coma so aquels de Jesu Christ parlava ayssi noblamen et en ayssi graciosamen",
+        "es_magda_leyendas": "E esto non era maravilla, que la boca que besara los pies de Jhesu Christo convenía que muy dulcemente predicase la palabra de Dios, más que todos los otros",
+        "es_magda_etymol": "Ca la boca que besara los pies de Jhesu Christo conviene que más dulcemente predicase la palabra de Dios que todos los otros",
+        "it_magda_ovi": "e non era da maravilliare se la bocca ch’avea dato così piatosi basci e così belli a’ piedi del Salvatore desse maggiore odore che tutti gli altri delle parole di Dio"
+      }
+    ],
+    "088": [
+      {
+        "la_magda_mirabile": "Post hoc autem aduenit et princeps prouincie cum uxore sua",
+        "es_magda_transcript": "E ellos estando en aquel portal vino el príncipe de aquella tierra con su muger",
+        "pro_magda_rialto": "En apres pauc de temps, endevenc se que lo princip de Prohensa e ssa molher",
+        "es_magda_leyendas": "E en todo esto vino el primcipe de la provincia con su muger",
+        "es_magda_etymol": "Después desto vino el príncipe de la provincia con su mugeres",
+        "it_magda_ovi": "Poscia eccoti venire il prenze della provincia colla moglie sua",
+        "ca_magda_gesiot": "Aprés aysó vench aquí lo princep de la Proensa ab la seva muller"
+      }
+    ],
+    "089": [
+      {
+        "la_magda_mirabile": "ut pro habenda prole ydolis immolaret",
+        "es_magda_transcript": "a ofrescer a los ýdolos sacrificio por que le diesen fijo",
+        "pro_magda_rialto": " adorero las ydolas per so que aguesso efan",
+        "es_magda_leyendas": "que venía a fazer sacrificio a los ídolos por tal que oviesen fijo",
+        "es_magda_etymol": "que fiziese sacrificio a los ídolos, por tal que oviesen fijo",
+        "it_magda_ovi": "per fare sacreficio a l’idole, acciò che potesse avere figliuolo",
+        "ca_magda_gesiot": "per so que sacrificassen a les ydoles e que agessen enfants"
+      }
+    ],
+    "089a": [
+      {
+        "la_magda_mirabile": "Cui Magdalena Christum predicans sacrificia dissuasit",
+        "es_magda_transcript": "E santa María Magdalena amonestóle que non ofresciese sacrificio a aquellos dioses mas a Nuestro Señor Jhesu Christo",
+        "pro_magda_rialto": "ayssi que la Magdalena l’en repres duramen en son sermo",
+        "es_magda_leyendas": "E la Madalena predicóles de Jhesu Christo, e desmañóles, destorvando los sacrificios",
+        "es_magda_etymol": "E la Magdalena, predicándoles de Jhesu Christo, desmayolos destornando los sacrificios",
+        "it_magda_ovi": "Al quale santa Maria Magdalena fece una predica e sconfortolli de’ sagrificii",
+        "ca_magda_gesiot": "Als quals dix santa Magdalena, presican Jhesú Christ, que no sacrificassen a la ydola"
+      }
+    ],
+    "090": [
+      {
+        "la_magda_mirabile": "Interea euolutis aliquot dierum curriculis apparuit in uisu Magdalena illi matrone dicens",
+        "es_magda_transcript": "E pasados algunos días aparesció santa María Magdalena en visión a la muger de aquel príncipe e díxole",
+        "pro_magda_rialto": "Et apres alcus dias, la Magdalena aparia en vesio a ssa molher e dis li",
+        "es_magda_leyendas": "E en este comedio, a pocos de días, aparesció la Madalena en visión aquella buena dueña, e díxol",
+        "es_magda_etymol": "En este comedio, apareció a pocos días la Madalena en visión a la buena dueña e díxole",
+        "it_magda_ovi": "Infratanto rivolti alquanti dì, adparve in visione la Magdalena ad quella donna, così dicendo",
+        "ca_magda_gesiot": "E alscuns dies passats santa Magdalena apparech a la seva muller disent en vesió"
+      }
+    ],
+    "092": [
+      {
+        "la_magda_mirabile": "Quare, cum tot diuitiis abundetis sanctos dei fame et frigore mori permittitis",
+        "es_magda_transcript": "Por qué aviendo tan grand abastança de riquezas, dexades morir de fanbre e de frío a los siervos de Dios bivo",
+        "pro_magda_rialto": "Per que, cum vos sias tan rix layssas morir de fam lo sanhs de Dieu?",
+        "es_magda_leyendas": "Por qué aviendo vós tantas grandes riquezas dexas morir de fanbre e de frío los santos de Dios",
+        "es_magda_etymol": "Por qué aviendo vós tan grandes riquezas dexas morir de hanbre e de frío los fijos de Dios",
+        "it_magda_ovi": "Per quale cagione, con ciò sia cosa che voi abondiate in tante ricchezze, lasciate morire i santi di Dio di fame e di freddo?",
+        "ca_magda_gesiot": "Per qual rasó jaquits perir ni morir los sants de Deu de fam, com siats tan richs"
+      }
+    ],
+    "093a": [
+      {
+        "la_magda_mirabile": "Addiditque minas nisi marito suo persuaderet",
+        "es_magda_transcript": "E mandóle que lo dixese a su marido",
+        "pro_magda_rialto": "e amenasset li fortmen se non desia a sso marit",
+        "es_magda_leyendas": "e amenazóla si lo non dixese a su marido",
+        "es_magda_etymol": "E amenaszola, si non lo dixiese a su marido",
+        "it_magda_ovi": "Ancora la minacciò fortemente sed ella non confortasse il marito suo",
+        "ca_magda_gesiot": "Sapies que mals te venran, si a ton marit no dius"
+      }
+    ],
+    "094": [
+      {
+        "la_magda_mirabile": "ut sanctorum inopiam subleuaret",
+        "es_magda_transcript": "que acorriese a la mengua de los pobres de Jhesu Christo Nuestro Señor",
+        "pro_magda_rialto": "que donesso vianda al sanhs de Dieu",
+        "it_magda_ovi": "di sollevare la povertà d’i santi",
+        "ca_magda_gesiot":"que dones a menjar als sants de Deu"
+      }
+    ],
+    "094a": [
+      {
+        "la_magda_mirabile": "Ipsa autem uiro suo indicare timuit uisionem",
+        "es_magda_transcript": "e ella despertando non osó dezir a su marido lo que viera en visión",
+        "pro_magda_rialto": "ayssi que la dona non ho auset dire, la vesio, a sso marit, de paor que ac de luy",
+        "es_magda_leyendas": "E ella ovo miedo de mostrar esta visión a su marido e non ge lo dixo",
+        "es_magda_etymol": "E ella ovo miedo de demostrar esta visión a su marido",
+        "it_magda_ovi": "Ma ella temette di dirlo a lo marito suo, la visione",
+        "ca_magda_gesiot": "Les quals paraules no volch dir a son marit"
+      }
+    ],
+    "095": [
+      {
+        "la_magda_mirabile": "Sequenti igitur nocte eidem similia dicens apparuit",
+        "es_magda_transcript": "E aparescióle luego otra noche santa María Magdalena e mandóla segunt le mandava",
+        "pro_magda_rialto": "E quant venc la nuech apres, sancta Maria Magdalena aparec a la dona e dis li aquelas paraulas meteyssas que li avia dichas",
+        "es_magda_etymol": "E otra noche, apareciole diziendo eso mismo",
+        "it_magda_ovi": "Vegnente l’altra notte, apparve a·llei medesimo dicendole similliante parole"
+      }
+    ],
+    "096": [
+      {
+        "la_magda_mirabile": "sed adhuc uiro suo hoc indicare neglexit",
+        "es_magda_transcript": "mas ella non curó de gelo dezir",
+        "pro_magda_rialto": "Et ela non pesset de dire a sson marit",
+        "it_magda_ovi": "ma ancora fu nigligente a·ppalesarlo al marito suo"
+      }
+    ],
+    "096a": [
+      {
+        "la_magda_mirabile": "Tertio uero sub intempeste noctis silentio apparuit",
+        "es_magda_transcript": "E aparesció a amos la tercera noche",
+        "es_magda_leyendas": "E la tercera vegada, a la media noche",
+        "es_magda_etymol": "E la tercera noche, apareció a la media noche amos y dos",
+        "it_magda_ovi": "La terza volta, entro la mezanotte adparve ad abendue"
+      }
+    ],
+    "097": [
+      {
+        "la_magda_mirabile": "utrique fremens et irata uultu igneo ac si tota domus arderet et ait:",
+        "es_magda_transcript": "con cara yrada e tan encendida que parescía que ardía toda la casa e dixo:",
+        "pro_magda_rialto": "sancta Maria Magdalena fonc sobre-fort irada e felona. E tota la cara flameget li de gran ira e dis lor en ayssi:",
+        "es_magda_leyendas": "e a la muger muy sañuda e muy irada, así encendida que les semajava que ardía la casa, e dezía:",
+        "es_magda_etymol": "sañuda e muy follona, e así encendida que semejava que ardía la casa, e díxole:",
+        "it_magda_ovi": "molto adcesa e adirata con uno volto infianmato come tutta la casa ardesse, e disse:"
+      }
+    ],
+    "099": [
+      {
+        "la_magda_mirabile": "«Dormisne, tyranne, membrum patris tui Sathane, cum uipera coniuge tua que tibi indicare noluit uerba mea?",
+        "es_magda_transcript": "‘Duermes, tirano, mienbro de tu padre el diablo, con la bívora tu muger que no te ha querido dezir lo que le mandé",
+        "pro_magda_rialto": "«Dormetz, malvat ribaut, membres de diables, am la malvada tafura, ta molher que no t’a volgut dire que ieu te demandava?»",
+        "es_magda_leyendas": "«Tirano cruel, mienbro de tu padre Sathanas, duerme con tu muger serpentina, que no te pudo dezir lo que yo le mandé",
+        "es_magda_etymol": "“Tirano cruel, mienbro de tu padre, Satanás, ¿duermes con tu muger serpentina, que non te quiso dezir lo que yo mandé?",
+        "it_magda_ovi": "Dormi tu, tiranno, menbro del padre tuo Satanas, colla serpentina moglie tua la quale non t’à voluto dire le parole mie?"
+      }
+    ],
+    "100": [
+      {
+        "la_magda_mirabile": "Quiescisne, crucis Christi inimice diuersis ciborum generibus uentris tui refecta ingluuie et sanctos dei fame et siti permittis perire?",
+        "es_magda_transcript": "¿Fuelgas, enemigo de la cruz, a Nuestro Señor Jhesu Christo? ¿Tú finches tu vientre de diversos manjares? e dexas los siervos de Dios perescer de sed e de fanbre?",
+        "pro_magda_rialto": "Pausa te, enemic de la cros de Dieu! E as umplit ton ventre de diversas noblas viandas e layssas morir los sanhs de Dieu de fam e de sset?",
+        "es_magda_leyendas": "Tú, enemigo de la cruz de Jheíu Christo fuelgas bien farto de buenos manjares e dexas perescer aqíellos omnes santos de fambre e de set?",
+        "es_magda_etymol": "Tú, enemigo de la cruz de Jhesu Christo, fuelgas bien farto e lleno de muchos manjares ¿e dexas perecer los santos de Dios de fanbre e de sed?",
+        "it_magda_ovi": "Ripositi tu, nemico della croce di Cristo avendo satollato la ghiottornia del ventre tuo di divisate maniere di vivande e lasci morire i santi di Dio di fame e di sete?",
+        "ca_magda_gesiot":"O mal home, dorms? Per qual rasó, co tu sies sadol, no dones a menjar als sants de Deu ni perqué los lixes perir per fam ni per set? "
+      }
+    ],
+    "102": [
+  {
+    "la_magda_mirabile": "Iacesne in palatio pannis inuolutus sericis et illos desolatos et sine hospitio uides et preteris?",
+    "es_magda_transcript": "¿Tú yazes en tu palacio enbuelto de paños de seda muy blandos e dexas a los siervos de Dios syn posada desconsolados?",
+    "pro_magda_rialto": "«Tu jases en bel palays, envolopat de drap d’aur e de ceda e non prendes garda dels paupres que so nutz e sens ostal?",
+    "es_magda_leyendas": "e yazes en el palacio enbuelto en paños de seda e veyes aquellos siervos de Dios muy desconortados en el portal del templo, e veniste tu carrera",
+    "es_magda_etymol": "Yazes en el palacio enbuelto en paños de seda ¿e veis aquellos desconsolados, e vaste tu carrera?",
+    "it_magda_ovi": "Giaci tu nel palazzo involto ne’ panni di seta e vedi quelli sconsolati e sanza albergo e lascili passare oltra?",
+    "ca_magda_gesiot": "Tu jaus en ton palau ab bons draps de ceda e els son senes ostal."
+  }
+],
+    "104": [
+      {
+        "la_magda_mirabile": "Non sic, inique, non sic euades nec impune feres",
+        "es_magda_transcript": "E por ende non escaparás syn pena",
+        "pro_magda_rialto": "Don te dic que ja non escaparas quitis",
+        "es_magda_leyendas": " Sepas, falso, que non escaparás",
+        "es_magda_etymol": "Falso, non escaparás así que non ayas pena por ende sin aver pena por ello",
+        "it_magda_ovi": "Non andrà così, malvagio, non ne camperai così netta, che tu non ne sia bene pagato",
+        "ca_magda_gesiot": "Sapies, hom enich, que non scaparás enaxí"
+      }
+    ],
+    "106": [
+      {
+        "la_magda_mirabile": "quod tantum eis benefacere distulisti",
+        "es_magda_transcript":"porque has tardado tanto de acorrer a su mengua’",
+        "es_magda_leyendas": "porque te tardeste tanto de les fazer algund bien",
+        "es_magda_etymol": "porque tardaste tanto de los fazer bien",
+        "it_magda_ovi": "che tu ti sè tanto indusgiato a·ffare loro bene",
+        "ca_magda_gesiot": "per so cor tu as tant perlongat que no·ls as be feyt"
+      }
+    ],
+    "107": [
+      {
+        "la_magda_mirabile": "Sic locuta est et abscessit",
+        "es_magda_transcript": "E después que santa María Magdalena les ovo dicho estas cosas desaparescióles e fuese",
+        "pro_magda_rialto": "E quant hac aysso dich, ela desaparec",
+        "es_magda_leyendas": "E qucmáo les ovo esto dicho, desaparescióles",
+        "es_magda_etymol": "E fablando así, desdesapareció",
+        "it_magda_ovi": "Così parlòe e partissi",
+        "ca_magda_gesiot": "E mantenent ela s’esvenesich"
+      }
+    ],
+    "108": [
+  {
+    "la_magda_mirabile": "Cumque matrona euigilans suspiraret et tremeret uiro suo eadem de causa suspiranti ait:",
+    "es_magda_transcript": "E la dueña despertó e començó a tremer e sospirar e dixo a su marido el qual dava por esa mesma razón grandes gemidos",
+    "pro_magda_rialto": "E quant la molher del princip se fonc revelhada, pres se a ssospirar e son marit, dis que atressi sospira el molt:",
+    "es_magda_leyendas": "e despertando la buena dueña espantada, sospirando con temor dixo esto a su marido que yazía otrosí muy espantado por essa misma visión:",
+    "es_magda_etymol": "E despertando la buena dueña, ovo miedo E dixo a su marido que avía miedo por aquella razón:",
+    "it_magda_ovi": "Quando la donna fu svelliata, cominciò a sospirare e a tremare e sospirando il marito suo per quella cagione medesima, sì·lli disse:",
+    "ca_magda_gesiot": "Per la qual vesió sa muler se despertá spaordida e dix al seu marit:"
+  }
+],
+    "111": [
+      {
+        "la_magda_mirabile": "«Domine mi, uidistine sompnium quod uidi?",
+        "es_magda_transcript": "‘Señor mío, ¿has tú visto el sueño que yo he vido?",
+        "pro_magda_rialto": "«Lo mieu senhor, aves vist lo mieu sompne que ieu ay vist?",
+        "es_magda_leyendas": "Señor, tal visión he visto esta noche",
+        "es_magda_etymol": "Señor, ¿viste el sueño que yo vi?",
+        "it_magda_ovi": "Segnore mio, or vedesti tu il sogno che ò veduto io?",
+        "ca_magda_gesiot": "Senyer meu, as tu vista aquesta visió que eu e vista?"
+      }
+    ],
+    "113": [
+      {
+        "la_magda_mirabile": "Vidi, inquit, et admirari et pauere non desino",
+        "es_magda_transcript": "E respondióle el marido e dixo, ‘Yo estó sospirando e gemiendo porque he visto en sueños una cosaque me ha puesto grand miedo‘",
+        "pro_magda_rialto": "et el respos: «Vist l’ay. Et ay molt gran temor»",
+        "es_magda_leyendas": "E díxole él: —Todo esso mismo he yo soñado, e por ende esto muy maravillado e muy espantado",
+        "es_magda_etymol": "Dixo él: Vi e non dexo de mmaravillarme e de espantarme ",
+        "it_magda_ovi": " E quelli disse: Be·ll’ò veduto io, e non cesso di maravilliarmi e di temere",
+        "ca_magda_gesiot": "El marit li dix que hoc"
+      }
+    ],
+    "118": [
+      {
+        "la_magda_mirabile": "Quid inde faciemus?».",
+        "es_magda_transcript": "e preguntóle que le parescía que devían fazer",
+        "pro_magda_rialto": "e demandet a luy que·n poyria far",
+        "es_magda_leyendas": "pues ¿qué podemos y fazer?",
+        "es_magda_etymol": "Por ende, ¿qué faremos?",
+        "it_magda_ovi": "Che·nne faremo?",
+        "ca_magda_gesiot": "«E que·n farem, donques?» dix el"
+      }
+    ],
+    "119": [
+  {
+    "la_magda_mirabile": "Cui mulier: «Vtilius est ei obtemperare quam iram dei sui quem predicat incurrere»",
+    "es_magda_transcript": "e respondióle la muger e dixo, ‘Mejor es que le obedescas que non que caygas en la yra de su Dios’.",
+    "pro_magda_rialto": "Et ela respos li que «may val que l’obesiscam que se tombam en la ira de Dieu que predica».",
+    "es_magda_leyendas": "E díxol su muger: Más valdrá que fagamos lo que nos demanda que non que ayamos la saña del su Dios de que ella predica",
+    "es_magda_etymol": "Díxole la muger: Más valdrá que fagamos lo que nos manda, |por que non ayamos la saña del su Dios que ella predica",
+    "it_magda_ovi": "Rispuose la moglie: Più utile è ubbidire che incorrere nell’ira di quello Segnore lo quale ella predica",
+    "ca_magda_gesiot": "E la seva muller li dix: «Melor es que fassam so que ela vol |que si veniem a la yra del seu Senyor que ela presica»"
+  }
+],
+"120": [
+  {
+    "la_magda_mirabile": "Quapropter ipsos hospitio receperunt et eis necessaria ministrauerunt",
+    "pro_magda_rialto": "E tantost els ubriro lor ostal als paupres e donero lor pro manjar e a beure",
+    "es_magda_leyendas": "E por ende traxéronlos todos para su casa e dávanles todo lo que avían menester",
+    "es_magda_etymol": "E por esto recebiéronlos todos en su casa e dávanles a comer e a bever lo que avían menester",
+    "it_magda_ovi": "Per la quale cosa gli ricevettero ad albergo e apparecchiarono loro tutte le cose che faceano loro bisogno",
+    "ca_magda_gesiot": "Per que li deren ostal e·ls faseren lus obs de totes causes"
+  }
+],
+"121": [
+  {
+    "la_magda_mirabile": "Cum autem quadam die Maria Magdalena predicaret predictus princeps dixit ei:",
+    "es_magda_transcript": "E commo un día predicase santa María Magdalena la fe del Nuestro Redemptor preguntóle aquel príncipe",
+    "pro_magda_rialto": "Domentre que sancta Maria Magdalena predicava lo dich princip li dis en ayssi:",
+    "es_magda_leyendas": "Una vez estava la Madalena predicando al pueblo e díxol este mismo principe:",
+    "es_magda_etymol": "Una vez predicando santa Magdalena díxole este príncipe:",
+    "it_magda_ovi": "Sicché predicando uno die santa Maria Magdalena il detto prencipe le disse:",
+    "ca_magda_gesiot": "E axí co un dia santa Magdalena presicava lo nom de Deu lo dit princep li dix:"
+  }
+],
+    "122": [
+      {
+        "la_magda_mirabile": "«Putas posse defendere fidem quam predicas?»",
+        "es_magda_transcript": "sy podría defender aquello que dizía ",
+        "pro_magda_rialto": "«Poyrias tu defendre la fe que predicas?» ",
+        "es_magda_leyendas": "Di, María, ¿cuedas defender lo que tú predicas?",
+        "es_magda_etymol": "¿Cuidas que podrás defender la fe que predicas?",
+        "it_magda_ovi": "Credi tu potere difendere la fede |la quale tu predichi?",
+        "ca_magda_gesiot": "«Cuydes tu si poyrás defendre aquela fe que tu presiques?»"
+      }
+    ],
+    "123": [
+  {
+    "la_magda_mirabile": "Cui illa: «Equidem illam defendere presto sum «utpote quotidianis miraculis et predicatione magistri mei Petri qui Rome presidet roboratam»",
+    "es_magda_transcript": "e respondióle ella dixo, ‘Aparejada estó para defender lo que digo ‘por los miraglos e enseñamiento del mi maestro sant Pedro que está predicando en Roma aquesto mesmo’",
+    "pro_magda_rialto": "Et ela respos li: «Ieu, so dis, la puesc ben defendre per diverses miracles e per moltas autras rasos»",
+    "es_magda_etymol": "Dixo ella: En todo en todo la puedo defender así commo cosa provada e afirmada por los miraglos de cada día, e por la predicación del mío maestro que está en Roma",
+    "it_magda_ovi": "E quella disse: Certo sì sono apparechiata per difenderla siccome fede fortificata per cutidiani miracoli e per la predicazione del maestro nostro sam Piero lo quale è vescovo di Roma",
+    "ca_magda_gesiot": "E ela li dix: «Eu son apparelada de defendre la mia fe ab miracles e ab predicació del masestre nostre que es en Roma»"
+  }
+],
+   "124": [
+  {
+    "la_magda_mirabile": "Cui princeps cum coniuge dixit: «Ecce, dictis tuis per omnia obtemperare parati sumus si a deo quem predicas nobis filium impetrabis»",
+    "es_magda_transcript": "E díxole el príncipe ‘Yo e mi muger estamos aparejados a creer ‘sy rogares al tu Dios Jhesu Christo que nos dé fijo’",
+    "pro_magda_rialto": "E adonc lo princip respos li e ssa molher: «Ayssi nos em aparelhatz de converti a la tua fe se nos empetras am lo tieu Dieu que ajam hun filh»",
+    "es_magda_leyendas": "E el príncipe dixo: Evaste que te queremos yo e mi muger fazer todo quanto tú dizes si nos ganares fijo dese tu Dios que tú predicas",
+    "es_magda_etymol": "Díxole el príncipe con su muger: Evas que queremos hazer quanto dizes si nos ganares fijo deste tu Dios",
+    "it_magda_ovi": "Allora le disse il prencipe colla moglie sua: Ecco che noi siamo apparechiati ad ubidire in tutto a’ tuoi detti se·ttu ci accatti uno figliuolo da quello Domenedio che·ttu predichi",
+    "ca_magda_gesiot": "E mantenent lo princep dix: «Vec-te que nos em apparellats d’obesir als teus dits si tu·ns accabes que nos ajam fil ab los teus Deus»"
+  }
+],
+    "125": [
+      {
+        "la_magda_mirabile": "«Propter hoc, inquit Magdalena, non remanebit»",
+        "pro_magda_rialto": " Et sancta Maria Magdalena respos lor que per so non remanha",
+        "it_magda_ovi": "Disse la Magdalena: – Per questo non rimarrà"
+      }
+    ],
+    "126": [
+      {
+        "la_magda_mirabile": "Tunc beata Maria Magdalena pro ipsis dominum exorauit ut sibi filium concedere dignaretur",
+        "pro_magda_rialto": "E tantost mes si en oratio e preguet Dieu que lor dones hun filh",
+        "es_magda_transcript": "E rogó santa María Magdalena por él e por su muger al Señor Jhesu Christo que le pluguiese de les dar fijo",
+        "es_magda_leyendas": "E santa Maria, rogó con grand devoción que les diese fijo",
+        "es_magda_etymol": "La Madalena entonce apartose, e rogó a Dios por ellos que les quisiese dar fijo",
+        "it_magda_ovi": "Allora santa Maria Magdalena pregò il Segnore per loro che degnasse di dare loro figliuolo",
+        "ca_magda_gesiot": "E adonchs santa Magdalena pregá Deus per ells que los donás fil"
+      }
+    ],
+   "127": [
+  {
+    "la_magda_mirabile": "Cuius preces dominus exaudiuit et matrona illa concepit",
+    "es_magda_transcript": "E el Señor oyó la su oración e concibió la muger del príncipe.",
+    "pro_magda_rialto": "ayssi que Nostre Senher yssausi la sua pregaria sa molher, del princip, e cosseub",
+    "es_magda_leyendas": "E Dios oyó su ruego e concibió la dueña",
+    "es_magda_etymol": "E oyó Dios su ruego y concibió la buena dueña",
+    "it_magda_ovi": "e fu exaudita da Dio e concepette la donna"
+  }
+],
+  "128": [
+  {
+    "la_magda_mirabile": "Tunc uir eius cepit uelle proficisci ad Petrum ut probaret si, ut Maria de Christo predicauerat, sic ueritas se haberet",
+    "pro_magda_rialto": "tantost mes si el cami de Roma, per anar espiar am sanh Peyre se era vertat so que sancta Maria Magdalena predicava",
+    "es_magda_leyendas": "E estonce su marido quería ir a sant Pedro por provar si era verdat lo que predicava la Madalena de Jhesu Cristo",
+    "es_magda_etymol": "E su marido dixo que quería ir a sant Pedro para provar si era verdat lo que santa María Magdalena predicava de Jhesu Christo",
+    "it_magda_ovi": "Allora il marito cominciò ad volere andare a san Piero per provare s’elli era così la verità come Maria avea predicato di Cristo",
+    "ca_magda_gesiot": "Enaprés lo princep volch anar a sent Pere per so que saubés la fe de santa Maria si era vera fe"
+  }
+],
+   "128b": [
+  {
+    "la_magda_mirabile": "Cui dixit uxor eius: «Quid est, domine, putasne sine me proficisci?",
+    "pro_magda_rialto": "E sa molher dis li: «Lo mieu senhor, cujas te·n tu anar ses mi?",
+    "es_magda_leyendas": "e díxol su muger: ¿Qué, esto, marido, asmas de ir al apóstol sin mí?",
+    "es_magda_etymol": "Dixo su muger: ¿Cómmo, Señor, asmas de ir sin mi?",
+    "it_magda_ovi": "Al quale disse la moglie: Che è, segnore mio, che pensi tu andare sanza me?",
+    "ca_magda_gesiot": "Al qual dix la seva muler: «Et prech, senyor, que no y vages senes mi»"
+  }
+],
+  "129": [
+  {
+    "la_magda_mirabile": "Absit! Te enim recedente recedam te ueniente ueniam",
+    "pro_magda_rialto": "Non faras ges quar ieu me·n anaray am te e tornaray am te",
+    "es_magda_leyendas": "Nunca lo Dios quiera ca yendo, yo contigo iré e veniendo, yo contigo verné",
+    "es_magda_etymol": "Nunca lo quiera Dios que tú yendo iré yo contigo e tú viniendo, verné yo contigo",
+    "it_magda_ovi": "Non andrà ella così se tu ti partirai, io mi partirò se tu andrai, io verrò"
+  }
+],
+    "129d": [
+      {
+        "la_magda_mirabile": "te quiescente quiescam",
+        "it_magda_ovi": "se poserai, io poserò",
+        "es_magda_leyendas": "e tú folgando, yo contigo folgaré "
+      }
+    ],
+    "129e": [
+  {
+    "la_magda_mirabile": "Cui uir ait: «Non sic fiet quia cum sis grauida et in mari sint infinita pericula de facili periclitari posses",
+    "es_magda_transcript": "e díxole el marido ‘Non es cosa que puede ser que vayas comigo porque los peligros del mar son muchos además e tú estás encinta e podrías de ligero peligrar",
+    "es_magda_leyendas": "E díxol su marido: Señora, non se puede fazer porque tú eres preñada y en la mar ay muchos periglos así de ligero podríes perescer",
+    "es_magda_etymol": "Díxole su marido: Señora, non púedese ca tú eres preñada y en la mar ay muchos peligros e de ligero podrías perecer",
+    "it_magda_ovi": "Alla quale disse il marito: Non sarà così, madonna però che con ciò sia cosa che tu sii gravida e nel mare siano infiniti pericoli potresti agevolemente pericolare"
+  }
+],
+    "129f": [
+      {
+    "pro_magda_rialto": " E·l princip respondet li: «Dona, vos non anares ges am me quar vos es prenhs et huey may es trop de perilh",
+    "ca_magda_gesiot": "El princep li respós: N’o farem, dona, que vos ets prenys e en la mar ha molts perils"
+      }
+    ],
+    "130a": [
+      {
+        "la_magda_mirabile": "Domi igitur quiesces et possessionibus nostris curam impendes",
+        "es_magda_transcript": "e por ende conviene que quedes aquí e ayas cuydado de regir las heredades",
+        "pro_magda_rialto": " E per so es mielhs que remanhas en l’ostal e que vos dones garda de sso que avem",
+        "es_magda_leyendas": "E por ende fincarás en casa, e avrás cuidado de todos nuestros bienes",
+        "es_magda_etymol": "E por esto quedarás en casa, abrás cuidado de nuestros bienes",
+        "it_magda_ovi": "Riposati dunque ad casa e abbi cura alle possesioni",
+        "ca_magda_gesiot": " Per que romandrets en la casa e pensarets de les nostres fasenes"
+      }
+    ],
+   "132": [
+  {
+    "la_magda_mirabile": "Econtra illa instabat, femineum nec mutans femina morem et cum lacrimis pedibus eius prouoluta quod petebat tandem obtinuit",
+    "es_magda_transcript": "E ella oyendo aquesto començóle a fincar a manera de muger que quería yr con él e derribóse a sus pies derramando muchas lágrimas e rogándole que le otorgase lo que le demandava",
+    "es_magda_etymol": "E ella era muy afincada en bien commo muger; mas non quiso mudar razón e llorando ella, echose a sus pies, en cabo, ganó lo que demandava",
+    "es_magda_leyendas": "E ella era muy afincada e bien como muger, non quería mudar su demanda e con ruegos e llorando echóse a los pies del marido, e en cabo ganó dél lo que demandava",
+    "it_magda_ovi": "Ella pure contrastava seguitando costume feminile e con lagrime e gittatalisi a’ piedi alla perfine ebbe quello ch’ella domandava"
+  }
+],
+   "134": [
+  {
+    "la_magda_mirabile": "Maria uero humeris eorum signum crucis imposuit ne antiquus hostis eos in aliquo in itinere impediret",
+    "es_magda_transcript": "E santa María Magdalena púsoles la señal de la cruz en los onbros por que non les pudiesen enpeescer los demonios",
+    "pro_magda_rialto": "sancta Maria Magdalena fes lor senhals els muscles per so que lo diable non los pogues tener dan",
+    "es_magda_leyendas": "Madalena púsoles la señal de las cruz amos en las spaldas por que el diablo non los enbargase en la carrera",
+    "es_magda_etymol": "E santa María puso la señal de las cruz en las spaldas porque el diablo non los enbargase en la carrera",
+    "it_magda_ovi": "Sicché Maria puose in sulle spalle loro il segno della croce acciò che l’antico nemico non desse loro impedimento nella via in neuna cosa",
+    "ca_magda_gesiot": "santa Maria los pausá lo senyal de la crou en los muscles per so que l’entich Anamich no·ls empetxás en lo camí"
+  }
+]
+  }
+}

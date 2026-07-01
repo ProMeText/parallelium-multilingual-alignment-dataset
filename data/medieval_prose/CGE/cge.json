@@ -1,0 +1,1216 @@
+{
+  "work": "Estoria de Espanna",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+    "000": [
+      {
+        "es_cge": "Moysen escriuio un libro que a nombre genesis",
+        "pt_cge": "Moyses fez hũũ livro que he chamado Genesi"
+      }
+    ],
+    "002": [
+      {
+        "es_cge": "por que fabla enel de cuemo crio dios el cielo la tierra",
+        "pt_cge": "por que he em elle achado como Deus criou o mundo"
+      }
+    ],
+    "005": [
+      {
+        "es_cge": "E de cuemo por el peccado dell omne fue echado de parayso",
+        "pt_cge": "e como, por o seu pecado, Adã foy deytado do Paraiso"
+      }
+    ],
+    "007": [
+      {
+        "es_cge": "E otrossi de cuemo por las culpas e por los grandes yerros que fizieron los que descendieron daquel linage",
+        "pt_cge": "e outrossy como, por os grãdes pecados que fezeron os que delle descenderom"
+      }
+    ],
+    "010": [
+      {
+        "es_cge": "aduxo dios el grand diluuio sobre la tierra con que los mato a todos",
+        "pt_cge": "adusse Deus o grande deluvio sobre a terra com que os o matou todos"
+      }
+    ],
+    "012": [
+      {
+        "es_cge": "assi que no finco dellos fueras noe e su mugier e tres sos fijos. e sus mugieres assi que fueron ocho por todos",
+        "pt_cge": "ẽ tal guisa que nõ ficou senõ Noe e sua molher e tres filhos con suas molheres, assy que forõ per todos oyto almas"
+      }
+    ],
+    "019": [
+      {
+        "es_cge": "Mas por que ellos eran muy soberuios e no connocien ni temien a dios",
+        "pt_cge": "Mas, por que faziã esto cõ grande sobervha, nõ conhocendo Deus nẽ o temẽdo"
+      }
+    ],
+    "021": [
+      {
+        "es_cge": "nuestro sennor dios danno el lenguage en tal guisa ques no entendien unos a otros",
+        "pt_cge": "porẽ Deus conffondehos ẽna linguagen de tal guisa que se nõ entendyã os hũũs con os outros"
+      }
+    ],
+    "024": [
+      {
+        "es_cge": "e por esta razon dexaron aquella lauor que fazien.",
+        "pt_cge": "e por esta razon leixarõ aquelle lavor que faziam"
+      }
+    ],
+    "025": [
+      {
+        "es_cge": "E non tan sola mientre fueron departidos en los lenguages. mas aun en las uoluntades de manera que non quisieron morar unos con otros",
+        "pt_cge": "ca nõ tan solamente forom departidos em a linguagem mas ainda em as võõtades de tal guisa que nõ quiserom mais morar hũũs cõ os outros"
+      }
+    ],
+    "027": [
+      {
+        "es_cge": "Tod esto cuenta moysen en este sobredicho libro. que es enel comiencço de la biblia",
+        "pt_cge": "E todas estas cousas cõta Moyses en o dito livro que he o primeiro da Bibria"
+      }
+    ],
+    
+    "030": [
+        {
+  "es_cge": "Mas por que no fablo de cuemo aquellos que se partieron aquales tieras fueron poblar queremos lo contar en est estoria segun lo fallamos en las estorias antiguas",
+  "pt_cge": "Mas, por que nõ fala de como aqueles que se partiron forõ pobrar as terras queremos nos departillo en esta estoria como aconteçeo, segundo achamos nas scripturas antigas"
+}
+    ],
+    "033": [
+      {
+  "es_cge": "Los sabios que escriuieron todas las tierras fizieron dellas tres partes e ala una que es mayor pusieron nombre asia e ala otra affrica e ala tercera europa",
+  "pt_cge": "Os que screverom o departimẽto das terras fezeron de toda a terra que se pode morar tres partes. Aa primeira e mayor poseron nome Asya e aa segunda Affrica e aa terçeira Europa"
+      }
+    ],
+    "039": [
+      {
+        "es_cge": "De asia e de affrica oydo auedes ya en otros libros quamannas son e quales",
+        "pt_cge": "De Asya e Affrica, ja avedes ouvydo en outros livros que maneira son e que taaes"
+      }
+    ],
+
+    "042": [
+      {
+        "es_cge": "mas aqui queremos fablar de Europa. por que tanne ala estoria de espanna de que uos queremos contar",
+        "pt_cge": "Mas da terceira parte, que he Europa, queremos aquy falar mais largo por que tange aa estoria d'Espanha de que avemos de contar en este livro"
+      }
+    ],
+    "045": [
+      {
+        "es_cge": "Onde dezimos assi que pues que desampararon aquellos de fazer la torre e derramaron por el mundo",
+        "pt_cge": "Onde he de saber, que, depois que foron desacordados aqueles que asy faziam aquela torre espargeronse pello mundo"
+      }
+    ],
+    "049": [
+      {
+        "es_cge": "los fijos de Sem ell hermano mayor heredaron asia",
+        "pt_cge": "Os filhos de Sen, o mayor yrmãão, herdaron Asya"
+      }
+    ],
+    
+    "051": [
+      {
+        "es_cge": "Los fijos de cam heredaron affrica",
+        "pt_cge": "e os filhos de Cham herdaran Affryca"
+      }
+    ],
+    "052": [
+      {
+        "es_cge": "Mas los fijos de Japhet ell hermano menor. comencçaron a heredar desde amano e thoro",
+        "pt_cge": "mas os filhos de Jaffeth, o meor yrmãão, começarõ a pobrar Amano e Touro"
+      }
+    ],
+    "054": [
+      {
+        "es_cge": "que son dos montes en la tierra que es llamada cilicia. e de siria que son amas en asia",
+        "pt_cge": "que son dous montes ẽ terra de Cezilia, e pobraron outrossy en Syria, que perteeçe a Asya"
+      }
+    ],
+    "058": [
+      {
+        "es_cge": "Y heredaron a buelta con ellas toda europa. desde la grand mar que cerca toda la tierra que es llamado en griego oceano",
+        "pt_cge": "herdaron de mestura, toda Europa, des o grande mar que cerca toda a terra que en grego he chamado Oçeano"
+      }
+    ],
+    "062": [
+      {
+        "es_cge": "fasta la otra mar que llaman mediterraneo por que ua por medio de la tierra e faze departimiento entre europa e affrica",
+        "pt_cge": "ataa o outro mar que he chamado Mediterreno por que vay per meo da terra e faz departimento antre Europa e Affrica"
+      }
+    ],
+    "066": [
+      {
+        "es_cge": "e acabasse europa encabo despanna en Caliz que es llamada ysla dercules. o se ayuntan amas estas mares sobredichas",
+        "pt_cge": "E acabasse Europa en hũũ cabo d'Espanha en hũũ logar que chaman Caliz e por sobre nome Ylha d'Ercules e en esta ylha se ajuntam estes dous mares que dissemos"
+      }
+    ],
+    "069": [
+      {"es_cge": "estos linages, des que ouieron partidas las tierras nos touieron por complidos de lo que auien e punnaron en toller se las tierras los unos a los otros",
+        "pt_cge": "Estes linhagẽẽs, des que ouverõ partidas as terras, nõ se teverõ por contentes do que avyam e trabalharõ por tyrar as terras hũũs aos outros"
+      }
+    ],
+    "074": [
+      {
+        "es_cge": "por que ouo entrellos muchas grandes contiendas. e lides e muertes",
+        "pt_cge": "por a qual razon ouve antr'eles muytas e grandes contendas e lides e mortes"
+      }
+    ],
+    "076": [
+      {
+        "es_cge": "E cuemo quier que los fijos de Cam e de Japhet ganaron alguna cosa por fuercça",
+        "pt_cge": "E, como quer que estes linhagẽẽs de Cham e de Japheth guaanharõ algũa cousa per força"
+      }
+    ],
+    "078": [
+      {
+        "es_cge": "nos non queremos fablar de los otros linages. fueras sola mientre de los fijos de Japhet por que ellos fueron comencçamiento de poblar espanna",
+        "pt_cge": "nos non queremos falar se non solamente dos filhos de Japheth por que destes foy pobrada Espanha"
+      }
+    ],
+    "081": [
+      {
+  "es_cge": "E por saber mas cierta mientre quantas tierras ouieron. conuiene que uos digamos primero quamanna es europa e quantas otras tierras se encierran en ella",
+  "pt_cge": "E, por que mais certamente vos contemos quantas terras ouverõ, cõvem que vos digamos primeiramente de que guisa he Europa e quantas outras terras se ençarram en ela"
+      }
+    ],
+    "086": [
+      {
+        "es_cge": "Evropa comiencça en un rio que a nombre thanays. e de la una parte la cerca el mar mediterraneo. e dela otra el mar oceano",
+        "pt_cge": "Europa se começa en hũũ ryo que ha nome Tanaiz e da hũa parte a cerca o mar Mediterreno e da outra o grande mar Ociano"
+      }
+    ],
+    "090": [
+      {
+        "es_cge": "Este rio thanais nace en los montes Ripheos. y es moion entre asia y europa",
+        "pt_cge": "Este ryo Tanaiz nace ẽnos mõtes Ripreos e he marco entre Assya e Europa"
+      }
+    ],
+    "092": [
+      {
+        "es_cge": "Enel grand mar oceano de la parte de ciercço. ay muchas yslas. assi cuemo ingla terra a que llamaron antiqua mientre bretanna la mayor",
+        "pt_cge": "e entra ẽno gran mar Ouciano. E da parte do aguyon ha muytas ilhas, assy como he Ingraterra que antigamente ouve nome a Gram Bretanha"
+      }
+    ],
+    "097": [
+      {
+        "es_cge": "E es ybernia ala que llaman yslanda. E son y escocia e escancia e es y thisia E otra` ysla a que chamã Cybe",
+        "pt_cge": "e he Ibernya aa que chamã Irlanda e Estancia e Escorcia e he Itissia e outra ylha que llaman cile"
+      }
+    ],
+    "102": [
+      {
+        "es_cge": "Todas estas son de parte de ciercço. las unas contra occident. e las otras contra orient",
+        "pt_cge": "Todas estas ylhas son da parte do aguyõ, as hũas contra ocidente e as outras cõtra ouriente"
+      }
+    ],
+    "105": [
+      {
+        "es_cge": "Otras yslas y a menores. que son dela pertenencia de europa. que yazen enel mar mediterraneo. e comiencçan a parte doccident. e uan contra orient",
+        "pt_cge": "E som, da outra parte da Europa, ylhas menores que estas e jazen ẽno mar Mediterreno; e estas começã na parte d'oucidente e vã aa parte do ouriente"
+      }
+    ],
+    "109": [
+      {
+        "es_cge": "e los nombres dellas son estos. Mayorga. Minorga. Euicça. formentera. Corsida. Sardenna. Cezilia. Mithelena",
+        "pt_cge": "das quaaes he Mayorga e Mynorga, Eviça, a Formẽteyra, Corsiga, Sardenha, Cezilha, Metilana,"
+      }
+    ],
+    "110": [
+      {
+        "es_cge": "La cibdat de uenecia. Creta e pathmos. Ponto e Curpho e todas las yslas menudas que yazen en pertenencia de costantinopla",
+        "pt_cge": "a çidade de Veneza, Corta, Pichimus, Ponto, Corincho e todas as ylhas meudas que jazen em perteeça de Costãtinopla"
+      }
+    ],
+    "116": [
+      {
+        "es_cge": "Todo lo que es destos terminos que uos dixiemos. heredaron siete fijos de Japhet",
+        "pt_cge": "Todas estas terras herdarom os sete filhos de Jaffeth"
+      }
+    ],
+    "117": [
+      {
+        "es_cge": "El primero ouo nombre gomer. el segundo Magoch. el tercero maday. el quarto yauan. el quinto thubal. el sexto mosoch. y el seteno thyras",
+        "pt_cge": "dos quaaes o primeiro ouve nome Gomer e o segundo, Magoch e o terceyro, Maday e o quarto, Yvam e o quinto, Tubal e o sexto, Mereth e o seytemo, Tyraz"
+      }
+    ],
+    "123": [
+      {
+        "es_cge": "Gomer ouo dos fijos. all uno dixieron asenech e all otro togorma",
+        "pt_cge": "Gomer ouve dous filhos: a hũũ diseron Assoneth e o outro ouve nome Trogorma"
+      }
+    ],
+    "126": [
+      {
+        "es_cge": "Los dassenech poblaron calabria.",
+        "pt_cge": "E estes do linhagẽ de Assoneth pobrarom Callabria"
+      }
+    ],
+    "130": [
+      {
+        "es_cge": "e daquel mismo assenech uinieron los que poblaron pulla. una tierra a que pusieron nombre lacia. dond ellos fueron despues llamados latinos",
+        "pt_cge": "E de aquelle meesmo Assoneth veeron os que pobraron Pulha e hũa terra a que poseron nome Lacia donde elles despois foron chamados Latinos"
+      }
+    ],
+    "133": [
+      {
+        "es_cge": "E dassenech uinieron los paphlagones. dond ouo nombre aquella tierra paphlagonia e daquellos descendieron los que llamaron ligures e milios",
+        "pt_cge": "E deste Assoneth veeron os Palfigones donde ouve nome aquella terra Palprigona; e daquelles descẽderom os que chamaron Liguris e Milius"
+      }
+    ],
+    "137": [
+      {
+        "es_cge": "Dell otro hermano thogorma uinieron los frigianos. e pusieron nombre ala tierra frigia.",
+        "pt_cge": "E do outro irmãão, que ouve nome Trogorma, veheron os Figianos e poseron nome aa terra que pobraron Figia."
+      }
+    ],
+    "140": [
+      {
+        "es_cge": "E de yuan ell otro fijo de Japhet. uino hyelisa. dond uinieron despues los griegos que son llamados eolides. e los cilicianos que poblaron cilicia",
+        "pt_cge": "E de Yvã, o IIIº filho de Jaffeth, veo Yelisia onde veerom depois os Gregos que son Oelides e os Celicianos que pobrarom Cillicia"
+      }
+    ],
+    "145": [
+      {
+        "es_cge": "De gomer fijo de Japhet uinieron los que poblaron galacia",
+        "pt_cge": "E de Gomer, o IIIIº filho, veheron os que pobrarõ Galiza "
+      }
+    ],
+    "148": [
+      {
+        "es_cge": "De magoch uinieron los cithas. e los godos. e los Vuandalos. e los sueuos. e los alanos",
+        "pt_cge": "E de Magoth, veheron os Cithas e os Godos e os Vandalos e os Suevos e os Allanos"
+      }
+    ],
+    "149": [
+      {
+        "es_cge": "De maday uinieron los medos que poblaron media",
+        "pt_cge": "E de Maday veheron os Medos que pobraron Medya"
+      }
+    ],
+    "153": [
+      {
+        "es_cge": "De yauan uinieron los hyliones que poblaron una partida de grecia e por esso pusieron nombre ylion all alcacçar o moraua el Rey",
+        "pt_cge": "de Yvã, veherõ os Yliones que pobrarõ hũa parte de Grecia e poseron nome Ylion ao castello honde morava el rey"
+      }
+    ],
+    "157": [
+      {
+        "es_cge": "E depues que troya fue destroyda. salieron ende dos hermanos. all uno dizien priamo. e all otro Antheno",
+        "pt_cge": "E, despois que Troya foy destroida, sairon dhi dous irmããos: hũũ avia nome Priamo e o outro, Antono"
+      }
+    ],
+    "161": [
+      {
+        "es_cge": "Estos uinieron por mar a uenecia e moraron y grand tiempo poblando la fasta que murio antheno",
+        "pt_cge": "E estes veherom per mar a Veneza e morarom hi grande tempo, poboandoa, ataa que morreu Antono"
+      }
+    ],
+    "164": [
+      {
+        "es_cge": "e soterrol priamo so hermano en padia una cibdat que es en lombardia",
+        "pt_cge": "e soterrouho seu irmãão Priamo em Padua, hũa cidade que he en Lombardia"
+      }
+    ],
+    "166": [
+      {
+        "es_cge": "e pues quel ouo soterrado tomo grand podere gano una tierra por fuercça.",
+        "pt_cge": "E, despois que o ouve soterrado, tomou muy grande poder e guaanhou per força hũa terra"
+      }
+    ],
+    
+    "169": [
+      {
+        "es_cge": "e por amor de su hermano. pusol nombre germania. ala que llaman agora theuthonia",
+        "pt_cge": "e, por amor de seu irmãão, posselhe nome Jermania, aaquella a que agora chamam Teutonia"
+      }
+    ],
+    "176": [
+      {
+        "es_cge": "Pero todos los demas de la gente. la llaman alemanna. por un rio que ua por ella. aque llaman lemano",
+        "pt_cge": "pero todas as mais das gentes lhe chamã Allemanha, e esto por razon de hũũ ryo que corre per ella que chamon Lemano"
+      }
+    ],
+    "180": [
+      {
+        "es_cge": "E alemanna es una de las` grandes prouincias del mundo. e a en ella muchas tierras apartadas de que son estos los nombres",
+        "pt_cge": "E a Allemanha he hũa das grandes provẽcias do mundo e en elle ha muytas terras departidas, das quaaes son estes os nomes:"
+      }
+    ],
+    "195": [
+      {
+        "es_cge": "E francia la antigua fue otrossi una partida de alemanna",
+        "pt_cge": "e França, a antiga foy hũa parte d'Alemanha"
+      }
+    ],
+    "196": [
+      {
+        "es_cge": "e por essol pusieron nombre francia que quier dezir tanto como tierra que fue apartada e frannida. dalemanna",
+        "pt_cge": "ca por esso lhe poserõ este nome França que quer tanto dizer como terra que foy partida e franqueada Allemanha"
+      }
+    ],
+    "199": [
+      {
+        "es_cge": "Bretanna poblo brutho. que fue del linage de los de troya e por essol puso assi nombre",
+        "pt_cge": "E Bretanha pobrou Bruto que foy do linhagen dos de Troya e por esta razon poseron aa terra nome Bretanha"
+      }
+    ],
+     "204": [
+      {
+        "es_cge": "e depues le camiaron el nombre yngla terra",
+        "pt_cge": "e despois lhe poseron nome Ingraterra"
+      }
+    ],
+    "205": [
+      {
+        "es_cge": "Otrossi de <NAME> fijo de Japhet uinieron los que poblaron capadocia que es una grand tierra",
+        "pt_cge": "Outrossi de <NAME> filho de Jaffeth, veheron os que poboaron Capadocia que he hũa grande terra"
+      }
+    ],
+    "208": [
+      {
+        "es_cge": "e la primera cibdat que fizieron. pusieron le nombre masaca por el nombre de mosoch",
+        "pt_cge": "e a primeira cidade que fezeron, poseronlhe nome Massica por o nome de Magoth"
+      }
+    ],
+    "212": [
+      {
+        "es_cge": "Dell otro fijo de Japhet, que ouo nombre thiras. uinieron los thiracianos. e poblaron una tierra aque pusieron nombre thiracia",
+        "pt_cge": "E de Tiraz que era outro filho de Jaffeth. veheron os Tiracianos, os quaaes pobraron hũa terra a que poseron nome Tiracia"
+      }
+    ],
+    "216": [
+      {
+        "es_cge": "mas los que uinieron depues encortaron le el nombre e dixieron le tracia",
+        "pt_cge": "mas os que veeron despois ẽcurtaronlhe o nome e chamaronlhe Tracia"
+      }
+    ],
+   
+    "218": [
+      {
+        "es_cge": "Mas del quinto fijo de Japhet que ouo nombre thubal uinieron los espannoles",
+        "pt_cge": "Mas do outro filho de Jaffeth, que ouve nome Tubal, veheron os Espanhooes"
+      }
+    ],
+    "221": [
+      {
+        "es_cge": "so linage daquel andudieron por muchas tierras buscando logar pora poblar de que se pagassen",
+        "pt_cge": "E o seu linhagen andou per muytas terras de hũa e da outra parte buscando terra de que se pagassen pera a poboar"
+      }
+    ],
+    "223": [
+      {
+        "es_cge": "fasta que llegaron aparte doccident alos grandes montes que son llamados pireneos que departen espanna la mayor de la otra",
+        "pt_cge": "e cheguaron aas partes dçoucidente, aos muy grandes montes que son chamados Perineos os quaaes departẽ Espanha, a mayor, da outra parte"
+      }
+    ],
+    "227": [
+      {
+        "es_cge": "Y estos montes comiencçan se ala grand mar mayor. cabo la uilla que es llamada bayona que yaze en essa mar misma. contra ciercço",
+        "pt_cge": "Estes montes começansse ẽno grande mar Occiano apreto da villa que chamã Bayona que jaz acerca desse mar aa parte do aguyõ"
+      }
+    ],
+    "232": [
+      {
+        "es_cge": "e atrauiessan toda la tierra fastal mar mediterraneo.",
+        "pt_cge": "e atravessam toda a terra ataa o mar Mediterreno"
+      }
+    ],
+    "233": [
+      {
+        "es_cge": "e acabansse alli cab una uilla que dizen <NAME>",
+        "pt_cge": "e acabansse acerca de hũa villa que ha nome <NAME>"
+      }
+    ],
+    "235": [
+      {
+        "es_cge": "&' aquestas gentes de que uos dixiemos pues que fallaron aquella tierra. comencçaron a poblar todas essas montannas",
+        "pt_cge": "E estas gentes de que vos fallamos acharon aquella terra e começaron de pobrar todas essas montanhas"
+      }
+    ],
+    "240": [
+      {
+        "es_cge": "e fizieron se muy grandes pueblos e llamaron los` cethubales. que quier dezir tanto cuemo las compannas de tubal",
+        "pt_cge": "E fezeron hy muy grandes poboações. E chamaronlhes Tentubales que quer tanto dizer como cõpanhas de Tubal"
+      }
+    ],
+    "243": [
+      {
+        "es_cge": "Estos fueron descendiendo al llano fasta que llegaron a un rio",
+        "pt_cge": "Estes foron descendẽdo aos chããos ataa que chegarõ a hũũ ryo"
+      }
+    ],
+    "247": [
+      {
+        "es_cge": "e touieron mientes aun estrella que llaman espero.",
+        "pt_cge": "E esguardaron hũa estrella que ha nome Espero"
+      }
+    ],
+    "248": [
+      {
+        "es_cge": "llamaron a aquella tierra esperia",
+        "pt_cge": "poseron nome aa terra Espera"
+      }
+    ],
+    "250": [
+      {
+        "es_cge": "e depues fueron se alongando a un rio grand que corre toda uia contra orient. desde o nace fasta o cae enla mar",
+        "pt_cge": "E, despois, chegandosse ao rio o qual corre contra ouriente des onde nace ataa honde se mete ẽno mar"
+      }
+    ],
+    "254": [
+      {
+        "es_cge": "e pusieron le nombre ebro",
+        "pt_cge": "poseronlhe nome Hebro"
+      }
+    ],
+    "255": [
+      {
+        "es_cge": "E por ques pagaron mucho daquel agua. poblaron cabo della",
+        "pt_cge": "E, por que se pagaron muyto daquella augua, pobraron acerca do ryo"
+      }
+    ],
+    "259": [
+      {
+        "es_cge": "e camiaron se el nombre que ante auien. e assi cuemo les llamauan primero compannas de thubal. dixieron les despues las compannas de ebro",
+        "pt_cge": "E entõ se tiraron do nome que ante aviam ca, assi como os ante chamavã cõpanhas de Tubal, assy lhes diseron despois as companhas de Hebro"
+      }
+    ],
+    "261": [
+      {
+        "es_cge": "e esta tierra tiene en luengo del mar grand que es aparte de ciercço. fastal mar mediterraneo",
+        "pt_cge": "Esta terra ten, em longo, des o mar grande, que he da parte do aguyon, ataa o mar Mediterreno"
+      }
+    ],
+    "264": [
+      {
+        "es_cge": "e fasta los montes pireneos allende debro contra la tierra llana",
+        "pt_cge": "e ataa os montes Perineos aalen de Hebro contra a terra chãã"
+      }
+    ],
+    "266": [
+      {
+        "es_cge": "e llamaron atod aquello carpentanna. e poblaron y quatro uillas.",
+        "pt_cge": "E chamarõ aquella provẽcia toda Carpentanea. E, pobrarõ en esta terra quatro villas:"
+      }
+    ],
+    "268": [
+      {
+        "es_cge": "la una a nombre oca. que es suso en la montanna. que llaman monte doca",
+        "pt_cge": "a primeira foy Oca, a qual he em çima da montanha a que chamã mõte d'Oca;"
+      }
+    ],
+    "271": [
+      {
+        "es_cge": "La otra poblaron cabo ebro contra parte doriente. e llamaron le calahorra",
+        "pt_cge": "a outra pobraron acerca de Hebro aa parte oriental e esta he Callaforra"
+      }
+    ],
+    "274": [
+      {
+        "es_cge": "Otra poblaron mas adelante otro`ssi cabo ebro a que pusieron nombre taragona",
+        "pt_cge": "e a outra pobraron mais adeante outrossy açerca de Hebro, a que poseron nome Taraçona"
+      }
+    ],
+    "277": [
+      {
+        "es_cge": "E desi poblaron la quarta cabo esse rio mismo mas adelant e llamaron la <NAME>",
+        "pt_cge": "e desy pobraron a quarta açerca deste meesmo rryo mais adeante e chamaronlhe <NAME>"
+      }
+    ],
+    "279": [
+      {
+        "es_cge": "Mas despues <NAME> la gano por fuercça e camiol el nombre e llamol cezar augusta ala que agora dizen cçaragocça",
+        "pt_cge": "mas depois a tomou per força <NAME> e mudoulhe o nome e chamaronlhe Cesar Agusta e esta he aquela a que agora chaman Saragoça"
+      }
+    ],
+    "283": [
+      {
+        "es_cge": "Despues fueron se tendiendo por las tierras e poblaron toda espanna",
+        "pt_cge": "depois estenderonsse per todas as terras e pobraron toda Espanha"
+      }
+    ],
+    "285": [
+      {
+        "es_cge": "e alas tierras que poblauan. ponienles nombres dessi mismos",
+        "pt_cge": "E todallas terras que pobrarom, poseronlhe os nomes que elles avyã"
+      }
+    ],
+    "288": [
+      {
+        "es_cge": "assi cuemo los alanos que poblaron aquella tierra que agora llaman alaua que es desdel rio ebro. fasta la grand mar de bayona",
+        "pt_cge": "ca assi fezeron os Allanos que despois per tempo pobraron aquella terra que agora chaman Allana a qual he des o ryo de Hebro ataa o gram mar de Bayona"
+      }
+    ],
+    "292": [
+      {
+        "es_cge": "E los silingos que poblaron otra tierra cabo el rio que llamauan cil. desde o nace. fasta o cae en la mar",
+        "pt_cge": "e os Sillvios que pobrarom outra terra a par de hũũ ryo e poseronlhe nome Sil e a pobra foy des onde nace ataa onde se mete ẽno mar"
+      }
+    ],
+    "299": [
+      {
+        "es_cge": "E los otros que llamaron galacios. poblaron galizia que antigua mientre solie seer desdell agua de cea. fastal puerto de gaya.",
+        "pt_cge": "E outros que chamarõ Gallicios pobrarõ Galliza, a qual antigamente soya de seer des augua de Cea ataa o porto de Gaya."
+      }
+    ],
+    "303": [
+      {
+        "es_cge": "Despues uinieron galeses por mar que eran echados de su tierra. e arribaron a un logar que agora llaman puerto.",
+        "pt_cge": "E despois per tempo arrybaron onde agora chamã o Porto hũas gentes ẽ naves que eram degradados de sua terra, os quaaes eram chamados Galases."
+      }
+    ],
+    "305": [
+      {
+        "es_cge": "e poblaron una grand partida de galizia que era yerma entre los dos rios que llaman duero e minno e pusieron le nombre portogal",
+        "pt_cge": "E estes pobrarom hũa grande parte de Galliza que era herma, e esta era antre dous ryos que chamam a hũũ Doiro e outro Mynho e poseronlhe nome Portugal"
+      }
+    ],
+    "310": [
+      {
+        "es_cge": "Otras yentes y ouo que llamaron Vuandolos. e aquellos poblaron ell andaluzia. e tiene en ancho desdel rio que llaman guadiana. fastal mar mediterraneo",
+        "pt_cge": "E outras gentes veheron que chamaron Vandalos e estes pobrarõ a Andaluzia, a qual tem en ancho des o ryo que chaman Guadiana atar o mar Mediterreno"
+      }
+    ],
+    "315": [
+      {
+        "es_cge": "Otra tierra y ouo que llamaron luzenna que es entre guadiana e tajo. e pusieron le assi nombre unas gentes que la poblaron. a que llamauan lusios",
+        "pt_cge": "Ainda hi ha outra terra a que chamam Luçena e esta he entre Guadiana e Tejo; e poseronlhe assi nome hũas gẽtes que a poboarom a que chamarõ Luxius"
+      }
+    ],
+    "322": [
+      {
+        "es_cge": "pero algunos cuentan que este nombre ouo por trebeios que mando y fazer hercules quando ouo uencçudo a gerion",
+        "pt_cge": "pero algũũs dizem que ouve este nome por trebelhos que hy mandou fazer Hercolles quãdo ouve hi vencido a Gedion"
+      }
+    ],
+    "324": [
+      {
+        "es_cge": "Otra tierra ay dentro enel andaluzia que llaman bethica. por que corre por ella un rio al que agora dizen Guadalquiuir",
+        "pt_cge": "Outra terra ha dentro na Ãdaluzia a que chamã Betica por que corre per elle hũũ ryo e este he o que agora chamã Guadalquivyr"
+      }
+    ],
+    "329": [
+      {
+        "es_cge": "e tiene desde o nace este rio en la sierra de segura. fasta o cae enel grand mar entre ponient e medio dia. cerca dela ysla de Caliz",
+        "pt_cge": "e ten des honde nace este ryo na serra de Segura ataa onde se mete ẽ no grande mar antre o poente e o meo dia acerca da ylha de Calez"
+      }
+    ],
+    "332": [
+      {
+        "es_cge": "Tod estas tierras sobredichas fueron pobladas e ouo y muchos cabdiellos que fueron sennores dellas e que ouieron grandes guerras entre si",
+        "pt_cge": "Todas estas terras que ditas avemos forõ pobradas e ouve en estes tempos hy muytos caudees que foron senhores dellas e que ouverõ grandes guerras antre sy"
+      }
+    ],
+      "337": [
+  {
+    "es_cge": "mas por que los sos fechos no fueron muy sennalados pora contar en est estoria tornaremos a fablar de hercules que fue ell omne que mas fechos sennalados fizo en espanna en aquella sazon",
+    "pt_cge": "Mas por que os seus feytos nõ foron muyto assiinados pera contar ẽ esta estoria poren tornaremos a contar de Hercolles que foy o homẽ que mais feytos assiinados fez em Spanha ẽ aquella sazon"
+  }
+    ],
+    "347": [
+      {
+        "es_cge": "Hya oystes desuso contar de cuemo se partieron los lenguages en Babilonna la grand enel tiempo de phalec",
+        "pt_cge": "Ja avedes ouvydo de suso em como se confondeu a linguagen da grande Babilonya e esto ẽno tempo de Paletho"
+      }
+    ],
+    "351": [
+      {
+        "es_cge": "E desde aquel phalec fasta gedeon que fue iuez en irahel ouo mil e tres annos",
+        "pt_cge": "des o tempo daquel Paletho ataa o tempo de Gedeon que foy juiz em Israel, ouve myl e tres ãnos"
+      }
+    ],
+    "354": [
+      {
+        "es_cge": "y entiempo deste gedeon fue hercules aquel que fizo muchas marauillas e sennalada mientre en espanna",
+        "pt_cge": "E en o tempo deste Gedeon foy o grande Hercules que fez os grandes feytos e asiinadamẽte em Espanha"
+      }
+    ],
+    "358": [
+      {
+        "es_cge": "y enla uida de gedeon murio hercules. &' ouo desde la su muerte fasta la segunda prision de troya <NUM> annos",
+        "pt_cge": "En vida deste Gedeon morreu Hercoles e ouve, des a sua morte ataa a segunda prisom de Troya <NUM> ãnos"
+      }
+    ],
+    "362": [
+      {
+        "es_cge": "E desde aquella prision de troya fasta romulo que poblo Roma ouo quatrocientos annos",
+        "pt_cge": "des aquella prisom de Troya ataa Romulo, o que pobrou a cidade de Roma, ouve quatrocentos ãnos"
+      }
+    ],
+    "365": [
+      {
+        "es_cge": "&' fasta que ouo consules en Roma. ouo dozientos e quaraenta annos",
+        "pt_cge": "E, ataa que ouve consules na cidade de Roma, ouve duzentos e quarenta ãnos"
+      }
+    ],
+    "368": [
+      {
+        "es_cge": "e depues fizieron Reyes en roma",
+        "pt_cge": "E despois fezeron rey em Roma"
+      }
+    ],
+    "369": [
+      {
+        "es_cge": "E desdel primero rey fastal postremero que ouo nombre tarquinio el soberuio que perdio por esso el Regno",
+        "pt_cge": "E, des o primeiro rey ataa o prestumeiro, o qual ouve nome Tranquineo, o Sobervho que perdeo o reyno por esso"
+      }
+    ],
+    "373": [
+      {
+        "es_cge": "e torno el pueblo a yudgarse por consules assi cuemo de primero",
+        "pt_cge": "e tornousse o poboo a julgar per consules como de primeiro"
+      }
+    ],
+    "374": [
+      {
+        "es_cge": "ouo quatrocientos annos. fasta que torno a auer emperadores en Roma",
+        "pt_cge": "ouve quatrocentos ãnos, ataa que tornou a aver emperadores em Roma"
+      }
+    ],
+    "376": [
+      {
+        "es_cge": "e sennalada mientre enel tiempo de Julio cesar que regno depues desta cuenta quatro annos e seys meses",
+        "pt_cge": "e assiinadamente Julio Cesar que reynou despois desta conta quatro ãnos e seis meses"
+      }
+    ],
+    "379": [
+      {
+        "es_cge": "Mas enel tiempo que eran los consules enantes que Julio Cesar regnasse. cient e siete annos",
+        "pt_cge": "Mas, no tempo que regiam os consules, ante que Julyo Cesar reynasse cento e sete ãnos"
+      }
+    ],
+    "381": [
+      {
+        "es_cge": "ouo uno dellos que llamaron Cipio que destruyo Affrica y espanna por que se leuantaron contra roma",
+        "pt_cge": "ouve hi hũũ consul que chamaron Cipion e este foy o que destroyu Affrica e Espanha por que se levantaron contra Roma"
+      }
+    ],
+    "385": [
+      {
+        "es_cge": "E bien cient annnos ante fue poblada la cibdad de Toledo. que poblaron dos consules de Roma all uno dizien thelemon. e all otro Bruto",
+        "pt_cge": "ante desto bem cento ãnos foy pobrada a cidade de Tolledo e pobraronna dous consules de Roma os quaaes avyam nome ho hũũ Tollemo e outro Barrato"
+      }
+    ],
+    "388": [
+      {
+        "es_cge": "y este nombre quel pusieron fue tomado delos nombres dellos",
+        "pt_cge": "E destes dous nomes composeron o nome de Tolledo"
+      }
+    ],
+    "390": [
+      {
+        "es_cge": "Tres hercules ouo que fueron muy connombrados por el mundo segund cuentan las estorias antjguas",
+        "pt_cge": "tres Hercolles forom muy nomeados pello mundo, segundo as estorias antigas"
+      }
+    ],
+    "392": [
+      {
+        "es_cge": "E el primero fue enel tiempo de moysen. pero nacio ante que el y este fizo grandes fechos e buenos. mas no son contados en estorias",
+        "pt_cge": "O primeiro Hercoles foy em o tempo de Moyses, pero que naceu ante que elle e este fez muytos grandes e bõõs feytos pero nom som contados ẽ estas estorias"
+      }
+    ],
+    "396": [
+      {
+        "es_cge": "e fue de tierra de grecia ala parte que es contra persia",
+        "pt_cge": "E foy de terra de Grecia, daquella parte que he contra a parte de Persia"
+      }
+    ],
+    "398": [
+      {
+        "es_cge": "Hercules el segundo fue otrossi de grecia. e fue muy nombrado por su saber mas que por otra cosa",
+        "pt_cge": "O segũdo Hercules foy outrossy grego e este foy muy nomeado por seu saber mais que por outra cousa que fezesse"
+      }
+    ],
+  "401": [
+  {
+    "es_cge": "e fue natural duna cibdat que dixieron fenis e fue assi llamada por que era tan uiciosa que tenien que no auie compannera enel mundo",
+    "pt_cge": "E foy natural de hũa cidade a que diseron Fenis e este nome avya por o grande avondamẽto della ca tiinham os seus moradores que nõ era no mũdo sua semelhavyl"
+  }
+],
+    "407": [
+      {
+        "es_cge": "Y esta cibdat poblo fenis fijo dagenor que fue Rey de las grandes dos cibdades que llamauan all una tiro. e all otra sidon",
+        "pt_cge": "e esta cidade pobrara Fenis, filho de Agenor, aquelle que foy rey das grandes cidades Tyro e Sydon"
+      }
+    ],
+    "410": [
+      {
+        "es_cge": "e fue padre de europa la que leuo robada el Rey Jupiter e de Cadino el que poblo Thebas",
+        "pt_cge": "e era padre do iffante Cadyno, o que pobrou Thebas, e da yffante Europa, a que levou roubada el rey Jupiter"
+      }
+    ],
+    "415": [
+      {
+        "es_cge": "y este segundo hercules fue otrossi en tiempo de moysen. seys annos ante que sacasse el pueblo de israel de egypto",
+        "pt_cge": "E este segundo Hercolles, foy outrossy em tempo de Moyses, ante seis ãnos que tirasse o poboo de Isrrael do Egipto"
+      }
+    ],
+    "418": [
+      {
+        "es_cge": "Mas hercules el tercero el que fizo los muy grandes fechos de que tod el mundo fabla fue grand e ligero e muy ualient. mas que otro omne",
+        "pt_cge": "Mas o grãde Hercolles, que foy o terceiro, o qual fez muitos e grandes feytos dos quaaes todo o mundo fallou foy muy grãde, muy ligeiro, muy valente mais que outro homen"
+      }
+    ],
+    "424": [
+      {
+        "es_cge": "e deste fablaron todos los sabios que estorias fizieron. en que contaron los sos fechos granados que el fizo por el mundo",
+        "pt_cge": " e deste fallarom todos os sabedores que composeron estorias ẽnas quaaes screverom os grandes feytos que elle fez per o mũdo"
+      }
+    ],
+    "428": [
+      {
+        "es_cge": " &' dixieron que los sabios de grecia sopieron por sus artes",
+        "pt_cge": "E algũũs disserom que os sabedores de Grecia souberon per suas artes"
+      }
+    ],
+    "429": [
+      {
+        "es_cge": "que nacrie alli uno que aurie nombre hercules.",
+        "pt_cge": "que avya hy de nacer hũũ homem que averia nome Hercolles,"
+      }
+    ],
+    "431": [
+      {
+        "es_cge": "que farie grandes e marauillosos fechos por el mundo. mas que otro omne",
+        "pt_cge": "o qual faria muytos e grandes e maravylhosos feitos pello mundo mais que outro homen"
+      }
+    ],
+    "433": [
+      {
+        "es_cge": "e los dos hercules` primeros cuydando que cada uno dellos serie aquel. pusieron se nombre assi",
+        "pt_cge": "E por esta razom os dous Hercolles primeiros, cuydando cada hũũ seer aquelle, poseronse assy nome"
+      }
+    ],
+    "436": [
+      {
+        "es_cge": "ca segund el lenguage griego. fue tomado este nombre de dos partes de letras, de her e de cleos",
+        "pt_cge": "Ca, segundo o linguagem grego, foy composto este nome per duas partes de leteras, convem a saber, de es e de elleos"
+      }
+    ],
+    "441": [
+      {
+        "es_cge": "que quier dezir batallador onrado o alabado enfuercça y en lit",
+        "pt_cge": "que quer dizer bathalhador honrrado e acabado em força e em lide"
+      }
+    ],
+    "442": [
+      {
+        "es_cge": "Este tercero hercules fue de muy grand linage. como que fue fjio del Rey Jupiter de grecia. e dela reyna almena muger que fue del Rey anfitrion",
+        "pt_cge": "E este terceiro Hercolles foy de muy grande linhajem, ca foy filho del rey Jupiter e de Almena, molher de Afflitiam"
+      }
+    ],
+    "445": [
+      {
+        "es_cge": "El rey Jupiter su padre diol a criar al Rey Euristeo",
+        "pt_cge": "E el rey Jupiter deuho a criar a el rey Euristeo"
+      }
+    ],
+    "446": [
+      {
+        "es_cge": "e fizolo por conseio de su muger donna Juno quel querie grand mal por que era so annado",
+        "pt_cge": "E esto fez elle per consselho de dona Juno, sua molher, que queria grande mal a Hercolles por que era seu enteado"
+      }
+    ],
+    "449": [
+      {
+        "es_cge": "Y esta Juno puso su amor con aquel rey euristeo que era su uezino auie contienda con ella por una poca de tierra de que sel pagaua que era encomarca de so regno",
+        "pt_cge": "Esta dona Juno pos seu amor com el rey Euristeo que era seu vizinho e avya com ella contenda per razon de hũa pouca de terra de que se elle pagava que era em partimento do seu reynado"
+      }
+    ],
+    "456": [
+      {
+        "es_cge": "y diogela por quel criasse aquel mocço",
+        "pt_cge": "E leixoulha por lhe criar aquelle moço"
+      }
+    ],
+    "457": [
+      {
+        "es_cge": "atal pleyto que quando fuesse grand que fiziesse del aquello que ellal mandasse",
+        "pt_cge": "E esto com tal condiçom que, quando elle fosse grande, que fezesse delle aquello que lhe ella mandasse"
+      }
+    ],
+    "459": [
+      {
+        "es_cge": "e des que est amor fue puesto y el mocço fue creciendo e faziendosse mancebo. fue ligero e muy ualient. mas que otro omnes del mundo",
+        "pt_cge": "E, despois que este amor foy posto e o moço foy crecendo e fazendosse mancebo, foy muy ligeiro e valente mais que outro homem que se no mundo soubesse."
+      }
+    ],
+    "466": [
+      {
+        "es_cge": "e no sabie ella fecho grand ni perigloso aque nol mandasse enuiar",
+        "pt_cge": "nõ sabia dona Juno nem hũũ feyto grande nẽ perigoso a que o ella nõ mãdasse"
+      }
+    ],
+    "468": [
+      {
+        "es_cge": "E el rey Euristeo fazielo assi coydando que fazie bien",
+        "pt_cge": "E el rey Euristeo outorgoulho, coidando que fazia bem"
+      }
+    ],
+    "475": [
+      {
+        "es_cge": "des que hercules ouo muerto el grand puerco darcadia",
+        "pt_cge": "despois que Hercoles ouve morto o grãde porco de Arcadia"
+      }
+    ],
+    "476": [
+      {
+        "es_cge": "mato al toro de <TOPONYM> que era muy brauo e much espauentable",
+        "pt_cge": "e matou o touro de <TOPONYM>, que era muy bravo e muy spantavyl"
+      }
+    ],
+    "479": [
+      {
+        "es_cge": "e mato otrossi los tres leones amanos. ell uno enel mont parthemio. e los dos en la selua",
+        "pt_cge": "e matou outrossy os tres liõões aas mããos, o hũũ ẽno monte Parteuno e os dous ena selva"
+      }
+    ],
+    "481": [
+      {
+        "es_cge": "e mato la grand serpiente de la laguna de Lerne que auie siete cabecças",
+        "pt_cge": "e matou a grande serpente da lagoa de Lerme que avya sete cabeças"
+      }
+    ],
+    "483": [
+      {
+        "es_cge": "e segudo los ladrones de cremona que es en tierra de lombardia",
+        "pt_cge": "e perseguyo os ladrõões de Cremona que he em terra de Lombardia"
+      }
+    ],
+    "485": [
+      {
+        "es_cge": "e mato al Rey que era sennor dellos",
+        "pt_cge": "e matou o rey que era senhor delles"
+      }
+    ],
+    "487": [
+      {
+        "es_cge": "E segudo las arpias fijas de fineo",
+        "pt_cge": "e perseguyo as Aspias, filhas de Finees"
+      }
+    ],
+    "491": [
+      {
+        "es_cge": "E fue con Jason el que aduxo la lana del carnero dorado dela ysla de Colcos",
+        "pt_cge": "e foy cõ Jaassõ, o que adusse o velloro dourado da ylha de Colcos"
+      }
+    ],
+    "492": [
+      {
+        "es_cge": "E destruyo troya la primera uegada. ca el fue el que entro primero en ella por fuercça",
+        "pt_cge": "e destroyu Troya da primeira vez, ca elle foy o que primeiro entrou em ella per força"
+      }
+    ],
+    "494": [
+      {
+        "es_cge": "e depues torno ala batalla o el rey Leomedon estaua con su yent",
+        "pt_cge": "e despois entrou aa batalha onde estava el rey Leomedon cõ sua gente"
+      }
+    ],
+    "496": [
+      {
+        "es_cge": "e matol por su mano por que fue destroyda Troya",
+        "pt_cge": "e mathouho per sua mãão, per que foy destroida Troya"
+      }
+    ],
+    "499": [
+      {
+        "es_cge": "&' depues desto mato a diomedes. Rey de tracia",
+        "pt_cge": "e despois matou a Diomedes, rey de Tracia"
+      }
+    ],
+    "501": [
+      {
+        "es_cge": "e uencio a los centauros que eran un linage muy grand de caualleros muy buenos de armas. e much esforcçados e mas ligeros dotros omnes",
+        "pt_cge": "e venceu os Centauros que era hũũ linhagem de muy fortes cavalleiros e muy esforçados ẽ armas e mais ligeiros que outros homẽẽs"
+      }
+    ],
+    "504": [
+      {
+        "es_cge": "y el por esfuercço e por ligereza los mato atodos",
+        "pt_cge": "e elle per esforço e ligeirice matouos todos"
+      }
+    ],
+    "506": [
+      {
+        "es_cge": "e uencio otrossi alos de lacedemonia. e mato al Rey dellos",
+        "pt_cge": "vẽceu outrossy aos de Cedemonia e matou o rey delles"
+      }
+    ],
+    "509": [
+      {
+        "es_cge": "E el fue el primero que uencio alas duennas amazonas. quand ellas uencien e destruyen todas las otras yentes",
+        "pt_cge": "e elle foy o primeiro que venceu as donas Amazonas quãdo elles venciam e destroyã todallas outras gentes"
+      }
+    ],
+    "512": [
+      {
+        "es_cge": "E el mato otrossi alos onze fijos del Rey Neleo que fue fijo del rey saturno",
+        "pt_cge": "e elle matou outrossy os filhos de Nelleeo, o que foy filho del rey Saturno"
+      }
+    ],
+    "515": [
+      {
+        "es_cge": "e mato al Rey nesso en batalla. dun por otro",
+        "pt_cge": "e matou el rey Neceo em batalha hũũ por outro"
+      }
+    ],
+    "517": [
+      {
+        "es_cge": "e mato otrossi a busilis rey de egypto",
+        "pt_cge": "e matou a Busteres, rey de Eigipto"
+      }
+    ],
+    "518": [
+      {
+        "es_cge": "e mato a antheo Rey de libia e de affrica",
+        "pt_cge": "e matou Anteo, o rey de Libia e de Affrica"
+      }
+    ],
+    "519": [
+      {
+        "es_cge": "el leuo las macçanas de las duennas esperidas",
+        "pt_cge": "e levou as maçããs das donas Esperias"
+      }
+    ],
+    "520": [
+      {
+        "es_cge": "E fue tan buen maestro dell arte de las estrellas. que dixieron los sabios que sostenie el cielo en los ombros",
+        "pt_cge": "E este tanto foy meestre da arte das estrellas que os sabedores diseron que sostinha em seus ombros os ceeos"
+      }
+    ],
+    "528": [
+      {
+        "es_cge": "Despues que hercules ouo tod esto fecho ouo diez naues e metios en mar",
+        "pt_cge": "despois que Hercolles ouve feytas todas estas cousas ouve dez naves e meteusse em ellas e entrou ẽno mar"
+      }
+    ],
+    "533": [
+      {
+        "es_cge": "e passo daffrica a Espanna.",
+        "pt_cge": "e passou de Affrica em Espanha."
+      }
+    ],
+    "534": [
+      {
+        "es_cge": "e troxo consigo muy gran sabio del arte destronomia que ouo nombre Allas",
+        "pt_cge": "E trouxe consigo hũũ grande sabedor da arte da estronomya que avia nome Allas"
+      }
+    ],
+    "536": [
+      {
+        "es_cge": "y este nombre ganara el por que morara mucho en el mont Allant que es much alto catando las estrellas",
+        "pt_cge": "e este nome avya elle guaanhado por que morava muyto no monte Allac que he muito alto acerca das nuvẽẽs"
+      }
+    ],
+    "539": [
+      {
+        "es_cge": "Y este monte es cabo cepta y entra por tierra daffrica una partida",
+        "pt_cge": "e este monte he a par de Cepta e entra per terra dçAffrica hũa parte."
+      }
+    ],
+    "541": [
+      {
+        "es_cge": "Este hercules desque passo daffrica a espanna. arribo a una ysla o entra el mar mediterraneo enel mar oceano",
+        "pt_cge": "Este Hercolles, despois que passou de Affrica aa Espanha, aportou em hũa ylha donde ẽtra o mar Terreno ẽno grande mar Ociano"
+      }
+    ],
+    "544": [
+      {
+        "es_cge": "e por quel semeio que aquel logar era muy uicioso fizo y una torre muy grand e puso ensomo una ymagen de cobre bien fecha que cataua contra orient",
+        "pt_cge": "E, por que lhe semelhou aquelle logar que seerya muy viçoso fez hi hũa torre muy grãde e pos ẽcima della hũa ymagem de cobre muy bem feita que catava contra ouriente"
+      }
+    ],
+    "550": [
+      {
+        "es_cge": "e tenie en la mano diestra una grand llaue. en semeiante cuemo que querie abrir puerta e la mano siniestra tenie alcçada e tenduda contra orient",
+        "pt_cge": "e tiinha na mãão deestra hũa grande chave, semelhante que queria abryr porta e a mãão seestra tiinha alçada e tenduda contra ouriente"
+      }
+    ],
+    "554": [
+      {
+        "es_cge": "e auie escripto enla palma. estos son los moiones de hercule",
+        "pt_cge": "e tiinha scripto na palma: Estes som os majões de Hercolles"
+      }
+    ],
+    "556": [
+      {
+        "es_cge": "E por que en latin dizen por moiones gades. pusieron nombre ala ysla gades hercules. aquella que oy endia llaman <TOPONYM>",
+        "pt_cge": "E, por que em latym dizem por majões \"gidos\", poseron nome aa ylha Grades de Hercolles, aly onde oje em dia chamam <TOPONYM>"
+      }
+    ],
+    "559": [
+      {
+        "es_cge": "Despues que esto ouo fecho. e fue con sus naues por la mar fasta que llego al rio Bethis que agora llaman guadalquiuir e fue yendo por el arriba fasta que llego al logar o es agora Seuilla poblada",
+        "pt_cge": "E, despois que esto ouve feyto, e foysse con suas naves pello mar ataa que chegou ao ryo Bethis, ao que agora chamã Guadalquivyr e foy per elle acima ataa que chegou ao logar a que agora chamã Sevylha"
+      }
+    ],
+    "567": [
+      {
+        "es_cge": "e siempre yuan catando por la ribera o fallarien buen logar o poblassen una grand cibdat e no fallaron otro ninguno tan bueno cuemo aquel o agora es poblada Seuilla",
+        "pt_cge": "E senpre hia buscando a ribeira onde acharia bõõ logar pera pobrar em elle hũa grande cidade e nom achou outro tam bõõ como aquelle em que agora Sevylha he pobrada"
+      }
+    ],
+    "577": [
+      {
+        "es_cge": "e quando lo oyo hercules ouo grand pesar. e preguntol que omne serie aquel que la poblarie",
+        "pt_cge": "E, quãdo Hercolles esto ouvyo, pesoulhe muyto e preguntou que homem seeria aquelle que a avya de poboar"
+      }
+    ],
+    "581": [
+      {
+        "es_cge": "que serie omne onrado e mas poderoso que el. e de grandes fechos",
+        "pt_cge": "que seeria homem muyto honrrado e muy mais poderoso que elle e de muy grãdes feitos"
+      }
+    ],
+    "587": [
+      {
+        "es_cge": "E puso alli seys pilares de piedra muy grandes",
+        "pt_cge": "E pos em aquelle lugar seis piares de pedra muy grandes"
+      }
+    ],
+    "588": [
+      {
+        "es_cge": "e puso ensomo una muy grand tabla de marmol escripta de grandes letras",
+        "pt_cge": "E pos ẽ cima delles hũa muy grande pedra chãã de marmor em que fez escrever leteras"
+      }
+    ],
+    "590": [
+      {
+        "es_cge": "que dizien assi. aqui sera poblada la grand cibdat",
+        "pt_cge": "que diziam assy: Aquy sera poboada hũa grande cidade"
+      }
+    ],
+    "592": [
+      {
+        "es_cge": "Y ensomo puso una ymagen de piedra. e tenie la una mano contra orient. e tenie escripto en la palma. fasta aqui llego hercules",
+        "pt_cge": "E pos ainda em cima hũa ymagen de pedra e tiinha a mãão contra ouriente e tiinha escripto ẽna palma: Ataa aquy chegou Hercolles"
+      }
+    ],
+    "596": [
+      {
+        "es_cge": "y ell otra mano mostrando con el dedo las letras",
+        "pt_cge": "E a outra mãão mostrando as leteras com o dedo"
+      }
+    ],
+    "598": [
+      {
+        "es_cge": "Onde auino depues que en tiempo de los romanos quando fueron sennores del mundo",
+        "pt_cge": "Onde aveo assy despois que, enno tempo que os Romããos assenhoravam o mũdo"
+      }
+    ],
+    "600": [
+      {
+        "es_cge": "ouo desabenencia entre Julio Cesar e Pompeio",
+        "pt_cge": "e foy aquella grande desavẽẽça que ouve entre Jullio Cesar e Pompeo,"
+      }
+    ],
+    "603": [
+      {
+        "es_cge": "E fue puesto en Roma que enuiaron a pompeio a parte dorient. e Julio cesar a occident",
+        "pt_cge": "E os Romããos ẽvyarom Pompeo ẽnas partes do ouriente e Julyo Cesar aas partes do oucidente"
+      }
+    ],
+    "606": [
+      {
+        "es_cge": "e pusieron les plazo que fuessen tornados a .v. annos a Roma",
+        "pt_cge": "e poseronlhes prazo de cinque annos a que fossem tornados a Roma"
+      }
+    ],
+    "610": [
+      {
+        "es_cge": "E pompeio gano en aquellos .v. annos toda parte dorient",
+        "pt_cge": "E Pompeo em cinque ãnos conquistou toda a terra do ouriente"
+      }
+    ],
+    "612": [
+      {
+        "es_cge": "e Julio cesar en estos .v. annos non pudo ganar sino fasta lerida que es en una tierra que llaman catalonna",
+        "pt_cge": "E Julyo Cesar ẽ os cinque ãnos nom pode guaanhar mais que ataa Lerida que he en Cathalonha"
+      }
+    ],
+    "616": [
+      {
+        "es_cge": "E segund cuenta lucan que escriuio est estoria. pues que se cumplieron los .v. annos. enuiaron le dezir los romanos ques tornasse",
+        "pt_cge": "E, segundo conta Lucham, o que escreveo esta estoria, despois que forõ cõpridos os cinque ãnos, mãdaronlhe dizer os Romããos que se tornasse"
+      }
+    ],
+    "622": [
+      {
+        "es_cge": "El con despecho que ouo nolo quiso fazer mas dixo que tomaua otros .v. annos ",
+        "pt_cge": "E elle, com despeyto, nom o quis fazer mais disse que tomava outros cinque ãnos"
+      }
+    ],
+    "627": [
+      {
+        "es_cge": "e depues en aquellos cinc annos conquirio toda espanna",
+        "pt_cge": "e ẽ este cinquo ãnos conquistou toda Espanha"
+      }
+    ],
+    "629": [
+      {
+        "es_cge": "E quando fue en aquel logar o primera mientre fue poblada la cibdat de thalica semeiol que no estaua poblada en buen logar e fue buscar o la assentasse de nueuo",
+        "pt_cge": "E, quando foy aly onde fora pobrada a cidade de Talca, pareceulhe que nom estava em boo logar poboada e andou buscando logar em que a aseentasse de novo"
+      }
+    ],
+    "633": [
+      {
+        "es_cge": "E quando fue a aquel logar o estauan los pilares hercules cato la tabla de marmol",
+        "pt_cge": "E, quando chegou em aquelle logar onde Hercoles posera os piares catou a pedra"
+      }
+    ],
+    "641": [
+      {
+        "es_cge": "Estonce poblola alli e pusol nombre yspalis",
+        "pt_cge": "E entõ a fez aly poboar e posselhe nome Yspallis"
+      }
+    ],
+    "646": [
+      {
+        "es_cge": "E cuenta lucan que desque la ouo alli poblada. que fue a caliz e fallo y un grand templo que fizieran los gentiles por onra de hercules ",
+        "pt_cge": "Mas conta dom Luchas que, despois que a ally ouve poboada, que se foy a Calez e achou hy hũũ grãde templo que fezerom os gentyos ẽ hõrra de Hercolles"
+      }
+    ],
+    "651": [
+      {
+        "es_cge": "y entre otras muchas ymagenes que y auie. fallo una del Rey Alexandre que fuera fecha a semeiancça del. de grandez e de faycçon",
+        "pt_cge": "em o qual estavã muitas ymagẽẽs, entre as quaaes achou hi hũa que fora feyta aa semelhança do corpo de Aleyxandre en feiçon semelhança e talho"
+      }
+    ],
+    "655": [
+      {
+        "es_cge": "e quando cesar la uio estudo la catando grand piecça cuydando.",
+        "pt_cge": "E, quando Julyo Cesar vyo aquella ymagẽ stevea esguardando hũa grande peça"
+      }
+    ],
+    "657": [
+      {
+        "es_cge": " e depues dixo que si Alexandre tan pequenno fuera de cuerpo e tan feo e tan grandes fechos e tan buenos fiziera. el que era tan fermoso e tan grand por que no farie tan grandes fechos o mayores",
+        "pt_cge": "e, despois disse: Se Alexandre, que era tanto pequeno de corpo e assy feo, fez tam grãdes feytos, como eu, que som mayor de corpo que elle e mais aposto, por que os nom farei eu tamanhos ou mayores?"
+      }
+    ],
+    "662": [
+      {
+        "es_cge": "E cuydando esto. fuesse pora su posada e sonno essa noche que emprennaua a su madre",
+        "pt_cge": "E, despois que esto disse foisse pera sua pousada e, logo essa noyte seguynte, sonhava como emprenhava sua madre"
+      }
+    ],
+    "666": [
+      {
+        "es_cge": "E otro dia llamo a un so estrellero muy bueno que traye e dixol lo que sonnara ell estrellero soltol el suenno e dixol. que la madre era la tierra",
+        "pt_cge": "E ẽ outro dia mandou por o seu astronomo que conssigo tragia e contoulhe o que sonhara. E o estronomo lhe disse que sua madre era a terra"
+      }
+    ],
+    "672": [
+      {
+        "es_cge": "e assi cuemo la metie so si ys apoderaua della. bien assi metrie toda la tierra en so poder e serie sennor de todo",
+        "pt_cge": "e que elle a sojugaria toda e a averya ao seu senhorio"
+      }
+    ],
+    "676": [
+      {
+        "es_cge": "Mas agora tornamos a fablar de hercules. por contar los fechos que fizo en espanna",
+        "pt_cge": "Mas agora tornaremos a contar de Hercolles, por levar ordenadamente a estoria dos feytos que elle fez em Espanha"
+      }
+    ]
+   }
+  }

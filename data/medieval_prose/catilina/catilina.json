@@ -1,0 +1,751 @@
+{
+  "work": "conjuration de catilina",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": {
+    "001": [
+
+  {
+    "la_catilina": "Omnis homines, qui sese student praestare ceteris animalibus, summa ope niti decet",
+    "it_catilina": "A tutti gli uomini, li quali si brigano di più valere che gli altri animali, si conviene con sommo studio isforzare",
+    "vec_catilina": "Tuti gli homeni che studiano de avanzare gli altri animalli diesse con sumo vigore sforzarsi",
+    "es_catilina": "Todos los onbres que quieren ser más que las otras animalias dévense esforçar a fazer algo"
+  }
+],
+"002": [
+  {
+    "la_catilina": "ne vitam silentio transeant veluti pecora, quae natura prona atque ventri oboedientia finxit",
+    "it_catilina": "ch’egli non trapassino questa vita siccome diviene delle bestie, le quali la natura ha formate inchinate giù a terra e ubbidienti al desiderio di lor ventre",
+    "vec_catilina": "ché la vitta non consume tazendo chome le pechore formatte dala natura inclinatte et obediente al ventre",
+    "es_catilina": "por que la su vida non pase sin fazaña en silencio así como bestias fazen, las quales la natura formó inclinadas a obedescer al vientre",
+    "fr_catilina": "que il ne gast le tens en oiseuse et que il ne vive eonme la beste qui est eneline et obeissant a son ventre tant seulement"
+  }
+],
+"003": [
+  {
+    "la_catilina": "Sed nostra omnis vis in animo et corpore sita est",
+    "vec_catilina": "Ma ogni nostra forza in l’animo et nel chorpo hè posta",
+    "es_catilina": "Ansí es que toda nuestra virtud es puesta en el coraçón e en el cuerpo",
+    "it_catilina": "Ma ogni nostra virtù è posta nell’animo e nel corpo",
+    "fr_catilina": "La vertu et la force de l'ome est en l'ame et eu cors ensemble"
+  }
+],
+"004": [
+  {
+    "la_catilina": "animi imperio, corporis servitio magis utimur; alterum nobis cum dis, alterum cum beluis commune est",
+    "vec_catilina": "più de l’imperio dell’animo, più del servixio del chorpo uxemo; per l’uno comunichiamo con li dei, per l’altro con le bestie",
+    "es_catilina": "pero usamos del coraçón para mandar e ordenar, del cuerpo para servir e obedescer; enpero en lo uno avemos comarcança con los dioses, en lo otro con las bestias",
+    "it_catilina": "l’animo per comandare, il corpo per servire più principalmente usiamo e usar dovemo: l’uno con li Dii, l’altro colle bestie avemo comunale",
+    "fr_catilina": "L'ame doit comander et li cors servir et obeir, car l'ame a en soi l'image et la sanblance de Deu, et li cors est plus comuns a bestial foiblete"
+  }
+],
+"005": [
+  {
+    "la_catilina": "Quo mihi rectius videtur ingeni quam virium opibus gloriam quaerere",
+    "vec_catilina": "Però piui dretto mi pare dimandare gloria per l’altorio de l’ingegno cha delle forze",
+    "es_catilina": "Enpero buscar gloria el onbre con todas sus fuerças más derechamente pienso que pertenesca al ingenio que non a fuerça del cuerpo",
+    "it_catilina": "Per la qual cosa a me più diritto pare per studio d’ingegno d’animo che di forze di corpo addomandare gloria e cercare onore",
+    "fr_catilina": "Et por ce, qui veut aquere gloire, il la doit plus couvoitier par richece de sens et d'engin que par richece de force ne d'avoir"
+  }
+],
+"006": [
+  {
+    "la_catilina": "et, quoniam vita ipsa, qua fruimur, brevis est, memoriam nostri quam maxume longam efficere",
+    "vec_catilina": "et far la nostra memoria longissima, perché la vitta della qualle ussimo hè brieve",
+    "it_catilina": "e in questo modo, per cagione che la vita è brieve, la memoria di noi distendere e rallungare",
+    "fr_catilina": "La vie de l'ome est bries, mes vertuz, raisons et engins fet longue la memoire de l'ome apres la mort"
+  }
+],
+"007": [
+  {
+    "la_catilina": "Nam divitiarum et formae gloria fluxa atque fragilis est, virtus clara aeternaque habetur",
+    "vec_catilina": "però che la gloria delle richeze hè imfirma he fragille, et la virtù hè famoxa et hetterna",
+    "es_catilina": "ca la gloria de fermosuras e de riquezas es muy flaca e en breve pasaderas, la virtud es avida por clara e perpetua",
+    "it_catilina": "Perciocchè gloria e onore di ricchezza e di bellezza è mutevole e fragile; la virtù è famosa e tesoro eternale"
+  }
+],
+"008": [
+  {
+    "la_catilina": "Sed diu magnum inter mortalis certamen fuit, vine corporis an virtute animi res militaris magis procederet",
+    "vec_catilina": "Ma lungamente fu tra gli homeni gram dischordia se ’l fatto militare prozedisse piui ho per forza de chorpo ho per virtù de animo",
+    "es_catilina": "Pero gran contienda fue entre los mortales por quál manera la cavallería era más loada o más valía, por fuerça del cuerpo o por virtud del coraçón",
+    "it_catilina": "Ma di questo fu lungo tempo fra gli uomini grande quistione: se per forza di corpo o per virtù d’animo li fatti cavallereschi più e maggiormente andassono innanzi",
+    "fr_catilina": "Granz estrivemenz fu entre les anciens por savoir coment chevalerie poet estre plus essauciee, ou par force de cors ou par vertu, ou par sens de cuer" 
+  }
+],
+"009": [
+  {
+    "la_catilina": "Nam et, prius quam incipias, consulto et, ubi consulueris, mature facto opus est. Ita utrumque per se indigens alterum alterius auxilio eget",
+    "vec_catilina": "perché, avanti che chomenzi, bixogna il consiglio he drietto al consiglio hè nezessaria matura hexechuzione. Chussì et l’anima e ’l chorpo, zaschuno imsuffiziente per sí, hà bixogno l’uno di l’altro",
+    "es_catilina": "Ca antes que comiences e después de avido deliberación sobre el fecho, siempre conviene que lo fagas con maduración: lo uno es menester para lo otro",
+    "it_catilina": "Perchè anzi che si comincino i fatti è mestieri il buono consiglio, e poichè il consiglio è preso si è sbrigatamente mestieri il fatto; e così e l’uno e l’altro, insufficiente per sè, l’uno dell’altro ha bisogno",
+    "fr_catilina": "car avant que l'en face la chose doit l'en conseil prendre, apres le conseil doit sivre li fez. Ne vaut donques riens conseuz sanz oevre ne oevre sanz conseil"
+ 
+}
+],
+"010": [
+  {
+    "la_catilina": "Igitur initio reges, nam in terris nomen imperi id primum fuit, divorsi pars ingenium, alii corpus exercebant",
+    "vec_catilina": "Però li re im prinzipio, perché il primo nome de imperare fo nome de re, diverse chosse, parte l’inzegno, parte il chorpo, exerzittava",
+    "es_catilina": "En el comienço los reyes, el nonbre de los quales fue en las tierras el primero nonbre de inperio o señorío, d’ellos usavan más por el ingenio, d’ellos se aprovechavan más del cuerpo",
+    "it_catilina": "Dunque al cominciamento i re, perciocchè in terra questo fu primo nome di signoria, alcuni di loro studiavano e adoperavano lo ingegno, e alcuni altri il corpo"
+  }
+],
+"011": [
+  {
+    "la_catilina": "etiam tum vita hominum sine cupiditate agitabatur; sua cuique satis placebant",
+    "vec_catilina": "Anchora la vitta degl’uomeni senza chupidittà se dimenava: a zaschuno assai piaxeva il suo",
+    "es_catilina": "Entonces la bivienda de los onbres era más sin cobdicia, cada uno era contento de lo suyo",
+    "it_catilina": "E infino a quel tempo senza avarizia e desiderio vivevano, e le sue cose proprie a ciascuno piaceano e contentavano assai",
+    "fr_catilina": "Car ainz que les guerres començassent, li home estoient sanz covoitise et sosfisoit a chascun ce qu'il avoit"
+  }
+],
+"012": [
+  {
+    "la_catilina": "Postea vero quam in Asia Cyrus, in Graecia Lacedaemonii et Athenienses coepere urbis atque nationes subigere, lubidinem dominandi causam belli habere, maxumam gloriam in maxumo imperio putare",
+    "vec_catilina": "Ma poi che Zirro in Axia, gli Lazedemonii et Attheniexi in Grezia chominziò sottopore le zittade et le nazioni, hebeno la chupidittà de signoriziare per chaxon de bataglia; in grandissimo imperio pensorono essere grandissima gloria",
+    "es_catilina": "Después que Ciro tomó cibdades en Asia e los de Lacedemonia e de Atenas en Grecia subjuzgaron nasciones estrañas por desordenada voluntad de enseñorear, ovieron causa de batallas poniendo gran gloria en el gran señorío",
+    "it_catilina": "Ma, poichè in Asia il re Ciro, in Grecia li Lacedemonii e li Ateniesi cominciarono a conquistare e sottomettere cittadi e genti, e ad avere cagione di guerra e di battaglia la grande voglia del signoreggiare, e a credere che somma gloria fosse in avere grandissima signoria"
+  }
+],
+"013": [
+  {
+    "la_catilina": "tum demum periculo atque negotiis compertum est in bello plurumum ingenium posse",
+    "vec_catilina": "allora finalmente per experimento et per fazende hè chomprexo lo inzegno vallere molto im bataglia",
+    "es_catilina": "entonces por esperiencia e plática de los negocios fue fallado que en las guerras el ingenio valía muy mucho",
+    "it_catilina": "allora finalmente per pericoli e altri fatti fu trovato e veduto che in guerra e in battaglia molto puote e vale ingegno"
+  }
+],
+"014": [
+  {
+    "la_catilina": "Quod si regum atque imperatorum animi virtus in pace ita ut in bello valeret, aequabilius atque constantius sese res humanae haberent neque aliud alio ferri neque mutari ac misceri omnia cerneres",
+    "vec_catilina": "Ché, se la virtù de l’animo deli re he deli imperadori chussì vallesse al tempo di paxe chome di guera, piui equamente et piui constantemente se rettroverano le chosse umane, né vederesti alcuna cossa moversi in qua né in là, né hogni cossa mutarssi et messedarssi",
+    "es_catilina": "Ea si la virtud del coraçón de los reyes e enperadores tal fuese en la paz como en la guerra, mas igualmente serían governadas las cosas e muy mejor estarían, ca non las veríamos mudar nin pasar de un señorío a otro, nin se mesclarían todas las cosas",
+    "it_catilina": "E se la virtù dell’animo de’ re e de signori, come s’ingegna e si sforza di valere nel tempo delle brighe, così facesse in tempo di pace, più chetamente e più fermamente starebbono gli stati umani; nè non vedresti altro stato ad altri andare, nè cosi mutare nè mischiare tutte cose"
+  }
+],
+"015": [
+  {
+    "la_catilina": "Nam imperium facile iis artibus retinetur, quibus initio partum est",
+    "vec_catilina": "perché l’imperio lievemente se rittiene chon quelle arte con le qualle se aquista ha prinzipio",
+    "es_catilina": "Ca el señorío ligeramente se retiene con aquellas artes con las quales fue ganado en escomienço",
+    "it_catilina": "perciocchè la signoria agevolmente si ritiene con quelle arti, per le quali al cominciamento fu acquistata"
+  }
+],
+"016": [
+  {
+    "la_catilina": "Verum ubi pro labore desidia, pro continentia et aequitate lubido atque superbia invasere, fortuna simul cum moribus inmutatur",
+    "vec_catilina": "Ma poi che per la fatticha la pigrizia, per la continenzia la libidine, per la giustizia la superbia venerono al mondo, la fortuna insieme con li chostumi muttossi",
+    "es_catilina": "pero después que por los trabajos de la guerra viene pereza e, por contenplamiento de egualdad, viene cobdicia, cobdicia desordenada e sobervia a los tales, luego la buena fortuna se muda con las costunbres",
+    "it_catilina": "Ma, poichè in luogo di affaticare viene la pigrizia, e in luogo di contenenzia e di drittura vengono i disordinati desiderii, lussuria e superbia; allora la ventura, insieme co’ costumi, si rimuta"
+  }
+],
+"017": [
+  {
+    "la_catilina": "Ita imperium semper ad optumum quemque a minus bono transfertur",
+    "vec_catilina": "Chossì l’imperio da questi che men buoni sono sempre se transferisse a chi appare miglore",
+    "es_catilina": "E entonces el inperio o señorío del menos bueno se traspasa al muy bueno",
+    "it_catilina": "ed in questo modo la signoria sempre va a ciascun ottimo, partendosi dal men buono"
+  }
+],
+"018": [
+  {
+    "la_catilina": "Quae homines arant, navigant, aedificant, virtuti omnia parent",
+    "vec_catilina": "Quel che gli huomeni hara, naviga, hedifficha, tuto hè hobediente alla virtù",
+    "es_catilina": "Todos los onbres que aran, navegan, edifican, todo lo aparejan e fazen a fin de alguna virtud",
+    "it_catilina": "E quelle cose, che gli altri uomini, navigando, arando, edificando, acquistano, alla virtù sono tutte ubbidienti e soggette"
+  }
+],
+"019": [
+  {
+    "la_catilina": "Sed multi mortales, dediti ventri atque somno, indocti incultique vitam sicuti peregrinantes transiere; quibus profecto contra naturam corpus voluptati, anima oneri fuit",
+    "vec_catilina": "Ma molti huomeni, dadi al ventre, al sono, indocti, schostumatti, chome peregrinanti passano la vitta soa, agli qualli zerto contra ordine de nattura il chorpo a dilletto et l’anima a inchargo hè stata",
+    "es_catilina": "Mas enpero fueron muchos de los mortales dados al vientre e al sueño sin saber e sin donaire, los quales pasaron su vida como peregrinantes. A estos, contra toda natura, el cuerpo les fue deleite e el alma carga",
+    "it_catilina": "Ma molti uomini, dati al ventre e al sonno, non savii e non composti, di questa vita trapassarono siccome pellegrini, a’ quali uomini contra natura il corpo fu a disordinato diletto, e l’animo fu a carico"
+  }
+],
+"020": [
+  {
+    "la_catilina": "Eorum ego vitam mortemque iuxta aestumo, quoniam de utraque siletur",
+    "vec_catilina": "Io la vitta di chostoro quaxi morte iudicho, perché di l’una he di l’altra non se disse",
+    "es_catilina": "E yo la vida d’estos e muerte en igual las pongo, ca de entre amas está callado",
+    "it_catilina": "e in lor vita e lor morte egualmente giudico e stimo, perocchè dell’una e dell’altra si tace"
+  }
+],
+"021": [
+  {
+    "la_catilina": "Verum enim vero is demum mihi vivere atque frui anima videtur, qui aliquo negotio intentus praeclari facinoris aut artis bonae famam quaerit",
+    "vec_catilina": "Ma in verittà chollui mi par vivere et uxare di anima, el qual è sollizitto a qualche fazenda di zerta fama ho di bona arte ho di clarissimo fatto",
+    "es_catilina": "E aquel judgo yo ciertamente venir e usar del alma, el qual dado algund negocio por señalada e clara fazaña o por otra buena arte busca fama en la grande muchedunbre de las cosas del mundo",
+    "it_catilina": "Ma per vero quegli a me finalmente pare che viva e che dell’animo goda, che, ad alcuna operazione inteso, di chiaro e famoso fatto, ovvero d’arte buona d’animo, sua nominanza va cercando"
+  }
+],
+"022": [
+  {
+    "la_catilina": "Sed in magna copia rerum aliud alii natura iter ostendit",
+    "vec_catilina": "Ma in gram chopia di chosse a diversi la natura mostra diversa via",
+    "it_catilina": "Ma, infra la grande moltitudine delle cose, la natura dà diverse vie e l’uno è acconcio naturalmente ad una cosa, e l’altro all’altra",
+    "es_catilina": "La natura a unos muestra un camino e a otros otro"
+  }
+],
+"023": [
+  {
+    "la_catilina": "Pulchrum est bene facere rei publicae, etiam bene dicere haud absurdum est",
+    "vec_catilina": "Bella cossa hè a ben fare ala republicha, anchora non se vittupera el ben dire",
+    "it_catilina": "Onde bella cosa è ben fare alla repubblica; eziandio ben dire non è laida nè vile",
+    "es_catilina": "Cosa es muy buena fazer bien a la cosa pública, pero dezir bien non es de despreciar"
+  }
+],
+"024": [
+  {
+    "la_catilina": "vel pace vel bello clarum fieri licet; et qui fecere et qui facta aliorum scripsere, multi laudantur",
+    "vec_catilina": "Et im paxe et in guera hè lizitto farsi famoxo; et quelli che hano fatto et quelli che li altrui fatti hano schriptto molto se laldano",
+    "it_catilina": "chè in pace e in guerra puote uomo diventare famoso: e quegli ch’hanno fatto, e coloro che i lor fatti scrissono, molti sono ragionevolmente lodati",
+    "es_catilina": "e en paz o en guerra el tal ser loado e famado cierto es; muchos alaban non solamente los que fizieron algo, mas aún los que escrivieron los fechos de otros"
+  }
+],
+"025": [
+  {
+    "la_catilina": "Ac mihi quidem, tametsi haudquaquam par gloria sequitur scriptorem et actorem rerum, tamen in primis arduum videtur res gestas scribere: primum, quod facta dictis exaequanda sunt",
+    "vec_catilina": "Ma in verittà, benché simel gloria non siegua chollor che schrive gli altrui fatti chome chollor che li fano, pur tra le chosse prinzipalle mi pare ardua chossa descrivere gli altrui fatti: prima, ché le chosse fatte debono essere ingualle agli detti",
+    "it_catilina": "E, avvegnachè non egual gloria seguiti allo scrittore che al fattore delle cose, impertanto a me grande e malagevole cosa pare le cose fatte scrivere: prima, perocchè come sono suti li fatti, così si conviene proseguitare, ed agguagliarli con parole e detti",
+    "es_catilina": "E aunque sé que non igual gloria se me sigue de escrevir como de fazer estas cosas, pero cosa fuerte paresce escrevir las cosas pasadas: lo primero, porque los fechos se deven continuar con los dichos"
+  }
+],
+"026": [
+  {
+    "la_catilina": "dehinc, quia plerique, quae delicta reprehenderis, malevolentia et invidia dicta putant",
+    "vec_catilina": "anchora molti, se gli altrui malfatti riprendi, pensa da te essere detto per malvollere et per invidia",
+    "it_catilina": "appresso, perocchè molti quelle malfatte cose, che tu riprenderai, pensano detto per malivoglienza o per invidia",
+    "es_catilina": "otrosí porque muchos piensan ser contados algunos malos fechos por malquerencia o envidia del que los reprehende"
+  }
+],
+"027": [
+  {
+    "la_catilina": "ubi de magna virtute atque gloria bonorum memores, quae sibi quisque facilia factu putat, aequo animo accipit, supra ea veluti ficta pro falsis ducit",
+    "vec_catilina": "hove tu richordi della gram virtù et della gloria delli boni, quel che zaschaduno se pensa posser fare levemente, quello con iusto animo azepta, holtra quello tutto fitto he falso chrede",
+    "it_catilina": "laddove di grande virtù e gloria de’ buoni parlerai, se dirai quelle cose che ciascuno agevolmente creda di poter fare, udendole, sta per contento; ma, se dirai sopra a quelle, allora reputa cose composte e non vere",
+    "es_catilina": "e quando de la grand virtud e gloria de los buenos es fecha mención, si es tal que cada uno piensa que es cosa ligera, da pasada e súfrelo; pero si allende alargas, luego lo judga por mentira ansí como cosa fingida"
+  }
+],
+"028": [
+  {
+    "la_catilina": "Sed ego adulescentulus initio, sicuti plerique, studio ad rem publicam latus sum ibique mihi multa advorsa fuere",
+    "vec_catilina": "Ma io giovinetto a prinzipio, chome fano molti, dal studio dele lettere fui transferido alla republicha, hove molte chosse adversse mi intravene",
+    "it_catilina": "Ora io assai garzone, al cominciamento, siccome molti altri, fui levato dallo studio, e a’ fatti del comune menato e posto; e quivi molte cose mi furono contra l’animo",
+    "es_catilina": "Como yo fuese pequeño, segund se suele fazer, de otros fui traído del estudio a la cosa pública e aý me fueron muchas cosas contrarias"
+  }
+],
+"029": [
+  {
+    "la_catilina": "Nam pro pudore, pro abstinentia, pro virtute audacia, largitio, avaritia vigebant",
+    "vec_catilina": "ché per la honestade, per la abstinenzia, per la virtù, la audazia, la barattaria, l’avarizia dominava",
+    "it_catilina": "perocchè per l’onestà e per gli composti atti, per l’astinenzia e per la virtù, era disordinato ardimento e allargamento di spendere e di donare, e avarizia",
+    "es_catilina": "Ca en lugar de verguença, de tenprança, de virtud, eran usadas audacia, dádivas e avaricia"
+  }
+],
+"030": [
+  {
+    "la_catilina": "Quae tametsi animus aspernabatur insolens malarum artium, tamen inter tanta vitia imbecilla aetas ambitione corrupta tenebatur",
+    "vec_catilina": "Le qual chosse avegnaché l’animo mio non uxado a mal arte desprixiasse, pure tra tanti vizii la mia debelle hettate hera choropta de ambizione",
+    "it_catilina": "Le quali cose avvegnachè il mio animo schivasse e spregiasse, siccome non usato e non concordevole con quelle male arti, nientemeno la tenera mia età, corrotta per desiderio d’onore, in quelle era occupata e distenuta",
+    "es_catilina": "las quales, aunque aborresciese mi coraçón non costunbrador a malas maneras, enpero, entre tantos e tan grandes vicios, la edad tierna era corrupta por cobdicia e anbición"
+  }
+],
+"031": [
+  {
+    "la_catilina": "ac me, cum ab reliquorum malis moribus dissentirem, nihilo minus honoris cupido eadem, qua ceteros, fama atque invidia vexabat",
+    "vec_catilina": "Et bene che io dissentisse dagli altri malchostumi, nienemeno il dexiderio delo honore, chome gli altri, fama et invidia mi chonturbava",
+    "it_catilina": "E conciossiachè io da’ mali costumi d’altrui discordassi e disconsentissi, impertanto quel medesimo desiderio d’onore e di fama, e quella medesima invidia, che conturbava gli altri, conturbava e occupava me",
+    "es_catilina": "e non enbargante que a las otras malas costunbres non consintiese, pero cobdicia de honra e de fama e de inbidia otrosí, segund que a los otros, me atormentava"
+  }
+],
+"032": [
+  {
+    "la_catilina": "Igitur ubi animus ex multis miseriis atque periculis requievit et mihi reliquam aetatem a re publica procul habendam decrevi",
+    "vec_catilina": "Adonque, quando l’animo mio fuori di molte mixerie et perichollose ripossò, et ch’io me delliberai de trapassare il resto del mio tempo luntano dala republicha",
+    "it_catilina": "Però, quando l’animo mio di molte miserie e pericoli riposò, e io mi determinai l’altra etade avere dilungata da’ fatti del comune",
+    "es_catilina": "Quando el mi coraçón ovo folgura de muchos peligros e mesquindades, pensé de alongar la mi vivienda e la edad que me quedaba alexos de la cosa pública"
+  }
+],
+"033": [
+  {
+    "la_catilina": "non fuit consilium socordia atque desidia bonum otium conterere neque vero agrum colundo aut venando servilibus officiis intentum aetatem agere",
+    "vec_catilina": "non fo mio consiglio vanamente passare il buono hozio con matteza et negligenzia, né passare la mia hettà o chazando o chultivando le terre, ché son serville hoffizii",
+    "it_catilina": "non fu mio intendimento il buon tempo del riposo, che io preso avea, di guastarlo o consumarlo per negligenza o per pigrizia; nè eziandio, intendendo a lavorio di campi, ovvero a cacciagione o uccellagione, passare l’età occupandomi io operazione così vile",
+    "es_catilina": "e non estorvar el folgado bivir con desacuerdo e pereza, e non quise fazer mi vida labrando canpos o caçando, que son oficios serviles"
+  }
+],
+"034": [
+  {
+    "la_catilina": "sed, a quo incepto studioque me ambitio mala detinuerat, eodem regressus statui res gestas populi Romani carptim, ut quaeque memoria digna videbantur, perscribere",
+    "vec_catilina": "Ma rittornando al prinzipiatto studio, dal qualle la ambizione malla mi avea allienatto, hò constituido gli fatti dil popullo di Roma im parte de schriver, segondo che mi paresse degni de memoria",
+    "it_catilina": "anzi a quello studio, dal quale, cominciato, m’avea dipartito e ditenuto lo disordinato desiderio di onore, a quel medesimo io ritornando, diliberai delle storie di Roma scrivere, non per tutto, ma per parte, le cose, siccome ciascuna era di memoria degna",
+    "es_catilina": "mas por la manera mala de cobdicia que entré por ella, me quise salir e pensé de escrevir arrebatadamente los fechos dignos de memoria del pueblo romano"
+  }
+],
+"035": [
+  {
+    "la_catilina": "eo magis, quod mihi a spe, metu, partibus rei publicae animus liber erat",
+    "it_catilina": "E tanto più in ciò mi fermai, quanto io potea sicuramente dire, sentendomi l’animo libero da speranza e da paura",
+    "es_catilina": "tanto con mejor voluntad quanto el mi coraçón estava más libre de esperança e miedo de la cosa pública"
+  }
+],
+"036": [
+  {
+    "la_catilina": "Igitur de Catilinae coniuratione, quam verissume potero, paucis absolvam",
+    "vec_catilina": "Imperò della choniurazion de Chattellina, quanto con verittà io porò trattare, brevissimamente dirò",
+    "it_catilina": "Adunque della congiurazione di Catilina, tanto verissimamente quanto io più potrò, in brievi parole riconterò",
+    "es_catilina": "E, por ende, los más verdaderamente que podré en poco contaré la conjuración de Catilina"
+  }
+],
+"037": [
+  {
+    "la_catilina": "nam id facinus in primis ego memorabile existumo sceleris atque periculi novitate",
+    "vec_catilina": "perché questo in gli prinzipal fatti io reputto memorabille per la novittà della fellonia et del perichollo",
+    "it_catilina": "perciocchè quel fatto io stimo e giudico in prima ricordevole per novità di gran fallo e di pericoloso",
+    "es_catilina": "ca tal fazaña como aquella pienso que se deve contar por la novedad de la maldad e del peligro"
+  }
+],
+"038": [
+  {
+    "la_catilina": "De cuius hominis moribus pauca prius explananda sunt, quam initium narrandi faciam",
+    "vec_catilina": "Ma avanti che cominzia a narare, alchune chosse se volle maniffestare deli chostumi de questo huomo",
+    "it_catilina": "De’ costumi del quale uomo un poco riconterò, in prima che io faccia cominciamento di mio dire",
+    "es_catilina": "pero primero diré alguna cosa de sus costunbres antes que faga comienço del cuento"
+  }
+],
+"039": [
+  {
+    "la_catilina": "L. Catilina, nobili genere natus, fuit magna vi et animi et corporis, sed ingenio malo pravoque",
+    "vec_catilina": "Luzio Chattelina fo di nobille famiglia, di vigore d’animo he de statura de corpo grande, de ingiegno chativo et perverso",
+    "it_catilina": "Lucio Catilina di nobile sangue fu nato, uomo di grande e poderosa virtù d’animo e di corpo; ma fu d’ingegnamento reo e perverso",
+    "es_catilina": "Lucio Catilina fue de noble linage e de grande coraçón e fuerça del cuerpo, pero de mal ingenio e malicioso",
+    "fr_catilina": "Luces Catiline fu de noble lignage, de grant force de cors et de grant hardement de cuer; mes de maliciex engin fu" 
+  }
+],
+"040": [
+  {
+    "la_catilina": "Huic ab adulescentia bella intestina, caedes, rapinae, discordia civilis grata fuere ibique iuventutem suam exercuit",
+    "vec_catilina": "al qualle in la adolessenzia soa fo molto a gratto le guere domestize, gli homizidii, le rappine et la ziville dischordia et in questo exerzittò la sua giovineza",
+    "it_catilina": "E da sua prima gioventù le brighe dentro alla città, le fedite, li micidii, le rapine a lui piacquono molto; e eziandio poichè fu fatto uomo in queste cotali cose continuamente studiò e brigò",
+    "es_catilina": "Este sienpre desde mançevo le pluguieron batallas secretas, muertes, robos, discordias en la cibdad de Roma e en estas cosas era a él usança de su virtud",
+    "fr_catilina":"Il usa toute sa jovente en mauveses euvres, si comme en homicides, en roberies, en meslees et toutes discordes"
+  }
+],
+"041": [
+  {
+    "la_catilina": "Corpus patiens inediae, algoris, vigiliae supra quam cuiquam credibile est",
+    "vec_catilina": "El chorpo suo paziente fo di fame et di fredo et de vigillare, oltra quello che sia chredibille ad alchuno a richordarsi",
+    "it_catilina": "Il suo corpo era sofferente di fame e di freddo e di vegghiare, più che uomo credere potesse",
+    "es_catilina": "Sufría fanbre e frío e velava cosa que non es de creer",
+    "fr_catilina": "Il pooit sosfrir faim, froit, veillier, et autres travax plus que l'en ne porroit croire"
+  }
+],
+"042": [
+  {
+    "la_catilina": "Animus audax, subdolus, varius, cuius rei lubet simulator ac dissimulator, alieni adpetens, sui profusus, ardens in cupiditatibus; satis eloquentiae, sapientiae parum",
+    "vec_catilina": "Ardido d’animo, mallizioxo, vario, simulladore de chadauna cossa et dissimulladore, dexideroso de l’altrui, del suo prodigo, ardentissimo nelle sue chupidittà, molto elloquente ma pocho prudente",
+    "it_catilina": "il suo animo era ardito, malizioso e isvariato, e qual cosa volea infignea e dimostrava, e qual volea diffignea e celava: dell’altrui desideroso; del suo ispargitore; tutto acceso di desiderii; assai bello parlatore; savio poco",
+    "es_catilina": "Avía coraçón audaz, engañoso, variable e de todas las cosas simulador e disimulador, cobdicioso, desordenado de lo ageno e ardiente en la cobdicia, açaz de buena fabla, pero poca sabiduría",
+    "fr_catilina": "Hardi corage avoit, trichierres estoit, divers, feinz, covoitex de l'autrui, gasterres deu suen, de grant parole, de petite science"
+  }
+],
+"043": [
+  {
+    "la_catilina": "Vastus animus inmoderata, incredibilia, nimis alta semper cupiebat",
+    "vec_catilina": "l’ampio animo suo sempre dexiderava chosse senza modo et inchredibille et piui alte del ragionevolle",
+    "it_catilina": "il suo ismisurato animo cose ismoderate, non credibili, e sempre troppo alte, desiderava",
+    "es_catilina": "Áspero de condición sienpre cobdiciava cosas muy altas sin medida e non de creer"
+  }
+],
+"044": [
+  {
+    "la_catilina": "Hunc post dominationem L. Sullae lubido maxuma invaserat rei publicae capiundae; neque id quibus modis adsequeretur, dum sibi regnum pararet, quicquam pensi habebat",
+    "vec_catilina": "Questui drietto il dominio de L. Silla ave’ grandissimo dexiderio de uxurparssi la republicha; né, mentre se aquistasse il regno, punto pensava que modi lui tegnisse",
+    "it_catilina": "Onde, dopo la signoria ch’ebbe di Roma uno, che fu chiamato Lucio Silla, era venuta a Catilina la voglia e desiderio grandissimo di prenderla e d’averla egli; nè guardava che dire nè che fare, pure che egli potesse venire al suo intendimento",
+    "es_catilina": "Este ovo grande cobdicia desordenada de aver a su mano la cosa pública después que Lucio Sila ovo el señorío, e non avía en él peso nin medida por qué manera lo alcançaría tanto que él oviese el regimiento e govierno"
+  }
+],
+"045": [
+  {
+    "la_catilina": "Agitabatur magis magisque in dies animus ferox inopia rei familiaris et conscientia scelerum, quae utraque iis artibus auxerat, quas supra memoravi",
+    "vec_catilina": "Vazillava l’animo feroze hogni dì piui et per povertà et per la consienzia del so mal fare, le qual due chosse ’gli avea agranditto con quelle arte che di sopra hè dette",
+    "it_catilina": "E a questo il suo animo s’incitava e s’accendea ogni dì più, per cagione della sua povertà e necessità, e perch’egli si sentia aver fatto molto di male: le quali due cose egli avea proseguitate e accresciute con quelle sue malvage arti, che io ho detto di sopra",
+    "es_catilina": "Cada día era más movido a esto el su coraçón cruel, considerando la su gran mengua e fechos feos, las quales dos cosas sienpre acrescentavan en las artes suyas que de suso conté"
+  }
+],
+"046": [
+  {
+    "la_catilina": "Incitabant praeterea corrupti civitatis mores, quos pessuma ac divorsa inter se mala, luxuria atque avaritia, vexabant",
+    "vec_catilina": "Inzitavalo ancora gli choperti chostumi della zittà, gli qualli luxuria et avarizia, pessimi et diversi, avea sì malle conturbatta",
+    "it_catilina": "Incitavalo ancora e movealo altra cosa, cioè ch’egli vedeva corrotti e immalvagiti li costumi della città e de’ cittadini, i quali erano occupati da due pessimi mali, l’uno de’ quali è contrario all’altro: e questi mali erano lussuria e avarizia",
+    "es_catilina": "Otrosí era acuciado por las corruptas maneras de la cibdad, a la qual muy malos e diversos pecados entre sí atormentavan, conviene saber, luxuria e avaricia"
+  }
+],
+"047-048": [
+  {
+    "la_catilina": "Res ipsa hortari videtur, quoniam de moribus civitatis tempus admonuit, supra repetere ac paucis instituta maiorum domi militiaeque, quo modo rem publicam habuerint quantamque reliquerint, ut paulatim inmutata ex pulcherruma atque optuma pessuma ac flagitiosissuma facta sit, disserere",
+    "vec_catilina": "La cossa instessa par che chomforte che uno pocho io dicha piui alto d’i chostumi della zittà e delli instituti delli nostri mazori, et im paxe et in guerra, im brieve io rezitte et in que modo la republicha ’gli abia rizevutta, quanta gli abiano lassatta, che, a pocho a pocho transmutata de bellissima et optima, pessima et bruttissima fatta sia",
+    "it_catilina": "Ben è vero che questa materia pare che conforti e che richieggia ch’io cominci alquanto più d’innanzi, ricordando brievemente de’ costumi della città, e degli ordinamenti e statuti di nostri maggiori: in che modo egli governarono il comune e in cittade e in oste, e come copioso lo lasciarono; e come a poco a poco sia mutato, di bellissimo e ottimo, e divenuto reissimo e pestilenzioso",
+    "es_catilina": "Por quanto de las costunbres de la cibdad convino de suso fablar la razón requiere que en pocas palabras diga cómo las ordenanças o leyes de los mayores governaron la cosa pública, ansí en las cosas en paz como en las guerras, e eso mesmo en qué estado las dexaron e contaré de cómo de poco a poco mudada de fermosa e muy buena en muy mala e mucho llena de pecados sea fecha"
+  }
+],
+  "049": [
+    {
+      "la_catilina": "Urbem Romam, sicuti ego accepi, condidere atque habuere initio Troiani, qui Aenea duce profugi sedibus incertis vagabantur, cumque iis Aborigines, genus hominum agreste, sine legibus, sine imperio, liberum atque solutum",
+      "vec_catilina": "La zittà de Roma, segondo che io hò intexo, ferono et hebero a prinzipio gli Trogliani, gli qualli fuzendo, essendo loro chapittano Enea, andava herando per inzerti luochi; con questi anchor herano giente chiamatti Aborigine, homeni grossi, liberi et sol, senza legie, senza imperio",
+      "it_catilina": "La città di Roma, siccome io ho inteso e trovato, fondarono e ebbono al cominciamento uomini trojani, li quali erano scampati della distruzione di Troja, e erano venuti errando per mare a diversi luoghi, a guidamento d’un principe trojano, ch’avea nome Enea. Eziandio furon con loro altre genti di poco affare, uomini villani, quasi selvaggi, senza alcuno ordinamento o legge e senza alcuno signore, liberi in tutto",
+      "es_catilina": "La cibdad de Roma, segund que yo sope, fizieron e tovieron en el comienço los de Troya, los quales andavan vagamundos por lugares non ciertos con un su cabdillo, Eneas. E como esta gente de su natura fuesen onbres montañeses sin ley e sin subjeción, libres e sueltos"
+    }
+  ],
+  "050": [
+    {
+      "la_catilina": "Hi postquam in una moenia convenere, dispari genere, dissimili lingua, alii alio more viventes, incredibile memoratu est, quam facile coaluerint: ita brevi multitudo dispersa atque vaga concordia civitas facta erat",
+      "vec_catilina": "Dapo’ che questoro, ch’erano de diversa gienerazione, de lingua dessimille, de diversi chostumi, in una zittà se congiunsero, hè cossa inchredibille chome tosto multiplicharono",
+      "it_catilina": "Questi Trojani e questa altra gente, che detta è, poiché in una città s’adunarono, essendo di diseguale generazione e di dissimigliante lingua, ed avendo altri e diversi costumi, non si potrebbe quasi ben credere come tosto s’accordarono e moltiplicarono",
+      "es_catilina": "después que estos onbres de diversas nasciones e lenguas e desemejadas maneras de bivir se ayuntaron en un lugar e una cerca, non es cosa de creer a quien lo cuente quant aýna crescieron"
+    }
+  ],
+  "051": [
+    {
+      "la_catilina": "Sed postquam res eorum civibus, moribus, agris aucta satis prospera satisque pollens videbatur, sicuti pleraque mortalium habentur, invidia ex opulentia orta est",
+      "vec_catilina": "Ma poi la fachultà loro fo agranditta di zittadini, di chostumi, di champi et che assai prospera pareva et exzellente, segondo la uxanza delle cosse temporalle, la invidia nasse dela abondanzia",
+      "it_catilina": "Ma, poichè i lor fatti per cittadini, per costumi e possessioni parve ch’andassono innanzi, e che crescessono assai, e assai si manifestassono; della loro ricchezza nacque invidia, la quale molti aveano verso loro, siccome spasso avviene a chi ha delle cose mondane",
+      "es_catilina": "Onde después que la su fazienda por las costunbres buenas de la cibdad fue acrescentada en los canpos, parescía resplandeciente e de buena ventura. Pero segund en los coraçones de los mortales acaesce, de la grande abundancia nasció inbidia"
+    }
+  ],
+  "052": [
+    {
+      "la_catilina": "Igitur reges populique finitumi bello temptare, pauci ex amicis auxilio esse; nam ceteri metu perculsi a periculis aberant",
+      "vec_catilina": "Adonque li populi et li re prossimi li chominziò far guera, pochi delli amixi gli alturiavano; gli altri, perchossi da paura, se dillongavano dagli pericholli",
+      "it_catilina": "E per questa cagione i signori e le genti de’ confini cominciarono a muovere lor guerra; e di loro amici erano pochi, che loro facessono ajutorio: perocchè gli altri per paura si ritraevano e si cessavano, non volendosi mettere a pericolo per loro",
+      "es_catilina": "e los comarcanos reyes començaron a los tentar por guerra e avían pocas ayudas de amigos, ca por miedo refuían los peligros"
+    }
+  ],
+
+"053": [
+  {
+    "la_catilina": "At Romani domi militiaeque intenti festinare, parare, alius alium hortari, hostibus obviam ire, libertatem, patriam parentisque armis tegere",
+    "vec_catilina": "Ma li Romani, ch’erano intenti et a chaxa et alla millizia, chominzorono a frezarse et aparechiarsse; l’uno con l’altro confortare; andare contra gli nemizi; la libertà, la patria, li parenti soi con le arme deffender",
+    "it_catilina": "Ma gli Romani nella città e nell’oste presono attesamente e sollicitamente ad avvacciare ed apparecchiare quel ch’era mestieri; e a confortare l’uno l’altro; e ad andare contra a’ lor nemici; e a difendere per potenzia d’arme la lor libertà e la loro cittade e li lor parenti",
+    "es_catilina": "Enpero los romanos, avisados en las cosas civiles e de la guerra, acauciavan e aparejavan, e unos a otros enduzían e amonestavan salir delante a los enemigos, e la libertad e la tierra defenderla e anpararla por armas, otrosí los parientes"
+  }
+],
+"054": [
+  {
+    "la_catilina": "Post, ubi pericula virtute propulerant, sociis atque amicis auxilia portabant magisque dandis quam accipiundis beneficiis amicitias parabant",
+    "vec_catilina": "Et ov’egli avea fugatti li pericholli, con la virtù agli compagni et agli amixi alturiavano; et, più dando li beneffizii ad altrui che rezevando, le amizizie aquistavano",
+    "it_catilina": "E, poi ch’eglino per lor virtude li pericoli aveano sbrigati e mandati via, davano ajutorio a’ lor compagni e amici; e tuttora più in dare che in ricevere si brigavano d’acquistare amistà",
+    "es_catilina": "Después de desechados sus peligros por su buena virtud, ayudavan a sus aliados e amigos e buscavan amistanças más para dar que rescebir bien fecho"
+  }
+],
+"055": [
+  {
+    "la_catilina": "Imperium legitimum, nomen imperi regium habebant",
+    "vec_catilina": "Et il legitimo imperio ave’ nome de realle imperio",
+    "it_catilina": "Aveano eziandio signoria secondo statuti bene ordinati; e il lor signore si chiamava Re",
+    "es_catilina": "Avían inperio o señorío, el qual era nonbre de rey"
+  }
+],
+"056a": [
+  {
+    "la_catilina": "Delecti, quibus corpus annis infirmum, ingenium sapientia validum erat, rei publicae consultabant",
+    "vec_catilina": "Furono helletti alchuni, gli quali, benché avesseno il chorpo debelle de anni, egli avevano lo ingiegno de sappienzia exzellente he vallido. Questoro provedevano ala republicha",
+    "it_catilina": "Ed erano certi consiglieri del comune scelti a ciò, uomini del corpo deboli e men possenti per molto tempo ch’aveano, ma dell’animo potenti e pieni di sapienzia; e egli avevano cura de’ fatti del comune",
+    "es_catilina": "Escogían a los que eran de coraçón e cuerpo flaco e por sabiduría rezios de ingenio, los quales aconsejavan a la cosa pública"
+  }
+],
+"056b": [
+  {
+    "la_catilina": "hi vel aetate vel curae similitudine patres appellabantur",
+    "vec_catilina": "he furon chiamatti padre per simillittudine ho de hettade ho de pensiero",
+    "it_catilina": "e questi chiamavano Padri, o per lo tempo, ovvero per tal somiglianza, siccome padre di suo figliuolo",
+    "es_catilina": "E los tales eran llamados padres o por edad o por semejança de cura, ca curavan ansí como padres de fijos"
+  }
+],
+"057": [
+  {
+    "la_catilina": "Post, ubi regium imperium, quod initio conservandae libertatis atque augendae rei publicae fuerat, in superbiam dominationemque se convortit",
+    "vec_catilina": "Ma poi che questo imperio regalle, el qualle a prinzipio fo instituido per conservare la libertà ho de agrandire la republicha, in superbia et in signoria si conversò",
+    "es_catilina": "Desque el inperio real, el qual en el escomienço fizieron por conservar la cosa pública e acrescentarla, se levantó e se tornó en sobervia de querer enseñorear"
+  }
+],
+"058": [
+  {
+    "la_catilina": "inmutato more annua imperia binosque imperatores sibi fecere: eo modo minume posse putabant per licentiam insolescere animum humanum",
+    "vec_catilina": "chominzò a muttar chostumi: allora si feze doi imperadori, l’imperio degli qualli durava uno anno; a questo modo penssavano l’animo humano non posser diventare per lizenzia insolente",
+    "es_catilina": "mudada la costunbre, fizieron dos enperadores anales, ca por aquella manera non pensavan ser trastornados los coraçones de los onbres"
+  }
+],
+"059": [
+  {
+    "la_catilina": "Sed profecto fortuna in omni re dominatur; ea res cunctas ex lubidine magis quam ex vero celebrat obscuratque",
+    "vec_catilina": "Ma zerto in ogni chossa la fortuna hè madona; ma egli tute le cosse piui tosto perché chussì gli piasse cha per deritta he per meritti fa nobille et hoschure",
+    "it_catilina": "perocchè la ventura signoreggia in tutte cose, ed ella fa che le cose sieno lodate e famose, o che rimangano senza lode o fama, secondo la sua volontà, più che secondo la verità",
+    "es_catilina": "Enpero la fortuna en toda cosa se enseñorea e estas cosas más las alaba o tiene en poco por sola voluntad, que non por la verdad d’ellas"
+  }
+],
+"060": [
+  {
+    "la_catilina": "Atheniensium res gestae, sicuti ego aestumo, satis amplae magnificaeque fuere, verum aliquanto minores tamen, quam fama feruntur",
+    "vec_catilina": "Segondo ch’io penso, gli fatti delli Attheniexi furono ampli assa’ et magniffizi, ma zerto alquanto minore che la fama non sona",
+    "it_catilina": "i fatti degli Ateniesi, siccome io penso e credo, furono assai grandi e magnifichi, veramente alcuna cosa minori a rispetto della grande fama che di loro è",
+    "es_catilina": "Los fechos de los de Atenas, segund pienso, fueron asaz magníficos e grandes, pero algund tanto fueron menores que la fama es"
+  }
+],
+"061": [
+  {
+    "la_catilina": "Sed quia provenere ibi scriptorum magna ingenia, per terrarum orbem Atheniensium facta pro maxumis celebrantur",
+    "vec_catilina": "Ma perché ive grande inzegni de schripttori pervenero, gli fatti delli Attheniexi per lo universo mundo sono zellebratti grandissimi",
+    "it_catilina": "Ma, perchè infra loro intervennono scrittori molto ingegnosi, però li loro fatti per lo mondo sono reputati e avuti per famosi e per grandissimi",
+    "es_catilina": "Enpero por quanto aý fueron grandes ingenios de escriptores, por todo el mundo los fechos de los atenienses por grandes son contados e d’ello se faze fiesta"
+  }
+],
+"062": [
+  {
+    "la_catilina": "Ita eorum, qui fecere, virtus tanta habetur, quantum eam verbis potuere extollere praeclara ingenia",
+    "vec_catilina": "Da tanto hè riputata la virtù de quelloro che li ferono, quanto li potterono con parlare augmentare gli nobelli inzegni",
+    "it_catilina": "e la loro virtù è tenuta per tanta, quanta potè in parole essere esaltata e lodata da’ chiari e nobili ingegni di loro scrittori",
+    "es_catilina": "Ansí que tanto loor es dado a los que los fechos fizieron quanto los intelectos e buenos ingenios de los escriptores por palabras los pudieron alabar e ensalçar"
+  }
+],
+"063": [
+  {
+    "la_catilina": "At populo Romano numquam ea copia fuit, quia prudentissumus quisque maxume negotiosus erat: ingenium nemo sine corpore exercebat",
+    "vec_catilina": "Ma al popullo de Roma non fu quella chopia de schripttori, perché zaschuno prudentissimo hera hochupattissimo: niuno exerzittava l’inzegno et l’animo senza il chorpo",
+    "it_catilina": "Il contrario di ciò fu in Roma, perchè non vi fu mai quella copia di scrittori: chè ciascuno savissimo di loro era molto grande operatore; lo ingegno solo, senza il fare corporalmente, non era chi brigasse",
+    "es_catilina": "El pueblo romano nunca ovo tales escriptores, por quanto el que más sabía era más negociado en otras cosas e non curava de usar el ingenio sin el cuerpo"
+  }
+],
+"064": [
+  {
+    "la_catilina": "optumus quisque facere quam dicere, sua ab aliis benefacta laudari quam ipse aliorum narrare malebat",
+    "vec_catilina": "zaschuno perfetto dexiderava piui tosto de fare cha de dire, dexiderava piui tosto de fir laudatto tra gli altri per ben fare cha egli vollesse gli ben fatti altrui",
+    "it_catilina": "ciascuno ottimo volea piuttosto fare che dire, e che i suoi fatti fossono detti da altrui, che non voleano dire gli fatti d’altri",
+    "es_catilina": "antes era qualquier presto a fazer que non a dezir nin escrevir; e otrosí más quería cada uno sus fechos buenos ser de otros que de sí mesmos alabados"
+  }
+],
+"065-066": [
+  {
+    "la_catilina": "Igitur circiter Kalendas Iunias L. Caesare et C. Figulo consulibus primo singulos appellare, hortari alios, alios temptare; opes suas, inparatum rem publicam, magna praemia coniurationis docere",
+    "vec_catilina": "Adonque, zercha le challende de zugno, essendo Luzio Zexaro et Gaio Figullo chonsolli chominziò prima ogniuno singularmente apellare; altri chomfortare; altri temptare et chontaminare; ge feze vedere et le soe forze et la republicha esser improvixa et gram premii seguire la coniurazione",
+    "it_catilina": "Ond’egli nel tempo d’intorno a calen di giugno, essendo consoli Lucio Cesare e Cajo Figulo cominciò prima a parlare a cui li parea ad uno ad uno; alcuni confortando, e alcuni tastando; e ragionando di sue ricchezze e potenzia, e del comune mal guarnito e de’ grandi guiderdoni e utilità, che per la congiurazione seguire mostrava",
+    "es_catilina": "Cerca de las calendas de junio, seyendo Lelio César e Gayo Fígulo cónsules escomençó de los llamar singularmente; el a unos amonestava e a otros mostrava sus riquezas aparejadas e la cosa pública descuidada, amostrava los grandes gualardones que se seguirían del tracto de la conjuración"
+  }
+],
+"067": [
+  {
+    "la_catilina": "Ubi satis explorata sunt, quae voluit, in unum omnis convocat, quibus maxuma necessitudo et plurumum audaciae inerat",
+    "vec_catilina": "Poi che hebe al suo modo examinatto el tutto, chiamò questoro tuti in uno convinti et che aveano grandissimo argumentto",
+    "it_catilina": "Poich’egli ebbe assai spiato e cercato quel ch’egli volle, fece chiamare tutti quegli ch’erano suoi grandi amici e di molto ardire",
+    "es_catilina": "Desque asaz vido e tractó todas las cosas que quiso, llamó en uno a todos aquellos que avían muchas necesidades e mucha audacia"
+  }
+],
+"068": [
+  {
+    "la_catilina": "Eo convenere senatorii ordinis P. Lentulus Sura, P. Autronius, L. Cassius Longinus, C. Cethegus, P. et Ser. Sullae Ser. filii, L. Vargunteius, Q. Annius, M. Porcius Laeca, L. Bestia, Q. Curius",
+    "vec_catilina": "Chonvenero lì insieme de l’ordene del senado: Publio Luzio Surra, Publio Anthonio, Luzio Chassio Longino, Gaio Zettego, Publio Servio, figliolo de Silla Servo, Luzio Vargonteo, Quinto Annio, Marcho Porzio Lecha, Luzio Bestia, Quinto Churio",
+    "it_catilina": "A ciò s’adunarono de’ senatori questi, cioè: P. Lentulo Sura, P. Autronio, L. Cassio Longino, G. Cetego, P. Servio figliuolo di Silla Servio, L. Vargonteo, Q. Annio, M. Porzio Leca, L. Bestia, Q. Curio",
+    "es_catilina": "A esto se ayuntaron de los de la orden del Senado: Publio Léntulo Sura, Publio Antonio, Lelio Casio Longino, Gayo Cetego, Publio Servio, fijo de Sila Servio, Lelio Vargunteo, Quinto Avio, Marco Porcio Leca, Lelio Bestia, Quinto Curio"
+  }
+],
+"069": [
+  {
+    "la_catilina": "praeterea ex equestri ordine M. Fulvius Nobilior, L. Statilius, P. Gabinius Capito, C. Cornelius; ad hoc multi ex coloniis et municipiis domi nobiles",
+    "vec_catilina": "de l’ordine equestre: Marcho Fulvio el più nobille, Luzio Statillio, Publio Gabinio Chapitto, Chaio Chornellio; ancora del contado he chastellanze, nobilli a chaxa loro",
+    "it_catilina": "Anche d’ordine di cavalleria: M. Fulvio Nobiliore, L. Statilio, P. Gabinio Capitone, G. Cornelio. Anche molti altri uomini delle terre e delle altre castella d’intorno",
+    "es_catilina": "e de los de orden de cavallo: Marco Fulvio, Lucio Estalio, Publio Gabino Capito, Gayo Cornelio, e eso mesmo muchos de las aldeas e castillos e otros nobles",
+    "fr_catilina": "Des chevaliers i furent Marcus Fulvius, Lucius Statilius, Publius Gabinius Capito, Gaius Cornelius. Des viles de hors et des chastiax i ot tant que merveille fu"
+  }
+],
+"070": [
+  {
+    "la_catilina": "Erant praeterea complures paulo occultius consili huiusce participes nobiles, quos magis dominationis spes hortabatur quam inopia aut alia necessitudo",
+    "vec_catilina": "Erano anchora alchuni nobilli piui ochultamente partizipevolli de questo consiglio, gli qualli piui herano indutti a questo dalla speranza del dominare cha per inopia ho per altro senestro",
+    "it_catilina": "Erano anche molti altri uomini gentili partecipi di questo consiglio e fatto, ma un poco più occultamente: li quali si moveano a ciò più per speranza di signoreggiare, che per povertà o per altra amistà di Catilina",
+    "es_catilina": "E avía otrosí otros nobles escondidamente particioneros d’esto, los quales eran movidos más por esperança de enseñorear que non por mengua o nescesidad",
+    "fr_catilina": "Et mout i ot de nobles homes qui covertement se tenoient a Catiline, non pas por poverte, mes por covoitise de monter en hautece"
+  }
+],
+"071": [
+  {
+    "la_catilina": "Ceterum iuventus pleraque, sed maxume nobilium, Catilinae inceptis favebat; quibus in otio vel magnifice vel molliter vivere copia erat, incerta pro certis, bellum quam pacem malebant",
+    "vec_catilina": "Ma alguna parte della gioventù, he maximamente gli nobilli, favoreziavano agli prinzipii de Chattellina, gli qualli herano uxadi de vivere ho dellichattamente ho in ozio o sul magnifficho, gli preponeva le cosse inzerte ale zerte et la guera alla paxe",
+    "it_catilina": "Anche la moltitudine de’ giovani, e specialmente de’ gentili, dava favore a quello che Catilina avea cominciato. Quegli, gli quali aveano riposo e agio di vivere magnificamente ovvero dilicatamente, desideravano le cose non certe avendo le certe; e piuttosto voleano briga che pace",
+    "es_catilina": "E en esto la mancebía, pero más de los nobles, avían favor a lo començado por Catilina aunque podían vivir honrosa e delicadamente, e más querían las cosas non ciertas que las ciertas, e la guerra que non la paz"
+  }
+],
+"072": [
+  {
+    "la_catilina": "Fuere item ea tempestate, qui crederent M. Licinium Crassum non ignarum eius consili fuisse; quia Cn. Pompeius, invisus ipsi, magnum exercitum ductabat",
+    "vec_catilina": "Furon ancora alchuni che a quel tempo chredetteno Marcho Luzio Chrasso aver sapudo de quel conseglio, perché Gneo Pompeo, il qualle g’era inemicho, guidava grande exerzitto",
+    "it_catilina": "Furono alcuni in quello tempo, che credettono che uno grande gentile uomo di Roma, ch’avea nome M. Licinio Crasso, sentisse e s’accordasse alla intenzione di Catilina; perocchè il detto Crasso avea molto in odio Gn. Pompeo, il quale era signore d’una grande oste",
+    "es_catilina": "Fueron en este tiempo algunos que pensaron que Marco Lucio Craso fuera sabidor d’este consejo, por quanto Ponpeyo, segund dixe, el qual era su enemigo, tenía grande hueste"
+  }
+],
+"073": [
+  {
+    "la_catilina": "cuiusvis opes voluisse contra illius potentiam crescere, simul confisum, si coniuratio valuisset, facile apud illos principem se fore",
+    "vec_catilina": "et però Chrasso averia consentido ogni possanza chresser chontra la possanza de Pompeo: anchora se fidava che, se la coniurazion prozedesse, lezieremente dovere avenire che egli fusse prinzipio agli coniuranti",
+    "it_catilina": "Onde credesi che il detto Crasso avrebbe voluto che la potenzia di Catilina, o di qualunque altro, fosse cresciuta contra quella di Pompeo: anche perchè si confidava che, se la congiurazione avesse avuto luogo, egli leggermente sarebbe stato lor principe",
+    "es_catilina": "la qual quisiera Marco ser vencida por mano de otro qualquier, e otrosí confiando que si saliesen con la conjuración, que ligeramente él sería cerca d’ellos príncipe"
+  }
+],
+"074": [
+  {
+    "la_catilina": "Sed antea item coniuravere pauci contra rem publicam, in quibus Catilina fuit. De qua, quam verissume potero, dicam",
+    "vec_catilina": "Ma inanzi avea coniuratto anchora alguni, benché pochissimi, contra la republicha, in gli quagli fo Chattellina; della qual coniurazione dirò quanto verissimamente potrò",
+    "it_catilina": "Innanzi che si facesse questa congiurazione, n’era suta fatta un’altra in Roma da pochi uomini, fra’ quali fu Catilina: della qual congiurazione io dirò quanto potrò più brieve",
+    "es_catilina": "Pero antes d’estas cosas, avían fecho tracto de conjuración algunos pocos contra la cosa pública, entre los quales fue Catilina. De la qual conjuración yo diré lo más verdadero que podré"
+  }
+],
+"075": [
+  {
+    "la_catilina": "L. Tullo et M'. Lepido consulibus P. Autronius et P. Sulla designati consules legibus ambitus interrogati poenas dederant",
+    "vec_catilina": "Luzio Thullio et Marcho Lepido essendo chonssolli, Publio Anthonio he Publio Silla – chonssulli helletti – furon chondenatti, ché egli falsamente avesseno impetratto quella dignittà",
+    "it_catilina": "Essendo consoli L. Tullio e M. Lepido, furono chiamati consoli P. Autronio e P. Silla, li quali non ebbono la signoria; anzi furono condannati per una legge, che si chiamava legge d’ambito",
+    "es_catilina": "Lelio Tulio e Marco Lépido seyendo cónsules, fueron designados e nonbrados por cónsules Publio Antonio, Publio Sila, los quales fueron desechados de la honra por una ley que mandava que los cobdiciosos sin medida de los oficios e dignidades fuesen privados de los oficios",
+    "fr_catilina": "Lucius Tullius et Marchus Lepidus estoient consele; Lucius Autronius et Publius Silla furent nome et esleu a consele a l'an apres; mes il furent ateint que il en avoient done loier au senat; por ce ne porent estre consele"
+  }
+],
+"076": [
+  {
+    "la_catilina": "Post paulo Catilina pecuniarum repetundarum reus prohibitus erat consulatum petere, quod intra legitumos dies profiteri nequiverat",
+    "vec_catilina": "Pocho drietto Chattelina, essendo cholpevelle per dinari iniustamente rizevutti, fu impazatto nel dimandare del chonsullatto, perché lui non possette li ditti danari rendere al termine legittimo a lui signatto",
+    "it_catilina": "Da indi a poco Catilina, domandando il consolato, fu posto colpevole per una legge che si chiamava Repetundarum; della qual cosa infra certo termine non potendosi scusare legittimamente, fu vietato, secondo la detta legge, che non potesse il consolato addomandare",
+    "es_catilina": "E desí Catilina non podía aver el consulado por quanto era debdor e non avía pagado en el término nin conoscía la debda segund la ley que se dezía De repentudis",
+    "fr_catilina": "Catilina meismes, qui le cuidoit estre, ne pot, car il refu atainz d'une deite que il noioit a un qui li avoit creu son avoir"
+  }
+],
+"077": [
+  {
+    "la_catilina": "Erat eodem tempore Cn. Piso, adulescens nobilis, summae audaciae, egens, factiosus, quem ad perturbandam rem publicam inopia atque mali mores stimulabant",
+    "vec_catilina": "Hera in quello tempo uno giovinetto nobille de suma audazia, ma bixognoxo et de dischordia dexideroxo, Gneo Pixone chiamatto, el qualle per povertà he per chattivi chostumi hera stimullatto a perturbare la republicha",
+    "it_catilina": "In quel tempo era uno nobile giovane in Roma, il quale avea nome Gn. Pisone, di grandissimo ardire, operoso, e ordinatore di tradimenti; il quale s’incitava e si movea a sturbare la repubblica per la sua povertà e per li suoi mali costumi",
+    "es_catilina": "E en este tienpo era un mancebo Gueyo Piso, noble e de muy grande osadía, pobre e tratador, el qual era movido a conturbiar la cosa pública por la mengua que avía e por sus malas costunbres"
+  }
+],
+"078": [
+  {
+    "la_catilina": "Cum hoc Catilina et Autronius circiter Nonas Decembris consilio communicato parabant in Capitolio Kalendis Ianuariis L. Cottam et L. Torquatum consules interficere, ipsi fascibus correptis Pisonem cum exercitu ad obtinendas duas Hispanias mittere",
+    "vec_catilina": "Im chompagnia de questui Chattellina et Anthonio, avendo chomunichatto tra sé il consiglio zercha le none de dezembre, aparechiavano de uzidere Luzio Chotta et Luzio Torquatto chonssolli nel Chapittollio alle challende de zenaro et lor pigliare gli hornamenti degli chonssolli; poi mandare deliberavano Pixone ad optignire l’una et l’altra Ispagnia",
+    "it_catilina": "Con questo Pisone Catilina e Autronio accomunati e manifestato loro intendimento, trattarono insieme all’entrata di dicembre, e ordinarono che anzi calen di gennajo dovessono uccidere li consoli, ch’erano allora L. Cotta e L. Torquato; e che eglino, presa la signoria e gli onori, dovessono mandare Pisone con grande oste a conquistare le due Spagne",
+    "es_catilina": "E con este avido consejo Catilina e Antonio, cerca de las nonas de diciembre, ordenaron de matar a Lelio Cota e a Lelio Torquio, cónsules, en el Capitolio en las calendas de enero, e dispusieron de enbiar a Piso a tomar las dos Españas"
+  } 
+],
+"079": [
+  {
+    "la_catilina": "Ea re cognita rursus in Nonas Februarias consilium caedis transtulerant",
+    "vec_catilina": "La qual cossa comprexa et chonossutta fo però; el conseglio del malliffizio delliberò de perlungare perfina alle none de febraio",
+    "it_catilina": "Questa cosa fu scoperta, e non potè venire fatta: onde egli ordinarono d’indugiare il fatto in sino al quinto di febbrajo",
+    "es_catilina": "Lo qual sabido por los cónsules, otra vez tornaron a ordenar la muerte e traspasaron el consejo a las nonas de febrero"
+  } 
+],
+"080": [
+  {
+    "la_catilina": "Iam tum non consulibus modo, sed plerisque senatoribus perniciem machinabantur",
+    "vec_catilina": "Et allora non sollamente li conssoli, ma eziandio molti senattori intendevano de uzidere",
+    "it_catilina": "e allora trattavano d’uccidere non solamente i consoli, ma eziandio molti de’ senatori",
+    "es_catilina": "Pero ya non solamente tratavan mal para los cónsules, más aún a muchos senadores"
+  }
+],
+"081": [
+  {
+    "la_catilina": "Quod ni Catilina maturasset pro curia signum sociis dare, eo die post conditam urbem Romam pessumum facinus patratum foret",
+    "vec_catilina": "Ché, se Chattellina non fosse stato tropo presto in dover far motto agli chompagni, serebe quel ziorno drietto agli fondamenti di Roma fatto una grandissima he pessima fellonia et malle",
+    "it_catilina": "La qual cosa sarebbe loro venuta fatta, e sarebbe suta la peggiore che fosse mai in Roma dappoichè ella fu dificata; Catilina, essendo alla corte, ebbe troppo gran fretta di far segno a’ suoi ch’e’ cominciassono la briga",
+    "es_catilina": "E si Catilina non fiziera señal a sus conpañeros antes de tienpo, nunca tan feo fecho fuera cometido desde que la cibdad de Roma encomençó fasta aquel día"
+  }
+],
+"082": [
+  {
+    "la_catilina": "Quia nondum frequentes armati convenerant, ea res consilium diremit",
+    "vec_catilina": "Ma perché gli chompagni non herano anchor adunatti con le arme, quel conseglio chattivo non hebe effetto",
+    "it_catilina": "ma rimase, anzichè molti di sua gente fossono armati e venuti",
+    "es_catilina": "pero fue su consejo desbaratado porque la gente de armas aún non era llegada"
+  }
+],
+"083": [
+  {
+    "la_catilina": "Postea Piso in citeriorem Hispaniam quaestor pro praetore missus est adnitente Crasso, quod eum infestum inimicum Cn. Pompeio cognoverat",
+    "vec_catilina": "Drietto a questo Pixone, che hera allora questore in luocho de prettore, fo mandatto nella Ispania zitteriore et a questo affattichossi Chrasso, perché chognosseva ch’el era nemicho de Gneo Pompeo",
+    "it_catilina": "Poscia Pisone fu mandato da’ Romani nella Spagna di qua per signore e questore. Questo mandamento procacciò M. Licinio Crasso; perocch’egli sapea bene che Pisone era contrario e nemico di Pompeo",
+    "es_catilina": "Desí Piso fue enbiado por los romanos en la más cercana España por cuestor, que era tesorero, e esto fue fecho por consejo de Craso, porque sabía que Piso era enemigo de Gueyo Ponpeyo"
+  }
+],
+"084": [
+  {
+    "la_catilina": "Neque tamen senatus provinciam invitus dederat; quippe foedum hominem a republica procul esse volebat, simul quia boni conplures praesidium in eo putabant et iam tum potentia Pompei formidulosa erat",
+    "vec_catilina": "Ma el senado non però li consegnò quella provinzia malvollentieri, perché hera contento che chussì chattivo huomo se luntanasse dala republicha; et anchora molti boni pensavano ziò essere uttille, perché la possanza de Gneo Pompeo hera timoroxa",
+    "it_catilina": "Al senato medesimo non dispiacque di mandarlo a quella signoria, perocchè voleano che così malvagio uomo stesse di lungi da Roma e dalla repubblica; e anche perocchè molti eziandio buoni uomini romani faceano capo a lui, siccome ad ajutatore della repubblica: onde il mandarono là, sapendo bene che la potenzia di Pompeo v’era grande assai",
+    "es_catilina": "Pero non fue enbiado a aquella provincia Piso contra voluntad del Senado, mas porque quisieron que onbre tan vil fuese alexado de la cosa pública, e otrosí porque muchos buenos esperavan en él defendimiento e porque avían miedo al poderío de Ponpeyo"
+  }
+],
+"085": [
+  {
+    "la_catilina": "Sed is Piso in provincia ab equitibus Hispanis, quos in exercitu ductabat, iter faciens occisus est",
+    "vec_catilina": "Ma questo Pixone, andando nella ditta provinzia, nel chamino fo morto dala zente da chavallo de Spagna dell’exerzitto ch’el guidava",
+    "it_catilina": "Ma il detto Pisone vi fu morto da’ cavalieri spagnuoli, ch’egli menava nella sua oste",
+    "es_catilina": "Enpero Piso, en la provincia de España faziendo su camino, fue muerto de los de cavallo que consigo llevava"
+  }
+],
+"086": [
+  {
+    "la_catilina": "Sunt, qui ita dicant: imperia eius iniusta, superba, crudelia barbaros nequivisse pati",
+    "vec_catilina": "Sono alchuni che dichono gli Barbari non avere possutto chomportare il suo imperio ingiusto, superbo he chrudelle",
+    "it_catilina": "Sono alcuni che dicono ch’egli fu morto per cagione che quella gente barbara non potea sostenere il suo signoreggiare ingiusto, superbo e crudele",
+    "es_catilina": "Quieren dezir algunos que los bárbaros españoles non pudieron sofrir sus mandamientos sobervios e crueles"
+  }
+],
+"087": [
+  {
+    "la_catilina": "alii autem: equites illos, Cn. Pompei veteres fidosque clientis, voluntate eius Pisonem aggressos; numquam Hispanos praeterea tale facinus fecisse, sed imperia saeva multa antea perpessos",
+    "vec_catilina": "altri dichono quella giente d’arme essere stati antichi he fedel servi de Gneo Pompeo et per consentimento de lui aver ozixo Pixone, perché gli Spagnuolli non chomesseno mai altro tempo tal fallo, benché molti imperii chrudelli aveano avanti sostenutti",
+    "it_catilina": "altri dicono che quegli, che l’uccisono, furono de’ cavalieri ch’erano suti antichi e fedeli servidori di Pompeo, e che ciò feciono di volontà di Pompeo; e che gli Spagnuoli non avrebbono mai ciò fatto, ch’egli aveano sostenuti innanzi a lui molti duri e aspri signori e crudeli",
+    "es_catilina": "dizen otros que los servidores fieles e criados viejos de Neyo Ponpeyo con su voluntad lo cometieron e nunca los de España fizieron aquel mal fecho. Es verdad que antes avían sofrido muchos regimientos malos"
+  }
+],
+"088": [
+  {
+    "la_catilina": "Nos eam rem in medio relinquemus. De superiore coniuratione satis dictum",
+    "vec_catilina": "Ma questa chossa lassare volgiamo indischuxa. Dela choniuratione mi pare essere detto suffiziente et abondantemente",
+    "it_catilina": "Noi lasciamo stare omai questo: assai avemo detto della prima congiurazione",
+    "es_catilina": "Agora dexamos este negocio en el medio, ca de la conjuración de suso asaz es dicho"
+  }
+],
+"089": [
+  {
+    "la_catilina": "Fuere ea tempestate, qui dicerent Catilinam oratione habita, cum ad ius iurandum popularis sceleris sui adigeret, humani corporis sanguinem vino permixtum in pateris circumtulisse",
+    "vec_catilina": "Furono alchuni a quel tempo che disseno che, poi che Chattellina disse tal parolle, per chomfermare con sachramento tuti quelloro popullari che herano partizipi de suo tradimento, egli a tuti dè da bere nelle taze humano sangue chon vino mischio",
+    "it_catilina": "Furono alcuni che dissono come Catilina, poich’ebbe fatta sua diceria, quand’egli chiamò a sacramento li popolari e compagni della sua malvagità, ch’egli ebbe in coppe sangue d’uomo mescolato con vino",
+    "es_catilina": "Fueron algunos a la sazón que dixeron que Catilina, acabada su amonestación, fiziera fazer a todos cierto juramento, otrosí que les diera a bever, en unos vasos o redomas llamados pateras, sangre de onbres mesclado con vino"
+  }
+],
+"090": [
+  {
+    "la_catilina": "inde cum post exsecrationem omnes degustavissent, sicuti in sollemnibus sacris fieri consuevit, aperuisse consilium suum; atque eo dictitare fecisse, quo inter se fidi magis forent alius alii tanti facinoris conscii",
+    "vec_catilina": "Et, poi che egli hebe gustatto chossì hexechrabile et selleratta chossa, chome solle negli solleni sachreffizii fare, se dize che Chattellina aperse il suo conseglio, po’ che chossì avesse fatto che, siando stato insieme a chussì fatta fellonia, egli tra sé fosseno piui fedeli",
+    "it_catilina": "e quando, dopo quella maladizione, tutti n’ebbono assaggiato, siccome si solea fare in certe sacrate solennità, allora Catilina aperse e dichiarò lo intendimento suo, e disse che ciò avea fatto perchè fra loro fossono più fedeli e fidati, essendo l’uno all’altro sapevoli di tanto male",
+    "es_catilina": "Onde después que lo gustaron, segund en sus sagradas solepnidades se solía fazer, dízese que les descubrió sus consejos, car lo fiziera así que unos a otros fuesen más fieles la hora que en tan grande fazaña de maldad eran particioneros todos"
+  }
+],
+"091": [
+  {
+    "la_catilina": "Nonnulli ficta et haec et multa praeterea existumabant ab iis, qui Ciceronis invidiam, quae postea orta est, leniri credebant atrocitate sceleris eorum, qui poenas dederant",
+    "vec_catilina": "Altri pensavano che queste chosse et molte altre fosseno finte da quelloro che chredeano diminuire l’odio portato a Zizerone, mostrando la chrudelle fellonia de cholloro che per tal fatti furono punitti",
+    "it_catilina": "Furono alcuni altri che credono che questo non fosse vero, e che questa novella e molte simili fossono state messe da certi uomini, per cagione di mitigare l’odio di molti nato contra Cicerone quand’egli fece punire certi de’ congiurati di Catilina",
+    "es_catilina": "Muchos pensaron estas cosas e aún muchas otras ser infingidas por aquellos que creían que por esto se amansaría la inbidia que era contra Cicerón, la qual más fue encendida por la crueldad de las penas que dio a los que fueron en la conjuración"
+  }
+],
+"092": [
+  {
+    "la_catilina": "Nobis ea res pro magnitudine parum comperta est",
+    "vec_catilina": "ma a nui, per la sua grandeza, pocho chognossutta abiamo",
+    "it_catilina": "Questa cosa non è sufficientemente trovata secondo la grandezza del fatto",
+    "es_catilina": "Enpero estos fechos, segund fueron grandes acerca de nós, poco fue conocida la manera de cómo acaescieron"
+  }
+]
+
+
+ }
+}

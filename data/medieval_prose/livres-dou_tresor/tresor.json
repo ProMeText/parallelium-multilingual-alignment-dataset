@@ -1,0 +1,1020 @@
+{
+  "work": "Li livres dou Trésor",
+  "mode": "edited_for_manual_alignment",
+  "alignement_id": { 
+    
+   "002-003": [
+  {
+    "fr_tresor": "Quant Troie fu prise et mise a feu et a ruines, et ke l'en ocioit les uns et les autres",
+    "an_tresor": "Quando troya fue presa e mesa fuego e destroyda e que la ora matauan los vnos alos otros",
+    "ca_tresor": "Quant Troya fon presa e cremada, e ulesa a ruïna, e hom ocejia los uns e los altres"
+  }
+],
+"004-008": [
+  {
+    "fr_tresor": "Eneas et Anchises son pere et Ascanius son fils s'en issi hors et enporta grandesime trezor et avec lui tout plain de gens et s'en alerent a sauveté",
+    "an_tresor": "eneas fillo de encises con su padre e stanjus su fillo sende yxeron fuera e sende leuaron gran trasoro e con el fueron muyta gent e se fueron saluar",
+    "es_tresor": "Eneas el fijo de Anchises e Ascanius su fijo salieronse e llevaron muy grant aver e mucha gente e fueron ende en salvo",
+    "ca_tresor": "Eneas ab son pare Ancises, e Escànius, son fill, se n'isqueren fora e se'n portaren molt gran tresor e moltes gents ab ell, e anafen se'n a salvetat"
+  }
+],
+"009-014": [
+  {
+    "fr_tresor": "Et por ce recontent li auctour k'il seut la traison et k'il en fu compains. Mais li plusor dient k'il n'en sot rien se a la fin non quant la chose ne pooit estre destornee",
+    "an_tresor": "e por esto contan los actores que el sabia la trayc'ion e que el ne fue conpanyon Mas los demas dizen que el non sabia res si no ya ala fin quela cosa non podia star destoruada",
+    "es_tresor": "e por esto cuentan los actores que el sopo la traycion e que fue ende conpañero. Pero muchos dizen que el nunca sopo ende nada synon en la fyn quando non lo pudo estorvar",
+    "ca_tresor": "E per ço dien los actós que ell sabé la trayció e que y fo companyó; mas los de més dien que ell no'n sabé res sinó a la fi, que la cosa no's podia destornar",
+    "it_tresor": "E però funo molti che credecteno che elli sapesse lo tradimento e che vi fusse colpabile; ma piò de le gente dicono ch'elli non de seppe nulla se non poi che l facto fue avenuto che non si potea tornare indrieto"
+  }
+],
+"015-017": [
+  {
+    "fr_tresor": "Mais comment ke la chose fust, il et sa gent s'en alerent par mer et par terre, une eure ça et autre la, tant qu'il ariva en Ytaile",
+    "an_tresor": "Mas como quier que la cosa fue el e su gente se fueron por mar e por tierra vna ora aca otra alla tanto que el arribo en talis",
+    "es_tresor": "Mas commo quier que fuesse, el e toda su gente se fueron por mar e por tierra, una vez alla e otra aca, fasta que arribaron en Ytalia",
+    "ca_tresor": "Mas, com que fos, ell e sa gent se n'anaren per mar e per terra, una hora ça, altre lla, tant que ell arribà en Ytàlia"
+  }
+],
+"019-022": [
+    {
+      "fr_tresor": "Et il fu voirs ke Icarus ki fu fiz Nembrot, ki fist la tor Babel, vint en Ytaile, et si en fu sires toute sa vie",
+      "an_tresor": "Esto fue uerdat que ytarius que fue fillo de nembrot aquel que fizo la torre babel vino en ytalia e sin de fue senyor toda su vida",
+      "es_tresor": "Verdat fue que Ytalio, que fue fijo de Nenbrot, que fizo la torre Babel, vino a Ytalia e fue ende señor en toda su vida",
+      "ca_tresor": "Veritat fon que Icàrius, qui fon fill de Nembrot, aquell qui féu la torre de Babel, vench en Ytàlia, e fon senyor tota sa vida",
+      "it_tresor": "Lo rei Charraius, che ffue fillio Nembrot che ffece la torre di Babello, venne inn Etalia e fune signore tucta la sua vita"
+    }
+  ],
+  "023-025": [
+    {
+      "fr_tresor": "Aprés le tint Ytalus ses fiz, et por le non de lui fu apelés li païs Ytaile. Après le tint Janus ses fiz",
+      "an_tresor": "Apres la tuuo ytalus su fillo e porel fue clamada la tierra ytalia. Apres la tuuo janus su fillo",
+      "ca_tresor": "Aprés la tench Ytalus, son fill, e per ell fon appellada la terra Itàlia. Aprés la tench Janus, son fill",
+      "it_tresor": "appresso la tenne Italus, suo figluolo, e per lui fue chiamato lo paeçe Italea; appresso la tenne Ianus, suo filiolo"
+    }
+  ],
+  
+  "027-028": [
+    {
+      "fr_tresor": "lors avint selonc ce ke les istores recontent que Saturnus roi de Grece fu essilliés de son regne, et s'enfui en Ytaile, et la fu il rois et sires de la tiere",
+      "an_tresor": "la ora aujno segun quelas istorias contan que saturnus rey de grecia fue exiliado de su Regno e fuyo en ytalia e alli fue el senyor",
+      "es_tresor": "Et acaescio estonce segunt cuentan las estorias que Saturno rey de Grecia que fue echado de su regno e fuese para Ytalia, e fue rey della e señor",
+      "ca_tresor": "lavors sdevench, segons recompten les ystòries, que Saturnus, rey de Grècia, fon exellat de son regne, e se'n fugí en Ytàlia; e lla fon ell rey e senyor de la terra",
+      "it_tresor": "Allora avenne, segondo che le storie diceno, che Saturnus, rei di Grecia, fue chaciato del suo reame e ssì ne fuggio inn Etalia e fund’elli rei e singnore"
+    }
+  ],
+
+  "029-030": [
+  {
+    "fr_tresor": "Aprés le tint li rois Picus son fiz, et puis li roi Famus fius au roi Picus",
+    "an_tresor": "Apres la touo el rey pichus su fillo e depues el Rey famus fillo del Rey pichus",
+    "es_tresor": "e despues tovola el rey Picheos su fijo, e despues el rey Famus fijo del rey Picheos",
+    "ca_tresor": "Aprés la tench lo rey Picus, son fill; e aprés lo rey Fanus, son fill",
+    "it_tresor": "Appresso lo tenne lo rei Picus, suo figluolo e poi lo re Famius, figluolo del rei Picus"
+  }
+],
+"031-033": [
+  {
+    "fr_tresor": "Dou roi Famus nasqui li rois Latins, ki lors estoit rois en Ytaile quand Eneas o ses gens i arriverent",
+    "an_tresor": "del rey famus nascio el rey latin quela ora era rey en ytalia quando eneas e sus gentes y arribaron",
+    "es_tresor": "e del rey Famus nacio el rey Latin, que era rey entonce en Ytalia quando Eneas e su gente vinieron y",
+    "ca_tresor": "Del rey Fanus nasch lo rey Latin, qui lavors era rey en Ytàlia quant Eneas ab ses gents hi arribaren",
+    "it_tresor": "Del re Famius nacque lo rei Latino che allora era rei quando Enea e le suoi gente v'arivono"
+  }
+],
+"034-036": [
+  {
+    "fr_tresor": "Et ja soit ce ke au comencement li rois fu dous et debonaires, et li volsist doner a feme Laviniam sa fille, dont il n'avoit plus d'enfans",
+    "an_tresor": "ya si esto que al comenc'amjento el Rey latin fues dolc' e de buen ayre e le quisies dar por muller laujnjan su fija que el non auja mas fillos",
+    "es_tresor": "Commo quier que en el comienco le fue bueno el rey Latin e de buen talanto, e le quiso dar su fija Layna por muger, pero que non avie mas de aquella",
+    "ca_tresor": "Jassia que al començament lo rey Latin era graciós e de bon ayre, e volch-li donar per muller sa filla Laviniam, e no havia pus infants",
+    "it_tresor": "Questo rei Latino fue molto dolce hom e di buonaire, e lli volse donare per mollie Lavinea, figuola, chè non avea piò figluoli"
+  }
+],
+"037-038": [
+  {
+    "fr_tresor": "la roine ne consenti pas au mariage, ains la volt doner a un autre grant riche home dou païs",
+    "an_tresor": "e la Regna non consintio pont enel matrimonio ante la qujsies dar a vn otro omne Rico dela tierra",
+    "es_tresor": "la reyna non consentio en el casamiento, ante la quiso dar a un onbre rico de la tierra",
+    "ca_tresor": "la raina no consentí al matrimoni, ans la volgra donar a un rich hom de la terra",
+    "it_tresor": "E la redina non volse consentire al matrimonio, ansi la volea donare a uno grande ricc'omo del paeçe"
+  }
+],
+"039-040": [
+  {
+    "fr_tresor": "Por ce fu entr'eus haine grant si come mortel guerre",
+    "an_tresor": "por esto fue entre ellos discordia gran e mortal guerra",
+    "es_tresor": "por que comenco entre ellos muy mal querencia e guerra mortal",
+    "ca_tresor": "Per ço fon entre ells malvolença gran, axi con de guerra mortal",
+    "it_tresor": "E per questa cagione nacque mortale guerra in tra lloro"
+  }
+],
+  "041-042": [
+  {
+    "fr_tresor": "Mais a la fin le venki Eneas a force d'armes et prist Laviniam a feme",
+    "an_tresor": "Mas ala fin venc'io eneas por fuerc'a darmas e priso laujnjan por muller",
+    "es_tresor": "Pero en la fyn venciol Eneas por fuerça de armas e tovo Laina por muger",
+    "ca_tresor": "Mas a la fi Eneas vencé per força d'armes, e pres per muller Laviniam",
+    "it_tresor": "E a la fine lo vinse Enea per forsa d'arme e prese a mollie Lavinea sua figluola"
+  }
+],
+"043": [
+  {
+    "fr_tresor": "et ensi fu li rois d'Ytaile, et regna .iii. ans et .vi. mois",
+    "an_tresor": "e asi fue el Rey de ytalia e Regno .iij. anyos e .vj. meses",
+    "es_tresor": "e ansy fue el rey de Ytalia; e regno tres años e medio",
+    "ca_tresor": "e axí fon ell rey de Ytàlia, e regnà .iii. anys e .vi. meses",
+    "it_tresor": "e fue rei d'Italia e rengnò .III. anni e .VI. mesi"
+  }
+],
+"044-045": [
+  {
+    "fr_tresor": "et quant il morut il laissa .i. petit enfant de sa feme, ki ot a non Julius Silvius",
+    "an_tresor": "e quando el murjo el lexo vn fillo chico de su muller que ouo nonbre Julljus Silujus",
+    "es_tresor": "Et quando fino dexo un fijo pequeño de su muger que ovo nonbre Jullio Silvio",
+    "ca_tresor": "E con morí, leixà un fill petit de sa muller, qui hac nom Jhulius Silvius",
+    "it_tresor": "Quando si morì, si lassò uno picciolo figluolo de la mollie che avea nome Giulius Simus"
+  }
+],
+"046": [
+  {
+    "fr_tresor": "porce ke sa mere le faisoit priveement norrir en silves, c'est en bois, por poour d'Ascanius son frere",
+    "an_tresor": "por que la madre lo fazia criar en seluas es a saber en buscages por mjedo de acamon su hermano",
+    "es_tresor": "por quel fazie criar su madre en las selvas, que quiere dezir monte, por miedo de Ascanius su hermano",
+    "ca_tresor": "per tal con sa mare lo feya nodrir secretament en les silves e en los boschs, per pahor de Ascànion, son frare",
+    "it_tresor": "però che la madre lo faceva privadamente guardare inn una selva, ciò este in uno bosco, per paura d'Aschanius suo frate"
+  }
+],
+"048-049": [
+  {
+    "fr_tresor": "mais n'avoit garde, k'il l'ama tenrement",
+    "ca_tresor": "mas no n'havia obs, car ell lo amava coralment",
+    "it_tresor": "ma no lli facea mistieri di guardarlo da lui perch'elli l'amava tenneremente"
+  }
+],
+"050": [
+  {
+    "fr_tresor": "Et ce fu au tans dou roi David, au commencement du quart aage du siecle",
+    "an_tresor": "Et aquesto fue enel tiempo del Rey daujt enel comjenço dela quarta hedat del mundo",
+    "es_tresor": "Et esto fue en el tienpo del rey David, en el comencamiento de la quarta edad del syeglo",
+    "ca_tresor": "E açò fon en lo temps del rey David, en lo començament de la IIII edat del món",
+    "it_tresor": "E ciò fue al tempo del rei Davis, al cuninciamento del quarto agio del secolo"
+  }
+],
+    "051-053": [
+  {
+    "fr_tresor": "Quant Aschanius trespassa de cest siecle, Silvius ses freres fu rois aprés lui, et ot .ii. fius, Eneas et Bruthum",
+    "an_tresor": "Quando astanjus traspasso de aquesti mundo silujus su hermano fue rey apres el e ouo dos fillos eneas e brutun",
+    "es_tresor": "Quando Ascanio murio fue Silvia su hermano rey despues del, e ovo dos fijos: Eneas e Brutus",
+    "ca_tresor": "Com Ascànius morí, Silvius, son frare, fon rey; e hac dos fills: Eneas e Brútum",
+    "it_tresor": "Quando Aschanus trapassò di questa vita, Sillvis suo frate fue rei dipo' llui ed ebbe du' figluoli, Enea e Bructom"
+  }
+],
+"054-055": [
+  {
+    "fr_tresor": "Et quant Silvius li rois morut, Eneas son ainsné fiz tint la tiere",
+    "an_tresor": "e quando silujus el rey murjo eneas touo el Regno",
+    "es_tresor": "Et quando morio el rey Silvio, regno Eneas el su fijo primero",
+    "ca_tresor": "E quant Silvius lo rey morí, son primer nat fill, Eneas, tench lo regne",
+    "it_tresor": "E quando Silvius lo rei moricte, Enea, lo suo magiore figluolo, tenne lo rengno"
+  }
+],
+"056": [
+  {
+    "fr_tresor": "Bruthus son frere passa en une tiere ki par le non de lui fu apelee Bretaigne",
+    "an_tresor": "brutun su hermano passo el en vna tierra que por el nonbre del fue clamada bretanya",
+    "es_tresor": "Brutus su hermano passo en otra tierra que fue por el su nonbre llamada Bretaña",
+    "ca_tresor": "Brútum, son frare, passà en una terra que per lo nom d'ell fo appellada Bretanya",
+    "it_tresor": "Bructom suo frate passò per una terra che per lo nome suo fue chiamata Brettangna"
+  }
+],
+"057-058": [
+  {
+    "fr_tresor": "ki ore est Engletere clamee; et il fu li commencemens des rois de la Grant Bretaigne",
+    "an_tresor": "que agora se clama anglaterra el fue començamjento delos Reyes dela gran bretanya",
+    "es_tresor": "que es agora llamada Ynglatierra; et el fue el comencamiento de los reys de la Gran Bretaña",
+    "ca_tresor": "que ara és appellada Englaterra; e ell fon començament dels reys de la Gran Bretanya"
+  }
+],
+"059-060": [
+  {
+    "fr_tresor": "Et de ses generations nasqui puis li rois Artus, de qui li romant parolent",
+    "an_tresor": "e de su generaçion nascio depues el buen Rey artus de quj los Romanos faulan tanto",
+    "es_tresor": "e desta generacion vino despues el buen rey Artus de que fablan los romances",
+    "ca_tresor": "E de ses generacions nasqué despuys lo bon rey Artús, de què'ls romanços parlen tant",
+    "it_tresor": "E de la sua gennerassione nacque poi lo buono rei Arture di cui li romansi parlano"
+  }
+],
+"061": [
+  {
+    "fr_tresor": "k'il fu rois coronés a .iiiic. et .iiiixx. et .iii. ans de l'incarnation Jhesucrist",
+    "an_tresor": "que fue Rey coronado a cccc. e .lxxxiij. anyos apres la jncarnacion de ihesu xpisto",
+    "es_tresor": "que fue rey coronado quando andava el año de la encarnacion de Nuestro Señor Ihesu Christo en quatro cientos e ochenta e tres años",
+    "ca_tresor": "que fon rey coronat a .cccclxxxiii. anys de la incarnació de Jesucrist",
+    "it_tresor": "che fu rei coronato appo .IIIICLXXXIII. anni dipo' la 'ncarnassione del Nostro Singnore Iesù Cristo"
+  }
+],
+"062-063": [
+  {
+    "fr_tresor": "au tans que Zeno fu empereres de Rome, et regna entor .l. ans",
+    "an_tresor": "e esto fue en tiempo que zeno fue emperador de roma e regno .l. anyos",
+    "es_tresor": "Et en aquel tienpo era Zeno emperador de Roma, e regno cerca de cinquenta años",
+    "ca_tresor": "e açò fon al temps que Zenò fon emperador de Roma, que regnà .L. anys",
+    "it_tresor": "a tempo che Çenom fu imperadore di Roma, e rengnò .L. anni"
+  }
+],
+"064": [
+  {
+    "fr_tresor": "Dou roi Eneas ki fu fius au roi Silvius nasqui Latin",
+    "an_tresor": "del Rey eneas que fue fillo del Rey silujus nasçio el Rey latin",
+    "es_tresor": "Del rey Eneas fijo del rey Silvio nasçio el rey Latín",
+    "ca_tresor": "Del rey Eneas, que fon fill del rey Silvius, nasqué lo rey Latin",
+    "it_tresor": "Del rei Enea, figluolo del re Sinius, nacque lo rei Latino"
+  }
+],
+"065": [
+  {
+    "fr_tresor": "Du roi Latin nasqui Alban, ki fist la cité d'Albani",
+    "an_tresor": "del Rey latin nasçio alban que fizo la çibdat de albana",
+    "es_tresor": "Del rey Latín nasçio Alban, el que fizo la çibdat de Albana",
+    "ca_tresor": "Del rey Latin nasqué lo rey Alban, qui féu la ciutat de Albana",
+    "it_tresor": "de rei Latino nacque Alban che fece la cità d'Albam"
+  }
+],
+"066-067": [
+  {
+    "fr_tresor": "Du roi Alba nasqui Egypte. Du roi Egypte nasqui Carpenaces",
+    "an_tresor": "del Rey alban nascio egipto del Rey egipto nascio carpenaces",
+    "es_tresor": "De Alban nasçio Egipto. Del rey Egipto naçio Carpenaçes",
+    "ca_tresor": "Del rey Alban nasqué Egipte. Del rey Egipte nasqué Carpinetes",
+    "it_tresor": "del re Albam nacque lo re Egitte, del re Egitte nacque Charpanates"
+  }
+],
+"068-069": [
+  {
+    "fr_tresor": "Dou roi Carpenaces nasqui Tyberius. Dou roi Tyberius nasqui Agripa",
+    "an_tresor": "del Rey carpenaces nasçio tiberius del rey tiberius nascio egripa",
+    "es_tresor": "De Carpenaçes naçio Tiberius. Del rey Tiberio nasçio Agripa",
+    "ca_tresor": "Del rey Carpinetes nasqué Tibèrius. Del rey Tibèrius nasqué Agripa",
+    "it_tresor": "del rei Charpanates nacque Tiberius, e del rei Tiberius naque Agripe"
+  }
+],
+"070-071": [
+  {
+    "fr_tresor": "Dou roi Agripa nasqui Aventinus. Dou roi Aventinus nasqui Procas",
+    "an_tresor": "del rey egripa nascio auentinus del rey auentinus nascio procas",
+    "es_tresor": "Del rey Agripa nasçio Aventino. Del rey Aventino nasçio Procas",
+    "ca_tresor": "Del rey Agripa nasqué Aventurus. Del rey Aventurus nasqué Cropos o Procas",
+    "it_tresor": "Del rei Agrippe nacque Avintinus, del rei Avintinus nacque Prochas"
+  }
+],
+"072": [
+  {
+    "fr_tresor": "Dou roi Procas nasqui Numentor et Amilio",
+    "an_tresor": "del rey procas nascio numetor emjlio",
+    "es_tresor": "Del rey Procas nasçio Numentor e Millio",
+    "ca_tresor": "Del Procras nasqué Munèntor e Mílion",
+    "it_tresor": "del rei Prochas nacque Nomitor e Amilio"
+  }
+],
+"073-074": [
+  {
+    "fr_tresor": "Cil Numentor en fu rois aprés la mort son pere. Et avoit une fille ki avoit non Emilia",
+    "an_tresor": "Aquel numetor fue Rey apres la muert de su padre e auja vna filla que auja nonbre emjlia",
+    "es_tresor": "Numentor fue rey despues de la muerte de su padre, et ovo una fija que ovo nonbre Emilia",
+    "ca_tresor": "Aquell Munèntor fon rey aprés la mort de son pare, e havia una filla qui havia nom Emília",
+    "it_tresor": "Nomitor fue rei dipo' la morte del suo padre ed ebbe una figluola ch'ebbe nome Emilia"
+  }
+],
+"075-077": [
+  {
+    "fr_tresor": "Mais Amilio li toli son regne, et cacha Numentor et sa fille en essil, et il se fist faire rois endementiers",
+    "an_tresor": "Mas mjlle le tiro su Regno e gito numetor e su filla en exilio e el se fizo fazer Rey eneste ende medio",
+    "es_tresor": "mas Millio tolliol el reyno e echol fuera del a el e a su fija, e feziesse alçar rey en el tienpo que ellos eran fuera",
+    "ca_tresor": "Mas Mílion li tolch son regne, e foragità Munèntor e sa filla, e'ls exellà, e ell se féu levar rey endemig",
+    "it_tresor": "Ma Umilio suo frate li tolse lo reame e catciò questo Nomitor e la sua filliola ed elli fu rei e signore"
+  }
+],
+"078": [
+  {
+    "fr_tresor": "Et Emilia conçut .ii. fiz, Remum et Romolon, en tel maniere ke nus ne sot ki fu lor pere",
+    "an_tresor": "emjlia conçibio dos fillos Romulum e remulus ental manera que njnguno non sabia qui era su padre",
+    "es_tresor": "Et conçebio Emilia dos fijos, Remus & Romulus, e fue en guisa que non ovo ninguno que sopiesse quien era su padre",
+    "ca_tresor": "Mília concebé dos fills, Ròmolum e Rèmolum, en tal manera que negú no sabé qui fonch lur pare",
+    "it_tresor": "Di questa Emilia nacqueno .II. filioli, Romulus e Remulus, in modo che neuno seppe chi fusse loro padre"
+  }
+],
+
+"079": [
+  {
+    "fr_tresor": "Mais li plusor disoient ke Mars li dieus de batailles les engendra",
+    "an_tresor": "Mas los demas dizian que mars el dios delas batallas los engendro",
+    "es_tresor": "E muchos dizen que Mars, el dios de las batallas, los engendrara",
+    "ca_tresor": "mas los de més deyen que Març, lo déu de les batalles, los engendrà",
+    "it_tresor": "Ma le piò de le gente diceno che Marso, lo ddio delle bactallie, lo ’ngennerò"
+  }
+],
+
+"080": [
+  {
+    "fr_tresor": "Et de lors en avant fu cele feme apelee Reate",
+    "an_tresor": "de aquella ora auant fue aquella fembra clamada Rea",
+    "es_tresor": "Desde estonçe fue ella llamada Rea",
+    "ca_tresor": "E d'allí avant aquella dona fon appellada Reate",
+    "it_tresor": "e d’allora inansi quella Emilia fue chiamata Rea"
+  }
+],
+
+"081": [
+  {
+    "fr_tresor": "et puis fist ele une cité ki por le non de li fu apelee Reate",
+    "an_tresor": "E depues fizo ella vna çibdat que por el nonbre della es clamada Reate",
+    "es_tresor": "que despues fizo ella una çibdat que es llamada por su nonbre Reate",
+    "ca_tresor": "e puys ella féu una ciutat que per so son nom és appellada Reate",
+    "it_tresor": "E poi fec’ella una cità ched este chiamata Riete per lo suo nome"
+  }
+],
+"082": [
+  {
+    "fr_tresor": "Et por ce ke maintes ystores devisent ke Romolus et Remus fu norris par une lue, il est drois ke j'en die la verité",
+    "an_tresor": "E por esto que muytas istorias departen que romulum e Remulus fueron entramos criados de vna lua si es dreyto que yo vos diga la verdat pura",
+    "es_tresor": "Et por que algunas estorias dizen que Romulus & Remus fueron criados de una loba, derecho es que sepades ende la verdat",
+    "ca_tresor": "E per ço com moltes ystòries divisen que Ròmulus e Rèmulus foren nodrits abdosos de una loba, és rahó que yo us diga la veritat pura",
+    "it_tresor": "E però che molte storie diceno e divisano come Romulus e Remulus funo nati di una lupa, vollio divisare la verace storia"
+  }
+],
+
+"083": [
+  {
+    "fr_tresor": "il fut voirs ke quant il furent nés on les gieta sus une riviere",
+    "an_tresor": "esto fue verdat que romulum e remulus quando fueron nascidos ellos fueron gitados en vn Rio",
+    "es_tresor": "et asy fue que quando ellos nasçieron que los echaron en la ribera",
+    "ca_tresor": "És ver que Ròmulus e Rèmulus foren nats e lançats en un riu",
+    "it_tresor": "Elli è vero che quando Emilia li e’ facti, ed ella li mandò che fusseno giettati in uno fiume"
+  }
+],
+
+"084": [
+  {
+    "fr_tresor": "por ce ke les gens ne s'aperchussent pas ke la mere eust conceu",
+    "an_tresor": "por quelas gentes no se aujsassen quela madre los oujes concebido",
+    "es_tresor": "por que ninguno non sopiesse que su madre conçebiera",
+    "ca_tresor": "perquè les gents no sabesen que aquella mare los havia concebuts"
+  }
+],
+
+"085": [
+  {
+    "fr_tresor": "Entor cele riviere manoit une femme ki servoit a tous communalment",
+    "an_tresor": "e en aquella Ribera auja vna fembra que seruja a todos comunament",
+    "es_tresor": "& çerca de aquella ribera morava una muger seglar",
+    "ca_tresor": "E en aquell riu habitava una dona que servia comunament a tot hom",
+    "it_tresor": "E questa fue femmina che volontieri facea servigio a omnia hom di sua persona"
+  }
+],
+
+"086": [
+  {
+    "fr_tresor": "Et teles femes sont apelees lues en latin",
+    "an_tresor": "et atales fembras son clamadas luades en latin",
+    "es_tresor": "& tales mugeres son llamadas en latin lobas",
+    "ca_tresor": "e tals donas són appellades en latí lobes",
+    "it_tresor": "e a quello tenpo quelle cotali femine erano chiamate lupe"
+  }
+],
+
+"087": [
+  {
+    "fr_tresor": "Cele feme prist les enfans et les norri mout doucement",
+    "an_tresor": "Aquella fembra tomo los njnyos e los crio muy dulcement",
+    "es_tresor": "Et aquella muger tomo aquellos infantes & criolos muy bien",
+    "ca_tresor": "Aquella dona pres los infants e'ls nodrí dolçament",
+    "it_tresor": "E questa sì li prese e notricoli molto dolcemente"
+  }
+],
+
+"088": [
+  {
+    "fr_tresor": "Et por ce fu dit k'il estoient fius d'une lue",
+    "an_tresor": "E por esto dizian que ellos eran fillos de vna lua",
+    "es_tresor": "por esso fue dicho que fueron fijos de una loba",
+    "ca_tresor": "e per ço fon dit que ells eren fills de una loba",
+    "it_tresor": "E questa este la maniera perch’elli este dicto ch’elli funo figluoli d’una lupa"
+  }
+],
+"089": [
+  {
+    "fr_tresor": "Romulus fu mout fiers et de grant corage",
+    "an_tresor": "Romulus fue muy fiero e de gran coraçon",
+    "es_tresor": "Romulus fue onbre muy cruel & de grand coracon",
+    "ca_tresor": "Ròmulus fo molt ergulós e de gran coratge",
+    "it_tresor": "Romulus fue molto fiero e di grande coraggio"
+  }
+],
+
+"090": [
+  {
+    "fr_tresor": "et quant il fu en son aage il conversoit avec les jovenes bachelers et les legiers homes maufetours dont il estoit mestres et chevetains",
+    "an_tresor": "e quando el fue en su hedat el conuersaua con los Jouenes omnes e luergos e malfeytores endo el era senyor e mayor",
+    "es_tresor": "& quando fue en su hedat aconpaiose a los mançebos & a los onbres ligeros & malfechores, & era cabdillo dellos",
+    "ca_tresor": "e quant fo en sa edat, ell conversave ab gent jove e leugera de seny e malfeytors, e era lur maestre e capità",
+    "it_tresor": "Quando venneno crescendo, ed elli uçavano coi malfactori e coi leggieri homini de la contrada, e Romulus era maestro e cappitanio di tucti"
+  }
+],
+"091": [
+  {
+    "fr_tresor": "Et quant on li descovri sa naissance, il ne fina onques de quellir gens de diverses manieres et de guerrier contre Amilion, ki le regne avoit tolu a son aieul",
+    "an_tresor": "si alguno le descubria su naçion el nunca cessaua de Recullir gentes de diuersas maneras e de guerrear contra amjlion que el regno tenia que su aguelo",
+    "es_tresor": "Et quando el sopo cuyo fijo era nunca quedo de acoger gentes asy de muchas partidas & de guerrear a Millo, que avía tollido el regno a su abuelo",
+    "ca_tresor": "E quant hom li descobrí son néxer, ell no féu jamés sinó haver e acollir gents e guerrejar Emílion, qui havia tolt lo regne a son avi",
+    "it_tresor": "E quando fue loro discoperto com’elli erano figluoli d’una lupa, elli non finono mai di raunare gente di diverse parte, e tanto guerregiono con Amilio, che avea tolto lo rengno al suo aulo"
+  }
+],
+"092": [
+  {
+    "fr_tresor": "Et tant fist par sa proece k'il le venki et li toli le regne et le rendi a Numentor",
+    "an_tresor": "e tanto fizo por su proheza que el lo vençio e le tiro el Regno e lo Rendio a numjtoren",
+    "es_tresor": "& tanto fizo por fuerça de armas que le vençio & le tollio el regno & diolo a Numentor",
+    "ca_tresor": "e tant féu per son sforç que ell lo vencé, e li tolgué lo regne e'l reté a Munítor",
+    "it_tresor": "che elli, per loro prodessa, lo vinseno per forsa d’arme e li tolseno lo reame e rendeonolo al lor aulo"
+  }
+],
+"093": [
+  {
+    "fr_tresor": "Aprés ce ne demora gramment que il le fist morir, et il fu rois en son leu",
+    "an_tresor": "e por aquesto no passo gayr e lo fizo morir e si fue rey en su logar",
+    "es_tresor": "Et despues a poco de tienpo fizol el morir, & fue el en su lugar rey",
+    "ca_tresor": "Aprés poch lo féu morir, e fon rey en son loch",
+    "it_tresor": "Appresso ciò non s’indugioe guaire ch’elli uciseno questo Nomitor loro aulo"
+  }
+],
+
+"094": [
+  {
+    "fr_tresor": "Et puis fist il Rome ki ensi est apelee por le non de lui",
+    "an_tresor": "Et fizo el a Roma que assi es ella clamada por el nonbre del",
+    "es_tresor": "& fizo Roma, que es asy llamada por el su nonbre",
+    "ca_tresor": "E féu Roma que axí és appellada per lo nom d'ell",
+    "it_tresor": "ed elli fondò Roma e per lo suo nome fue chiamata Roma"
+  }
+],
+
+"095": [
+  {
+    "fr_tresor": "Puis fist il morir Remum son frere",
+    "an_tresor": "depues fizo el morir Remulus su hermano",
+    "es_tresor": "& despues fizo morir a Remus su hermano",
+    "ca_tresor": "E puys féu morir Rèmulus son frare"
+  }
+],
+
+"096": [
+  {
+    "fr_tresor": "et puis le pere sa feme, ki estoit sires dou temple des sacrefisses dou païs; et il fu oirs de trestot et ot il soul tote la signorie de Rome",
+    "an_tresor": "e depues lo pare de sa duenna que seruja el templo e era senyor delos sacrificios dela tierra e el fue mayor de todo e el se la ouo la senyoria de Roma",
+    "es_tresor": "et despues el padre de su muger, que era señor de los tenplos & de los sacrifiçios de la tierra; & el heredolo todo & ovo el señorío de Roma todo",
+    "ca_tresor": "e puys lo pare sa dona, qui era senyor del temple dels sacrificis de la terra; e ell fon hereu de tot e hac ell tot sol la senyoria de Roma",
+    "it_tresor": "Poi fec’elli morire lo padre de la sua mollie, ched era signore del tenpio dei sagrifici di tutto lo paeçe, ed elli fue rede e signore di tucto lo paeçe"
+  }
+],
+
+"097": [
+  {
+    "fr_tresor": "Ensi fu Rome comencie .iiiim. et .iiiic. et .iiiixx. et .iiii. ans aprés le comencement dou monde",
+    "an_tresor": "Roma començada .iiij. M. cccc. lxxx. iiij. anyos apres el començamjento del mundo",
+    "es_tresor": "& fue Roma començada a quatro mill & quatro çientos & ochenta & quatro años del comienço del mundo",
+    "ca_tresor": "E axí fon començada Roma iiiimcccclxxxiiii anys aprés la començament del setgle",
+    "it_tresor": "In questo modo fue Roma incuminciata appresso .IIIIMIIIICLXXXIIII. anni da lo ’ncuminciamento del mondo"
+  }
+],
+"098": [
+  {
+    "fr_tresor": "ce fu .iiic. et .xiiii. ans aprés la destruction de Troie",
+    "an_tresor": "e esto fue .ccc.xiiijo anyos apres dela destrucion de troya",
+    "ca_tresor": "e açò fo cccxiiii anys de la destrucció de Troya",
+    "it_tresor": "e fu dipo’ la sdistrussione di Troia appo .CCCXIIII. anni"
+  }
+],
+"099": [
+  {
+    "fr_tresor": "Et quant Romolus passa de ceste vie, le regne tint Noma Pompilius son fiz",
+    "an_tresor": "e quando Romulus passo de aquesta vida touo el Regno numma ponpilius su fillo",
+    "es_tresor": "Et quando morio Romulo regno Numa Pompilio su fijo",
+    "ca_tresor": "E cant Ròmulus finà sa vida, lo regne tench son fill Numa Pompílius",
+    "it_tresor": "E quando elli passò di questa vita, tenne lo rengno Numina Pompea, suo figluolo"
+  }
+],
+"100": [
+  {
+    "fr_tresor": "et puis Tulius Ostilius, et puis en fu rois Ancus Marcus, et puis Tarquinius premiers, et puis li rois Servius",
+    "an_tresor": "e despues tullius ostilius e despues fue rey ancus marchus e depues tarquilinjs primero e depues el Rey serujus",
+    "es_tresor": "& despues Tullius Ostillius, et despues fue rey Antonio Marco, & despues Tarquinio primero, & despues el rey Servio",
+    "ca_tresor": "e puys Tullius Ostilius, e puys ne fon rey Ançus Marcus, e puys Tarquínius primer, e puys lo rey Sèrvius",
+    "it_tresor": "E poi Tullius Ostilius e poi Ancus Marcos e poi Tarquilio priumiers e poi Servius"
+  }
+],
+
+"101": [
+  {
+    "fr_tresor": "et puis regna Tarquins li orgilleus, par son orguel, fist honte et outrage a un noble dame de Rome et de haute lignie, por gesir a li charnelment",
+    "an_tresor": "e depues Regno tarquinus el ergulloso qui por su ergul fizo onta e vltrage a vna duenya noble de Roma e de alta ljnea por Jazer conella carnal mente",
+    "es_tresor": "et despues regno Tarquino el orgulloso, que por su orgullo fizo desonra, & despues demas quiso forçar a una noble dueña de Roma de grant linage por passar a ella",
+    "ca_tresor": "E puys regnà Terquinus l'Orgullós, qui per son ergull féu desonor e força a una noble dona de Roma e de gran linatge, per jaure carnalment ab ella",
+    "it_tresor": "E poi rengnò Tarquinius l’Orgollioso che, per lo suo orgollio, fece onta e oltraggio a una nobile donna di Roma d’alto ligniaggio per giacere con lei"
+  }
+],
+
+"102": [
+  {
+    "fr_tresor": "Cele dame avoit non Lucrece, une des millours dame del monde et la plus chaste",
+    "an_tresor": "Aquella duenna ouo nonbre lucreta vna delas mayores duennas del mundo e mas casta",
+    "es_tresor": "Et aquella dueña avia nonbre Lucreçia, & fue una de las mejores dueñas del mundo, & mas casta",
+    "ca_tresor": "la qual havia nom Lucrècia, una de les millors dones del món e pus casta",
+    "it_tresor": "la quale ebbe nome Lucrete ed era di sua persona una de le milliore donne del mondo e la piò chasta"
+  }
+],
+"103": [
+  {
+    "fr_tresor": "Pour ceste aquoison fu cil Tarquinus chacié de son regne, et fu establis par les romains ke jamés n'i eust roi",
+    "an_tresor": "por esta ocasion aquesti tarquinus fue gitado de su Regno e fue stablido por los Romanos que jamas noy oujesse Rey",
+    "es_tresor": "Et por esta ocassion fue echado Tarquino de su regno, & fue establesçido por los romanos que nunca jamas oviessen rey",
+    "ca_tresor": "E per aquesta rahó fon Tarquinus foragitat de son regne, e fon stablit que jamés no'y hagués rey",
+    "it_tresor": "fue cacciato del suo reame e ffue istabilito per li buoni homini di Roma che mai non v’avesse rei"
+  }
+],
+
+"104": [
+  {
+    "fr_tresor": "mais fust la cité governee et tot son regne par les sinatours, par consoles, et patrices et tribuns et dicteours, et par autres officiaus, selonc ce ke les choses sont grans et dedens la vile et dehors",
+    "an_tresor": "mas fues la çibdat gouernada e todo su regno por los senadores e por sus consols e patrices e tributadores e ditores e por otros oficios segunt quelas cosas son grandes e de dentro dela villa e de fuera",
+    "es_tresor": "mas que la çibdat & todo el regno fuesse governado por senadores & por los consules & por los tribunos & los ditadores & por los otros oficiales, segunt que son grandes & pequeñas en la villa & fuera de la villa",
+    "ca_tresor": "mas que la ciutat e tot lo regne fos governat per los senadors e cònsols, patricis e tribuns e dictadors e per altres oficis, segons que les coses són grans, dins e defora la vila",
+    "it_tresor": "e che la citade fusse governata per consoli e per consiglieri, ciò este sanatori, e per altri officiali che questi ordinono dentro e di fuora"
+  }
+],
+
+"105": [
+  {
+    "fr_tresor": "Et cele signorie dura .iiiic. et lxv. ans, jusk'a tant ke Catelline fist a Rome la conjurison encontre ciaus ki governoient Rome",
+    "an_tresor": "e aquesta senyoria duro .cccc.lxv. anyos entro a tanto que catalina fizo en Roma la conjuracion contra aquellos que gouernauan a Roma",
+    "es_tresor": "E este señorio duro quatro çientos et sesenta & çinco años, fasta el tienpo que Catelina fizo el juramento en Roma contra aquellos que governaron a Roma",
+    "ca_tresor": "E aquella senyoria durà .cccc.lxv. anys tro a tant que Catilina féu la conspiració a Roma contra'ls qui governaven",
+    "it_tresor": "E quella singnoria durò .IIIICLXV. anni, in fine al tenpo che Chatalina fece la giura in Roma contra quelli che la governavano"
+  }
+],
+
+"106": [
+  {
+    "fr_tresor": "Mais cele conjurison fu descoverte au tans ke li tres sages Marcus Tullius Cicero, li mieus parlans hom del monde et maistres de rectorike, fu consoles de Rome",
+    "an_tresor": "Mas aquella conjuracion fue descubierta enel tiempo que el muy saujo marcus tulius ciero el mjllor faulant omne del mundo e maestre de rectorica fue consellero de Roma",
+    "es_tresor": "Mas aquel juramento fue descobierto en el tienpo que fuera el muy sabio Marchus Tullius Çiçero, que fue el mejor razonado onbre & maestro de retorica; & fue consul de Roma",
+    "ca_tresor": "Mas aquella conspiració fon descoberta en lo temps que'l molt savi Marcus Tullius Siceró, lo mils parlant hom del món e maestre de ratòrica, fon conseller de Roma",
+    "it_tresor": "Ma quella giura fue discoperta al tempo che l grande savio Marcus Tulio Cicirus, lo milliore parlatore del mondo e maestro di rectoricha, fue consillieri di Roma"
+  }
+],
+
+"107": [
+  {
+    "fr_tresor": "ki par son grant sens venqui les conjurés, et en prist et fist destruire une grant partie par le conseil dou bon Caton ki les juga a mort",
+    "an_tresor": "que por su gran seso vincio los conjurios e tomo vengança e fizo stroyr vna grant partida de gentes de aquellos que culpa aujan por el consello de caton que los judgo a muert",
+    "es_tresor": "et por su grand entendemiento vencio aquellos que eran en aquel juramento, & prisolos & fizolos destruir; et esto fizo el con consejo del buen Catan quando les judgo a muerte",
+    "ca_tresor": "qui per son gran seny vencé los conspiradors, e'n pres venjança, e féu destroir una gran partida d'aquels qui havien culpa, per lo consell de Cató, qui ls jutgà a morir",
+    "it_tresor": "che, per lo suo grande senno, vinse quelli di quella giura e ppresene una grande quantitade e fféli distrugere per lo consillio del buono Cato che lli giudicò a morte"
+  }
+],
+
+"108": [
+  {
+    "fr_tresor": "ja soit ce ke Julius Cesar ne consilla pas k'il en fussent jugié a mort, mais fussent mis en diverses prisons",
+    "an_tresor": "ya sia esto que julius cesar no consello pas que ellos fuessen judgados a muerte mas que fuessen mesos en diuersas presones",
+    "es_tresor": "commo quier que Jullio Çessar non fue en consejo que fuessen judgados a muerte, mas que fuessen metidos en diversas presiones",
+    "ca_tresor": "jatsia que Juli Cèsar non consellà que fossen jutgats a mort, mas que fossen meses en diverses presons",
+    "it_tresor": "giassiacosa che Gaius Julio Ceçari non consilliò ched elli fusseno dilivrati a mmorte ma che fusseno messi per diverse pregione"
+  }
+],
+
+"109": [
+  {
+    "fr_tresor": "Et pour ce disent li plusour k'il fu compains de cele conjuroison",
+    "an_tresor": "et por esto dixieron los mas que el fue enla conpanya dela conjuracion",
+    "es_tresor": "Et por esso dexieron muchos que el fue conpañero de aquella jura",
+    "ca_tresor": "E per ço dien molts que ell fon personer en la conspiració",
+    "it_tresor": "E però disseno li piò de le giente ched elli fusse compangno di quella giura"
+  }
+],
+
+"110": [
+  {
+    "fr_tresor": "Et a la verité dire il n'ama onques les signatours ne les autres officieus de Rome, ne il lui",
+    "es_tresor": "Et por dezir verdat nunca el amo los senadores nin los otros oficiales de Roma, nin ellos a el",
+    "ca_tresor": "E, a dir veritat, ell no amà jamés los senadors ni'ls officials de Roma, ni ells a ell",
+    "it_tresor": "e a ddire la veritade, elli non amò unqua la singnoria di quelli che governavano la citade di Roma, né quelli a llui"
+  }
+],
+
+"111": [
+  {
+    "fr_tresor": "car il estoit estrais de la lignie as fius Eneas",
+    "an_tresor": "e por que el era salljdo dela ljnea delos fillos de eneas",
+    "ca_tresor": "car ell era descendent del linatge dels fills de Eneas",
+    "it_tresor": "perch’elli eran del lingnaggio del figluolo d’Enea"
+  }
+],
+"112": [
+  {
+    "fr_tresor": "Aprés ce il estoit de si haut corage k'il ne baioit fors que a la signorie avoir dou tout, selonc ce ke ses anciestres avoient eu",
+    "an_tresor": "e asi mjsmo era de asi altiuo corage que el auya preso la senyoria del todo segunt que sus anteçesores aujan feyto de ante",
+    "es_tresor": "et era el aun de tan grant coracon & tan fuerte que syenpre quiso tener su señorio segunt lo tenian sus anteçeessores",
+    "ca_tresor": "e encara era ell de ten alt cor, que ell havia presa la senyoria del tot, axí com sos antecessors havien fet primer",
+    "it_tresor": "Appresso ciò, era elli di sì alto coraggio ched elli non intendea ad altro se non com’elli potesse avere la signoria segondo che li suoi anticessori aveano avuto anticamente"
+  }
+],
+  "113": [
+  {
+    "fr_tresor": "Quant la conjuroison fu descoverte et le pooir Catelline fu affoibloié, il s'enfui en Toschane en une cité ki avoit non Fiesle et la fist reveler contre Rome",
+    "an_tresor": "Quando la conjuracion fue descubierta e el poder de cathaljna aflaquia el se'n fue a Toscana a vna çibdat que auya nonbre Fiesle e la fizo reuelar contra Roma",
+    "es_tresor": "Quando la jura fue descobierta & el poder de Catelina enflaquecio fuesse para Toscana a una çibdat & fizo que fuese contra Roma",
+    "ca_tresor": "Quant la conspiració fon descuberta e lo poder de Catelina aflebit, ell se'n fugí en Toschana, en una ciutat qui ha nom Fiesle, e féu-la rebellar contra Roma",
+    "it_tresor": "Quando la giura fue dischoperta e l podere di Chatalina fue manchato, ed elli fuggìo ad una cità che ssi chiamava Fieçuli e tanto fece che lla fé ribellare contra Roma"
+  }
+],
+"114": [
+  {
+    "fr_tresor": "Mais li romain i envoierent grandesime ost, et troverent Catelline au pié des montaignes o toute son ost et sa gent cele part ou est ore la cité de Pistoire",
+    "an_tresor": "Mas los romanos enbiaron gran guest e trobaron a Catelina al piet delas montannas con toda su guest e su gent entaquella part do agora es la çibdat de Pistola",
+    "es_tresor": "Et entonce los romanos ayuntaron muy grand hueste & fallaron a Catelina a pie de las montañas con toda su gente; et en aquel lugar es agora Pestoya",
+    "ca_tresor": "Mas los romans hi trameteren molt gran host, e trobaren Catelina al peu de la muntanya ab tota la sua host e sa gent en la part on és ara la ciutat de Pestoyre",
+    "it_tresor": "Quando li Romani lo seppeno, ed elli vi mandono grande oste e trovono Chataline a ppiede de la montangna con tutta sua oste, in quelle parte quine là u’ este ora Pistoia"
+  }
+],
+"115": [
+  {
+    "fr_tresor": "La fu Catelline vencus en bataille, et mort lui et li sien; neis une grant partie des romains i fu ocise",
+    "an_tresor": "alli fue Catelina vençida en batalla e fue muerta ella e los suyos e vna grant partida delos Romanos y fueron muertos",
+    "es_tresor": "& en aquel lugar fue Catelina vencido por batalla, & mataron a el & a toda su gente, pero que morieron & una grant partida de los romanos",
+    "ca_tresor": "la fon Catelina vençut en batalla, e fon mort ell e los seus, e moriren una gran part dels romans",
+    "it_tresor": "E quine fue Chataline vinto in bactallia e fue morto con grande partita dei Romani ched erano con lui"
+  }
+],
+
+"116": [
+  {
+    "fr_tresor": "Et par le pestrine de cele grant occision fu la cités apelee Pistoire",
+    "an_tresor": "e por la pestrina de aquella grant matança fue la çibdat clamada Pistola",
+    "es_tresor": "Et por la pestilencia de aquella grant mortandat fue la çibdat llamada Pestoya",
+    "ca_tresor": "E per la gran infecció dels morts fon la ciutat Pestoyre axí appellada",
+    "it_tresor": "E per la pistulensia di quella grande ucissione fue chiamata Pistoia"
+  }
+],
+
+"117": [
+  {
+    "fr_tresor": "Aprés ce assegerent li romain la cité de Fiesle, tant k'il le venkirent et misent en sa subjection",
+    "an_tresor": "Apres de aquesto los Romanos asitieron la çibdat de Fiesle tanto que ellos la vincieron e la pusieron en su sucieccion",
+    "es_tresor": "& despues cercaron los romanos la çibdat & tanto que la ganaron & la metieron so su señorio",
+    "ca_tresor": "Aprés d'açò assetjaren los romans la ciutat de Fiesle, tant que la venceren e la materen en subjecció",
+    "it_tresor": "Appresso ciò, li Romani assediono la citade di Fieçuli e ppresenola e ddisfenola e miseno li omini socto loro sogessione"
+  }
+],
+"118": [
+  {
+    "fr_tresor": "et lors firent il enmi les plains ki est au pié des hautes montaignes u cele cités seoit une autre cité, ki ore est apelee Florence",
+    "an_tresor": "e la ora fueron ellos en medio del plano que es al piet delas altas Rochas e en aquella çibdat es agora vna otra çibdat que agora yes clamada Florença",
+    "es_tresor": "Et entonce fueron ellos a un llano cerca de unas altas peñas o esta aquella çibdat, & otra çibdat que es agora llamada Florencia",
+    "ca_tresor": "e lavors foren al pla que és al peu de les roques on estava aquella ciutat, hon havia una altra ciutat, que vuy és appelada Florença",
+    "it_tresor": "E allora feceno a ppiede de la montangna in meçço del piano una citade, ched este ora chiamata Fiorensa"
+  }
+],
+"119": [
+  {
+    "fr_tresor": "Et sachés que la place de tiere ou Florence est fu jadis apelee chiés Mars, c'est a dire maisons de batailles",
+    "an_tresor": "E sabet que enla plaça dela tierra de Florença fue ya dita e clamada campo de Mars que quiere dir casa de batallas",
+    "es_tresor": "Et sabet que en aquella plaça de tierra o es agora Florencia fue otro tienpo llamado Chies Martes, que quiere dezir Casa de Batalla",
+    "ca_tresor": "E sapiats que la plaça de terra on seu Florença fon abans appellada Cap de Mars, ço és a dir alberch de batalla"
+  }
+],
+"120": [
+  {
+    "fr_tresor": "car Mars, ki est une des .vii. planetes, est apelés deus de batailles, ensi fu il aourés ancienement",
+    "an_tresor": "por que Mars qui es vna delas .vij. planetas es clamada dios de batalla e assi fue ella clamada antiga ment",
+    "ca_tresor": "car Març, que és una de les .vii. planetes, és appellada déu de batalla e axí fon ella appellada e ancianament adorada"
+  }
+],
+"121": [
+  {
+    "fr_tresor": "Por ce n'est il mie merveille se li florentin sont tozjors en guerre et en descort, car celui planete regne sor aus",
+    "an_tresor": "por esto no es pont marauella si los florentines son todos tiempos en guerra e en discordias por que aquella planeta Regna sobre ellos",
+    "es_tresor": "Por ende non es maravilla sy los de Florencia son en guerra & en discordia, ca aquella planeta quel dizen Mars regno sobrellos",
+    "ca_tresor": "Per ço no és maravella si los florentins són tots temps en guerra e en discòrdies, car aquella planeta regna sobre ells"
+  }
+],
+"122": [
+  {
+    "fr_tresor": "De ce doit maistre Brunet Latin savoir la verité, car il en est nés",
+    "an_tresor": "de aquesto deue maestre Bruneth Latin saber la verdat por que el fue nasçido en aquella çibdat",
+    "es_tresor": "Et desto deve saber la verdat bien maestre Brunete Latin, que era ende natural",
+    "ca_tresor": "E d'açò deu saber la veritat maestre Brunet Latín, car ell era nat d'aquella ciutat"
+  }
+],
+"123": [
+  {
+    "fr_tresor": "et si estoit en exil lors k'il compli cest livre por achoison de la guerre as florentins",
+    "an_tresor": "e si fue el en exilio quando el cumplio aqueste libro por occasion de guerra delos florentines",
+    "es_tresor": "& era echado por ocasion de los de Florencia quando el traslado este libro de latin en frances",
+    "ca_tresor": "e exellat d'aquella ciutat, quant compilà lo present libre, per occasió de guerra dels florentins"
+  }
+],
+"124": [
+  {
+    "fr_tresor": "Endementiers Julle Cesar porchaça tant amont et aval aprés ce k'il ot euues maintes victoires et mains païs sosmis au commun de Rome",
+    "an_tresor": "Mientre Julius Cesar percaço tanto asuso e ayuso apres que el ouo aujdas muytas vitorias e muytas tierras Jusmesas al comun de Roma",
+    "es_tresor": "En este comedio Jullio Çessar tanto trabajo a una & a otra parte que despues que ovo vencidas muchas batallas & sometidas muchas tierras al comun de Roma",
+    "ca_tresor": "En aquest distant Juli Cèsar percassà tant, amont e avayll, aprés que hac haüdes moltes victòries, e moltes terres sotsmeses al comú de Roma",
+    "it_tresor": "In quel meçço Giulio Ceçar procatciò tanto a monte e a valle appresso ch’elli ebbe milisie, e andò per lo mondo conquistando molte terre, e molte province e soctomise socto lo comuno di Roma"
+  }
+],
+
+"125": [
+  {
+    "fr_tresor": "k'il se combati contre Pompee et contre les autres ki lors governoient la cité",
+    "an_tresor": "que el se conbatio contra Ponpeo e contra los otros qui las oras gouernauan la çibdat",
+    "es_tresor": "lídio con Ponpeo & con todos los otros que governavan la çibdat",
+    "ca_tresor": "que ell sa combaté contra Pompeyus e molts altres que lavors governaven la ciutat",
+    "it_tresor": "e combateo contra Pompeo e contra quelli che governavano la citade"
+  }
+],
+
+"126": [
+  {
+    "fr_tresor": "tant k'il les venki et chaça tos ses enemis, et il sol ot la signorie de Rome",
+    "an_tresor": "tanto que el lo vincio e gito todos los enemjgos e el solo ouo la senyoria de Roma",
+    "es_tresor": "& vencio & echo fuera todos sus enemigos, & finco el señero señor de Roma",
+    "ca_tresor": "que ell vencé e foragità sos enemichs, e ell sol hac la senyoria de Roma",
+    "it_tresor": "tanto ched elli vinse e cacciò tutti suoi nimici ed elli solo ebbe la signoria di Roma"
+  }
+],
+
+"127": [
+  {
+    "fr_tresor": "Et por ce ke li romain ne pooient avoir roi, selonc l'establissement ki fu fais au tans Tarqinius, de qui li contes fist memore ça en ariere, se fist il apeler empereour",
+    "an_tresor": "e por que los Romanos no podian auer Rey segun el stablimjento que fue feyto enel tiempo de Torquinjus de quj el conto ha feyto memoria aca de çaga se fizo el clamar enperador",
+    "es_tresor": "& por que los romanos non podian aver rey, segund los establesçimientos que fueron fechos en tienpo de Tarquino, segunt que oystes dezir, fizose llamar enperador",
+    "ca_tresor": "E per ço com los romans no podien haver reys, segons l'establiment que fon fet al temps del rey Tarquinus, de què lo libre parlà ça entràs, se féu ell appellar emperador",
+    "it_tresor": "E però che li Romani non poteano avere rei per lo stabilimento che aveano facto al tenpo Torquinii, di cui lo libbro à dicto qua dirieto, ed elli si fece chiamare imperadore"
+  }
+],
+
+"128": [
+  {
+    "fr_tresor": "Et ensi Julle Cesar fu li premier empereor des romains",
+    "an_tresor": "e asi fue Julius Cesar el primer emperador delos Romanos",
+    "es_tresor": "Et asy Jullio Çesar fue el primero enperador de los romanos",
+    "ca_tresor": "E axí Juli Cèsar fo lo primer emperador dels romans",
+    "it_tresor": "In questa maniera fu Giulios lo primo imperadore"
+  }
+],
+
+"129": [
+  {
+    "fr_tresor": "et tint son empire .iii. ans et .vi. mois, tant k'il fu ocis par traison sus la capitaile par les mains de ses ennemis",
+    "an_tresor": "e touo su jmperio .iij. anyos e .vj. meses e fue muerto depues enel Capitolio por traycion por los Romanos",
+    "ca_tresor": "e tench son imperi tres anys e .vi. meses; e puys fo mort en lo Capitoli, per trayció dels romans",
+    "it_tresor": "e tenne lo ’nperio .III. anni e .VI. mesi e poi fu uciso per tradimento su Campodollio"
+  }
+],
+
+"130": [
+  {
+    "fr_tresor": "Aprés la mort Julle Cesar fu empereres Octeviens son nevou, ki regna .xlii. ans et .vi. mois avant la naissance Jhesucrist et .xiiii. ans aprés, et tint la monarchie de trestot le monde",
+    "an_tresor": "Apres la muerte de Julius Cesar Octaujanus su njeto que Regno .xlij. anyos e .vj. meses ante dela naxencia de Ihesu Xpisto e aun .xiiij. anyos apres touo la monarchia de todo el mundo",
+    "es_tresor": "Et desque morio Jullio Çesar fue enperador Otaviano su sobrino, que regno quarenta & dos años & seys meses ante de la nacencia de Ihesu Christo, et despues catorze años, & ovo la monarchia & el señorio de todo el mundo",
+    "ca_tresor": "Aprés la mort de Juli Cèsar fon emperador Octavià, son nebot, qui regnà .xlii. anys e .vi. meses abans de la nativitat de Jesucrist, e .xiiii. anys aprés, e tench la monarchia de tot lo món",
+    "it_tresor": "Appresso la sua morte fue imperadore Octaviano suo nipote, e rengnò .XLII. anni e .VI. mesi e fue ansi la nativitade di Iesù Cristo .XIIII. anni e tenne la signoria di tutto lo mondo"
+  }
+],
+
+"131": [
+  {
+    "fr_tresor": "et il fu mout sages et preus, mes il estoit fort luxurieus",
+    "an_tresor": "el fue muy saujo e proz Mas vna cosa le quebraua su grand bondat por que el era muy luxurioso",
+    "es_tresor": "& fue muy sabio & muy bueno, pero que era muy luxurioso",
+    "ca_tresor": "Ell fon molt savi e prous, mas una cosa li torbava sa gran bondat, ço és que era fort luxuriós",
+    "it_tresor": "e ffue molto savio e pprode, ma ebbe visio di molta luxuria"
+  }
+],
+
+"132": [
+  {
+    "fr_tresor": "A la fin destruist il tous ciaus ki ocisent Julle Cesar",
+    "an_tresor": "Mas ala fin destruyo el todos aquellos que a Julius Cesar aujan muerto",
+    "es_tresor": "Et despues mato el aquellos que mataron a Jullio Çesar",
+    "ca_tresor": "Mas a la fi ell ocís tots aquells, e'ls destroý, qui ocieren Juli Cèsar",
+    "it_tresor": "E ppoi distrusse elli tutti quelli che funo a ucidere Giulio Cieçari"
+  }
+],
+
+"133": [
+  {
+    "fr_tresor": "Mes ci se taist li mestres a parler de lui et des empereours de Rome, et retorne a sa matire",
+    "an_tresor": "e por tanto se calla agora el conto de faular del e delos emperadores de Roma e torna a su materia",
+    "es_tresor": "Mas agora dexa aqui de fablar del & de los otros enperadores de Roma por contar aquello que avia començado",
+    "ca_tresor": "Ab tant la ystòria se lexa d'él parlar, e torna a sa matèria",
+    "it_tresor": "Di questo cointo non parla più lo cointo de lo ’mperadore di Roma"
+  }
+],
+"134": [
+  {
+    "fr_tresor": "Li .vi. aages comença a la naissance Jhesucrist, et durra tresk'a la fin du monde",
+    "an_tresor": "La .vja. hedat començo ala naxencia de nuestro senyor Ihesu Xpisto e dura entro ala fin del mundo",
+    "es_tresor": "La sesta hedat comenco en la nacencia de Ihesu Christo, & durara fasta la fyn del mundo",
+    "ca_tresor": "La .vi. edat del setgle començà a la nativitat de Jesucrist, e durarà tro a la fi del món",
+    "it_tresor": "Lo posschaio agio incominciò a la nasciensa di Iesù Cristo e ddurerà infine a la fine del mondo"
+  }
+],
+
+"135": [
+  {
+    "fr_tresor": "Et sachiés que Nostre Sires fu en tiere avec ses apostles, et commença le novel testament et defina le viel",
+    "an_tresor": "e sabet que quando nuestro senyor fue en tierra con sus diciplos començo el nueuo testament e fino el viello",
+    "es_tresor": "Et sabet que quando Nuestro Señor fue en la tierra con los sus dicipulos començo estonce el Nuevo Testamento & fenescio el Viejo",
+    "ca_tresor": "E sapiats que quant nostre Senyor fo en terra ab sos apòstols, començà lo Novell Testament e finà lo Vell",
+    "it_tresor": "E sappiate che allora che l Nostro Signore fue in terra con li suoi apostoli, cominciò lo nuovo Testamento e ddifinò lo Vecchio"
+  }
+],
+
+"136": [
+  {
+    "fr_tresor": "car a .xxx. ans de son aage se fist il baptizier por les mains Jehan Baptiste, pour moustrer que li crestiien celebrassent le baptesme la u la vielle loi faisoit la circoncision",
+    "an_tresor": "por que alos .xxx. anyos de su hedat se fizo el babtizar por las manos de Iohan Babtista por mostrar quelos xristianos celebrassen el babtismo enel logar quela viella ley fazia la circuncision",
+    "es_tresor": "Et quando ovo treynta años fizase baptizar a Sant Johan Babtista, et esto fizo el Nuestro Señor Ihesu Christo por que los christianos se baptizasen assy commo los judios se circuncidavan",
+    "ca_tresor": "car en los .xxx. anys de sa edat ell se féu batejar per los mans de sent Johan Babtista, per mostrar que'ls crestians celebrassen lo babtisme allí on la vella ley feya circumcisió",
+    "it_tresor": "ché, a .XXX. anni del suo agio, si fec’elli bactegiare per le mani di sancto Johanni Bactista per mostrare che lli cristiani celebrasseno lo baptismo là u la vecchia lei faceano la circuncisione"
+  }
+],
+
+"137": [
+  {
+    "fr_tresor": "Et por ce ke nous gardons la vieille loi, la u ele ne fu pas remuee, est il bien drois ke li contes devise les maistres de cele loi, et la vie de chascun, en ceste maniere",
+    "an_tresor": "e por esto que nos guardamos la viella ley alla do no fue pont mudada es dereyto quel maestro de aquella ley diga la vida de cada vna dellas e sia departido por aquest conto en tal manera",
+    "es_tresor": "Et por que nos guardamos la vieja ley en aquello que non fue mudada, derecho es que departamos de los maestros de la vieja ley & de la vida de cada uno dellos, en esta manera",
+    "ca_tresor": "E per ço que nós guardem la vella ley lla on no fo remoguda, és necessari que lo mestre d'aquella ley digua de cascun d'éls la vida, e sia departida en aquesta ystòria, en tal manera",
+    "it_tresor": "E però che noi guardiamo la vecchia lei là uve non fue neiente rimutata, est’elli ben diricto che lo cointo diviçi li mastri di quella lei e la vita di ciaschuno in questa mainiera"
+  }
+],
+"138": [
+{
+"fr_tresor": "ISAIAS vaut autant a dire comme salus dou signeur",
+"an_tresor": "Ysayas quier tanto dezir como salut del senyor",
+"es_tresor": "Ysayas quiere tanto dezir commo salud del Señor",
+"ca_tresor": "Ysaias vol aitant dir com salut d'un senyor",
+"it_tresor": "Içaie val tanto a ddire come salus del Singnore"
+}
+],
+
+"139": [
+{
+"fr_tresor": "et fu fiz Amoz, non mie de Amoz prophete, ki fu né de pastors, mais Amoz le pere Ysaie fu nobles hom de Jerusalem",
+"an_tresor": "el fue fillo de Amos no de Amos el propheta que fue njeto de pastor Mas Amos el padre de Ysayas fue noble omne de Iherusalem e grant enla çibdat",
+"es_tresor": "& fue fijo de Amos, non de aquel Amos que fue propheta & uno de los pastores, ca Amos el padre de Ysayas fue noble onbre de Iherusalem",
+"ca_tresor": "Ell fon fill de Amós, no pas del propheta, que fon nat de pastor, mas Amós, lo pare de Ysaias, fo noble en sa ciutat de Jerusalem",
+"it_tresor": "e ffu filliolo Amos, no miccha d’Amos profeta, che ffue nato d’i pastor, ma Amos lo padre d’Içaia fue nobile hom di Gerusalem"
+}
+],
+
+"140": [
+{
+"fr_tresor": "Ysaies fu hom de grant sainteté, ke par le commandement Nostre Signor conversoit entre le peuple tozjors nu cors et nus piés",
+"an_tresor": "e Ysayas fue de muy gran santidat ca por voluntat de nuestro senyor couersaua entre el pueblo todos dias spullado en cuerpo e escalço",
+"es_tresor": "& Ysayas fue onbre de grant santidat, & por el mandamiento de Nuestro Señor moro sienpre entre el pueblo, el cuerpo desnudo & los pies descalços",
+"ca_tresor": "Ysaias fo de molt gran sanctetat, car per manament de nostre Senyor conversava tots jorns ab lo cors nu e descalç",
+"it_tresor": "Içaia fu omo di grande santitade che, per lo comandamento del Nostro Signore, conversava intra l popolo tutto tempo e andava nudo del corpo e nudo dei piedi"
+}
+],
+
+"141": [
+{
+"fr_tresor": "Deus par sa proiere alonga la vie .xv. ans au roi Ezechie, ki ja devoit morir",
+"an_tresor": "e Dios por su Rogaria alargo la vida .xv. anyos al Rey Zechie que deuja la hora morir",
+"es_tresor": "Dios por su oraçion alongo la vida quinze años al rey Ezechias, que devie ya morir",
+"ca_tresor": "Déu per sa pregada allonguà la vida .xv. anys al rey Ezechies, qui lavors devia morir",
+"it_tresor": "E Dio, per sua preghiera, alungò la vita .XV. anni al rei Eçecies che già dovea morire"
+}
+],
+
+"142": [
+{
+"fr_tresor": "Manasses fist partir parmi le cors Ysaie une sie de fust",
+"an_tresor": "Manasses fizo partir por medio el cuerpo de Ysayas en vna sedilla de fust",
+"es_tresor": "Manases fizo partir el cuerpo de Ysayas por medio",
+"ca_tresor": "Manassès féu partir per mig del cors Ysaias ab una serra de fust",
+"it_tresor": "Manasses fece partire lo suo corpo per meçço con una serra di lengno"
+}
+],
+
+"143": [
+{
+"fr_tresor": "Et dient li juis k'il fu livrés a mort pour .ii. raisons",
+"an_tresor": "e dizen los jodios que el fue liurado a muert por dos Razones",
+"es_tresor": "E algunos dizen que fue muerto por dos razones",
+"ca_tresor": "E dien los juheus que ell fon liurat a mort per dues rahons",
+"it_tresor": "E diceno li Giudei ch’elli fue livrato a morte per due ragiune"
+}
+],
+
+"144": [
+{
+"fr_tresor": "l'une por ce k'il les apiela pueples de Sodome et princes de Gomorre",
+"an_tresor": "la vna por que el los clamo pueblo de Sodoma et principes de Gomorra",
+"es_tresor": "la una por que los llamo pueblo de Sodoma et prinçipes de Gomarra",
+"ca_tresor": "la una, per ço com los appellà poble de Sodoma e prínceps de Gomorra",
+"it_tresor": "l’una però ch’elli l’appellò popolo di Soddome e princi di Gamorre"
+}
+],
+
+"145": [
+{
+"fr_tresor": "l'autre ke quant Deus ot dit a Moysen, tu ne poras veoir ma face, cil Ysaias osa dire k'il avoit veu Dameldeu",
+"an_tresor": "la otra que quando Dios ouo dito a Moyses tu no poras veyer mj cara Aqueste Ysayas oso dir que el auja visto nuestro senyor Dios",
+"es_tresor": "e la otra quando dixo Dios a Muyssen tu non podras ver la mi faz, et Ysayas oso dezir que el viera a Nuestro Señor Dios",
+"ca_tresor": "l'altre, que con Déu hac dit a Moysès tu no poràs veure la mia cara, aquell Ysaias gosà dir que ell havia vist nostre senyor Déu",
+"it_tresor": "l’altra che quando Dio ebbe dicto a Moiçe tu non potrai vedere la mia factia, ed elli oçò dire ched elli avea veduto Dio"
+}
+],
+
+"146": [
+  {
+    "fr_tresor": "Et sa sepulture est desous le chesne",
+    "es_tresor": "Et su sepultura es so el ençina",
+    "ca_tresor": "E sa sepultura és dejús lo roure",
+    "it_tresor": "E ffue soppellito sotto l’olmo"
+  }
+],
+"147": [
+{
+"fr_tresor": "JEREMIES fu del linage des prestres, et fu nés en .i. chastel ki a non Anatout, a .iii. liues de Jherusalem",
+"an_tresor": "Ieremjas fue dela ljnea delos clerigos e nascio en vn castiello que ha nonbre Anatarit e es a .iij. leguas de Iherusalem",
+"es_tresor": "Jeremías fue del linage de los prestes, & nasçio en un castillo que ha nonbre Anatud, a tres leguas de Iherusalem",
+"ca_tresor": "Jeremies fo del linatge dels preveres, e fon nat en un castell qui ha nom Anataut, a .iii. legües prop de Jerusalem",
+"it_tresor": "Geromie fue del lingnaggio del prestes e fue nato inn uno castello che à nome Anatoc a tre liegue presso a Gierusalem"
+}
+],
+
+"148": [
+{
+"fr_tresor": "Il fu prestres en Judee, et fu sacrés a prophete",
+"an_tresor": "el fue clerigo en Judea e fue denunciado de Dios por propheta",
+"es_tresor": "& fue preste en Judea, & fue sagrado por propheta",
+"ca_tresor": "E fo prevere en Judea, e per Déu fon anunciat propheta",
+"it_tresor": "Elli fue preite in Giudea e ffu sagrato a pprofeta"
+}
+],
+
+"149": [
+{
+"fr_tresor": "Avant k'il nasquist fu il conneus, et li fu commandé qu'il maintenist virginité",
+"an_tresor": "ante quel nasciesse le fue mandado que el mantuujesse virginjdat e el asi lo fizo",
+"es_tresor": "& ante que el fuesse nasçido fue conosçido, & a el fue mandado que mantoviesse virginidat",
+"ca_tresor": "ans que nasqués, e fon-li manat que mantengués virginitat, e sí's féu",
+"it_tresor": "E innansi ch’elli nasciesse fue connosciuto e fuli commandato ch’elli guardasse e mantenesse la sua verginità"
+}
+],
+
+"150": [
+{
+"fr_tresor": "De s'enfance comença il a preechier et oster les gens de pechié, et a connorter les a penitance",
+"an_tresor": "el començo a predicar e tirar las gentes delos peccados e administrar los a penitencia",
+"es_tresor": "De su moçedat començo luego a predicar & a quitar las gentes de pecado & a los convertir a penitencia",
+"ca_tresor": "Ell començà a preycar e lunyar les gents dels peccats, e menar-los a penitència",
+"it_tresor": "In de la sua gioventude incominciò elli a predichare e a levare le giente di pecchato e a ’npruntarli di penetensia"
+}
+],
+"151": [
+{
+"fr_tresor": "Maint mal li furent fait dou cruel peuple, car il fu mis en chartre et fu getés en .i. lac et fu chains de chaines",
+"an_tresor": "Muyto de mal le fizo el cruel pueblo por que el fue meso en carçel e fue gitado en hun lago cennydo de cadenas de fierro",
+"es_tresor": "Muchos males le fizo el pueblo cruel, ca fue metido en carçel & echado en un lago & cobierto de cal",
+"ca_tresor": "Molts mals li feren los pobles cruels, car ell fon mès en presons, e fo gitat en un estany, cenyit de cadenes de ferre",
+"it_tresor": "E molti mali li funo facti da crudele popolo che elli fue messo in carcere e fue gittato in uno lago e fue cinto di catene"
+}
+],
+"152": [
+{
+"fr_tresor": "Et a la fin fu il lapidés en Egypte; et fu ensevelis la u Pharaon li rois manoit",
+"an_tresor": "e ala ffin fue pedregado en Egipto e fue soterrado alli do el Rey Faraon morava",
+"es_tresor": "& a la fyn apedrearonle en Egipto, & fue soterrado ally do el rey Faraon morava",
+"ca_tresor": "E a la fi en Egipte fon lapidat; e fo sebollit l'any que·l rey Ffarahó regnave",
+"it_tresor": "e a la fine fu elli allapidato in Egypto e fue soppellito là ue lo rei Faraon stava"
+}
+],
+"153": [
+{
+"fr_tresor": "et son sepulchre est en grant reverence entre les egyptiiens, por ce ke il les delivra des serpens",
+"an_tresor": "e su sepulcro es en gran reuerencia entre los egipcianos por que el los deliuro dela serpient",
+"es_tresor": "& su sepultura es de muy grand reverençia entre los de Egipto por que los libro de las serpientes",
+"ca_tresor": "E son sepulcre és en gran reverència en Egipte, per ço cor ell los deliurà de les serpents",
+"it_tresor": "E l suo sipolcro este in grande riverensia in tra li Egittiani inperò che lli dilivrò de li serpenti"
+}
+]
+   
+      
+  }
+ }
