@@ -1,175 +1,155 @@
-<!-- GitHub banner -->
-<p align="center">
-  <img src="img/parallelium_banner_clean.png" alt="Parallelium – Aligned Scriptures Corpus banner" width="100%">
-</p>
+# Parallelium Multilingual Alignment Dataset
 
-# Parallelium: an aligned scriptures dataset
+*Where historical variation meets multilingual alignment.*
 
-> A multilingual corpus of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for computational and philological alignment tasks.  
-> It serves as a benchmark dataset for multilingual alignment of historical religious texts.
+This repository presents a curated collection of **multilingual texts** aligned through manual and semi-manual workflows, **including scriptural materials and medieval prose**. It is intended for cross-lingual representation learning and for the fine-tuning or domain adaptation of multilingual models such as [LaBSE](https://arxiv.org/pdf/2007.01852) to historical and pre-standardized textual data.
 
-> 📢 **Important Notice on Licensing**  
-> This repository includes *only alignment metadata*. Some source texts (especially medieval Bible translations and parts of the Qur’anic corpus) are **not redistributed** due to licensing restrictions.  
-> Please consult the documentation for access or citation of original sources.
+Unlike many modern corpora, this dataset exposes models to:
 
-## Description
+- non-standardized spelling
+- strong linguistic variation
+- non-literal translation practices
+- historically variable textual traditions
 
-*A multilingual dataset of aligned Biblical and Qur’anic texts, primarily in medieval languages, gathered from diverse external sources (see the Data Sources section). Selected modern editions are also included to enhance linguistic diversity and improve the robustness and generalizability of sentence alignment models.*
+This makes it particularly suitable for studying **robust multilingual representations** in historical and pre-standardized textual settings, in conditions that differ significantly from modern benchmarks.
+---
 
-*The dataset is designed to support training and evaluation for historical, philological, and comparative linguistic applications.*
+## Why This Dataset?
 
+Most existing parallel or alignment-oriented corpora focus on **modern, standardized languages**.
 
-## Project Scope
+Historical and pre-standardized texts introduce specific challenges:
 
-This dataset provides training data for multilingual alignment models. It includes over **48,000 aligned verses** and more than **4 million verse-level pairs**, covering **29 versions** in **9 languages**. The corpus spans both **medieval** and **modern** textual traditions.
+- orthographic instability
+- linguistic heterogeneity
+- non-literal translation practices
+- narrative or textual restructuring
+- variation across textual traditions
 
-It is intended as an **open and extensible training resource** for multilingual NLP — not a fixed benchmark. Future releases may include additional sources or metadata.
+Existing resources are often:
 
-> 📌 Each aligned verse includes two or more versions. Pair counts reflect all _n choose 2_ language pairs per verse.
+- small
+- domain-restricted
+- weakly aligned
+- or not designed for model adaptation and evaluation
 
-## Goals and Audience
-
-This dataset is designed to support the development and evaluation of **multilingual alignment models** tailored to historical texts — a domain often underserved by modern NLP resources.
-
-Unlike standard parallel corpora, this dataset addresses challenges specific to historical-language contexts, including:
-
-- Structural divergence across religious and textual traditions  
-- Flexible or free word order in premodern languages  
-- Non-standardized orthographies and inconsistent editorial practices  
-- Gaps, mismatches, and overlaps in verse segmentation across versions  
-
-By providing aligned data across a wide range of languages and periods, the corpus aims to:
-
-- Enable **robust training** of alignment systems for historical and philological contexts  
-- Support research on **translation shifts** and **textual transmission** across traditions  
-- Serve as a **flexible foundation** for extended corpus-building, enrichment, or annotation
-
-  ➡️ See [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md) for detailed alignment criteria and pairing logic.
-
-
-### Intended for:
-- NLP researchers tackling low-resource or historical alignment  
-- Digital humanists studying multilingual translation or textual variants  
-- Scholars exploring transmission across religious and linguistic boundaries
-
-## Dataset Overview
-
-| Feature            | Biblia Corpus                                                                                   | Qur’anic Corpus                                                                 |
-|--------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| **Text Types**     | Biblical texts (medieval and selected modern editions)                                            | Qur’anic translations in historical European languages and Arabic                 |
-| **Languages**      | Latin, French, English, Castilian, Catalan, Italian, Portuguese, Greek                            | Arabic, Latin, English, French, Italian                                           |
-| **Alignment Unit** | Verse-level (approximating sentence or clause)                                                    | Verse-level (based on surah:ayah structure)                                       |
-| **Format**         | JSON                                                                                              | JSON                                                                              |
-| **Use Case**       | Training multilingual alignment models *(not for textual criticism)*                              | Training multilingual alignment models *(not for religious or exegetical use)*    |
-| **Aligned Verses** | 42,562                                                                                            | 6,236                                                                             |
-| **Aligned Pairs**  | 3,927,811                                                                                          | 114,226                                                                           |
-
-
-
-# Data Sources
-
-The Biblical and Qur’anic texts were selected for their **structural compatibility** — namely, their verse-based (or surah:ayah in the case of the Qur’an) organization — and their widespread **cross-linguistic transmission**, which enables meaningful alignment across centuries and traditions.
-
-
-### Medieval Bibles
-
-| Language | Text                        | Source                                                                                                                                                                           | Format        |
-|----------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| en       | John Wycliffe Bible         | [GitHub](https://github.com/saibotsivad/john-wycliffes-bible/tree/master/raw-text)                                                                                              | `.txt`        |
-| en       | Coverdale Bible             | [GitHub](https://github.com/Isidore-Guild/coverdale)                                                                                                                             | `.xml`        |
-| en       | Great Bible                 | [EDGeS Corpus](https://spraakbanken.gu.se/en/resources/openedges)                                                                                                                | `.tsv`        |
-| it       | Gospel of St. Matthew       | [Caterina Menichetti Edition](https://www.sismel.it/pubblicazioni/2059-il-vangelo-secondo-matteo-in-volgare-italiano-studio-ed-edizione-critica-delle-due-versioni-non-glossate)            | `.pdf`        |
-| fr       | La Bible historiale         | [Project site](https://www.biblehistoriale.fr/index.php/xml-tei/)                                                                                                                | `.xml`        |
-| fr       | Esther, Judith, Ruth        |Texts kindly provided by Claudio Lagomarsini                                                                                                                                                | Word\*        |
-| fr       | Gospel of Matthew           |Transcription kindly provided by Seth Middleton                                                                                                                                                | `.txt`\*      |
-| gr       | Septuagint (LXX)            | [Corpus Corporum](https://mlat.uzh.ch/browser?path=/17098/17099/17113/17110/17104)                                                                                               | `.xml`        |
-| es       | Three Medieval Bibles       | [Proyecto Biblia Medieval](https://bibliamedieval.es/recursos/textos)                                                                                                            | `.txt`        |
-| ca       | Three Medieval Bibles       | Texts kindly provided by Pere Casanellas [(Corpus Biblicum Catalanicum)](https://cbcat.abcat.cat/)                                                                                                       | `.xml`, Word\*|
-| la       | Vulgata Sixto-Clementina    | [GitLab](https://gitlab.com/crosswire-bible-society/vulgate/-/blob/master/vulgate.osis.xml?ref_type=heads)                                                                      | `.xml`        |
-
-> \* *These texts are not publicly shareable due to copyright restrictions.*
-
-## Credits
-
-We gratefully acknowledge the following scholars and institutions for their contributions of source material or expertise:
-
-- **Pere Casanellas (Corpus Biblicum Catalanicum)** – Catalan biblical texts based on the Egerton, Peiresc, and Colbert manuscripts  
-- **Claudio Lagomarsini** – Provided French texts of *Esther*, *Judith*, and *Ruth* (Bible du XIIIe siècle)  
-- **Mouhamadoul-Khaly Wélé** – Multilingual aligned dataset based on the Quran  
-- **Seth Middelton** – French transcription of the Gospel of *Matthew* (Bible du XIIIe siècle)  
-
-➡️ See [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md) for notes on structural complexity, exclusions, and philological variation.
+This project provides a **curated multilingual alignment dataset** combining scriptural materials and medieval prose, designed to support cross-lingual representation learning, LaBSE fine-tuning, and robustness evaluation on historical textual data.
 
 ---
 
-### Modern Editions
+## From Scriptural Parallel Corpora to Narrative Prose
 
-Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this repository](https://github.com/thiagobodruk/bible), used to augment language diversity.
+This repository brings together two complementary resources:
 
-➡️ For preprocessing and integration steps, see [docs/alignment_workflow.md](docs/alignment_workflow.md).
+- **scriptural parallel corpora**
+- a smaller dataset of **narrative prose**
 
----
+The scriptural corpora provide multilingual data that is:
 
-### Qur’an
+- structurally stable
+- inherently parallel
+- relatively standardized
 
-Multilingual alignment produced by the **[Coran 12-21](https://coran12-21.org/fr) project** — co-directed by **Mouhamadoul-Khaly Wélé and Tristan Vigliano** — covering 7 languages (Arabic, Latin, English, French, Italian, etc.), with texts kindly provided by Mouhamadoul-Khaly Wélé.
-*Note: This resource is not publicly redistributable.*
+These properties make them well suited for alignment-oriented experiments.
 
----
-## Data Format
+The prose dataset extends this setting to more structurally variable narrative texts, where:
 
-The dataset is stored in structured JSON files:
+- translations may be non-literal
+- events can be reordered
+- discourse structure may vary significantly
+- semantic equivalence does not always correspond to direct structural alignment
 
-- **Monolingual format**: dictionary of `{book → list of {ref, text}}`
-- **Multilingual format**: list of aligned verses, each with `book`, `ref`, and a `data` map of translations
-
-➡️ See [docs/data_structure.md](docs/data_structure.md) for full examples and schema.
-
-## 🔍 Alignment Preview (Biblical Corpus)
-
-The snippet below illustrates how to explore aligned verse pairs in the JSON file.  
-Each verse contains a `book`, `ref`, and a `data` dictionary mapping version IDs to verse translations.
-
-```python
-import json
-
-with open("aligned_data.json") as f:
-    data = json.load(f)
-
-# Display all aligned French–Portuguese verse pairs from Genesis
-#  Change language IDs below based on your alignment interest
-for verse in data:
-    if verse["book"] == "genesis":
-        fr = verse["data"].get("fr_lsegond")
-        pt = verse["data"].get("pt_almeida")
-        if fr and pt:
-            print(f'{verse["ref"]}:\nFR: {fr}\nPT: {pt}\n')
-```
-Note: aligned_data.json is not distributed due to licensing.
-Use this example to preview the data format and structure.
+Together, these resources support the study of multilingual textual alignment across both highly standardized parallel corpora and more divergent narrative prose.
 
 ---
 
+## Language Coverage
 
-### Future Directions
+This repository brings together multilingual textual resources across a broad range of linguistic traditions, while placing particular emphasis on **medieval Romance languages**.
 
-This corpus is an initial foundation intended to grow. Several improvements are planned to enhance its usability, accuracy, and scholarly value:
 
-- Prioritize the **collection and structuring of additional medieval texts**, especially from **Romance-language traditions**, to rebalance the dataset—currently skewed toward modern sources—and progressively specialize it for historical modeling. This will improve alignment robustness for premodern domains and enable the training of models tailored to medieval textual data.
+### Medieval Romance traditions
 
-- **Incorporate OCR/HTR of manuscript texts**  
-  Leveraging Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) will allow the inclusion of otherwise inaccessible sources, especially for underrepresented medieval texts not available in digital editions.
+French · Catalan · Portuguese · Castilian · Occitan · Italian · Aragonese · Venetian · Galician-Portuguese
 
-- **Annotate editorial provenance and textual lineage**  
-  Metadata will be enriched to reflect the textual origin (e.g., manuscript family, editor, edition), enabling philological and stemmatic analysis across traditions.
+### Germanic tradition
 
-- **Develop a queryable interface or API**  
-  To support broader reuse and exploration, develop a queryable interface or lightweight CLI tool is under consideration, allowing users to search and extract aligned verses by book, chapter, language pair, or version — without requiring users to load the full dataset into memory
+Middle English
 
-### Versioning
+### Latin traditions
 
-- **Current version**: `v0.1`  
-- **Next planned update**: Continued cleaning and integration of additional medieval texts already sourced — targeted for **Q4 2025**
+Latin · Medieval Latin
+
+### Additional scriptural traditions represented
+
+Including Greek (Septuagint) and Arabic
+
+---
+
+## Data Documentation
+
+The datasets are distributed as JSON files, but their internal structure differs depending on the corpus.
+
+Detailed documentation for each corpus is available in the `docs/` directory, where users can find information about:
+
+- file organization
+- corpus sources and source-text availability
+- metadata fields
+- alignment structure
+- dataset statistics
+- segmentation or alignment units
+- corpus-specific conventions and limitations
+
+Because the repository combines different types of aligned material, corpus-level documentation should be consulted for details on structure, coverage, sources, and licensing constraints.
+
+---
+
+## Objective and Use Cases
+
+This dataset is designed to support multilingual representation learning, historical NLP, and the fine-tuning or evaluation of cross-lingual alignment models.
+
+It is particularly suited for experiments aiming to:
+
+- improve semantic alignment across languages and textual traditions
+- handle historical and pre-standardized language variation
+- evaluate multilingual models beyond literal translation settings
+- fine-tune or adapt multilingual sentence embedding models
+- test robustness on scriptural and medieval prose materials
+- study multilingual text alignment across structurally different corpora
+
+## Intended Audience
+
+This dataset may be useful for:
+
+- NLP researchers working on low-resource, historical, or cross-lingual alignment
+- digital humanists studying multilingual translation, textual reuse, or textual variants
+- scholars exploring textual transmission across religious, linguistic, and historical traditions
+
+## Scope and Limitations
+
+This dataset is intended for computational experiments in multilingual representation learning, model adaptation, and alignment evaluation.
+
+It is not a substitute for philological alignment, critical editing, or scholarly textual collation. During manual alignment, textual segments may be adjusted or non-alignable material may be omitted.
+
+---
+
+## Status
+
+This repository is under development. Corpus coverage, metadata, and alignment files may be updated as new texts become available or as existing alignments are revised.
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+
+- opening an issue to report errors, inconsistencies, or missing metadata
+- providing usable source texts or witnesses for additional languages and textual traditions
+- submitting a pull request with corrections, new alignments, new texts, or documentation improvements
+
+---
 
 ## 🔗 Related Projects
 
@@ -181,29 +161,30 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 - [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data)  
   Source texts and segmented versions in multiple medieval Romance languages, as well as Latin and English, used for training and evaluating clause segmentation models.
 
-- [Lancelot par maints langages](https://github.com/carolisteia/lancelot-par-maints-langages)  
-  A parallel corpus of translations of the *Lancelot en prose* in medieval French, Castilian, and Italian, segmented and aligned using the Aquilign pipeline.
+---
 
-- [Multilingual Aegidius](https://github.com/ProMeText/Multilingual_Aegidius)  
-  A parallel corpus of translations of Aegidius Romanus’ *De regimine principum* in Latin, medieval Romance languages, and English, processed using the same segmentation and alignment workflow.
+## Citation
 
-## Documentation
+Please cite the repository when using the dataset, alignment metadata, or derived files in publications, models, or downstream experiments.
 
-- Data Structure Schema  
-  ➡️ [docs/data_structure.md](docs/data_structure.md)
+```bibtex
+@misc{parallelium_multilingual_alignment_dataset_2026,
+  title        = {Parallelium: A Multilingual Alignment Dataset for Scriptural and Medieval Narrative Texts},
+  author       = {Ing, Lucence and Levenson, Matthias Gille and Macedo, Carolina},
+  year         = {2026},
+  howpublished = {GitHub repository}
+}
+```
+---
 
-- Alignment Workflow  
-  ➡️ [docs/alignment_workflow.md](docs/alignment_workflow.md)
+## License
 
--  Alignment Guidelines  
-  ➡️ [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md)
+The alignment metadata produced for this dataset are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise specified.
 
--  Structural Variation and Exclusions  
-  ➡️ [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md)
+> > ⚠️ Some **source texts**—including certain medieval Bible translations, the Qur’anic corpus, and some critical editions—are **not redistributed** in this repository due to third-party copyright restrictions.  
+> Please refer to the documentation or the original editions for licensing information on specific versions.
 
--  Dataset Statistics Summary  
-  ➡️ [docs/dataset_statistics.md](docs/dataset_statistics.md)
-
+---
 
 ## Funding
 
@@ -215,9 +196,3 @@ This work benefited from national funding managed by the **Agence Nationale de l
   <img src="https://github.com/user-attachments/assets/915c871f-fbaa-45ea-8334-2bf3dde8252d" alt="Biblissima+ Logo" width="600"/>
 </p>
 
-### License
-
-The alignment metadata produced for this dataset are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise noted.
-
-> ⚠️ Some **source texts**—particularly certain medieval Bible translations and portions of the Qur’anic corpus—are **not included** in this repository due to third-party copyright restrictions.  
-> Please refer to the documentation or the original editions for licensing information on specific versions.
