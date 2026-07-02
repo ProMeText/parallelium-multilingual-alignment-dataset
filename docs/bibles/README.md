@@ -2,21 +2,33 @@
 
 ## Overview
 
-> A multilingual corpus of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for computational and philological alignment tasks.  
-> It serves as a benchmark dataset for multilingual alignment of historical religious texts.
+> A multilingual corpus of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for computational alignment tasks. It serves as a benchmark dataset for multilingual alignment of historical religious texts.
 
 This README documents the Biblical and Qur’anic alignment dataset, composed primarily of medieval texts gathered from diverse external sources. Selected modern editions are also included to increase linguistic diversity and improve the robustness and generalizability of sentence alignment models.
 
 The dataset includes over **48,000 aligned verses** and more than **4 million verse-level pairs**, covering **29 versions** in **9 languages**. The corpus spans both **medieval** and **modern** textual traditions.
 
-> 📌 Each aligned verse includes two or more versions. Pair counts reflect all _n choose 2_ version pairs per verse.
-
-➡️ See [Biblical alignment challenges](biblical_alignment_challenges.md) for notes on structural complexity, exclusions, and philological variation.
+Each aligned verse includes two or more versions. Pair counts reflect all _n choose 2_ version pairs per verse.
 
 > 📢 **Important Notice on Licensing**  
 > This repository includes *only alignment metadata*. Some source texts, especially medieval Bible translations and the Qur’anic corpus, are **not redistributed** due to licensing restrictions.  
 > Please consult the documentation for access or citation of original sources.
 
+## Documentation Structure
+
+## Documentation Structure
+
+The documentation in this directory provides supplementary information on the scriptural dataset, including its alignment strategy, data structure, and key editorial decisions.
+
+| File | Description |
+|------|-------------|
+| [`alignment_workflow.md`](alignment_workflow.md) | Step-by-step overview of the Biblical corpus alignment pipeline |
+| [`biblical_alignment_challenges.md`](biblical_alignment_challenges.md) | Discussion of challenges related to canonical structure and medieval source traditions |
+| [`data_structure.md`](data_structure.md) | JSON format specifications for monolingual and multilingual dataset files |
+| [`dataset_statistics.md`](dataset_statistics.md) | Summary of verse counts and alignment-pair counts by version and language |
+| [`verse_alignment_guidelines.md`](verse_alignment_guidelines.md) | Editorial principles for aligning verses across different textual traditions |
+
+> **Note:** Some documents refer specifically to the **Biblical** section of the corpus. **Qur’anic** alignment is included in the statistics but is not redistributed due to licensing constraints.
 
 ## Dataset Overview
 
@@ -55,15 +67,6 @@ The Biblical and Qur’anic texts were selected for their **structural compatibi
 
 > \* *These texts are not publicly shareable due to copyright restrictions.*
 
-## Credits
-
-We gratefully acknowledge the following scholars and institutions for their contributions of source material or expertise:
-
-- **Pere Casanellas (Corpus Biblicum Catalanicum)** – Catalan biblical texts based on the Egerton, Peiresc, and Colbert manuscripts  
-- **Claudio Lagomarsini** – Provided French texts of *Esther*, *Judith*, and *Ruth* (Bible du XIIIe siècle)  
-- **Mouhamadoul-Khaly Wélé** – Multilingual aligned dataset based on the Quran  
-- **Seth Middleton** – French transcription of the Gospel of *Matthew* (Bible du XIIIe siècle)  
-
 
 ### Modern Editions
 
@@ -77,6 +80,14 @@ Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this reposi
 Multilingual alignment produced by the **[Coran 12-21](https://coran12-21.org/fr) project** — co-directed by **Mouhamadoul-Khaly Wélé and Tristan Vigliano** — covering 7 languages (Arabic, Latin, English, French, Italian, etc.), with texts kindly provided by Mouhamadoul-Khaly Wélé.
 *Note: This resource is not publicly redistributable.*
 
+## Credits
+
+We gratefully acknowledge the following scholars and institutions for their contributions of source material or expertise:
+
+- **Pere Casanellas (Corpus Biblicum Catalanicum)** – Catalan biblical texts based on the Egerton, Peiresc, and Colbert manuscripts  
+- **Claudio Lagomarsini** – Provided French texts of *Esther*, *Judith*, and *Ruth* (Bible du XIIIe siècle)  
+- **Mouhamadoul-Khaly Wélé** – Multilingual aligned dataset based on the Quran  
+- **Seth Middleton** – French transcription of the Gospel of *Matthew* (Bible du XIIIe siècle)  
 
 ## Data Format
 
@@ -87,7 +98,7 @@ The dataset is stored in structured JSON files:
 
 ➡️ See [data_structure.md](data_structure.md) for full examples and schema.
 
-## 🔍 Alignment Preview (Biblical Corpus)
+## Alignment Preview (Biblical Corpus)
 
 The snippet below illustrates how to explore aligned verse pairs in the JSON file.  
 Each verse contains a `book`, `ref`, and a `data` dictionary mapping version IDs to verse translations.
