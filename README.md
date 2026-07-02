@@ -10,9 +10,8 @@ Unlike many modern parallel corpora, this dataset exposes models to non-standard
 
 | Path             | Description                                                                                                      |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [`data/`](data/) | Dataset files and alignment metadata.                                                                            |
-| [`docs/`](docs/) | Corpus-level documentation, including source descriptions, data structure, alignment guidelines, and statistics. |
-| [`img/`](img/)   | Images and visual material used in the repository documentation.                                                 |
+| [`data/`](data/) | Aligned JSON files, including textual content only where redistribution is permitted. |
+| [`docs/`](docs/) | Corpus documentation, including source information, data structure, alignment guidelines, statistics, and documentation images. |                                  |
 
 ## Dataset Components
 
@@ -130,5 +129,3 @@ The alignment metadata produced for this dataset are distributed under the [CC B
 ## Funding
 
 This work benefited from national funding managed by the Agence Nationale de la Recherche under the Investissements d'avenir programme with the reference ANR-21-ESRE-0005 (Biblissima+).
-
-> Ce travail a bénéficié d'une aide de l’État gérée par l’Agence Nationale de la Recherche au titre du programme d’Investissements d’avenir portant la référence ANR-21-ESRE-0005 (Biblissima+).

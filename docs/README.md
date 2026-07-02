@@ -8,8 +8,8 @@ The materials are organized by corpus and provide details on source texts, prepr
 
 | Folder | Description |
 |--------|-------------|
-| [`bibles/`](bibles/) | Documentation for the scriptural corpus, including Biblical and Qur’anic alignment data, source materials, alignment guidelines, data structure, and statistics. |
-| [`medieval_prose/`](medieval_prose/) | Documentation for the medieval prose corpus, including source materials, preprocessing choices, alignment strategy, and corpus-specific notes. |
+| [`dataset/bibles/`](dataset/bibles/) | Documentation for the scriptural corpus, including Biblical and Qur’anic alignment data, source materials, alignment guidelines, data structure, and statistics. |
+| [`dataset/medieval_prose/`](dataset/medieval_prose/) | Documentation for the medieval prose corpus, including source materials, preprocessing choices, alignment strategy, and corpus-specific notes. |
 
 ## Note
 
