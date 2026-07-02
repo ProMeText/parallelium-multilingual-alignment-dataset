@@ -10,11 +10,9 @@ The dataset includes over **48,000 aligned verses** and more than **4 million ve
 
 Each aligned verse includes two or more versions. Pair counts reflect all _n choose 2_ version pairs per verse.
 
-> 📢 **Important Notice on Licensing**  
+> **Important Notice on Licensing**  
 > This repository includes *only alignment metadata*. Some source texts, especially medieval Bible translations and the Qur’anic corpus, are **not redistributed** due to licensing restrictions.  
 > Please consult the documentation for access or citation of original sources.
-
-## Documentation Structure
 
 ## Documentation Structure
 
@@ -28,7 +26,7 @@ The documentation in this directory provides supplementary information on the sc
 | [`dataset_statistics.md`](dataset_statistics.md) | Summary of verse counts and alignment-pair counts by version and language |
 | [`verse_alignment_guidelines.md`](verse_alignment_guidelines.md) | Editorial principles for aligning verses across different textual traditions |
 
-> **Note:** Some documents refer specifically to the **Biblical** section of the corpus. **Qur’anic** alignment is included in the statistics but is not redistributed due to licensing constraints.
+> **Note:** Some documents refer specifically to the Biblical Corpus. 
 
 ## Dataset Overview
 
