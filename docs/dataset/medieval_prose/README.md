@@ -1,67 +1,97 @@
-## LaBSE and Its Relevance for Medieval Multilingual Corpora 
+# Medieval Prose Corpus
 
-### What is LaBSE?
+**Quality over scale: this corpus captures rich semantic variation in challenging multilingual settings.**
 
-Language-Agnostic BERT Sentence Embedding (LaBSE) is a multilingual sentence embedding model designed to map sentences from different languages into a shared semantic vector space. It is trained using large-scale parallel corpora and optimized with translation-ranking and contrastive learning objectives, enabling it to capture semantic similarity across languages.
+This folder documents the medieval prose component of the **Parallelium multilingual alignment dataset**.
 
-In this framework, semantically equivalent sentences in different languages are embedded closely together, while unrelated sentences are pushed apart. This makes LaBSE particularly effective for tasks such as cross-lingual retrieval, bitext mining, and multilingual semantic similarity.
+The medieval prose corpus contains aligned narrative texts in several medieval languages. Unlike scriptural corpora, where verse structures provide relatively stable alignment units, medieval prose often involves freer translation practices, narrative restructuring, expansions, omissions, and substantial linguistic variation.
 
----
-
-### Why Use LaBSE for This Corpus?
-
-The corpus constructed in this study consists of parallel medieval texts in multiple languages, characterized by significant variation in syntax, lexicon, and translation practices.
-
-LaBSE is particularly well suited for this setting because:
-
-- it does not rely on strict lexical overlap,
-- it is robust to syntactic variation,
-- it can capture semantic equivalence across non-literal translations.
-
-These properties make it an appropriate model for aligning and representing medieval multilingual material, where translations are often approximate, interpretative, or structurally divergent.
-
----
-
-### Why Fine-Tune LaBSE on Medieval Texts?
-
-Although LaBSE is trained on large modern multilingual corpora, it is not optimized for pre-modern language varieties. Medieval texts present several challenges:
-
-- orthographic variation,
-- archaic vocabulary,
-- non-standardized grammar,
-- non-literal and adaptive translation practices.
-
-As a result, the semantic representations produced by the base model may be suboptimal for this domain.
-
-Fine-tuning LaBSE on a carefully curated medieval parallel corpus allows the model to:
-
-- adapt to historical linguistic variation,
-- improve alignment across medieval language forms,
-- better capture domain-specific semantic relations.
+The corpus is designed to support experiments in multilingual alignment, historical NLP, and cross-lingual representation learning on pre-standardized textual material.
 
 
-By fine-tuning the model on medieval textual material, this process encourages it to capture **historically grounded cross-lingual correspondences**, thereby improving performance on downstream tasks involving medieval texts.
+## Contents
 
----
-
-### Design Implication
-
-Given the contrastive learning framework of LaBSE, the quality of sentence pairs used for fine-tuning is critical. The model assumes that each pair represents a true semantic equivalence. Therefore, the construction of the corpus emphasizes:
-
-- precise semantic alignment,
-- coherent segmentation,
-- and minimal noise.
-
-This motivates the data curation strategy adopted in this work.
+| File | Description |
+|------|-------------|
+| [`corpus_sources.csv`](corpus_sources.csv) | Source information for the medieval prose texts, including language, work, edition, availability, and licensing notes where relevant. |
+| [`data_collection.md`](data_collection.md) | Notes on text collection, source preparation, and preprocessing decisions. |
+| [`alignment_guidelines.md`](alignment_guidelines.md) | Alignment methodology and editorial principles used for semantic narrative-unit alignment. |
+| [`data_structure.md`](data_structure.md) | Description of the JSON structure used for medieval prose alignment files. |
+| [`dataset_statistics.md`](dataset_statistics.md) | Corpus statistics, including counts by work, language, version, and alignment unit where available. |
 
 
-----
-## Why Data Quality Matters
+## Overview
 
-LaBSE maps semantically equivalent sentences across languages close together in a shared vector space. Because it learns from aligned sentence pairs, the quality of these pairs is crucial: noisy or poorly aligned data can provide misleading training signals and degrade the resulting embeddings.
+The medieval prose corpus is aligned at the level of **semantic narrative units** rather than strictly at the sentence level.
 
-Data quality ≠ data quantity
+A narrative unit corresponds to a coherent event, action, or semantic segment. It may coincide with a sentence, but it can also be shorter or longer depending on the structure of the source texts and their translations.
 
-✔ Clean, well-aligned corpus → strong training signal
+This approach is intended to capture meaningful semantic correspondences across texts that are not always structurally parallel.
 
-❌ Large, noisy corpus → weak or misleading signal
+## Why Medieval Prose?
+
+Medieval prose introduces challenges that are less visible in more regular parallel corpora.
+
+These include:
+
+- non-literal translation practices
+- additions, omissions, and paraphrases
+- reordered narrative sequences
+- uneven correspondence between sentences and semantic units
+- strong linguistic and dialectal variation
+- non-standardized spelling and historical orthographic variation
+
+Because of these features, medieval prose provides a useful test case for evaluating how multilingual models handle semantic equivalence under conditions of historical and textual variation.
+
+## Use Cases
+
+The corpus may be used to:
+
+- evaluate multilingual sentence embedding models on historical textual material
+- fine-tune or adapt multilingual models to pre-standardized language
+- test alignment methods under strong linguistic and textual variation
+- study semantic correspondence across medieval translations and textual traditions
+- compare alignment behavior between scriptural and narrative corpora
+
+
+
+## Usage Example
+
+The following example recursively reads JSON files and prints their aligned units:
+
+```python
+import json
+from pathlib import Path
+
+data_dir = Path("data")
+
+for json_file in data_dir.rglob("*.json"):
+    with open(json_file, encoding="utf-8") as f:
+        data = json.load(f)
+
+    work = data.get("work", json_file.stem)
+    alignments = data.get("alignement_id", {})
+
+    print(f"\nWork: {work}")
+    print(f"File: {json_file}")
+
+    for alignment_id, groups in alignments.items():
+        print(f"\nAlignment unit: {alignment_id}")
+
+        for group in groups:
+            for lang, text in group.items():
+                print(f"{lang}: {text}")
+            print()
+```
+
+Adjust the data_dir path depending on where the repository is being accessed from.
+
+## Limitations
+
+Several limitations should be kept in mind when using the medieval prose corpus.
+
+The dataset is limited in scale because segmentation and alignment require manual validation. It is therefore not intended to compete with large automatically generated parallel corpora.
+
+Alignment at the level of narrative units also involves interpretative decisions, especially when texts diverge structurally or when translations expand, omit, or reorder material.
+
+The corpus is shaped by the availability of suitable medieval witnesses and translations, which may lead to imbalances in language coverage, genre, and textual tradition.
